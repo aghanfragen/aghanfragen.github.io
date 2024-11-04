@@ -7,9 +7,9 @@ Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.
  - logMailReceiver: aghanfragen@stadtb.de
  - UseExistingFile: false
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-05T00:04:08.269 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-05T00:13:58.091 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
-Letzer Lauf: 1730750411417, Force: true
+Letzer Lauf: 1730761457548, Force: true
 Import file: pardok-wp19.xml
 Download https://www.parlament-berlin.de/opendata/pardok-wp19.xml to /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
 Lese /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
