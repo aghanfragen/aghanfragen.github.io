@@ -1,6 +1,6 @@
 # Amfragen von Hansel, Frank-Christian (AfD)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## March 2024
 **[Deutsches Sportabzeichen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18367.pdf)**

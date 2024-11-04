@@ -1,6 +1,6 @@
 # Amfragen von König, Bettina (SPD)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## September 2024
 **[Beschulung von Kindern und Jugendlichen mit der Diagnose Long-Covid, Post-Vac sowie ME/CFS](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20309.pdf)**

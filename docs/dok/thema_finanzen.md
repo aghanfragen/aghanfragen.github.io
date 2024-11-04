@@ -1,6 +1,6 @@
 # Thema: Finanzen
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Finanzen, Baufinanzierung, Besoldung, Bildungsfinanzierung, Finanzhilfe, Finanzierung, Finanzzuweisung, Honorar, Investition, Kosten, Öffentliche Mittel, Personalkosten, Schulfinanzierung, Schulgeld, Subvention, Zahlungsunfähigkeit, Öffentlicher Auftrag, Öffentlicher Haushalt
 
@@ -693,11 +693,6 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 Schlagworte: Finanzpolitik, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Lehr- und Lernmittel, Schulausstattung, Schule, Schulen, Software, Statistik, Öffentliche Mittel
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Medien](thema_medien.md), [Statistik](thema_statistik.md)
 
-**[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
-19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
-
 **[Sorgt Rot-Grün-Rot mit neuem Meldeverfahren für mehr Bürokratie bei den Trägern von Kindergärten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13771.pdf)**
 19/13771 - [Simon, Roman (CDU)](autor_simon_roman_cdu.md) - 17.11.2022
 Schlagworte: Berufliche Weiterbildung, Berufsausbildung, Frühkindliche Bildung, Qualifikationsnachweis, Quereinsteiger, Öffentliche Mittel
@@ -882,12 +877,6 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/12325 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 07.07.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Gesundheit, Gesundheitsvorsorge, Sport, Statistik, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
-
-**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
-Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
-19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
-Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 **[Bezirkliche Umsetzung des Kita- und Spielplatzsanierungsprogramms (KSSP) in 2021](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12297.pdf)**
 19/12297 - [Becker, Franziska (SPD)](autor_becker_franziska_spd.md) - 06.07.2022

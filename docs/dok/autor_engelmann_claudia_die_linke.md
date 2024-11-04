@@ -1,6 +1,6 @@
 # Amfragen von Engelmann, Claudia (Die Linke)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## March 2022
 **[Digitalisierung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11186.pdf)**

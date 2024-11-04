@@ -1,6 +1,6 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**
 19/20564 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024
@@ -830,7 +830,6 @@ Themen: [Personal](thema_personal.md)
 **[Prävention gegen verdächtiges Ansprechen von Kindern ("Mitschnacker")](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19120.pdf)**
 19/19120 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 31.05.2024
 Schlagworte: Gewaltprävention, Information, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Verbrechensbekämpfung, Öffentliche Sicherheit und Ordnung
-Themen: [Sozialklima](thema_sozialklima.md)
 
 **[Transparenz im Haushalt Bildung, Jugend und Familie für Projekte, Träger und das Parlament wiederherstellen - Wer wird 2024 gefördert? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19146.pdf)**
 19/19146 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.05.2024
@@ -930,7 +929,6 @@ Themen: [Personal](thema_personal.md)
 **[Kinderschutz: Geschwister im Kontext von Misshandlung, Missbrauch und Vernachlässigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18988.pdf)**
 19/18988 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.05.2024
 Schlagworte: Jugendamt, Kind, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Sozialarbeit
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
 19/18946 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 08.05.2024
@@ -3153,7 +3151,6 @@ Themen: [Bezirke](thema_bezirke.md)
 **[Zahlen und Erkenntnisse zu alleinerziehenden Eltern und getrennterziehenden Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15437.pdf)**
 19/15437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
 Schlagworte: Eltern, Familie, Lebensgemeinschaften, Statistik
-Themen: [Statistik](thema_statistik.md)
 
 **[Abschulungen an Sporteliteschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15380.pdf)**
 Nichtbestandenes Probejahr an Sporteliteschulen und Nachbetreuung für die Betroffenen
@@ -3378,7 +3375,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 **[Drucksache 19/15008 nachgefragt: Pflegeeltern – strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15140.pdf)**
 19/15140 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
 Schlagworte: Jugendamt, Kinder, Jugendliche, Straftat, Verwaltungsverfahren
-Themen: [Verwaltung](thema_verwaltung.md)
 
 **[Drucksache 19/15007 nachgefragt: Pflegeeltern – Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15139.pdf)**
 19/15139 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
@@ -3426,7 +3422,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](t
 **[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
 19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
 Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
-Themen: [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 **[Pflegeeltern - Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15007.pdf)**
 19/15007 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
@@ -4369,7 +4364,6 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 **[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
 19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
 Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
 **[Ordnungswidrigkeiten von Kitabetreibern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13851.pdf)**
 19/13851 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
@@ -4948,7 +4942,6 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
 19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
 Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
-Themen: [Personal](thema_personal.md), [Soziales](thema_soziales.md)
 
 **[Verbeamtung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13152.pdf)**
 19/13152 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 28.09.2022
@@ -4977,7 +4970,6 @@ Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und
 **[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
 19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
 Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
-Themen: [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 **[Pflegekinder in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13203.pdf)**
 19/13203 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 26.09.2022
@@ -5637,7 +5629,6 @@ Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzber
 Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
 19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
 Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 **[Partizipation, gerne, aber doch bitte nicht von Kindern bei der Gestaltung von Spielplätzen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12315.pdf)**
 19/12315 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
@@ -5698,7 +5689,6 @@ Schlagworte: Binnengewässer, Freizeit, Kosten, Treptow-Köpenick, Umweltsanieru
 Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
 19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
 Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
@@ -7125,7 +7115,6 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 **[Scheinvaterschaft und Ankerkinder: - Präventionsmaßnahmen zur missbräuchlichen Anerkennung der Vaterschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10290.pdf)**
 19/10290 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.12.2021
 Schlagworte: Frauen, Männer, Urkunde, Vater
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Schulen & Internet](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10270.pdf)**
 19/10270 - [Stettner, Dirk (CDU)](autor_stettner_dirk_cdu.md) - 15.12.2021

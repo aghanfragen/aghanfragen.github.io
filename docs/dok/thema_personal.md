@@ -1,6 +1,6 @@
 # Thema: Personal
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Personal, Abordnung, Angestellter, Arbeitsbedingungen, Arbeitsentgelt, Arbeitszeit, Arbeitsschutz, Beamtenrecht, Beamtenversorgung, Beamter, Berufliche Weiterbildung, Besoldung, Erzieher, Fachkraft, Honorar, Laufbahnrecht, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Mehrarbeit, Öffentlicher Dienst, Pädagoge, Personalkosten, Personalplanung, Personalwesen, Quereinsteiger, Schulleiter, Schulpersonal, Sozialberuf, Studienfach, Studium, Teilzeitarbeit, Unterrichtsausfall an Schulen, Vergütung, Weiterbildung
 
@@ -1101,12 +1101,6 @@ Schlagworte: Beamter, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehalt
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## September 2022
-**[Betrugsfälle bei Kindergeldbezug und das NRW-Projekt „Missimo”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13228.pdf)**
-Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
-19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
-Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
-Themen: [Personal](thema_personal.md), [Soziales](thema_soziales.md)
-
 **[Verbeamtung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13152.pdf)**
 19/13152 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 28.09.2022
 Schlagworte: Beamtenrecht, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst

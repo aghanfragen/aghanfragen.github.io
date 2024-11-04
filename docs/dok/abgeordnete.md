@@ -1,6 +1,6 @@
 # Abgeordnete
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 [Altuǧ, Dr. Turgut (Grüne)](autor_altug_dr_turgut_gruene.md)
 [Auricht, Jeannette (AfD)](autor_auricht_jeannette_afd.md)

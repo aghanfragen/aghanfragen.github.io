@@ -1,6 +1,6 @@
 # Thema: Frühkindliche Bildung
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Frühkindliche Bildung, Einschulung, Kinderbetreuung, Kindertagespflege, Kindertagesstätte
 

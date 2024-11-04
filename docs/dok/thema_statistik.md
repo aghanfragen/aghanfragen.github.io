@@ -1,6 +1,6 @@
 # Thema: Statistik
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Statistik, Bildungsstatistik
 
@@ -700,11 +700,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](th
 Schlagworte: Besoldung, Lehrer, Personalplanung, Personalwesen, Schule, Schulpersonal, Statistik, Öffentlicher Dienst
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-**[Zahlen und Erkenntnisse zu alleinerziehenden Eltern und getrennterziehenden Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15437.pdf)**
-19/15437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
-Schlagworte: Eltern, Familie, Lebensgemeinschaften, Statistik
-Themen: [Statistik](thema_statistik.md)
-
 **[Prüfungsvorbereitung nur gegen Cash? Die vertraglichen Beziehungen zwischen dem Land Berlin und dem Stark Verlag](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15325.pdf)**
 Veröffentlichung von Prüfungsaufgaben zum Abitur nach der Durchführung der Prüfungen.
 19/15325 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 10.05.2023
@@ -1155,11 +1150,6 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Beamtenrecht, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-**[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
-19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
-Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
-Themen: [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Kein regulärer Unterricht an Berliner Schulen gewährleistet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13105.pdf)**
 19/13105 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 20.09.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schule, Schulen, Statistik
@@ -1389,12 +1379,6 @@ Schlagworte: Bezirk (Gebietskörperschaft), COVID-19, Epidemie, Kinder, Jugendli
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statistik](thema_statistik.md)
 
 ## Juni 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
 Schlagworte: Bildungsabschluss, Lehrer, Lehrerbildung, Statistik

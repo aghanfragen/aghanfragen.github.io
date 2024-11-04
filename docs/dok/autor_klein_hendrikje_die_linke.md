@@ -1,6 +1,6 @@
 # Amfragen von Klein, Hendrikje (Die Linke)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## October 2024
 **[Anhaltende Verzögerung bei Schulbau in Friedrichsfelde](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20475.pdf)**

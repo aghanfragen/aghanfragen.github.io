@@ -1,6 +1,6 @@
 # Amfragen von Liebe, Dirk (SPD)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## March 2022
 **[Versorgung mit Oberschulplätzen in Hohenschönhausen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11092.pdf)**

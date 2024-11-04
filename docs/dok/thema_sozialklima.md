@@ -1,6 +1,6 @@
 # Thema: Sozialklima
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Sozialklima, Gewaltanwendung, Gewaltprävention, Innere Sicherheit, Mobbing, Schulpsychologischer Dienst, Strafrecht
 
@@ -28,11 +28,6 @@ Schlagworte: Gewalt, Innere Sicherheit, Kinder und Jugendliche, Kinder, Jugendli
 Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 ## Mai 2024
-**[Prävention gegen verdächtiges Ansprechen von Kindern ("Mitschnacker")](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19120.pdf)**
-19/19120 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 31.05.2024
-Schlagworte: Gewaltprävention, Information, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Verbrechensbekämpfung, Öffentliche Sicherheit und Ordnung
-Themen: [Sozialklima](thema_sozialklima.md)
-
 **[Drucksache 19/18020 nachgefragt Jugendliche Intensivtäter als Gefahr für andere Jugendliche: alternative Formen der Beschulung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19056.pdf)**
 19/19056 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Gewaltprävention, Jugendlicher, Kinder- und Jugendhilfe, Schule, Schulen, Statistik, Unterricht, Öffentliche Mittel
@@ -131,12 +126,6 @@ Nichtbestandenes Probejahr an Sporteliteschulen und Nachbetreuung für die Betro
 Schlagworte: Beratung, Schulen, Schulpsychologischer Dienst, Schulrecht, Sport
 Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Sozialklima](thema_sozialklima.md)
 
-## März 2023
-**[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
-19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
-Themen: [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
-
 ## Dezember 2022
 **[Straftaten im Umfeld von Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14003.pdf)**
 19/14003 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 06.12.2022
@@ -164,26 +153,6 @@ Themen: [Bezirke](thema_bezirke.md), [Sozialklima](thema_sozialklima.md)
 19/13565 - [Schreiber, Tom (SPD)](autor_schreiber_tom_spd.md) - 27.10.2022
 Schlagworte: Beratung, Innere Sicherheit, Katastrophen- und Zivilschutz, Polizei, Schulen, Schulpsychologischer Dienst, Terrorismus
 Themen: [Sozialklima](thema_sozialklima.md)
-
-## September 2022
-**[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
-19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
-Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
-Themen: [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
-## Juli 2022
-**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
-Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
-19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
-Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
-
-## Juni 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 ## Mai 2022
 **[Russophobie an Marzahner Grundschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11606.pdf)**

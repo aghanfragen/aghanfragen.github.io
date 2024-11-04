@@ -1,6 +1,6 @@
 # Amfragen von Laatsch, Harald (AfD)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## August 2022
 **[Die Schulbauoffensive die nicht stattfindet](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12801.pdf)**

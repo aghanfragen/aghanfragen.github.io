@@ -1,6 +1,6 @@
 # Amfragen von Schulze, André (Grüne)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## June 2023
 **[Neue Abteilung, alte Probleme? - Die Zukunft der Schulbauoffensive in der SenBJF](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15756.pdf)**

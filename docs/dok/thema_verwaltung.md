@@ -1,6 +1,6 @@
 # Thema: Verwaltung
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Verwaltung, Auskunfterteilung, Bezirksverwaltung, Landesbetrieb, Landesregierung, Meldewesen, Öffentliche Vergabe, Öffentliche Verwaltung, Senatsverwaltung für Bildung, Jugend und Familie, Schulaufsicht, Senat, Berlin, Senatskanzlei, Staatssekretär, Vergaberecht, Verwaltungsverfahren, Verwaltungsvorschrift, Öffentlicher Auftrag, Öffentlicher Haushalt, Elektronische Aktenführung
 
@@ -520,17 +520,7 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 Schlagworte: Ausschreibung, Digitalisierung, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen, Statistik, Öffentlicher Auftrag
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-**[Drucksache 19/15008 nachgefragt: Pflegeeltern – strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15140.pdf)**
-19/15140 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Straftat, Verwaltungsverfahren
-Themen: [Verwaltung](thema_verwaltung.md)
-
 ## März 2023
-**[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
-19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
-Themen: [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
-
 **[DigitalPakt auch für Musikschulen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14945.pdf)**
 19/14945 - [Kraft, Johannes (CDU)](autor_kraft_johannes_cdu.md) - 02.03.2023
 Schlagworte: Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen, Verwaltungsverfahren
@@ -636,11 +626,6 @@ Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_
 19/13852 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
 Schlagworte: Demokratie, Frauen, Männer, Jugendlicher, Wahlen, Wahlrecht
 Themen: [Verwaltung](thema_verwaltung.md)
-
-**[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
-19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
 **[Ausnahmegenehmigungen für Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13843.pdf)**
 19/13843 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.11.2022
@@ -775,12 +760,6 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/12325 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 07.07.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Gesundheit, Gesundheitsvorsorge, Sport, Statistik, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
-
-**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
-Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
-19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
-Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 ## Juni 2022
 **[Qualifikationskontrolle von Schullaufsichten – Standards transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12196.pdf)**

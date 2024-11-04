@@ -1,6 +1,6 @@
 # Amfragen von Günther-Wünsch, Katharina (CDU)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## February 2023
 **[Ganztagsausbau für Grundschulkinder](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14812.pdf)**
@@ -443,12 +443,6 @@ Schlagworte: Berufliche Weiterbildung, Lehrer
 Themen: [Personal](thema_personal.md)
 
 ## June 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Was kostet die von Rot-Rot-Grün eingeführte Brennpunktzulage in Kitas und Schulen und wurde diese evaluiert?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11989.pdf)**
 19/11989 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 17.06.2022
 Schlagworte: Bundesrecht, Erzieher, Frühkindliche Bildung, Kindertagesstätte, Lehrer, Lohnzuschlag, Schulen, Schulfinanzierung, Statistik, Vergütung

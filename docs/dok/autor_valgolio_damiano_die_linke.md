@@ -1,6 +1,6 @@
 # Amfragen von Valgolio, Damiano (Die Linke)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## January 2023
 **[Bauprojekt Marchlewskistrasse 40 in Friedrichshain](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14435.pdf)**

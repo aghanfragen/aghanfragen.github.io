@@ -1,6 +1,6 @@
 # Amfragen von Dregger, Burkard (CDU)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## April 2023
 **[Grundschulneubau in Reinickendorf-Ost – eine unendliche Geschichte (Teil 9)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15195.pdf)**

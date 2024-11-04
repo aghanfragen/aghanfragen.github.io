@@ -1,6 +1,6 @@
 # Thema: Digitalisierung
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Digitalisierung, Datenschutz, Elektronische Aktenführung, Hardware, Informations- und Kommunikationstechnologien, Informations- und Kommunikationstechnik, Informationssicherheit, Informationssystem, Internet, ITDZ Berlin, Software, WLAN
 
@@ -242,12 +242,6 @@ Schlagworte: Hardware, Informations- und Kommunikationstechnologien, Information
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## Juni 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Verwaltungskosten des Bewerbungsprozesses für Lehramtsreferendare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11878.pdf)**
 19/11878 - [Bauschke, Tobias (FDP)](autor_bauschke_tobias_fdp.md) - 02.06.2022
 Schlagworte: Digitalisierung, Hochschule, Hochschulwesen, Kosten, Lehrer, Personenbezogene Daten, Verwaltungsverfahren

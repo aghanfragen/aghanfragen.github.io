@@ -1,21 +1,21 @@
 Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.yml
  - Wahlperioden: [19]
  - Urheber: [Senatsverwaltung für Bildung, Jugend und Familie, SenBildJugFam, SenBildJugWiss]
- - Relevant: [schul, lehr, lern, schüler, bildung, gymnasi, iss, kita, kindertages, kindergarten, refendar, seminar, vorbereitungsdienst]
- - SendMail: false
- - mailListAddress: aghanfragen@stadtb.de
+ - Relevant: [schul, lehr, lern, schüler, bildung, gymnasi, kita, kindertages, kindergarten, refendar, seminar, vorbereitungsdienst]
+ - SendMail: true
+ - mailListAddress: joerg@staudemeyer.de
  - logMailReceiver: aghanfragen@stadtb.de
  - UseExistingFile: false
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-04T21:00:02.626 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-05T00:04:08.269 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
-Letzer Lauf: 0, Force: true
+Letzer Lauf: 1730750411417, Force: true
 Import file: pardok-wp19.xml
 Download https://www.parlament-berlin.de/opendata/pardok-wp19.xml to /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
 Lese /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
-Importiere Datei vom 2024-11-04T14:41:43
+Importiere Datei vom 2024-11-04T22:02:39
 1466 Dokumente gelesen.
-Neue Daten: 1466
+Neue Daten: 0
 Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sonstige.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_personal.md
@@ -57,3 +57,4 @@ Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
 - 107 Dokumente geschrieben
 - /home/joerg/projects/aghanfragen.github.io/docs/dok/abgeordnete.md geschrieben.
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/unbekannte_stichworte.nd
+Keine neuen Dokumente.

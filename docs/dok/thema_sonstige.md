@@ -1,6 +1,6 @@
 # Thema: Sonstige
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## Oktober 2024
 **[Nachgefragt: Klassengrößen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20568.pdf)**
@@ -12,12 +12,6 @@ Themen: [Sonstige](thema_sonstige.md)
 **["2 x 3 macht 4 Widdewiddewitt und Drei macht Neune" an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20605.pdf)**
 19/20605 - [Brousek, Antonin (fraktionslos)](autor_brousek_antonin_fraktionslos.md) - 22.10.2024
 Schlagworte: Rechtsvorschrift, Schulen, Zuständigkeit (Verwaltung)
-Themen: [Sonstige](thema_sonstige.md)
-
-## Mai 2024
-**[Kinderschutz: Geschwister im Kontext von Misshandlung, Missbrauch und Vernachlässigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18988.pdf)**
-19/18988 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.05.2024
-Schlagworte: Jugendamt, Kind, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Sozialarbeit
 Themen: [Sonstige](thema_sonstige.md)
 
 ## Dezember 2023
@@ -98,11 +92,5 @@ Themen: [Sonstige](thema_sonstige.md)
 Herausnahme aus der Familien z.B. in der Wohnung der Familie, in der Kita oder Schule des Kindes, in bestimmten Milieus (Drogen-, Prostitutions-, Glücksspiel- und Straßenmilieu) usw.. Möglichkeiten des Widerspruchs der Eltern
 19/12434 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 18.07.2022
 Schlagworte: Familienrecht, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz
-Themen: [Sonstige](thema_sonstige.md)
-
-## Dezember 2021
-**[Scheinvaterschaft und Ankerkinder: - Präventionsmaßnahmen zur missbräuchlichen Anerkennung der Vaterschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10290.pdf)**
-19/10290 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.12.2021
-Schlagworte: Frauen, Männer, Urkunde, Vater
 Themen: [Sonstige](thema_sonstige.md)
 

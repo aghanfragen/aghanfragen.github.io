@@ -1,6 +1,6 @@
 # Amfragen von Tabor, Tommy (AfD)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## October 2024
 **[Lärmschutz in Kindertageseinrichtungen - Drucksache 19/20218 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20457.pdf)**
@@ -83,11 +83,6 @@ Schlagworte: Bezirk (Gebietskörperschaft), Finanzierung, Finanzzuweisung, Früh
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
 ## May 2024
-**[Prävention gegen verdächtiges Ansprechen von Kindern ("Mitschnacker")](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19120.pdf)**
-19/19120 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 31.05.2024
-Schlagworte: Gewaltprävention, Information, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Verbrechensbekämpfung, Öffentliche Sicherheit und Ordnung
-Themen: [Sozialklima](thema_sozialklima.md)
-
 **[Drucksache 19/18020 nachgefragt Jugendliche Intensivtäter als Gefahr für andere Jugendliche: alternative Formen der Beschulung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19056.pdf)**
 19/19056 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Gewaltprävention, Jugendlicher, Kinder- und Jugendhilfe, Schule, Schulen, Statistik, Unterricht, Öffentliche Mittel
@@ -107,11 +102,6 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozi
 19/18994 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.05.2024
 Schlagworte: Berufliche Weiterbildung, Bildung, Eltern, Erziehung, Kinder und Jugendliche, Kindertagesstätte, Qualitätssicherung, Schule, Sexualität, Statistik, Unterricht, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md)
-
-**[Kinderschutz: Geschwister im Kontext von Misshandlung, Missbrauch und Vernachlässigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18988.pdf)**
-19/18988 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.05.2024
-Schlagworte: Jugendamt, Kind, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Sozialarbeit
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Fragen an die Senatsverwaltung für Bildung, Jugend und Familie: Cannabis-Konsum aus Sicht des Kinderschutzes](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18840.pdf)**
 19/18840 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.05.2024
@@ -449,11 +439,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Entschädigung, Kinder, Jugendliche
 Themen: [Bezirke](thema_bezirke.md)
 
-**[Zahlen und Erkenntnisse zu alleinerziehenden Eltern und getrennterziehenden Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15437.pdf)**
-19/15437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
-Schlagworte: Eltern, Familie, Lebensgemeinschaften, Statistik
-Themen: [Statistik](thema_statistik.md)
-
 **[Bericht der Köller-Kommission zur Kita-Arbeit und zur Sprachstandsfeststellung – Nachfragen zur Drucksache 18/23615](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15360.pdf)**
 19/15360 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 11.05.2023
 Schlagworte: Bildungsfinanzierung, Bildungspolitik, Forschung, Frühkindliche Bildung, Kindertagesstätte
@@ -504,11 +489,6 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Fi
 Schlagworte: , Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
-**[Drucksache 19/15008 nachgefragt: Pflegeeltern – strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15140.pdf)**
-19/15140 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Straftat, Verwaltungsverfahren
-Themen: [Verwaltung](thema_verwaltung.md)
-
 ## March 2023
 **[Manoeuvre in the Dark oder wie wertvoll ist der Kita-Navigator beim Finden der raren Betreuungsplätze im Winter und Frühjahr?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15011.pdf)**
 19/15011 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
@@ -519,11 +499,6 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 19/15010 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
 Schlagworte: Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
-
-**[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
-19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
-Themen: [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 **[Pflegeeltern - Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15007.pdf)**
 19/15007 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
@@ -574,11 +549,6 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Person
 19/13852 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
 Schlagworte: Demokratie, Frauen, Männer, Jugendlicher, Wahlen, Wahlrecht
 Themen: [Verwaltung](thema_verwaltung.md)
-
-**[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
-19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
 **[Ordnungswidrigkeiten von Kitabetreibern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13851.pdf)**
 19/13851 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
@@ -642,18 +612,6 @@ Themen: [Erwachsenenbildung](thema_erwachsenenbildung.md), [Finanzen](thema_fina
 Schlagworte: Ausländer, Migranten, Berufsausbildung, Erwachsenenbildung, Erzieher, Kindertagesstätte, Lehrplan, Sprachförderung
 Themen: [Berufsbildung](thema_berufsbildung.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
 
-## September 2022
-**[Betrugsfälle bei Kindergeldbezug und das NRW-Projekt „Missimo”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13228.pdf)**
-Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
-19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
-Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
-Themen: [Personal](thema_personal.md), [Soziales](thema_soziales.md)
-
-**[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
-19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
-Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
-Themen: [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 ## August 2022
 **[Berlin: Zusätzliches Personal im Hortbereich](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12611.pdf)**
 Zusätzliches Personal im Hortbereich für Schüler mit Bedarf an zusätzlicher pädagogischer Hilfe
@@ -678,12 +636,6 @@ Ausbildung für Sozialpädagogen, Sozialarbeiter, Sozialwissenschaftler, Erziehu
 19/12430 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
 Schlagworte: Berufsausbildung, Erzieher, Kinder- und Jugendhilfe, Kinderschutz, Sozialpädagogik, Studium, Öffentliche Verwaltung
 Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
-
-**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
-Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
-19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
-Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 ## June 2022
 **[Schulpsycholgische Beratung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11929.pdf)**
@@ -767,11 +719,6 @@ Themen: [Bezirke:Spandau](thema_bezirke_spandau.md), [Finanzen](thema_finanzen.m
 19/10379 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.12.2021
 Schlagworte: Ausländer, Migranten, Schulen, Staatsangehörigkeit, Statistik
 Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md)
-
-**[Scheinvaterschaft und Ankerkinder: - Präventionsmaßnahmen zur missbräuchlichen Anerkennung der Vaterschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10290.pdf)**
-19/10290 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.12.2021
-Schlagworte: Frauen, Männer, Urkunde, Vater
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Anzahl der Schüler mit nichtdeutscher Herkunftssprache](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10255.pdf)**
 19/10255 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.12.2021

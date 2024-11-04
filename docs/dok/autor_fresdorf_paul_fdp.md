@@ -1,6 +1,6 @@
 # Amfragen von Fresdorf, Paul (FDP)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## March 2023
 **[Nahariya-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14851.pdf)**

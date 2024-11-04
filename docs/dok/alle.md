@@ -1,6 +1,6 @@
 # AlleDokumente
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## October 2024
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**
@@ -729,11 +729,6 @@ Schlagworte: Berufliche Weiterbildung, Lehramtsanwärter, Lehrer
 Themen: [Personal](thema_personal.md)
 
 ## May 2024
-**[Prävention gegen verdächtiges Ansprechen von Kindern ("Mitschnacker")](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19120.pdf)**
-19/19120 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 31.05.2024
-Schlagworte: Gewaltprävention, Information, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Verbrechensbekämpfung, Öffentliche Sicherheit und Ordnung
-Themen: [Sozialklima](thema_sozialklima.md)
-
 **[Transparenz im Haushalt Bildung, Jugend und Familie für Projekte, Träger und das Parlament wiederherstellen - Wer wird 2024 gefördert? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19146.pdf)**
 19/19146 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.05.2024
 Schlagworte: Finanzpolitik, Freier Träger, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -808,11 +803,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 19/18959 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 13.05.2024
 Schlagworte: Berufliche Weiterbildung, Hochschule, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Lehrer, Musikschule, Schulen, Schulrecht
 Themen: [Personal](thema_personal.md)
-
-**[Kinderschutz: Geschwister im Kontext von Misshandlung, Missbrauch und Vernachlässigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18988.pdf)**
-19/18988 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.05.2024
-Schlagworte: Jugendamt, Kind, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Sozialarbeit
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
 19/18946 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 08.05.2024
@@ -2708,11 +2698,6 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Entschädigung, Kinder, Jugendliche
 Themen: [Bezirke](thema_bezirke.md)
 
-**[Zahlen und Erkenntnisse zu alleinerziehenden Eltern und getrennterziehenden Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15437.pdf)**
-19/15437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
-Schlagworte: Eltern, Familie, Lebensgemeinschaften, Statistik
-Themen: [Statistik](thema_statistik.md)
-
 **[Abschulungen an Sporteliteschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15380.pdf)**
 Nichtbestandenes Probejahr an Sporteliteschulen und Nachbetreuung für die Betroffenen
 19/15380 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 12.05.2023
@@ -2913,11 +2898,6 @@ Themen: [Digitalisierung](thema_digitalisierung.md)
 Schlagworte: , Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
-**[Drucksache 19/15008 nachgefragt: Pflegeeltern – strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15140.pdf)**
-19/15140 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Straftat, Verwaltungsverfahren
-Themen: [Verwaltung](thema_verwaltung.md)
-
 **[Fehlende Schulplätze zum Schuljahr 2023/24](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15104.pdf)**
 19/15104 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 03.04.2023
 Schlagworte: Allgemeinbildende Schulen, Schüler
@@ -2953,11 +2933,6 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 19/15010 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
 Schlagworte: Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
-
-**[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
-19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
-Themen: [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
 **[Pflegeeltern - Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15007.pdf)**
 19/15007 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
@@ -3748,11 +3723,6 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qu
 Schlagworte: Bauwesen, Bildungspolitik, Finanzpolitik, Investition, Schule, Schulen, Öffentliche Finanzplanung, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-**[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
-19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
-Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
-
 **[Ordnungswidrigkeiten von Kitabetreibern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13851.pdf)**
 19/13851 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
 Schlagworte: Bußgeld, Frühkindliche Bildung, Kinderbetreuung, Ordnungswidrigkeit, Sozialrecht
@@ -4300,12 +4270,6 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Allgemeinbildende Schulen, Auskunfterteilung, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Senatsverwaltung für Bildung, Jugend und Familie
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-**[Betrugsfälle bei Kindergeldbezug und das NRW-Projekt „Missimo”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13228.pdf)**
-Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
-19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
-Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
-Themen: [Personal](thema_personal.md), [Soziales](thema_soziales.md)
-
 **[Verbeamtung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13152.pdf)**
 19/13152 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 28.09.2022
 Schlagworte: Beamtenrecht, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst
@@ -4325,11 +4289,6 @@ Themen: [Medien](thema_medien.md), [Personal](thema_personal.md)
 19/13167 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 26.09.2022
 Schlagworte: Bauplanung, Bauwesen, Bezirk (Gebietskörperschaft), Schulen, Wirtschaftsprüfung, Wohnungsbaugesellschaft
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
-
-**[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
-19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
-Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
-Themen: [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 **[Schulneubau und Schulsanierungen im Bezirk Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13123.pdf)**
 19/13123 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 23.09.2022
@@ -4920,12 +4879,6 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bezirksverwaltung, Friedrichshain-Kreuzberg, Gehweg, Grundschule, Grundstück, Gymnasium, Schulgebäude, Sportstättenbau, Städtebau
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
-Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
-19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
-Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
-Themen: [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
-
 **[Pläne des Senats zur Schulerweiterung der Wangari-Maathai-Internationale-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12312.pdf)**
 19/12312 - [Altuǧ, Dr. Turgut (Grüne)](autor_altug_dr_turgut_gruene.md) - 07.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Charlottenburg-Wilmersdorf, Schulbau, Städtebau
@@ -4969,12 +4922,6 @@ Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schü
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## June 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
 Schlagworte: Bildungsabschluss, Lehrer, Lehrerbildung, Statistik
@@ -6268,11 +6215,6 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 19/10239 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 16.12.2021
 Schlagworte: Allgemeinbildende Schulen, Bußgeld, Elektronische Aktenführung, Kosten, Sonderpädagogik, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Inklusion](thema_inklusion.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
-
-**[Scheinvaterschaft und Ankerkinder: - Präventionsmaßnahmen zur missbräuchlichen Anerkennung der Vaterschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10290.pdf)**
-19/10290 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.12.2021
-Schlagworte: Frauen, Männer, Urkunde, Vater
-Themen: [Sonstige](thema_sonstige.md)
 
 **[Schulen & Internet](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10270.pdf)**
 19/10270 - [Stettner, Dirk (CDU)](autor_stettner_dirk_cdu.md) - 15.12.2021

@@ -1,6 +1,6 @@
 # Anfragen von CDU
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## October 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**
@@ -1218,12 +1218,6 @@ Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schü
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## June 2022
-**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
-Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
-19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
-Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
-Themen: [Digitalisierung](thema_digitalisierung.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
-
 **[Qualifikationskontrolle von Schullaufsichten – Standards transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12196.pdf)**
 19/12196 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 29.06.2022
 Schlagworte: Personalwesen, Qualitätssicherung, Schulen, Öffentliche Verwaltung

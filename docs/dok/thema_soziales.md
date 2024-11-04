@@ -1,6 +1,6 @@
 # Thema: Soziales
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 Zugeordnete Schlagworte: Soziales, Alleinerziehender, Elterngeld, Familienhilfe, Pflegegeld, Schulgeld, Soziale Einrichtungen, Sozialleistung, Sozialleistungen
 
@@ -106,13 +106,6 @@ Themen: [Kultur](thema_kultur.md), [Soziales](thema_soziales.md)
 19/13379 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.10.2022
 Schlagworte: Alleinerziehender, Bildungspolitik, Eltern, Frauen, Männer, Gesundheitspolitik, Kinder, Jugendliche, Kinderbetreuung, LSBTTIQ, Lebensgemeinschaften, Sexuelle Identität, Statistik, Studie
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
-
-## September 2022
-**[Betrugsfälle bei Kindergeldbezug und das NRW-Projekt „Missimo”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13228.pdf)**
-Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
-19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
-Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
-Themen: [Personal](thema_personal.md), [Soziales](thema_soziales.md)
 
 ## August 2022
 **[Kita - Sozialarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12662.pdf)**

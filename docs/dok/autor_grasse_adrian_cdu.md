@@ -1,6 +1,6 @@
 # Amfragen von Grasse, Adrian (CDU)
 
-Stand: 04.11.2024 14:41
+Stand: 04.11.2024 22:02
 
 ## March 2023
 **[Zeitplan zur Verbeamtung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14847.pdf)**
