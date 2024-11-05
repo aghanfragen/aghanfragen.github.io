@@ -6,8 +6,11 @@ Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.
  - mailListAddress: joerg@staudemeyer.de
  - logMailReceiver: aghanfragen@stadtb.de
  - UseExistingFile: false
+ - mailUser: aghanfragen@stadtb.de
+ - mailPassword: hQy3i9^91
+ - mailProperties: {mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=mx2fa3.netcup.net, mail.smtp.port=587, mail.smtp.ssl.protocols=TLSv1.2}
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-05T17:45:38.802 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-05T17:54:38.542 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
 Letzer Lauf: 1730821485707, Force: false
 Import file: pardok-wp19.xml
