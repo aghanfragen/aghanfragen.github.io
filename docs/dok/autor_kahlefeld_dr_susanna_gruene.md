@@ -1,4 +1,4 @@
-# Amfragen von Kahlefeld, Dr. Susanna (Grüne)
+# Anfragen von Kahlefeld, Dr. Susanna (Grüne)
 
 Stand: 05.11.2024 14:41
 

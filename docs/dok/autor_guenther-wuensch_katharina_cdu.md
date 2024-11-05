@@ -1,8 +1,8 @@
-# Amfragen von Günther-Wünsch, Katharina (CDU)
+# Anfragen von Günther-Wünsch, Katharina (CDU)
 
 Stand: 05.11.2024 14:41
 
-## February 2023
+## Februar 2023
 **[Ganztagsausbau für Grundschulkinder](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14812.pdf)**
 19/14812 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 20.02.2023
 Schlagworte: Finanzierung, Schulen, Schulfinanzierung, Statistik, Öffentlicher Haushalt
@@ -18,7 +18,7 @@ Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_
 Schlagworte: Allgemeinbildende Schulen, Förderunterricht, Integrativer Unterricht, Lehrer, Personalplanung, Schulpersonal, Sprachförderung, Unterricht
 Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2023
+## Januar 2023
 **[Personalsituation an der Staatlichen Ballett- und Artistikschule Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14507.pdf)**
 19/14507 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.01.2023
 Schlagworte: Darstellende Kunst, Kunst- und Musikhochschulen, Personalplanung, Statistik
@@ -69,7 +69,7 @@ Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfueh
 Schlagworte: Ausbildungsordnung, Bauwesen, Berufsausbildung, Berufsbildende Schule, Bildungsabschluss, Kosten, Schulausstattung, Schulpersonal, Vergütung, Öffentlicher Haushalt
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[Berlins Schulen ohne Führung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14308.pdf)**
 19/14308 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 28.12.2022
 Schlagworte: Personalplanung, Schulen, Schulleiter
@@ -154,7 +154,7 @@ MoKiS: Mobiler Kinderbetreuungsservice
 Schlagworte: Arbeitszeit, Berufliche Qualifikation, Eltern, Frühkindliche Bildung, Jugendamt, Kinder, Jugendliche, Kindertagespflege, Lebensgemeinschaften, Lohn- und Gehaltstarif, Personalplanung, Personalwesen
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
-## October 2022
+## Oktober 2022
 **[Nachfragen zur Schriftlichen Anfrage: 19/13152 „Verbeamtung in Berlin”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13574.pdf)**
 19/13574 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.10.2022
 Schlagworte: Beamtenrecht, Besoldung, Laufbahnrecht, Lehramtsanwärter, Lehrer, Quereinsteiger, Statistik, Öffentlicher Dienst
@@ -285,7 +285,7 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Grundschule, Schulen, Schulpflicht, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Politische Bildung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12581.pdf)**
 19/12581 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lehr- und Lernmittel, Lehrer, Lehrerbildung, Personalplanung, Politische Bildung, Statistik, Unterricht
@@ -442,7 +442,7 @@ Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_un
 Schlagworte: Berufliche Weiterbildung, Lehrer
 Themen: [Personal](thema_personal.md)
 
-## June 2022
+## Juni 2022
 **[Was kostet die von Rot-Rot-Grün eingeführte Brennpunktzulage in Kitas und Schulen und wurde diese evaluiert?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11989.pdf)**
 19/11989 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 17.06.2022
 Schlagworte: Bundesrecht, Erzieher, Frühkindliche Bildung, Kindertagesstätte, Lehrer, Lohnzuschlag, Schulen, Schulfinanzierung, Statistik, Vergütung
@@ -458,7 +458,7 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 Schlagworte: Frühkindliche Bildung, Personalplanung, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Zuwendungen gem. Landeshaushaltsordnung, Öffentliche Mittel, Öffentliche Verwaltung
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2022
+## Mai 2022
 **[Eine weitere staatliche Europaschule für Berlin und die ukrainischen Kinder?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11695.pdf)**
 19/11695 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 11.05.2022
 Schlagworte: Ausländer, Migranten, Osteuropa, Schulbau, Schulen, Schüler
@@ -526,7 +526,7 @@ Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Sta
 Schlagworte: Bauplanung, Freier Träger, Frühkindliche Bildung, Planfeststellung, Statistik
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Die Abschaffung der eigenverantwortlichen und selbstständigen Berliner Schule – das Eindampfen des Verfügungsfonds](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11259.pdf)**
 19/11259 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.03.2022
 Schlagworte: Allgemeinbildende Schulen, Schule, Statistik, Öffentliche Mittel
@@ -567,7 +567,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Schulbau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2022
+## Februar 2022
 **[Die unionsgeführte Koalition hat das "Gute-Kita-Gesetz" 2018 im Deutschen Bundestag verabschiedet – Wie erfolgt die Umsetzung in Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10989.pdf)**
 19/10989 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.02.2022
 Schlagworte: Finanzzuweisung, Frühkindliche Bildung, Gesetzgebung, Statistik, Verwaltungsverfahren
@@ -634,7 +634,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Bundesregierung, Frühkindliche Bildung, Sprachförderung, Statistik, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## January 2022
+## Januar 2022
 **[Zur Personalsituation an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10487.pdf)**
 19/10487 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 21.01.2022
 Schlagworte: Erzieher, Lehramtsanwärter, Lehrer, Lehrerbildung, Personalplanung, Personalwesen, Quereinsteiger, Schulen, Schüler, Statistik
@@ -645,7 +645,7 @@ Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Einschulung, Grundschule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Stark trotz Corona](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10138.pdf)**
 Landesprogramm „Lernrückstände aufholen“
 19/10138 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 09.12.2021

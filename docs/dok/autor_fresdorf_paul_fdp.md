@@ -1,8 +1,8 @@
-# Amfragen von Fresdorf, Paul (FDP)
+# Anfragen von Fresdorf, Paul (FDP)
 
 Stand: 05.11.2024 14:41
 
-## March 2023
+## März 2023
 **[Nahariya-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14851.pdf)**
 19/14851 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 01.03.2023
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Tempelhof-Schöneberg
@@ -13,7 +13,7 @@ Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md),
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Personalplanung, Quereinsteiger, Sprache, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2023
+## Februar 2023
 **[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
 19/14850 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2023
 Schlagworte: Finanzierung, Frühkindliche Bildung, Personalplanung, Qualitätssicherung
@@ -24,7 +24,7 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 Schlagworte: Frühkindliche Bildung, Informations- und Kommunikationstechnologien, Kindertagesstätte, Personalwesen, Senatsverwaltung für Bildung, Jugend und Familie, Software, Statistik, Verwaltungsverfahren
 Themen: [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[Offene Funktionsstellen im Berliner Bildungssystem](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14311.pdf)**
 19/14311 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.12.2022
 Schlagworte: Bildungspolitik, Frühkindliche Bildung, Kindertagesstätte, Lehrer, Personalplanung, Schule, Schulen
@@ -61,7 +61,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Gebäudereinigung, Schulausstattung, Schulbau, Sportstättenbau, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Entlastung der Kita-Träger bei Energiekosten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13598.pdf)**
 19/13598 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 25.10.2022
 Schlagworte: Energie, Energiepreis, Energieversorgung, Frühkindliche Bildung
@@ -73,13 +73,13 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und
 Schlagworte: Berufsausbildung, Bezirk (Gebietskörperschaft), Erzieher, Frühkindliche Bildung, Kindertagesstätte, Personalplanung, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Informationsveranstaltungen für interessierte Neugründer einer Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12488.pdf)**
 19/12488 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 18.07.2022
 Schlagworte: Frühkindliche Bildung, Information, Kindertagesstätte, Ordnungsrecht, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Leerstelle Unterrichtsgarantie: Fachkräftemangel an Berlins Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11949.pdf)**
 19/11949 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 09.06.2022
 Schlagworte: Allgemeinbildende Schulen, Beamtenrecht, Besoldung, Bezirk (Gebietskörperschaft), Fachkraft, Lehrer, Personalplanung, Statistik, Unterricht
@@ -91,7 +91,7 @@ Bedarfsplanung und Angebotsanpassung für unter Drei- und unter Sechsjährige
 Schlagworte: Berufliche Weiterbildung, Bezirk (Gebietskörperschaft), COVID-19, Epidemie, Fachkraft, Frühkindliche Bildung, Kindertagespflege, Statistik, Vergütung
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Landesmindestlohn und Kitakosten (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11298.pdf)**
 19/11298 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.03.2022
 Schlagworte: Arbeitsentgelt, Freier Träger, Frühkindliche Bildung, Kinder- und Jugendhilfe, Kindertagesstätte, Kosten
@@ -112,7 +112,7 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 Schlagworte: Arbeitsentgelt, Freier Träger, Frühkindliche Bildung, Kinder- und Jugendhilfe, Kindertagesstätte, Kosten
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
-## February 2022
+## Februar 2022
 **[Das Gute-Kita-Gesetz in der Praxis des Landes Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11025.pdf)**
 Gewährung für Maßnahmen zur räumlichen Gestaltung im Rahmen des KiTa-Qualitäts- und -Teilhabeverbesserungsgesetzes (KiQuTG)
 19/11025 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2022
@@ -144,7 +144,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit u
 Schlagworte: Beratung, Gewalt, Gewaltprävention, Innere Sicherheit, Lehrer, Mobbing, Schulaufsicht, Schulen, Schulpsychologischer Dienst
 Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[Die Digitalisierungspauschale in den Kostenblättern der RV Tag](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10613.pdf)**
 Rahmenvereinbarung über die Finanzierung und Leistungssicherstellung der Tageseinrichtungen (RV Tag); Ausbau der digitalen Infrastruktur für die mittelbare und unmittelbare pädagogische Arbeit zur Förderung der kindlichen Entwicklung
 19/10613 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.01.2022

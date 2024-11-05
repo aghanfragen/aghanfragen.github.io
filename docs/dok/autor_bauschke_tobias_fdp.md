@@ -1,4 +1,4 @@
-# Amfragen von Bauschke, Tobias (FDP)
+# Anfragen von Bauschke, Tobias (FDP)
 
 Stand: 05.11.2024 14:41
 
@@ -13,7 +13,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik
 Schlagworte: Allgemeinbildende Schulen, Familie, Kosten, Schulfahrt, Schüler, Sozialleistung, Sozialleistungen
 Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Soziales](thema_soziales.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2022
+## Juni 2022
 **[Verwaltungskosten des Bewerbungsprozesses für Lehramtsreferendare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11878.pdf)**
 19/11878 - [Bauschke, Tobias (FDP)](autor_bauschke_tobias_fdp.md) - 02.06.2022
 Schlagworte: Digitalisierung, Hochschule, Hochschulwesen, Kosten, Lehrer, Personenbezogene Daten, Verwaltungsverfahren

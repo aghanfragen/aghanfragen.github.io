@@ -1,8 +1,8 @@
-# Amfragen von Meister, Sibylle (FDP)
+# Anfragen von Meister, Sibylle (FDP)
 
 Stand: 05.11.2024 14:41
 
-## May 2022
+## Mai 2022
 **[Kosten und Ersparnisse von verbeamteten Lehrern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11712.pdf)**
 19/11712 - [Meister, Sibylle (FDP)](autor_meister_sibylle_fdp.md) - 12.05.2022
 Schlagworte: Beamtenrecht, Beamtenversorgung, Beamter, Kosten, Lehrer, Statistik, Öffentlicher Dienst

@@ -1,8 +1,8 @@
-# Amfragen von Hofer, Torsten (SPD)
+# Anfragen von Hofer, Torsten (SPD)
 
 Stand: 05.11.2024 14:41
 
-## June 2022
+## Juni 2022
 **[Fahrraddiebstähle beim Max-Delbrück-Gymnasium (früher Friedrich-List-Gymnasium) in Niederschönhausen, Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12091.pdf)**
 19/12091 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 22.06.2022
 Schlagworte: Gymnasium, Innere Sicherheit, Kriminalität, Kriminalstatistik, Pankow, Strafverfolgung
@@ -19,13 +19,13 @@ Ausdehnung der Tempo-30-Beschilderung in der Lessingstraße Wilhelmsruh um 100 M
 Schlagworte: Kindertagesstätte, Pankow, Schulweg, Straßenverkehr
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2022
+## Mai 2022
 **[Max-Delbrück-Gymnasium (ehemals Friedrich-List-Gymnasium) in Nieder schönhausen, Pankow - Turnhalle, Sportplatz, Grundstück](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11744.pdf)**
 19/11744 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 20.05.2022
 Schlagworte: Bauplanung, Bauwesen, Kosten, Pankow, Schule, Schulen, Sport, Sportplatz, Sportstättenbau
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
 
-## December 2021
+## Dezember 2021
 **[Luftreinigungsgeräte in der Grundschule Wilhelmsruh, Pankow – u.a. Nachfragen zum Ergänzungsbau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10302.pdf)**
 19/10302 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 17.12.2021
 Schlagworte: Gesundheitsschutz, Grundschule, Luftreinhaltung, Pankow, Schulen, Statistik

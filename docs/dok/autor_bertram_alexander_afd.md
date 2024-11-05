@@ -1,4 +1,4 @@
-# Amfragen von Bertram, Alexander (AfD)
+# Anfragen von Bertram, Alexander (AfD)
 
 Stand: 05.11.2024 14:41
 
@@ -42,7 +42,7 @@ Themen: [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 Schlagworte: Bildung, Gesundheitsvorsorge, Jugendbildung, Kinder und Jugendliche, Kinder, Jugendliche, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## July 2023
+## Juli 2023
 **[Schüler in Treptow-Köpenick ohne Deutsch als Erstsprache bei Einschulungsbeginn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16049.pdf)**
 Hier auch Anzahl der Schülerinnen und Schüler ohne Schulabschluss
 19/16049 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 19.07.2023

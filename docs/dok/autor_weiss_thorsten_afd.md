@@ -1,8 +1,8 @@
-# Amfragen von Weiß, Thorsten (AfD)
+# Anfragen von Weiß, Thorsten (AfD)
 
 Stand: 05.11.2024 14:41
 
-## June 2024
+## Juni 2024
 **[Abordnung und Umsetzung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19389.pdf)**
 19/19389 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 26.06.2024
 Schlagworte: Abordnung, Beamtenrecht, Gerichtsverfahren, Lehrer, Personalplanung, Schule
@@ -14,13 +14,13 @@ Drs. = Drucksache
 Schlagworte: Bezirk (Gebietskörperschaft), Dienstgebäude, Nation, Rechtsvorschrift, Schule, Öffentliche Mittel, Öffentliche Verwaltung
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2024
+## Mai 2024
 **[Geplante Studie zu Problemlagen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18977.pdf)**
 19/18977 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 15.05.2024
 Schlagworte: Allgemeinbildende Schulen, Antisemitismus, Diskriminierung, Studie, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2024
+## März 2024
 **[Die Demonstration „Schule gegen rechts” vom 28.02.2024 und ihre rechtlichen Konsequenzen: Dienstpflichten des Schulleiters](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18534.pdf)**
 19/18534 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 24.03.2024
 Schlagworte: Demonstration, Lehrer, Ordnungsrecht, Schulaufsicht, Schule, Schulen, Steglitz-Zehlendorf
@@ -31,7 +31,7 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Pe
 Schlagworte: Allgemeinbildende Schulen, Demonstration, Lehrer, Ordnungsrecht, Schulaufsicht, Schule, Schülervertretung, Steglitz-Zehlendorf
 Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2023
+## Dezember 2023
 **[Gewalt- und Rohheitsdelikte an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17603.pdf)**
 19/17603 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 28.12.2023
 Schlagworte: Allgemeinbildende Schulen, Gewalt, Innere Sicherheit
@@ -89,7 +89,7 @@ Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schulfinanzierung, Sprachförderung, Staatsangehörigkeit, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Schulbau: Verfahrensoptimierung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16801.pdf)**
 19/16801 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 09.10.2023
 Schlagworte: Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Investition, Personalplanung, Schulen, Schulfinanzierung, Statistik, Verwaltungsverfahren, Öffentliche Verwaltung
@@ -111,19 +111,19 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 Schlagworte: Ausländerintegration, Bauwesen, Schulen, Schulklasse, Schulpflicht, Statistik
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## July 2023
+## Juli 2023
 **[Weißes Fleisch, rotes Fleisch und ein Gemüsebratling, der nicht abgeholt wurde – DGE-Qualitätsstandard und Schulverpflegung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15970.pdf)**
 19/15970 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 13.07.2023
 Schlagworte: Ausschreibung, Ernährung, Kosten, Lebensmittel, Schulen, Trinkwasser
 Themen: [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## June 2023
+## Juni 2023
 **[Gleicher Mangel für alle? Einstellungsverbot an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15677.pdf)**
 19/15677 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 12.06.2023
 Schlagworte: Allgemeinbildende Schulen, Lehrer, Personalplanung
 Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Gewalt und Messerangriffe an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15528.pdf)**
 19/15528 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 25.05.2023
 Schlagworte: Gewalt, Innere Sicherheit, Schulen, Sicherheitsunternehmen (Bewachungsgewerbe), Sicherheitsüberprüfung von Personen
@@ -145,7 +145,7 @@ Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Ausschreibung, Digitalisierung, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen, Statistik, Öffentlicher Auftrag
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2023
+## März 2023
 **[Hochbegabtenförderung und Schnelllernerklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14903.pdf)**
 19/14903 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 09.03.2023
 Schlagworte: Bildung, Gymnasium, Kinder und Jugendliche, Kinder, Jugendliche, Schulen, Schulrecht, Statistik
@@ -191,7 +191,7 @@ Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md)
 Schlagworte: Berufliche Qualifikation, Berufliche Weiterbildung, Lehrer, Lehrerbildung, Personalplanung
 Themen: [Personal](thema_personal.md)
 
-## February 2023
+## Februar 2023
 **[Schuldistanz nach Corona und Schul-Lockdown in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14830.pdf)**
 19/14830 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 24.02.2023
 Schlagworte: Bildungspolitik, Bußgeld, COVID-19, Epidemie, Schule, Schulen, Schüler
@@ -212,7 +212,7 @@ Themen: [Sonstige](thema_sonstige.md)
 Schlagworte: Allgemeinbildende Schulen, Informations- und Kommunikationstechnologien, Internet, Lehrmethode, Prüfung, Schule, Schulische Ausbildung
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Lehrer gerechter verteilen - Geht das Konzept auf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14326.pdf)**
 19/14326 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 30.12.2022
 Schlagworte: Allgemeinbildende Schulen, Personalplanung, Personalwesen, Schule, Öffentlicher Dienst
@@ -383,7 +383,7 @@ Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](
 Schlagworte: Allgemeinbildende Schulen, Bildung, Bildungsstatistik, Qualitätssicherung, Schulpolitik, Schüler
 Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2022
+## Juni 2022
 **[Umgang mit vulnerablen Personen in der Schule und Lehrermangel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12166.pdf)**
 19/12166 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 29.06.2022
 Schlagworte: Allgemeinbildende Schulen, Arbeitsschutz, Bezirk (Gebietskörperschaft), COVID-19, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Lehrer, Personalplanung, Schwangerschaft, Statistik
@@ -434,7 +434,7 @@ Themen: [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundh
 Schlagworte: Asbest, Bausanierung, Bauwesen, Gesundheitsrisiko, Schadstoff, Schadstoffe, Immissionen, Emissionen, Schulen, Schulpersonal, Schüler
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## May 2022
+## Mai 2022
 **[Lehrer- und Schülerdatenbank kommt noch später](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11805.pdf)**
 „Lehrer- und Schülerdatenbank“ (LUSD)
 19/11805 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 24.05.2022
@@ -457,7 +457,7 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Hardware, Lehr- und Lernmittel, Lehrer, Schulen, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Erkrankungen und Todesfälle von Lehrern und Schülern durch eine Covid-19-Infektion](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10740.pdf)**
 19/10740 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 11.02.2022
 Schlagworte: Epidemie, Gesundheitsschutz, Krankheit, Lehrer, Schulen, Schüler, Tod
@@ -504,7 +504,7 @@ Themen: [Integration](thema_integration.md), [Sozialklima](thema_sozialklima.md)
 Schlagworte: Diskriminierung, Landesbeauftragter, Personalplanung, Schule, Schulen
 Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md)
 
-## January 2022
+## Januar 2022
 **[Gewinnung, Aus- und Fortbildung von pädagogischem Fachpersonal und Verbeamtung der Lehrer](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10444.pdf)**
 19/10444 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 12.01.2022
 Schlagworte: Angestellter, Beamtenrecht, Beamtenversorgung, Berufliche Weiterbildung, Fachkraft, Lehrer, Pädagoge, Öffentlicher Dienst
@@ -530,7 +530,7 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 Schlagworte: Allgemeinbildende Schulen, Ausländer, Ausländer, Migranten, Bildungsfinanzierung, COVID-19, Epidemie, Forschung, Gewalt, Lehr- und Lernmittel, Neukölln, Personalplanung, Quereinsteiger, Sprachförderung, Statistik, Unterrichtsausfall an Schulen
 Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integration](thema_integration.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Ein Fünf-Stufen-Plan und eine neue Handreichung gegen Schuldistanz(Schulschwänzer)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10239.pdf)**
 19/10239 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 16.12.2021
 Schlagworte: Allgemeinbildende Schulen, Bußgeld, Elektronische Aktenführung, Kosten, Sonderpädagogik, Statistik

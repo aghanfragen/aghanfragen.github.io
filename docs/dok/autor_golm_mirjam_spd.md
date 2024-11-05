@@ -1,8 +1,8 @@
-# Amfragen von Golm, Mirjam (SPD)
+# Anfragen von Golm, Mirjam (SPD)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Automaten mit Menstruationsartikeln in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20445.pdf)**
 19/20445 - [Golm, Mirjam (SPD)](autor_golm_mirjam_spd.md) - 11.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Frau, Frauen, Männer, Gesundheitsschutz, Kosten, Sanitäranlage, Schule, Statistik, Öffentliche Mittel

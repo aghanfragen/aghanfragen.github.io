@@ -1,8 +1,8 @@
-# Amfragen von Seidel, Katrin (Die Linke)
+# Anfragen von Seidel, Katrin (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## October 2023
+## Oktober 2023
 **[Versorgungsgrad in Kita und Tagespflege 2022 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16857.pdf)**
 19/16857 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 13.10.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kindertagespflege, Kindertagesstätte, Personalplanung, Statistik

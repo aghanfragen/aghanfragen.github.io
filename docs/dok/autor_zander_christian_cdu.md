@@ -1,8 +1,8 @@
-# Amfragen von Zander, Christian (CDU)
+# Anfragen von Zander, Christian (CDU)
 
 Stand: 05.11.2024 14:41
 
-## February 2023
+## Februar 2023
 **[Befreiung von der Unterrichts-Präsenzpflicht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14665.pdf)**
 19/14665 - [Zander, Christian (CDU)](autor_zander_christian_cdu.md) - 10.02.2023
 Schlagworte: Allgemeinbildende Schulen, COVID-19, Epidemie, Fernunterricht, Gesundheitsrisiko, Schulrecht, Statistik
@@ -14,7 +14,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statis
 Schlagworte: Schulbau, Schulen, Schüler, Statistik, Tempelhof-Schöneberg
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Wie viele Schülerinnen und Schüler verlassen die Berliner Schulen mit und ohne Abschluss?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10841.pdf)**
 19/10841 - [Zander, Christian (CDU)](autor_zander_christian_cdu.md) - 18.02.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Schule, Schulen, Schüler, Statistik

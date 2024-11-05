@@ -1,4 +1,4 @@
-# Amfragen von Trefzer, Martin (AfD)
+# Anfragen von Trefzer, Martin (AfD)
 
 Stand: 05.11.2024 14:41
 
@@ -29,7 +29,7 @@ Themen: [Finanzen](thema_finanzen.md), [Vielfalt](thema_vielfalt.md), [Weiterfü
 Schlagworte: Demokratie, Finanzierung, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Ordnungsrecht, Schüler, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## December 2022
+## Dezember 2022
 **[Numerus Clausus in Lehramtsstudiengängen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14051.pdf)**
 19/14051 - [Trefzer, Martin (AfD)](autor_trefzer_martin_afd.md) - 08.12.2022
 Schlagworte: Bildungspolitik, Hochschule, Hochschulwesen, Hochschulzulassung, Lehrer, Statistik, Studienfach, Studienplatz, Studium, Verwaltungsverfahren

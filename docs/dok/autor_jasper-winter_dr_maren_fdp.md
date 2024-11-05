@@ -1,14 +1,14 @@
-# Amfragen von Jasper-Winter, Dr. Maren (FDP)
+# Anfragen von Jasper-Winter, Dr. Maren (FDP)
 
 Stand: 05.11.2024 14:41
 
-## February 2023
+## Februar 2023
 **[Digitalisierung der Oberstufenzentren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14718.pdf)**
 19/14718 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 10.02.2023
 Schlagworte: Berufsbildende Schulen, Digitalisierung, Flüchtling, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Lehr- und Lernmittel, Lehrer, Lernmittelfreiheit, Osteuropa, Personalplanung, Schulausstattung, Schüler, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## January 2023
+## Januar 2023
 **[Alter bei Ausbildungsbeginn in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14547.pdf)**
 19/14547 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 25.01.2023
 Schlagworte: Berufsausbildung, Berufsbildende Schule, Frau, Frauen, Männer, Mann, Statistik
@@ -20,7 +20,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Statistik](thema_statistik.md)
 Schlagworte: Abitur, Allgemeinbildende Schulen, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen, Bildungspolitik, Sekundarschule, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Betreuung von (ukrainischen) Geflüchteten in Berliner Kindertagesstätten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13653.pdf)**
 19/13653 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 31.10.2022
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtling, Frühkindliche Bildung, Kind, Kindertagesstätte, Osteuropa, Sprachförderung, Statistik, Öffentliche Mittel
@@ -43,7 +43,7 @@ Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Schü
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Oberschule, Schulrecht, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Sanierungsbedarf der Berliner Oberstufenzentren 2022](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12517.pdf)**
 19/12517 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 28.07.2022
 Schlagworte: Bausanierung, Bauwesen, Berufsbildende Schulen, Investition, Kosten, Liegenschaftsverwaltung, Schulfinanzierung, Schulgebäude, Statistik
@@ -55,7 +55,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), 
 Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Kind, Schule, Schulen, Statistik
 Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## January 2022
+## Januar 2022
 **[Alter bei Ausbildungsbeginn in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10576.pdf)**
 19/10576 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 26.01.2022
 Schlagworte: Ausbildungsförderung, Berufsausbildung, Statistik

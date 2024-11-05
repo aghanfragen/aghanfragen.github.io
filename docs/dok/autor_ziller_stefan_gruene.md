@@ -1,4 +1,4 @@
-# Amfragen von Ziller, Stefan (Grüne)
+# Anfragen von Ziller, Stefan (Grüne)
 
 Stand: 05.11.2024 14:41
 
@@ -8,19 +8,19 @@ Stand: 05.11.2024 14:41
 Schlagworte: Grundschule, Straßenverkehr, Verkehrssicherheit
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
-## January 2024
+## Januar 2024
 **[Eine Spielstraße für die Franz-Carl-Achard-Grundschule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17766.pdf)**
 19/17766 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 24.01.2024
 Schlagworte: Grundschule, Marzahn-Hellersdorf, Straße, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
-## December 2023
+## Dezember 2023
 **[Ergänzungsbau Caspar-David-Friedrich-Schule und Bäume für die Schüler\*innen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17492.pdf)**
 19/17492 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 16.12.2023
 Schlagworte: Marzahn-Hellersdorf, Schulbau, Schule, Schulen
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## June 2023
+## Juni 2023
 **[Unterrichtsräume und Therapiebecken der Schule am Mummelsoll](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15717.pdf)**
 19/15717 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 20.06.2023
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Bauwesen, Marzahn-Hellersdorf
@@ -42,13 +42,13 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule]
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bauwesen, Gymnasium, Marzahn-Hellersdorf, Sporthalle
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Freigeist Schule in Berlin-Mahlsdorf (ehemals Freie Schule am Elsengrund)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13264.pdf)**
 19/13264 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 05.10.2022
 Schlagworte: Lehrer, Lehrerbildung, Lehrmethode, Marzahn-Hellersdorf, Personalplanung, Privatschule, Privatschulen, Qualifikationsnachweis, Rechtsextremismus, Schulaufsicht, Schulreform
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2021
+## Dezember 2021
 **[Neue Sporthalle für das Otto-Nagel-Gymnasium](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10350.pdf)**
 19/10350 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 29.12.2021
 Schlagworte: Baufinanzierung, Baugenehmigung, Gymnasium, Marzahn-Hellersdorf, Sport, Sportstättenbau, Städtebau

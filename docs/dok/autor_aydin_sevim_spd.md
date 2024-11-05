@@ -1,14 +1,14 @@
-# Amfragen von Aydin, Sevim (SPD)
+# Anfragen von Aydin, Sevim (SPD)
 
 Stand: 05.11.2024 14:41
 
-## June 2024
+## Juni 2024
 **[Sachstand zur Reinhardswald-Grundschule in Kreuzberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19276.pdf)**
 19/19276 - [Aydin, Sevim (SPD)](autor_aydin_sevim_spd.md) - 17.06.2024
 Schlagworte: Abriss, Asbest, Friedrichshain-Kreuzberg, Grundschule, Schulbau, Städtebau, Wohnungsbaugesellschaft, Ökologisches Bauen
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md)
 
-## July 2023
+## Juli 2023
 **[Barrierefreiheit der beruflichen Schulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16110.pdf)**
 19/16110 - [Aydin, Sevim (SPD)](autor_aydin_sevim_spd.md) - 28.07.2023
 Schlagworte: Barrierefreiheit, Bausanierung, Bauwesen, Berufsbildende Schulen, Schulgebäude

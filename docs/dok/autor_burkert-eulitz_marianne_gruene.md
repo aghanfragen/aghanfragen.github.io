@@ -1,8 +1,8 @@
-# Amfragen von Burkert-Eulitz, Marianne (Grüne)
+# Anfragen von Burkert-Eulitz, Marianne (Grüne)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**
 19/20564 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Bildungspolitik, Frühkindliche Bildung, Sprachförderung, Statistik, Öffentliche Mittel
@@ -85,7 +85,7 @@ Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Schülerinnen und 
 Schlagworte: Beratung, Kinder, Jugendliche, Schulen, Schulpsychologischer Dienst, Schüler
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md)
 
-## July 2024
+## Juli 2024
 **[Strukturen der Beteiligung und Selbstvertretung in den Einrichtungen der stationären Jugendhilfe (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19592.pdf)**
 19/19592 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 16.07.2024
 Schlagworte: Kinder und Jugendliche, Kinder, Jugendliche, Qualitätssicherung, Senatsverwaltung für Bildung, Jugend und Familie
@@ -101,7 +101,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Schulklasse, Schulpflicht, Schüler, Statistik, Verwaltungsverfahren
 Themen: [Bezirke](thema_bezirke.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2024
+## Juni 2024
 **[Platz für alle? - Wie setzt die Senatsverwaltung für Bildung, Jugend und Familie das Recht auf inklusive Bildung für alle Geflüchteten um?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19297.pdf)**
 19/19297 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 24.06.2024
 Schlagworte: Ausländer, Ausländer, Migranten, Flüchtling, Integrationspolitik, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schulbau, Schule, Schulen, Statistik
@@ -112,7 +112,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration]
 Schlagworte: Asbest, Bausanierung, Friedrichshain-Kreuzberg, Schulen
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md)
 
-## May 2024
+## Mai 2024
 **[Wie steht es um die Staatliche Ballettschule Berlin und Schule für Artistik](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18957.pdf)**
 19/18957 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 15.05.2024
 Schlagworte: Darstellende Kunst, Gymnasiale Oberstufe, Jugendschutz, Kinder- und Jugendhilfe, Kinderschutz, Kunst- und Musikhochschulen, Personalplanung, Schulleiter, Schüler, Unterricht, Veranstaltung
@@ -151,7 +151,7 @@ KJSG  = Gesetz zur Stärkung von Kindern und Jugendlichen (Kinder- und Jugendst�
 Schlagworte: Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Kindertagesstätte, Mensch mit Behinderung, Sozialarbeit, Soziales, Sozialpädagogik, Statistik, Teilhabe behinderter Menschen
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Qualitätssicherung im Ganztag, aber ohne Fachkenntnis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18583.pdf)**
 19/18583 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.03.2024
 Schlagworte: Allgemeinbildende Schulen, Bildung, Bildungspolitik, Qualitätssicherung, Schulrecht
@@ -162,7 +162,7 @@ Themen: [Ganztag](thema_ganztag.md), [Qualität und Erfolg](thema_qualitaet_und_
 Schlagworte: Ernährung, Finanzierung, Frühkindliche Bildung, Kinderbetreuung, Qualitätssicherung, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
 19/18242 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Reinickendorf, Schule, Schulen, Unterricht
@@ -223,7 +223,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_pe
 Schlagworte: Friedrichshain-Kreuzberg, Lehrer, Schule, Schulen, Unterricht
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Personal](thema_personal.md)
 
-## December 2023
+## Dezember 2023
 **[Beschulung von Kindern und Jugendlichen, die in Sammelunterkünften für Geflüchtete untergebracht sind und deren Übergänge in die Regelbeschulung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17529.pdf)**
 19/17529 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 19.12.2023
 Schlagworte: Ausländer, Migranten, Flüchtling, Flüchtlingsunterbringung, Kinder, Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schulen, Statistik, Unterricht
@@ -246,7 +246,7 @@ Das Startchancen-Programm unterstützt Schulen mit einem hohen Anteil sozial ben
 Schlagworte: Allgemeinbildende Schulen, Bonus-Programm (Schulen), Schulpolitik
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Strukturen der Beteiligung und Selbstvertretung in den Einrichtungen der stationären Jugendhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16928.pdf)**
 19/16928 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 17.10.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Freier Träger, Gesundheitseinrichtungen, Kinder, Jugendliche, Qualitätssicherung, Senatsverwaltung für Bildung, Jugend und Familie, Statistik
@@ -269,7 +269,7 @@ Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Integrati
 Schlagworte: Ausländer, Migranten, Einschulung, Jugendamt, Kinder und Jugendliche, Kinder, Jugendliche, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## July 2023
+## Juli 2023
 **[Auswirkungen des Kitaqualitätsgesetzes – Gleiche Bedingungen für pädagogische Fachkräfte sichern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16078.pdf)**
 Kita-Qualitätsgesetz, Auswirkungen auf den Fachkraft-Kind-Schlüssel (Personalschlüssel)/ wöchentliche Arbeitszeit der Beschäftigten in berufsbegleitender Ausbildung / Verbesserung der Arbeitsbedingungen in den Kitas
 19/16078 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 26.07.2023
@@ -314,7 +314,7 @@ Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Personal]
 Schlagworte: Bezirk, Gewalt, Grundschule, Innere Sicherheit, Jugendarbeit, Kinder und Jugendliche, Kinder- und Jugendhilfe, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Sozialklima](thema_sozialklima.md)
 
-## June 2023
+## Juni 2023
 **[Wege in den Erzieher\*innenberuf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15853.pdf)**
 19/15853 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 29.06.2023
 Schlagworte: Ausland, Berufliche Qualifikation, Berufsausbildung
@@ -351,7 +351,7 @@ Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Schü
 Schlagworte: Berufsberatung, Schule, Schulen, Statistik, Veranstaltung, Verteidigung, Öffentlichkeitsarbeit
 Themen: [Statistik](thema_statistik.md)
 
-## May 2023
+## Mai 2023
 **[Woher kommen die Fachkräfte für ein Wahlpflichtfach Weltanschauungen/Religionen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15533.pdf)**
 19/15533 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 31.05.2023
 Schlagworte: Allgemeinbildende Schulen, Fachkraft, Lehrer, Lehrerbildung, Personalplanung, Religion, Schulfach, Unterricht
@@ -399,7 +399,7 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterf
 Schlagworte: Barrierefreiheit, Dienstleistung, Eltern, Finanzierung, Frühkindliche Bildung, Informations- und Kommunikationstechnologien, Informationssystem, Kinder- und Jugendhilfe, Software
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md)
 
-## February 2023
+## Februar 2023
 **[Rechtliche Grundlagen und praktische Umsetzung von Inklusion in der Schule: (Teil 3) Sonderpädagogischer Förderbedarf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14661.pdf)**
 19/14661 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 10.02.2023
 Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Förderunterricht, Integrativer Unterricht, Kinder- und Jugendhilfe, Kosten, Sonderpädagogik, Verwaltungsverfahren, Verwaltungsvorschrift
@@ -417,7 +417,7 @@ Hausunterrichtund Krankenhausunterricht / Sonderregelung zur Befreiung von der P
 Schlagworte: Allgemeinbildende Schulen, Beratung, Fernunterricht, Inklusion, Krankheit, Lehrplan, Rechtsvorschrift, Schulpflicht, Schulpolitik, Schulrecht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Inklusion](thema_inklusion.md), [Schulfächer](thema_schulfaecher.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2023
+## Januar 2023
 **[Duales Lernen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14464.pdf)**
 19/14464 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 25.01.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Bildungsabschluss, Gemeinschaftsschule, Praktikum, Sekundarschule, Statistik, Unternehmen
@@ -428,7 +428,7 @@ Themen: [Bezirke](thema_bezirke.md), [Gemeinschaftsschule](thema_gemeinschaftssc
 Schlagworte: Eltern, Förderunterricht, Lehrer, Mensch mit Behinderung, Schulaufsicht, Schulpflicht, Schulrecht, Schüler, Sonderpädagogik, Sozialrecht, Sprachförderung, Verwaltungsvorschrift
 Themen: [Inklusion](thema_inklusion.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Mitte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14267.pdf)**
 19/14267 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Integrationspolitik, Mitte, Statistik
@@ -510,7 +510,7 @@ Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen un
 Schlagworte: COVID-19, Epidemie, Gesundheit, Psychiatrie, Schulen, Schüler, Statistik, Unterrichtsausfall an Schulen
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Kinder mit besonderen Bedarfen (Teil 1) - Stand Umsetzung - Status B+ Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11045.pdf)**
 Bedarfe der Kinder mit Behinderung im frühkindlichen Bereich
 19/11045 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 08.03.2022

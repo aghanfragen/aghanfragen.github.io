@@ -1,8 +1,8 @@
-# Amfragen von Freymark, Danny (CDU)
+# Anfragen von Freymark, Danny (CDU)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**
 19/20418 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 10.10.2024
 Schlagworte: Datenverarbeitung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Kosten, Schule, Schulen
@@ -36,13 +36,13 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauwesen, Lichtenberg, Schulen, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## December 2023
+## Dezember 2023
 **[Schulneubau Am Breiten Luch – Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17619.pdf)**
 19/17619 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 27.12.2023
 Schlagworte: Lichtenberg, Parkfläche, Schüler-Lehrer-Relation, Städtebau, Verkehrslenkung
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2023
+## Mai 2023
 **[Schulplatzentwicklung im Bezirk Lichtenberg für die Schulplatzregion 1:Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15310.pdf)**
 19/15310 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 05.05.2023
 Schlagworte: Allgemeinbildende Schulen, Investition, Lichtenberg, Schulbau, Schulfinanzierung, Schüler, Statistik
@@ -54,7 +54,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Auskunfterteilung, Lichtenberg, Neubau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2023
+## Februar 2023
 **[Fehlkalkulationen bei Bedarfsmeldungen an Schulen vermeiden](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14821.pdf)**
 19/14821 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 15.02.2023
 Schlagworte: Bevölkerungsentwicklung, Bevölkerungsstatistik, Kinder, Jugendliche, Schule, Schulen, Schulfinanzierung
@@ -70,13 +70,13 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauplanung, Grünfläche, Lichtenberg, Schule, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## January 2023
+## Januar 2023
 **[Tierparkschule des Tierparks Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14588.pdf)**
 19/14588 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 23.01.2023
 Schlagworte: Allgemeinbildende Schulen, MINT-Fächer, Schule, Sonderpädagogik, Unterrichtsausfall an Schulen, Zoologischer Garten
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Obersee-Grundschule: Schulinnenhofbebauung durch den MEB verhindern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14334.pdf)**
 Realisierung eines Modularen Ergänzungsbaus (MEB)
 19/14334 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 27.12.2022
@@ -105,7 +105,7 @@ Drehscheibenschulen dienen als Ausweichquartier, um ganze Schulen bei Sanierungs
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Finanzierung, Investition, Kosten, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## October 2022
+## Oktober 2022
 **[Bauantrag zum Bau eines MEB an der Obersee-Schule: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13567.pdf)**
 MEB: Modularer Ergänzungsbau
 19/13567 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 25.10.2022
@@ -341,7 +341,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Bausanierung, Bauwesen, Investition, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2022
+## Juli 2022
 **[Schulplatzerweiterung in Berlin-Friedrichsfelde transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12503.pdf)**
 19/12503 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 26.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Städtebau
@@ -372,7 +372,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bez
 Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schüler, Statistik, Suchtprävention
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Qualifikationskontrolle von Schullaufsichten – Standards transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12196.pdf)**
 19/12196 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 29.06.2022
 Schlagworte: Personalwesen, Qualitätssicherung, Schulen, Öffentliche Verwaltung
@@ -399,7 +399,7 @@ Themen: [Bezirke](thema_bezirke.md), [Schülerinnen und Schüler](thema_schueler
 Schlagworte: Besoldung, Bezirk (Gebietskörperschaft), Gemeinschaftsschule, Gerichtsentscheidung, Lehrer, Personalplanung, Vergütung
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Personal](thema_personal.md)
 
-## May 2022
+## Mai 2022
 **[Personalentwicklung in den Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11853.pdf)**
 19/11853 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Disziplinarverfahren, Lehrer, Personalwesen, Quereinsteiger, Schule, Schulleiter, Statistik
@@ -436,7 +436,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integr
 Schlagworte: Lichtenberg, Schulen, Statistik, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Öffentliche Verwaltung als Vorbild: Gewaltfreie Kommunikation bei Schulräten sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11266.pdf)**
 19/11266 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.03.2022
 Schlagworte: Gewaltprävention, Lichtenberg, Schulen, Senatsverwaltung für Bildung, Jugend und Familie, Öffentliche Verwaltung
@@ -477,7 +477,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Integration](thema
 Schlagworte: Energieverbrauch, Lichtenberg, Schulen, Solartechnik, Umwelt, Umweltschutz
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
-## February 2022
+## Februar 2022
 **[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
 19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
@@ -503,7 +503,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bildung, Bildungsfinanzierung, Kinder- und Jugendhilfe, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md)
 
-## December 2021
+## Dezember 2021
 **[Schulplätze in Lichtenberg: Wohnortnahe Versorgung sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10205.pdf)**
 19/10205 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 13.12.2021
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Statistik

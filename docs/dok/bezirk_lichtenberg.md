@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Anhaltende Verzögerung bei Schulbau in Friedrichsfelde](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20475.pdf)**
 19/20475 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 14.10.2024
 Schlagworte: Bauplanung, Lichtenberg, Schulen
@@ -24,7 +24,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gesundheit und Ern
 Schlagworte: Innere Sicherheit, Lichtenberg, Schulbau, Schule, Teilhabe behinderter Menschen, Öffentlicher Haushalt
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
-## July 2024
+## Juli 2024
 **[Zeitplan für den MEB an der Oberseeschule weiter transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19718.pdf)**
 MEB = Modularer Ergänzungsbau
 19/19718 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 31.07.2024
@@ -41,7 +41,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Schülerinnen und 
 Schlagworte: Bauplanung, Kindertagesstätte, Lichtenberg, Schule, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## June 2024
+## Juni 2024
 **[Standortentscheidung Drehscheibenschule in Lichtenberg – was spricht für welchen Standort?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19333.pdf)**
 19/19333 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 17.06.2024
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Lichtenberg, Städtebau
@@ -57,7 +57,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Grundstück, Kindertagesstätte, Lichtenberg, Stadtplanung, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2024
+## Mai 2024
 **[Schulgesundheitsfachkräfte in Berlin: Was plant der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19022.pdf)**
 19/19022 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.05.2024
 Schlagworte: Allgemeinbildende Schulen, Gesundheitsschutz, Lichtenberg, Modellprojekt, Personalplanung, Schule, Öffentliche Finanzplanung
@@ -89,7 +89,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauwesen, Lichtenberg, Schulen, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Bauarbeiten im Manfred-von-Ardenne-Gymnasium transparent gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18309.pdf)**
 19/18309 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 06.03.2024
 Schlagworte: Allgemeinbildende Schulen, Bauplan, Bausanierung, Lichtenberg
@@ -100,7 +100,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Ausschreibung, Ernährung, Lichtenberg, Schulen, Vergaberecht
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Lichtenberg ausgefallen? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18233.pdf)**
 19/18233 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Lichtenberg, Schule, Schulen, Unterricht
@@ -111,14 +111,14 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_pe
 Schlagworte: Bauaufsicht, Bauwesen, Lichtenberg, Naturschutz, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
-## January 2024
+## Januar 2024
 **[Pad gGmbH](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17678.pdf)**
 Die pad gGmbH begleitet und unterstützt Menschen. Zur pad gGmbH gehören inzwischen über 60 Einrichtungen und Projekte an mehr als 50 Standorten mit ca. 370 Mitarbeiterinnen und Mitarbeitern in den Bereichen Kindertagesbetreuung, Familie, Schule & Delinquenz, Jugend, Arbeit & Sucht sowie Demokratie
 19/17678 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 02.01.2024
 Schlagworte: Finanzzuweisung, Kommunale Angelegenheiten, Lichtenberg, Marzahn-Hellersdorf, Soziale Einrichtungen, Stadtteil, Statistik, Öffentliche Mittel
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
-## December 2023
+## Dezember 2023
 **[Gartenarbeitsschule Lichtenberg fördern und unterstützen (10318 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17624.pdf)**
 19/17624 - [Usik, Lilia (CDU)](autor_usik_lilia_cdu.md) - 28.12.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Gartenbau, Gebäude, Lichtenberg, Statistik, Öffentliche Mittel
@@ -129,7 +129,7 @@ Themen: [Bezirke](thema_bezirke.md), [Bezirke:Lichtenberg](thema_bezirke_lichten
 Schlagworte: Lichtenberg, Parkfläche, Schüler-Lehrer-Relation, Städtebau, Verkehrslenkung
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## October 2023
+## Oktober 2023
 **[Schulplatzsituation im Fennpfuhl](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16885.pdf)**
 19/16885 - [Schlüsselburg, Sebastian (Die Linke)](autor_schluesselburg_sebastian_die_linke.md) - 18.10.2023
 Schlagworte: Bausanierung, Bauwesen, Bevölkerungsentwicklung, Lichtenberg, Schulbau, Schule, Schulen, Schulfinanzierung, Schüler, Statistik
@@ -154,7 +154,7 @@ Hier auch kurzzeitige Nutzung der Schulen zur Flüchtlingsunterbringung, Anzahl 
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Bauwesen, Bevölkerungsentwicklung, Gesellschaft, Bevölkerung, Investition, Lichtenberg, Schulbau, Schulklasse, Statistik, Wohnungsbau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2023
+## Juli 2023
 **[Auswirkungen auf den Landschaftspark Herzberge durch die neue Schule an der Allee der Kosmonauten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16165.pdf)**
 19/16165 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 28.07.2023
 Schlagworte: Fußgänger, Lichtenberg, Natur, Radverkehr, Verkehr, Verkehrsplanung, Verkehrssicherheit
@@ -170,7 +170,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Schulpflicht, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Verkehrssituation Schulneubau Allee der Kosmonauten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15349.pdf)**
 19/15349 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 11.05.2023
 Schlagworte: Allgemeinbildende Schulen, Baum, Lichtenberg, Neubau, Parkfläche, Städtebau, Wohnungsbaugesellschaft, Öffentlicher Personennahverkehr
@@ -202,7 +202,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md)
 Schlagworte: Auskunfterteilung, Lichtenberg, Neubau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2023
+## Februar 2023
 **[Modularer Ergänzungsbau in der Doberaner Straße / Zingster Straße (Schule am Grünen Campus)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14696.pdf)**
 19/14696 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 10.02.2023
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bauwesen, Bildungspolitik, Gemeinschaftsschule, Lichtenberg
@@ -213,7 +213,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauplanung, Grünfläche, Lichtenberg, Schule, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## December 2022
+## Dezember 2022
 **[MEB an der Oberseeschule - Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14307.pdf)**
 Geplante Modulare Ergänzungsbauten (MEB) sowie Vorplanung einer Gymnastikhalle. Einhaltung der geforderten Abstandsflächen, Ersatzpflanzungen für gefällte Bäume, Ausgleichsflächen für Abstellplätze für Fahrräder, Spielflächen, Stellplätze für Kraftfahrzeuge und für die Feuerwehr. Schadstoffanalysen des Baufläche.
 19/14307 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 29.12.2022
@@ -263,7 +263,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Schulweg, Verkehrssicherheit
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Bauantrag zum Bau eines MEB an der Obersee-Schule: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13567.pdf)**
 MEB: Modularer Ergänzungsbau
 19/13567 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 25.10.2022
@@ -493,7 +493,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Bausanierung, Bauwesen, Investition, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2022
+## Juli 2022
 **[Schulplatzerweiterung in Berlin-Friedrichsfelde transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12503.pdf)**
 19/12503 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 26.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Städtebau
@@ -519,13 +519,13 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bez
 Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schüler, Statistik, Suchtprävention
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Schulplätze für Hohenschönhausen: Auf ein Scheitern des MEB-Neubaus an der Obersee-Schule vorbereitet sein](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12202.pdf)**
 19/12202 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 23.06.2022
 Schlagworte: Bauplanung, Bauwesen, Lichtenberg, Schulbau, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2022
+## Mai 2022
 **[Transparenz: Begehung auf dem Schulgelände der Obersee-Schule vomDezember 2020](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11765.pdf)**
 19/11765 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 19.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Grundschule, Lichtenberg
@@ -547,7 +547,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md)
 Schlagworte: Lichtenberg, Schulen, Statistik, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Öffentliche Verwaltung als Vorbild: Gewaltfreie Kommunikation bei Schulräten sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11266.pdf)**
 19/11266 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.03.2022
 Schlagworte: Gewaltprävention, Lichtenberg, Schulen, Senatsverwaltung für Bildung, Jugend und Familie, Öffentliche Verwaltung
@@ -609,7 +609,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md)
 Schlagworte: Bebauungsplan, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Kultur](thema_kultur.md)
 
-## February 2022
+## Februar 2022
 **[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
 19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
@@ -630,13 +630,13 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Lichtenberg, Schulbau, Schulen, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## January 2022
+## Januar 2022
 **[Schule, Kita, Jugend, Kultur und Park in der Rummelsburger Bucht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10525.pdf)**
 19/10525 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 24.01.2022
 Schlagworte: Bauplanung, Bebauungsplan, Grundschule, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Kultur](thema_kultur.md)
 
-## December 2021
+## Dezember 2021
 **[Schulplätze in Lichtenberg: Wohnortnahe Versorgung sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10205.pdf)**
 19/10205 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 13.12.2021
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Statistik

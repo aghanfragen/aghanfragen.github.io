@@ -1,8 +1,8 @@
-# Amfragen von Krüger, Louis (Grüne)
+# Anfragen von Krüger, Louis (Grüne)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Nachgefragt: Klassengrößen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20568.pdf)**
 Siehe auch Drucksache 19/17141
 19/20568 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 23.10.2024
@@ -103,7 +103,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit u
 Schlagworte: COVID-19, Demokratie, Epidemie, Hamas, Politische Bildung, Staatsaufbau
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md)
 
-## June 2024
+## Juni 2024
 **[Religion als ordentliches Schulfach: Welche Vorbereitungen trifft der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19418.pdf)**
 19/19418 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 27.06.2024
 Schlagworte: Allgemeinbildende Schulen, Gesetzgebung, Lehrerbildung, Lehrplan, Religion, Schule, Universitäten, Unterricht
@@ -129,7 +129,7 @@ Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und
 Schlagworte: Berufliche Weiterbildung, Lehramtsanwärter, Lehrer
 Themen: [Personal](thema_personal.md)
 
-## May 2024
+## Mai 2024
 **[Transparenz im Haushalt Bildung, Jugend und Familie für Projekte, Träger und das Parlament wiederherstellen - Wer wird 2024 gefördert? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19146.pdf)**
 19/19146 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.05.2024
 Schlagworte: Finanzpolitik, Freier Träger, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -151,7 +151,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), 
 Schlagworte: Bausanierung, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Liegenschaftsverwaltung, Sanitäranlage, Schulen, Statistik, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2024
+## März 2024
 **[Pankower Schuldrehscheiben – Lessons learned und wie gehtʹs weiter?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18416.pdf)**
 19/18416 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 15.03.2024
 Schlagworte: Bauplanung, Pankow, Schule, Schulen
@@ -177,13 +177,13 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 Schlagworte: Bezirksverwaltung, Einschulung, Kommunale Angelegenheiten, Schule, Schulen
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2024
+## Februar 2024
 **[An welchen Schulen gibt es Noten nur im Musikunterricht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18035.pdf)**
 19/18035 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.02.2024
 Schlagworte: Allgemeinbildende Schulen, Bildungsabschluss, Schule
 Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2024
+## Januar 2024
 **[Pläne zur Abordnung – von der Prüfung zur Realität (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17786.pdf)**
 19/17786 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 29.01.2024
 Schlagworte: Abordnung, Lehrer, Personalplanung, Schüler-Lehrer-Relation
@@ -194,7 +194,7 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Lehrer, Personalplanung, Quereinsteiger, Schule, Schüler-Lehrer-Relation, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## December 2023
+## Dezember 2023
 **[Diskriminierungskritische Überarbeitung von Lern- und Lehrmaterialien:Wann und wie setzt die Koalition das eigene Vorhaben um?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17475.pdf)**
 19/17475 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 15.12.2023
 Schlagworte: Diskriminierung, Schulen
@@ -241,7 +241,7 @@ Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md)
 Schlagworte: Grundschule, Hochschule, Hochschulwesen, Lehrer, Statistik, Studienfach, Studienplatz, Studium
 Themen: [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## October 2023
+## Oktober 2023
 **[Zivilgesellschaftliche Organisationen und Einzelpersonen an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16959.pdf)**
 Veranstaltungen (Vorträge) von externen Personen an Schulen
 19/16959 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 20.10.2023
@@ -305,7 +305,7 @@ Themen: [Statistik](thema_statistik.md)
 Schlagworte: Abordnung, Lehrer, Schule, Schulen, Statistik, Unterricht
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## July 2023
+## Juli 2023
 **[Alle Wege sind Schulwege?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15984.pdf)**
 19/15984 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 13.07.2023
 Schlagworte: Gehweg, Radweg, Schulen, Schüler, Straßenverkehr, Verkehrssicherheit
@@ -327,7 +327,7 @@ Themen: [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Vielf
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Schulpflicht, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2023
+## Juni 2023
 **[Maßnahmen gegen den akuten Lehrkräftemangel - Wann werden aus Worten auch Taten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15641.pdf)**
 19/15641 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 06.06.2023
 Schlagworte: Lehrer, Personalplanung, Schule, Schulpolitik, Unterricht
@@ -338,7 +338,7 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Gerichtsentscheidung, Religionsgemeinschaften, Schule, Schulen
 Themen: [Vielfalt](thema_vielfalt.md)
 
-## May 2023
+## Mai 2023
 **[Moderne Pädagogik oder preußische Prüfungskultur?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15537.pdf)**
 Schulversuch „Hybrides Lehren und Lernen“
 19/15537 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 31.05.2023
@@ -372,7 +372,7 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Bildung, Statistik
 Themen: [Statistik](thema_statistik.md)
 
-## January 2023
+## Januar 2023
 **[Rücklagenbildung an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14528.pdf)**
 19/14528 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 25.01.2023
 Schlagworte: Charlottenburg-Wilmersdorf, Finanzpolitik, Schulen, Schulpolitik, Öffentliche Finanzplanung, Öffentliches Vermögen
@@ -383,7 +383,7 @@ Themen: [Bezirke:Charlottenburg-Wilmersdorf](thema_bezirke_charlottenburg-wilmer
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bezirk (Gebietskörperschaft), Bildungspolitik, Finanzverwaltung, Städtebau, Verwaltungsverfahren, Wohnungsbaugesellschaft, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Unterrichtsausfall und Kürzung der Stundentafel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14345.pdf)**
 19/14345 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 27.12.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Schule, Statistik
@@ -409,7 +409,7 @@ Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzber
 Schlagworte: Bildung, Datenschutz, Digitalisierung, Informations- und Kommunikationstechnik, Schulen, Schulpolitik, Technologie
 Themen: [Digitalisierung](thema_digitalisierung.md)
 
-## October 2022
+## Oktober 2022
 **[Hausmeister\*innen-Stellen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13393.pdf)**
 19/13393 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.10.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Personalplanung, Schule, Schulen, Statistik
@@ -425,7 +425,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](th
 Schlagworte: Begabtenförderung, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen, Bezirk (Gebietskörperschaft), Grundschule, Gymnasium, Modellprojekt, Schulen, Schulreform, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Temporäre Schulbauten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12353.pdf)**
 19/12353 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 13.07.2022
 Schlagworte: Schulen, Schulfinanzierung, Städtebau, Öffentlicher Haushalt
@@ -437,7 +437,7 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 Schlagworte: Schule, Schulen, Schulrecht, Statistik
 Themen: [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Schulplatzbedarf an Grundschulen in der Region Hohenschönhausen Süd](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11217.pdf)**
 19/11217 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 25.03.2022
 Schlagworte: Allgemeinbildende Schulen, Investition, Lichtenberg, Schulbau, Statistik
@@ -454,7 +454,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Internet, Schulausstattung, Schulen, WLAN, Öffentlicher Auftrag
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2022
+## Februar 2022
 **[Stand der Umsetzung der Digitalisierungsstrategie für die Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10964.pdf)**
 19/10964 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 28.02.2022
 Schlagworte: Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Schulausstattung, Schulen, Software, Statistik
@@ -465,7 +465,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](th
 Schlagworte: Hardware, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Lehrer, Software
 Themen: [Digitalisierung](thema_digitalisierung.md), [Personal](thema_personal.md)
 
-## December 2021
+## Dezember 2021
 **[Zumessung von Förderstunden zur strukturellen Unterstützung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10409.pdf)**
 19/10409 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 29.12.2021
 Schlagworte: Bezirk (Gebietskörperschaft), Förderunterricht, Lehrer, Personalplanung, Schule, Schulen, Sonderpädagogik, Statistik, Öffentlicher Haushalt

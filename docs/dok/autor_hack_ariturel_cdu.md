@@ -1,8 +1,8 @@
-# Amfragen von Hack, Ariturel (CDU)
+# Anfragen von Hack, Ariturel (CDU)
 
 Stand: 05.11.2024 14:41
 
-## June 2024
+## Juni 2024
 **[Wie werden Berlins Schüler auf das Leben nach der Schule vorbereitet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19374.pdf)**
 19/19374 - [Hack, Ariturel (CDU)](autor_hack_ariturel_cdu.md) - 25.06.2024
 Schlagworte: Allgemeinbildende Schulen, Jugendbildung, Jugendlicher, Schüler, Unterricht, Öffentlicher Haushalt

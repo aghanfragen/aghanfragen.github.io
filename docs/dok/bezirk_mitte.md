@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Mitte ausgefallen? (Teil 6)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18237.pdf)**
 19/18237 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Mitte, Schule, Schulen, Unterricht
@@ -21,13 +21,13 @@ Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), 
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Bauwesen, Denkmalschutz, Grundstück, Investition, Kommunale Angelegenheiten, Kosten, Liegenschaftsverwaltung, Mitte
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2023
+## Januar 2023
 **[Schimmel in der Carl-Bolle-Grundschule in Moabit?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14468.pdf)**
 19/14468 - [Kurt, Taylan (Grüne)](autor_kurt_taylan_gruene.md) - 23.01.2023
 Schlagworte: Allgemeinbildende Schulen, Asbest, Gebäude, Grundschule, Mitte, Schadstoff, Schadstoffe, Immissionen, Emissionen
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Mitte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14267.pdf)**
 19/14267 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Integrationspolitik, Mitte, Statistik
@@ -39,19 +39,19 @@ Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Integration](thema_integration
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Finanzpolitik, Lehrer, Mitte, Personalplanung, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## July 2022
+## Juli 2022
 **[Zur Schulplatzsituation in Mitte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12371.pdf)**
 19/12371 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 13.07.2022
 Schlagworte: Allgemeinbildende Schulen, Investition, Mitte, Osteuropa, Schulfinanzierung, Schulweg, Statistik
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2022
+## Februar 2022
 **[Wie wirkt „Stark trotz Corona” in Moabit und im Brüsseler Kiez?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10883.pdf)**
 19/10883 - [Kurt, Taylan (Grüne)](autor_kurt_taylan_gruene.md) - 23.02.2022
 Schlagworte: COVID-19, Epidemie, Kinder, Jugendliche, Kinder- und Jugendhilfe, Mitte, Schulen, Öffentliche Mittel
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## January 2022
+## Januar 2022
 **[Schulplatzbedarf in Moabit und im Brüsseler Kiez](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10493.pdf)**
 19/10493 - [Kurt, Taylan (Grüne)](autor_kurt_taylan_gruene.md) - 19.01.2022
 Schlagworte: Allgemeinbildende Schulen, Einschulung, Mitte, Schulbau, Statistik

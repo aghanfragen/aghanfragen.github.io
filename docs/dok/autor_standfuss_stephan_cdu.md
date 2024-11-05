@@ -1,4 +1,4 @@
-# Amfragen von Standfuß, Stephan (CDU)
+# Anfragen von Standfuß, Stephan (CDU)
 
 Stand: 05.11.2024 14:41
 

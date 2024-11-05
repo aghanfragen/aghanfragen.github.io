@@ -1,4 +1,4 @@
-# Amfragen von King, Dr. Alexander (fraktionslos)
+# Anfragen von King, Dr. Alexander (fraktionslos)
 
 Stand: 05.11.2024 14:41
 
@@ -19,13 +19,13 @@ Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen un
 Schlagworte: Frauen, Männer, Lehrer, Lehrplan, Schule, Schulen, Sexuelle Identität
 Themen: [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
 
-## May 2024
+## Mai 2024
 **[Schleppende Verbeamtungen von Lehrkräften – ein Organisationsversagen der Senatsverwaltung für Bildung, Jugend und Familie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18978.pdf)**
 19/18978 - [King, Dr. Alexander (fraktionslos)](autor_king_dr_alexander_fraktionslos.md) - 16.05.2024
 Schlagworte: Beamtenrecht, Beamter, Kosten, Lehrer, Personalplanung, Senatsverwaltung für Bildung, Jugend und Familie
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2024
+## März 2024
 **[Schulbau der HOWOGE](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18331.pdf)**
 19/18331 - [King, Dr. Alexander (fraktionslos)](autor_king_dr_alexander_fraktionslos.md) - 11.03.2024
 Schlagworte: Bausanierung, Gymnasium, Investition, Kosten, Schulen, Statistik, Wohnungsbaugesellschaft

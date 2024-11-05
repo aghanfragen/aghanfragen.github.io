@@ -2,13 +2,13 @@
 
 Stand: 05.11.2024 14:41
 
-## March 2024
+## März 2024
 **[Pankower Schuldrehscheiben – Lessons learned und wie gehtʹs weiter?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18416.pdf)**
 19/18416 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 15.03.2024
 Schlagworte: Bauplanung, Pankow, Schule, Schulen
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## February 2024
+## Februar 2024
 **[Teilnahme von Vertretern des sogenannten Recherchekollektivs Correctiv bei Veranstaltungen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18196.pdf)**
 19/18196 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 26.02.2024
 Schlagworte: Pankow, Schulen, Veranstaltung
@@ -34,13 +34,13 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](them
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Pankow
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2024
+## Januar 2024
 **[Schuldrehscheibe Werneuchener Wiese (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17651.pdf)**
 19/17651 - [Schopf, Tino (SPD)](autor_schopf_tino_spd.md) - 02.01.2024
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Brandschutz, Pankow
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Bau von zwei Sporthallen in Wilhelmsruh und Rosenthal / Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16954.pdf)**
 19/16954 - [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md) - 18.10.2023
 Schlagworte: Baufinanzierung, Bauplanung, Grundschule, Pankow, Sporthalle, Städtebau
@@ -67,7 +67,7 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Allgemeinbildende Schulen, Kinderbetreuung, Pankow, Schulpflicht, Schüler, Statistik, Unterricht
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Stand der Schulsanierungsmaßnahmen im Bezirk Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15555.pdf)**
 19/15555 - [Schopf, Tino (SPD)](autor_schopf_tino_spd.md) - 31.05.2023
 Schlagworte: Bausanierung, Bauwesen, Pankow, Schule, Schulen, Statistik
@@ -78,19 +78,19 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Pankow, Schulfinanzierung, Schulweg
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2023
+## März 2023
 **[Möglichkeiten eines erweiterten Raumangebots am Schliemann- und Kollwitz- Gymnasium?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15099.pdf)**
 19/15099 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 28.03.2023
 Schlagworte: Allgemeinbildende Schulen, Pankow, Schulbau, Schulgebäude
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2023
+## Februar 2023
 **[Solarcity: Wann kommt die Solaranlage zur Reinhold-Burger-Schule in Pankow?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14605.pdf)**
 19/14605 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 01.02.2023
 Schlagworte: Energiepolitik, Klimaschutz, Pankow, Schule, Sporthalle, Umwelt
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14262.pdf)**
 19/14262 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Integrationspolitik, Pankow, Statistik
@@ -102,7 +102,7 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Integration](thema_integrati
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Finanzpolitik, Lehrer, Pankow, Personalplanung, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## July 2022
+## Juli 2022
 **[Fahrplan Schuldrehscheibe Werneuchener Wiese](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12490.pdf)**
 19/12490 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 22.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Pankow, Schulfinanzierung, Städtebau
@@ -118,7 +118,7 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Allgemeinbildende Schulen, Investition, Osteuropa, Pankow, Schulfinanzierung, Schulweg, Statistik
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2022
+## Juni 2022
 **[Fahrraddiebstähle beim Max-Delbrück-Gymnasium (früher Friedrich-List-Gymnasium) in Niederschönhausen, Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12091.pdf)**
 19/12091 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 22.06.2022
 Schlagworte: Gymnasium, Innere Sicherheit, Kriminalität, Kriminalstatistik, Pankow, Strafverfolgung
@@ -145,7 +145,7 @@ Ausdehnung der Tempo-30-Beschilderung in der Lessingstraße Wilhelmsruh um 100 M
 Schlagworte: Kindertagesstätte, Pankow, Schulweg, Straßenverkehr
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2022
+## Mai 2022
 **[Max-Delbrück-Gymnasium (ehemals Friedrich-List-Gymnasium) in Nieder schönhausen, Pankow - Turnhalle, Sportplatz, Grundstück](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11744.pdf)**
 19/11744 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 20.05.2022
 Schlagworte: Bauplanung, Bauwesen, Kosten, Pankow, Schule, Schulen, Sport, Sportplatz, Sportstättenbau
@@ -157,13 +157,13 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md)
 Schlagworte: Asbest, Bausanierung, Bauwesen, Bezirksverwaltung, Gebäude, Pankow, Schadstoffe, Immissionen, Emissionen, Schule, Schulen
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2022
+## Februar 2022
 **[Wie nachhaltig wird die „Schuldrehscheibe Werneuchener Wiese” in Pankow?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10829.pdf)**
 19/10829 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 18.02.2022
 Schlagworte: Grünfläche, Klimaschutz, Pankow, Schulen, Schulgebäude
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
-## December 2021
+## Dezember 2021
 **[Luftreinigungsgeräte in der Grundschule Wilhelmsruh, Pankow – u.a. Nachfragen zum Ergänzungsbau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10302.pdf)**
 19/10302 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 17.12.2021
 Schlagworte: Gesundheitsschutz, Grundschule, Luftreinhaltung, Pankow, Schulen, Statistik

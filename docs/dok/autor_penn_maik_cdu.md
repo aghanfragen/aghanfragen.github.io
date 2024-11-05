@@ -1,4 +1,4 @@
-# Amfragen von Penn, Maik (CDU)
+# Anfragen von Penn, Maik (CDU)
 
 Stand: 05.11.2024 14:41
 

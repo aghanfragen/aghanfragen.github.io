@@ -2,13 +2,13 @@
 
 Stand: 05.11.2024 14:41
 
-## March 2024
+## März 2024
 **[Die unendliche Geschichte geht weiter - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18344.pdf)**
 19/18344 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 06.03.2024
 Schlagworte: Ausschreibung, Bauplanung, Schulen, Städtebau, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Treptow-Köpenick ausgefallen? (Teil 7)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18238.pdf)**
 19/18238 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Schule, Schulen, Treptow-Köpenick, Unterricht
@@ -31,7 +31,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Allgemeinbildende Schulen, Ausschreibung, Bauplanung, Bauwesen, Investition, Treptow-Köpenick, Vergaberecht
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2023
+## Juli 2023
 **[Schüler in Treptow-Köpenick ohne Deutsch als Erstsprache bei Einschulungsbeginn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16049.pdf)**
 Hier auch Anzahl der Schülerinnen und Schüler ohne Schulabschluss
 19/16049 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 19.07.2023
@@ -43,7 +43,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Frühk
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Frühkindliche Bildung, Kinderbetreuung, Kosten, Neubau, Schule, Statistik, Treptow-Köpenick, Öffentlicher Haushalt
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2023
+## Juni 2023
 **[Bautätigkeiten und Bauvorhaben an der Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15813.pdf)**
 19/15813 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Kosten, Schadstoff, Treptow-Köpenick
@@ -54,13 +54,13 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Allgemeinbildende Schulen, Treptow-Köpenick, Verkehr, Verkehrserziehung, Verkehrssicherheit
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2023
+## März 2023
 **[Reaktivierung des Schulgebäudes Alfred-Randt-Straße 54 in Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14973.pdf)**
 19/14973 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 10.03.2023
 Schlagworte: Bauplanung, Bausanierung, Schulen, Städtebau, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14258.pdf)**
 19/14258 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Integrationspolitik, Statistik, Treptow-Köpenick
@@ -94,7 +94,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Digita
 Schlagworte: Schulen, Schüler, Straßenverkehr, Treptow-Köpenick, Verkehr, Verkehrsplanung, Verkehrssicherheit
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## July 2022
+## Juli 2022
 **[Zur Schulplatzsituation in Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12365.pdf)**
 19/12365 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 13.07.2022
 Schlagworte: Allgemeinbildende Schulen, Investition, Osteuropa, Schulfinanzierung, Schulweg, Statistik, Treptow-Köpenick
@@ -105,7 +105,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Allgemeinbildende Schulen, Ausschreibung, Bauplanung, Oberschule, Statistik, Städtebau, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2022
+## Mai 2022
 **[Geplante soziale Infrastruktur in Altglienicke](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11709.pdf)**
 19/11709 - [Laatsch, Harald (AfD)](autor_laatsch_harald_afd.md) - 11.05.2022
 Schlagworte: Kindertagesstätte, Statistik, Städtebau, Treptow-Köpenick, Wohnungsbau
@@ -122,7 +122,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäu
 Schlagworte: Bauplanung, Schulausstattung, Schulbau, Schulen, Schüler, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## January 2022
+## Januar 2022
 **[Gleichgültiger Schulleiter, ignorantes Amt - Warum geht die Grünflächenpflege der Vorgärten an der Müggelsee-Grundschule niemanden etwas an?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10620.pdf)**
 19/10620 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 26.01.2022
 Schlagworte: Allgemeinbildende Schulen, Ehrenamtliche Tätigkeit, Gehweg, Grünfläche, Treptow-Köpenick

@@ -1,8 +1,8 @@
-# Amfragen von Schulz, Mathias (SPD)
+# Anfragen von Schulz, Mathias (SPD)
 
 Stand: 05.11.2024 14:41
 
-## May 2022
+## Mai 2022
 **[Meldung von verfügbaren Kapazitäten der Schulen für die Aufnahme von geflüchteten Kindern aus der Ukraine](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11661.pdf)**
 19/11661 - [Schulz, Mathias (SPD)](autor_schulz_mathias_spd.md) - 11.05.2022
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtling, Osteuropa, Schulen, Schulklasse, Schüler, Statistik

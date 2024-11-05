@@ -1,4 +1,4 @@
-# Amfragen von Khalatbari, Sandra (CDU)
+# Anfragen von Khalatbari, Sandra (CDU)
 
 Stand: 05.11.2024 14:41
 
@@ -15,7 +15,7 @@ Grundvoraussetzungen für die Übernahme in die Gruppe der zentralverwalteten Sc
 Schlagworte: Bauplanung, Friedrichshain-Kreuzberg, Schulbau, Schulrecht
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2022
+## Juli 2022
 **[Heinrich-Hertz-Gymnasium - Wenn die Vorgaben fehlerhaft sind, können die Planungen dann zum Ziel führen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12324.pdf)**
 19/12324 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 06.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bezirksverwaltung, Friedrichshain-Kreuzberg, Gehweg, Grundschule, Grundstück, Gymnasium, Schulgebäude, Sportstättenbau, Städtebau
@@ -26,7 +26,7 @@ Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzber
 Schlagworte: COVID-19, Epidemie, Schule, Schulen
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## June 2022
+## Juni 2022
 **[Förderbedarf L-E-S an den Grundschulen – Gießkannenprinzip oder gezielte, individuelle Förderung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12088.pdf)**
 Förderschwerpunkte Lernen (L), Emotionale und soziale Entwicklung (E) und Sprache (S)
 19/12088 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 22.06.2022
@@ -38,7 +38,7 @@ Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Ink
 Schlagworte: Bauwesen, Schulausstattung, Schulbau, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2022
+## Mai 2022
 **[Asbest in Schulgebäuden inkl. dazugehöriger Sportanlagen im Bezirk Charlottenburg-Wilmersdorf – kann Schule krank machen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11678.pdf)**
 19/11678 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 09.05.2022
 Schlagworte: Charlottenburg-Wilmersdorf, Gebäude, Schadstoff, Schadstoffe, Immissionen, Emissionen, Schule, Schulgebäude
@@ -60,14 +60,14 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integr
 Schlagworte: Schule, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2022
+## März 2022
 **[Mehrsprachigkeit und SESB](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10987.pdf)**
 Einsetzung eines Gremiums "Mehrsprachigkeit und SESB"; Staatliche Europa-Schule Berlin (SESB)
 19/10987 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 02.03.2022
 Schlagworte: Bezirksverwaltung, Europaschule, Schulbau, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[„Schulnotstand in Berlin” – Fehlstart, Fehlbesetzung oder was sonst?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10490.pdf)**
 19/10490 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 14.01.2022
 Schlagworte: Bildung, Bildungspolitik, Laufbahnrecht, Personalplanung, Schule, Staatssekretär, Öffentliche Verwaltung
@@ -78,7 +78,7 @@ Themen: [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 Schlagworte: Beamtenrecht, Kommunale Angelegenheiten, Kosten, Laufbahnrecht, Lehrer, Schule
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
-## December 2021
+## Dezember 2021
 **[Schulnotstand in Berlin - Fokus auf Schulversuche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10383.pdf)**
 19/10383 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 29.12.2021
 Schlagworte: Begabtenförderung, Berufsausbildung, Berufsbildende Schule, Grundschule, Gymnasium, Schulen

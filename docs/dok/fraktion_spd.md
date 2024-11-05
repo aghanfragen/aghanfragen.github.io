@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Automaten mit Menstruationsartikeln in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20445.pdf)**
 19/20445 - [Golm, Mirjam (SPD)](autor_golm_mirjam_spd.md) - 11.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Frau, Frauen, Männer, Gesundheitsschutz, Kosten, Sanitäranlage, Schule, Statistik, Öffentliche Mittel
@@ -25,7 +25,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](t
 Schlagworte: Bausanierung, Schule, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2024
+## Juli 2024
 **[Faktenlage Typensporthalle - insbesondere Alfred-Randt-Straße 19/21](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19671.pdf)**
 19/19671 - [Wolff, Dunja (SPD)](autor_wolff_dunja_spd.md) - 25.07.2024
 Schlagworte: Bauplanung, Bezirk (Gebietskörperschaft), Schulen, Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, Sport, Sporthalle, Städtebau, Öffentlicher Haushalt
@@ -36,7 +36,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 Schlagworte: Bezirk (Gebietskörperschaft), Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schulausstattung
 Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## June 2024
+## Juni 2024
 **[Das Schul-Bermudadreieck von Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19370.pdf)**
 19/19370 - [Özdemir, Orkan (SPD)](autor_oezdemir_orkan_spd.md) - 20.06.2024
 Schlagworte: Abriss, Bauplanung, Kosten, Neubau, Schulbau, Schulen, Sporthalle, Stadtplanung, Städtebau, Tempelhof-Schöneberg
@@ -67,7 +67,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Person
 Schlagworte: Freier Träger, Frühkindliche Bildung, Kinderbetreuung, Meldewesen, Personalplanung, Statistik
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2024
+## Mai 2024
 **[Analyse des Einsatzes von Leasingkräften in Berliner Kitas: Kosten, Bedarf und Perspektiven bis 2030](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19004.pdf)**
 19/19004 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 14.05.2024
 Schlagworte: Arbeitsmarkt, Freier Träger, Frühkindliche Bildung, Leiharbeit, Personalplanung, Personalwesen, Statistik
@@ -84,7 +84,7 @@ Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md), [W
 Schlagworte: Bezirk (Gebietskörperschaft), Familienpolitik, Finanzierung, Frühkindliche Bildung, Jugendamt, Lebensgemeinschaften, Personalplanung, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Die unendliche Geschichte geht weiter - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18344.pdf)**
 19/18344 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 06.03.2024
 Schlagworte: Ausschreibung, Bauplanung, Schulen, Städtebau, Treptow-Köpenick
@@ -95,7 +95,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäu
 Schlagworte: Schule, Schulen, Sprache, Statistik, Unterricht
 Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## February 2024
+## Februar 2024
 **[Situation der Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18130.pdf)**
 19/18130 - [Hopp, Marcel (SPD)](autor_hopp_marcel_spd.md) - 21.02.2024
 Schlagworte: Erzieher, Lehrer, Marzahn-Hellersdorf, Personalplanung, Schule, Statistik
@@ -127,7 +127,7 @@ Nutzung von potentiell schulisch nutzbaren Räumen in den bezirklichen Liegensch
 Schlagworte: Jugend und Familie, Landesimmobilien, Schule, Schulen, Senatsverwaltung für Bildung, Jugend und Familie, Öffentliches Vermögen
 Themen: [Verwaltung](thema_verwaltung.md)
 
-## January 2024
+## Januar 2024
 **[Schulpflicht gilt für alle! Keine Kinder und Jugendliche zweiter Klasse!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17749.pdf)**
 19/17749 - [Özdemir, Orkan (SPD)](autor_oezdemir_orkan_spd.md) - 26.01.2024
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Kinder und Jugendliche, Lehrer, Mensch mit Migrationshintergrund, Personalplanung, Schulen, Statistik, Verwaltungsverfahren
@@ -138,13 +138,13 @@ Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Perso
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Brandschutz, Pankow
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2023
+## Dezember 2023
 **[Nutzung von Mitteln zur Personalkostenbudgetierung an öffentlichen Schulen im Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17652.pdf)**
 19/17652 - [Lasić, Dr. Maja (SPD)](autor_lasic_dr_maja_spd.md) - 29.12.2023
 Schlagworte: Allgemeinbildende Schulen, Personalkosten, Schule, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Bau von zwei Sporthallen in Wilhelmsruh und Rosenthal / Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16954.pdf)**
 19/16954 - [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md) - 18.10.2023
 Schlagworte: Baufinanzierung, Bauplanung, Grundschule, Pankow, Sporthalle, Städtebau
@@ -161,7 +161,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Kosten, Statistik, Verkehr
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md)
 
-## July 2023
+## Juli 2023
 **[Barrierefreiheit der beruflichen Schulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16110.pdf)**
 19/16110 - [Aydin, Sevim (SPD)](autor_aydin_sevim_spd.md) - 28.07.2023
 Schlagworte: Barrierefreiheit, Bausanierung, Bauwesen, Berufsbildende Schulen, Schulgebäude
@@ -188,7 +188,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltun
 Schlagworte: Bildende Kunst, Jugendbildung, Kinder, Jugendliche, Kunst, Kultur, Musik, Personalplanung, Reinickendorf, Statistik, Unterricht, Öffentlicher Haushalt
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2023
+## Juni 2023
 **[Schulwegsicherheit an der Reinickendorfer Grundschule am Schäfersee (12G02) (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15838.pdf)**
 19/15838 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Straßenverkehrsunfall, Unfallstatistik, Verkehr, Verkehrssicherheit
@@ -209,7 +209,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gesund
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Stand der Schulsanierungsmaßnahmen im Bezirk Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15555.pdf)**
 19/15555 - [Schopf, Tino (SPD)](autor_schopf_tino_spd.md) - 31.05.2023
 Schlagworte: Bausanierung, Bauwesen, Pankow, Schule, Schulen, Statistik
@@ -261,7 +261,7 @@ Themen: [Sonstige](thema_sonstige.md)
 Schlagworte: Berliner Beauftragter für Datenschutz und Informationsfreiheit, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen
 Themen: [Digitalisierung](thema_digitalisierung.md)
 
-## December 2022
+## Dezember 2022
 **[Befriste Einstellung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14151.pdf)**
 19/14151 - [Czyborra, Dr. Ina (SPD)](autor_czyborra_dr_ina_spd.md) - 20.12.2022
 Schlagworte: Befristetes Arbeitsverhältnis, Bildungsabschluss, Lehrer, Qualifikationsnachweis, Statistik
@@ -288,7 +288,7 @@ Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_
 Schlagworte: Eltern, Förderunterricht, Mensch mit Behinderung, Menschen mit Behinderungen, Schulaufsicht, Schule, Schulrecht, Sonderpädagogik, Teilhabe behinderter Menschen
 Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## October 2022
+## Oktober 2022
 **[Amokprävention an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13565.pdf)**
 19/13565 - [Schreiber, Tom (SPD)](autor_schreiber_tom_spd.md) - 27.10.2022
 Schlagworte: Beratung, Innere Sicherheit, Katastrophen- und Zivilschutz, Polizei, Schulen, Schulpsychologischer Dienst, Terrorismus
@@ -317,7 +317,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und S
 Schlagworte: Bauwesen, Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Schule, Schulen, Statistik, Treptow-Köpenick, WLAN
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Perspektive Schuljahr 22/23: Corona-Strategie in Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12354.pdf)**
 19/12354 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 13.07.2022
 Schlagworte: COVID-19, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Hygiene, Schulen
@@ -338,7 +338,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäu
 Schlagworte: Bausanierung, Bezirk (Gebietskörperschaft), Kindertagesstätte, Statistik, Städtebau, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Stand der Schuleingangs- und Kita-Reihenuntersuchungen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12136.pdf)**
 19/12136 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 29.06.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Kindertagesstätte, Schulpflicht, Statistik
@@ -370,7 +370,7 @@ Ausdehnung der Tempo-30-Beschilderung in der Lessingstraße Wilhelmsruh um 100 M
 Schlagworte: Kindertagesstätte, Pankow, Schulweg, Straßenverkehr
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2022
+## Mai 2022
 **[Max-Delbrück-Gymnasium (ehemals Friedrich-List-Gymnasium) in Nieder schönhausen, Pankow - Turnhalle, Sportplatz, Grundstück](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11744.pdf)**
 19/11744 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 20.05.2022
 Schlagworte: Bauplanung, Bauwesen, Kosten, Pankow, Schule, Schulen, Sport, Sportplatz, Sportstättenbau
@@ -402,7 +402,7 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 Schlagworte: Bauplanung, Schulausstattung, Schulbau, Schulen, Schüler, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## March 2022
+## März 2022
 **[Wahlpflichtfach Deutsche Gebärdensprache (DGS) an Schulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11237.pdf)**
 19/11237 - [Özdemir, Orkan (SPD)](autor_oezdemir_orkan_spd.md) - 28.03.2022
 Schlagworte: Gebärdensprache, Gehörloser, Schulen, Schulfach
@@ -419,7 +419,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Allgemeinbildende Schulen, Berufsbildende Schule, Lichtenberg
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2022
+## Februar 2022
 **[Arbeitssituation der Berliner Schulhausmeister\*innen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10751.pdf)**
 19/10751 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 11.02.2022
 Schlagworte: Arbeitsbedingungen, Arbeitsplatz, Arbeitszeit, Lohn- und Gehaltstarif, Schulen, Statistik
@@ -430,13 +430,13 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), 
 Schlagworte: Barrierefreiheit, Dienstleistung, Frühkindliche Bildung, Informations- und Kommunikationstechnologien, Informationssystem, Kinder- und Jugendhilfe, Software
 Themen: [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md)
 
-## January 2022
+## Januar 2022
 **[Eine never ending Story? - Erneute Verzögerungen an der Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10436.pdf)**
 19/10436 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 12.01.2022
 Schlagworte: Allgemeinbildende Schulen, Architekt, Baugenehmigung, Bausanierung, Bauwesen, Dienstleistung, Schulbau, Zahlungsunfähigkeit
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Luftreinigungsgeräte in der Grundschule Wilhelmsruh, Pankow – u.a. Nachfragen zum Ergänzungsbau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10302.pdf)**
 19/10302 - [Hofer, Torsten (SPD)](autor_hofer_torsten_spd.md) - 17.12.2021
 Schlagworte: Gesundheitsschutz, Grundschule, Luftreinhaltung, Pankow, Schulen, Statistik

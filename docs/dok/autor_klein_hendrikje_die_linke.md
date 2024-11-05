@@ -1,27 +1,27 @@
-# Amfragen von Klein, Hendrikje (Die Linke)
+# Anfragen von Klein, Hendrikje (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Anhaltende Verzögerung bei Schulbau in Friedrichsfelde](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20475.pdf)**
 19/20475 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 14.10.2024
 Schlagworte: Bauplanung, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## June 2024
+## Juni 2024
 **[Schulbaukosten von Neubauten durch die HOWOGE](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19232.pdf)**
 19/19232 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 06.06.2024
 Schlagworte: Finanzierung, Kosten, Lichtenberg, Neubau, Schule, Schulen, Städtebau, Wohnungsbaugesellschaft, Öffentliche Mittel
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## March 2024
+## März 2024
 **[Schulbaukosten von Neubauten in der BSO](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18429.pdf)**
 BSO = Berliner Schlubauoffensive
 19/18429 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 15.03.2024
 Schlagworte: Bauwesen, Kosten, Landeshaushaltsordnung, Neubau, Schule, Schulen, Statistik, Wohnungsbaugesellschaft, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## February 2024
+## Februar 2024
 **[Neuausschreibung für das Angebot von Schulmittagessen für die Primarstufe Klasse 1 bis 6 im Jahr 2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17922.pdf)**
 19/17922 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 07.02.2024
 Schlagworte: Ausschreibung, Bezirk (Gebietskörperschaft), Schulen, Vergaberecht
@@ -46,13 +46,13 @@ Hier auch kurzzeitige Nutzung der Schulen zur Flüchtlingsunterbringung, Anzahl 
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Bauwesen, Bevölkerungsentwicklung, Gesellschaft, Bevölkerung, Investition, Lichtenberg, Schulbau, Schulklasse, Statistik, Wohnungsbau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2022
+## März 2022
 **[Nachfragen zur Schriftlichen Anfrage 19/10525: Schule, Kita, Kultur und Park in der Rummelsburger Bucht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10890.pdf)**
 19/10890 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 02.03.2022
 Schlagworte: Bebauungsplan, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Kultur](thema_kultur.md)
 
-## January 2022
+## Januar 2022
 **[Schule, Kita, Jugend, Kultur und Park in der Rummelsburger Bucht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10525.pdf)**
 19/10525 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 24.01.2022
 Schlagworte: Bauplanung, Bebauungsplan, Grundschule, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau

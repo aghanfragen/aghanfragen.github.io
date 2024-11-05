@@ -1,8 +1,8 @@
-# Amfragen von Liebe, Dirk (SPD)
+# Anfragen von Liebe, Dirk (SPD)
 
 Stand: 05.11.2024 14:41
 
-## March 2022
+## März 2022
 **[Versorgung mit Oberschulplätzen in Hohenschönhausen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11092.pdf)**
 19/11092 - [Liebe, Dirk (SPD)](autor_liebe_dirk_spd.md) - 09.03.2022
 Schlagworte: Allgemeinbildende Schulen, Berufsbildende Schule, Lichtenberg

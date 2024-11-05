@@ -1,8 +1,8 @@
-# Amfragen von Tabor, Tommy (AfD)
+# Anfragen von Tabor, Tommy (AfD)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Lärmschutz in Kindertageseinrichtungen - Drucksache 19/20218 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20457.pdf)**
 19/20457 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.10.2024
 Schlagworte: Frühkindliche Bildung, Lärmschutz, Verwaltungsverfahren, Öffentliche Mittel, Öffentlicher Haushalt
@@ -54,7 +54,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und
 Schlagworte: Erzieher, Frühkindliche Bildung, Kind, Landesbetrieb
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
-## July 2024
+## Juli 2024
 **[Jugend-Meisterlehre und Wahlfach Technologieverständnis – Reform der Volksschulen in Dänemark](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19725.pdf)**
 19/19725 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 30.07.2024
 Schlagworte: Bildung, Digitalisierung, Internationale Beziehungen, Lehrplan, Nordeuropa, Senatsverwaltung für Bildung, Jugend und Familie
@@ -66,7 +66,7 @@ KJHG = Kinder- und Jugendhilfegesetzsiehe auch Drucksache 19/14365
 Schlagworte: Familienpolitik, Gesetzgebung, Kinder und Jugendliche, Kinder, Jugendliche, Personalplanung, Politische Bildung, Verwaltungsverfahren, Öffentliche Verwaltung, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2024
+## Juni 2024
 **[Weiterführung der wissenschaftlichen Aufarbeitung um Helmut Kentlers Wirken in der Kinder- und Jugendhilfe (Jugend- und Familienministerkonferenz am 23. und 24. Mai 2024 in Bremen)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19411.pdf)**
 19/19411 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.06.2024
 Schlagworte: Gewalt, Innere Sicherheit, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Pflegekind, Qualitätssicherung, Senatsverwaltung für Bildung, Jugend und Familie, Studie, Öffentliche Mittel
@@ -82,7 +82,7 @@ Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Schüleri
 Schlagworte: Bezirk (Gebietskörperschaft), Finanzierung, Finanzzuweisung, Frühkindliche Bildung, Kindertagespflege, Statistik, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
-## May 2024
+## Mai 2024
 **[Drucksache 19/18020 nachgefragt Jugendliche Intensivtäter als Gefahr für andere Jugendliche: alternative Formen der Beschulung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19056.pdf)**
 19/19056 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Gewaltprävention, Jugendlicher, Kinder- und Jugendhilfe, Schule, Schulen, Statistik, Unterricht, Öffentliche Mittel
@@ -114,7 +114,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwal
 Schlagworte: Bausanierung, Bauwesen, Frühkindliche Bildung, Neubau, Statistik, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Kita-Zuzahlungen: Konsequenzen aus dem Urteil des Bundesverwaltungsgerichts](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18587.pdf)**
 19/18587 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 26.03.2024
 Schlagworte: Finanzierung, Freier Träger, Frühkindliche Bildung, Gerichtsverfahren, Kinder- und Jugendhilfe, Rechtspflege
@@ -130,7 +130,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit u
 Schlagworte: Frühkindliche Bildung, Kind, Kinderbetreuung, Kindertagesstätte, Sexualität
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
-## February 2024
+## Februar 2024
 **[Spandau: Quereinsteiger an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18149.pdf)**
 19/18149 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.02.2024
 Schlagworte: Lehrer, Personalplanung, Spandau, Statistik
@@ -171,7 +171,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schül
 Schlagworte: Datenschutz, Gewalt, Jugendamt, Schulen, Schulrecht, Schüler, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## December 2023
+## Dezember 2023
 **[Digitalisierung des BeoTools](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17649.pdf)**
 BeoKiz – „Beobachtung & Einschätzung im Kita-Alltag: kindzentriert & ganzheitlich“, Verfahren zur Beobachtung, Dokumentation und Einschätzung kindlicher Entwicklung
 19/17649 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.12.2023
@@ -238,7 +238,7 @@ Wehret den Anfängen späterer Jugendgewalt! Was ist dem Senat zu marodierenden 
 Schlagworte: Allgemeinbildende Schulen, Gewaltprävention, Grundschule, Schüler
 Themen: [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Pflegeeltern: „Allianz für Pflegekinder” – Nachlese zum parlamentarischen Abend mit der Senatorin Katharina Günther-Wünsch](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17013.pdf)**
 19/17013 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.10.2023
 Schlagworte: Beratung, Eltern, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflege, Senatsverwaltung für Bildung, Jugend und Familie, Zuständigkeit (Verwaltung), Öffentliche Verwaltung
@@ -369,13 +369,13 @@ Nichtschwimmer und Nichtschwimmerinnen in den Klassenstufen 1 und 2
 Schlagworte: Schüler, Spandau, Sport
 Themen: [Bezirke:Spandau](thema_bezirke_spandau.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## July 2023
+## Juli 2023
 **[Weshalb baut Berlin keine weiteren Kitas in modularer nachhaltiger Holzbauweise?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15969.pdf)**
 19/15969 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 11.07.2023
 Schlagworte: Bauwesen, Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kosten, Neubau, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## June 2023
+## Juni 2023
 **[Spracherwerb von Kindern im Elternhaus und in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15826.pdf)**
 19/15826 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.06.2023
 Schlagworte: Bildung, Bildungspolitik, Frühkindliche Bildung, Kinderbetreuung, Kindertagesstätte
@@ -407,7 +407,7 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 Schlagworte: Gesetzgebung, Kinder, Jugendliche, Kinder- und Jugendhilfe
 Themen: [Sonstige](thema_sonstige.md)
 
-## May 2023
+## Mai 2023
 **[Hilft eine mit 90 Millionen Euro befüllte Gießkanne gegen die sogenannte Jugendgewalt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15442.pdf)**
 19/15442 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 25.05.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Inklusion, Innere Sicherheit, Jugendarbeit, Jugendfreizeitstätte, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendkriminalität, Schule, Statistik
@@ -489,7 +489,7 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Fi
 Schlagworte: , Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
-## March 2023
+## März 2023
 **[Manoeuvre in the Dark oder wie wertvoll ist der Kita-Navigator beim Finden der raren Betreuungsplätze im Winter und Frühjahr?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15011.pdf)**
 19/15011 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kinder, Jugendliche, Software, Statistik
@@ -511,7 +511,7 @@ Familienzentren an Grundschulen sind als Orte der Familienbildung zu verstehen, 
 Schlagworte: Familienpolitik, Kinder und Jugendliche, Soziale Einrichtungen
 Themen: [Grundschule](thema_grundschule.md), [Soziales](thema_soziales.md)
 
-## January 2023
+## Januar 2023
 **[Aktuelle Förderung für Kitaneubauten und tatsächliche Kosten pro Kitaplatz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14490.pdf)**
 19/14490 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.01.2023
 Schlagworte: Bauplanung, Finanzierung, Finanzzuweisung, Frühkindliche Bildung, Neubau, Statistik, Städtebau
@@ -523,7 +523,7 @@ KJHG: Kinder- und Jugendhilfegesetz
 Schlagworte: Familienpolitik, Gesetzgebung, Jugendarbeit, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Senatsverwaltung für Bildung, Jugend und Familie, Verwaltungsverfahren, Verwaltungsvorschrift, Öffentliche Verwaltung
 Themen: [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[Gartenarbeitsschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14135.pdf)**
 19/14135 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.12.2022
 Schlagworte: Allgemeinbildende Schulen, Frühkindliche Bildung, Gartenbau, Grundstück, Marzahn-Hellersdorf, Schulfinanzierung, Schüler, Statistik
@@ -570,7 +570,7 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Frau, Frauen, Männer, Frühkindliche Bildung, Grundschule, Kinder und Jugendliche, Kinder, Jugendliche, Kindertagesstätte, Lehrer, Mann, Personalplanung, Pädagoge, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Schwimmkurse für Kinder im sehr kalten Nass](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13585.pdf)**
 19/13585 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.10.2022
 Schlagworte: Allgemeinbildende Schulen, Berliner Bäder-Betriebe (BBB), Gebühr, Grundschule, Schüler, Sport, Unterricht
@@ -619,7 +619,7 @@ Zusätzliches Personal im Hortbereich für Schüler mit Bedarf an zusätzlicher 
 Schlagworte: Bezirk (Gebietskörperschaft), Personalkosten, Personalplanung, Statistik, Verwaltungsverfahren
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## July 2022
+## Juli 2022
 **[Inobhutnahme nach den §§ 8a und § 42 SGB VIII: Unterrichtung der Eltern und Rechtsmittelbelehrung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12439.pdf)**
 19/12439 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
 Schlagworte: Eltern, Gesetzgebung, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Rechtsberatung, Verwaltungsverfahren, Öffentliche Verwaltung
@@ -637,7 +637,7 @@ Ausbildung für Sozialpädagogen, Sozialarbeiter, Sozialwissenschaftler, Erziehu
 Schlagworte: Berufsausbildung, Erzieher, Kinder- und Jugendhilfe, Kinderschutz, Sozialpädagogik, Studium, Öffentliche Verwaltung
 Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2022
+## Juni 2022
 **[Schulpsycholgische Beratung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11929.pdf)**
 Anzahl der Vollzeitstellen, Arbeitsbereiche und Fortbildung für Schulpsychologen im Fachbereich Schulpsychologie in den Schulpsychologischen und Inklusionspädagogischen Beratungs- und Unterstützungszentren (SIBUZ)
 19/11929 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 09.06.2022
@@ -654,13 +654,13 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 Schlagworte: Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kosten, Neubau, Statistik, Städtebau
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## May 2022
+## Mai 2022
 **[Rahmenplan zur Grundqualifikation von Vollzeitpflegepersonen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11818.pdf)**
 19/11818 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 24.05.2022
 Schlagworte: Berufsausbildung, Eltern, Familienhilfe, Kinder, Jugendliche, Kinderbetreuung, Lehrplan, Pflege, Pflegeeinrichtung, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schulfächer](thema_schulfaecher.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Übergang Schule – Beruf, (Teil 1): Zahlen und Maßnahmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11175.pdf)**
 19/11175 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 18.03.2022
 Schlagworte: Berufsausbildung, Bildungsabschluss, Schule, Schüler-Lehrer-Relation, Statistik
@@ -676,7 +676,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md)
 Schlagworte: Arbeitsverwaltung, Berufsausbildung, Jugendarbeitslosigkeit, Schulen
 Themen: [Berufsbildung](thema_berufsbildung.md)
 
-## February 2022
+## Februar 2022
 **[Hausmeister und Hausmeistertätigkeiten in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10776.pdf)**
 19/10776 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.02.2022
 Schlagworte: Frühkindliche Bildung, Personalkosten, Personalplanung
@@ -693,7 +693,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](th
 Schlagworte: Frühkindliche Bildung, Kinderbetreuung, Kinderschutz, Pädagoge, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## January 2022
+## Januar 2022
 **[Schule in der Köllnischen Heide: Kinder aus kriminellen Clanfamilien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10431.pdf)**
 19/10431 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.01.2022
 Schlagworte: Allgemeinbildende Schulen, Gewaltprävention, Innere Sicherheit, Kinder, Jugendliche, Kinderschutz, Neukölln, Organisierte Kriminalität, Veranstaltung, Verbrechensbekämpfung
@@ -704,7 +704,7 @@ Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Sozialklima](thema_soz
 Schlagworte: COVID-19, Epidemie, Frühkindliche Bildung, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagespflege
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## December 2021
+## Dezember 2021
 **[Anzahl der Schüler mit nichtdeutscher Herkunftssprache (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10394.pdf)**
 19/10394 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.12.2021
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Schulen, Staatsangehörigkeit, Statistik

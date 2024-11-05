@@ -1,4 +1,4 @@
-# Amfragen von Rogat, Roman-Francesco (FDP)
+# Anfragen von Rogat, Roman-Francesco (FDP)
 
 Stand: 05.11.2024 14:41
 

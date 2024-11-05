@@ -1,14 +1,14 @@
-# Amfragen von Brinker, Dr. Kristin (AfD)
+# Anfragen von Brinker, Dr. Kristin (AfD)
 
 Stand: 05.11.2024 14:41
 
-## May 2023
+## Mai 2023
 **[Vorträge von Externen in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15322.pdf)**
 19/15322 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 05.05.2023
 Schlagworte: Bildungspolitik, Schulen
 Themen: [Sonstige](thema_sonstige.md)
 
-## March 2023
+## März 2023
 **[Das Therapieschwimmbad in der Peter-Frankenfeld-Schule in Berlin-Lankwitz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15033.pdf)**
 19/15033 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 21.03.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Kosten, Schule, Sonderpädagogik, Therapie
@@ -20,7 +20,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gesundheit 
 Schlagworte: Bauplanung, Bauwesen, Bezirk (Gebietskörperschaft), Schulen, Wirtschaftsprüfung, Wohnungsbaugesellschaft
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## January 2022
+## Januar 2022
 **[Rahmenbedingungen für Kitas Freier Träger in der 19. Wahlperiode](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10423.pdf)**
 19/10423 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 05.01.2022
 Schlagworte: Freier Träger, Frühkindliche Bildung, Kosten

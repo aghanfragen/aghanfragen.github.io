@@ -1,8 +1,8 @@
-# Amfragen von Herrmann, Alexander (CDU)
+# Anfragen von Herrmann, Alexander (CDU)
 
 Stand: 05.11.2024 14:41
 
-## May 2022
+## Mai 2022
 **[Schulneubau in der Carola-Neher-Straße 61-65 in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11838.pdf)**
 19/11838 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 27.05.2022
 Schlagworte: Bezirksverwaltung, Marzahn-Hellersdorf, Schulen

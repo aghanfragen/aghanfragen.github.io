@@ -1,8 +1,8 @@
-# Amfragen von Ronneburg, Kristian (Die Linke)
+# Anfragen von Ronneburg, Kristian (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Fortführung von Teach-First an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20435.pdf)**
 19/20435 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 11.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Schulen, Schulpolitik, Statistik, Öffentliche Mittel
@@ -14,7 +14,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Statistik](
 Schlagworte: Marzahn-Hellersdorf, Schule, Schulen, Schüler, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## July 2024
+## Juli 2024
 **[Schulneubau am Auerbacher Ring in Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19709.pdf)**
 19/19709 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 29.07.2024
 Schlagworte: Bauplanung, Bürgerbeteiligung, Gemeinschaftsschule, Information, Marzahn-Hellersdorf, Neubau, Schulen, Städtebau, Ökologisches Bauen
@@ -30,7 +30,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Grundstück, Marzahn-Hellersdorf, Sportstättenbau, Stadtplanung, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2024
+## Juni 2024
 **[Wie steht es um die Schulhöfe in Marzahn-Hellersdorf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19423.pdf)**
 19/19423 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 26.06.2024
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Marzahn-Hellersdorf, Schule, Statistik
@@ -46,7 +46,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Marzahn-Hellersdorf, Schüler, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2024
+## Mai 2024
 **[Eröffnung der 36. Grundschule Hellersdorf – Zustand der Außenanlagen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18982.pdf)**
 19/18982 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.05.2024
 Schlagworte: Bauplanung, Bezirksverwaltung, Grundschule, Marzahn-Hellersdorf, Schulen, Schulgebäude, Sporthalle
@@ -70,7 +70,7 @@ OSZ = Oberstufenzentrum
 Schlagworte: Bauplanung, Berufsbildende Schulen, Marzahn-Hellersdorf, Schulbau
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## March 2024
+## März 2024
 **[Grundschulneubau Naumburger Ring (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18463.pdf)**
 19/18463 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 20.03.2024
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Schulbau
@@ -81,7 +81,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Frühkindliche Bildung, Kinderbetreuung, Marzahn-Hellersdorf, Neubau, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## February 2024
+## Februar 2024
 **[Drehscheibenstandort - Wie ist der Stand an der Sebnitzer Straße in Hellersdorf (Teil 4)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18031.pdf)**
 19/18031 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 13.02.2024
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Marzahn-Hellersdorf, Schulen
@@ -92,7 +92,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Bebauungsplan, Marzahn-Hellersdorf, Schulbau, Schulen, Schüler, Statistik, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## December 2023
+## Dezember 2023
 **[Neue Gemeinschaftsschule in Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17667.pdf)**
 19/17667 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.12.2023
 Schlagworte: Allgemeinbildende Schulen, Marzahn-Hellersdorf
@@ -130,7 +130,7 @@ Zusätzliche Hallenzeiten zur vollständigen Abdeckung des Schwimmunterrichts
 Schlagworte: Allgemeinbildende Schulen, Marzahn-Hellersdorf, Schwimmbad, Sport
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2023
+## Oktober 2023
 **[Zustand und Sanierung der Schultoiletten in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17046.pdf)**
 19/17046 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 31.10.2023
 Schlagworte: Bausanierung, Bauwesen, Marzahn-Hellersdorf, Sanitäranlage, Schulen
@@ -180,7 +180,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Bebauungsplan, Grundstück, Liegenschaftsverwaltung, Marzahn-Hellersdorf, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2023
+## Juli 2023
 **[Sanierung und Neubau von Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16173.pdf)**
 19/16173 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 28.07.2023
 Schlagworte: Bausanierung, Bauwesen, Investition, Marzahn-Hellersdorf, Schulen
@@ -191,7 +191,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fi
 Schlagworte: Gehweg, Marzahn-Hellersdorf, Radweg, Straßenverkehr, Verkehrssicherheit
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
-## March 2023
+## März 2023
 **[Fertigstellung Schulneubauten in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14889.pdf)**
 19/14889 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 06.03.2023
 Schlagworte: Marzahn-Hellersdorf, Neubau, Schulen, Städtebau
@@ -202,7 +202,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Frühkindliche Bildung, Kinderbetreuung, Marzahn-Hellersdorf, Neubau, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## December 2022
+## Dezember 2022
 **[Kita-Plätze in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13987.pdf)**
 19/13987 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 06.12.2022
 Schlagworte: Frühkindliche Bildung, Kinder- und Jugendhilfe, Kinderbetreuung, Marzahn-Hellersdorf, Statistik
@@ -234,7 +234,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fi
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Schulbau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Temporäre mobile Schulplatzkapazitäten an der Wolfgang-Amadeus-Mozart-Gemeinschaftsschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12519.pdf)**
 19/12519 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 26.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bauland, Gemeinschaftsschule, Marzahn-Hellersdorf, Schulklasse, Statistik, Städtebau
@@ -262,7 +262,7 @@ Bauliche Mängel und Geruchsbildung
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Bauwesen, Marzahn-Hellersdorf, Schulgebäude
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2022
+## Juni 2022
 **[Schulneubau Haltoner Straße in Biesdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12149.pdf)**
 19/12149 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 23.06.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bezirksverwaltung, Grundschule, Marzahn-Hellersdorf, Städtebau, Öffentliche Mittel
@@ -278,7 +278,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Di
 Schlagworte: Bausanierung, Frühkindliche Bildung, Kinderbetreuung, Kosten, Marzahn-Hellersdorf, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## May 2022
+## Mai 2022
 **[Zum Neubau einer Grundschule an der Marzahner Chaussee 165](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11861.pdf)**
 19/11861 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Neubau, Schulbau, Schulgebäude, Statistik, Städtebau
@@ -300,7 +300,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Bebauungsplan, Marzahn-Hellersdorf, Schulbau, Schulen, Schüler, Statistik, Städtebau, Wohnungsbau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Gartenarbeitsschule für Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11104.pdf)**
 19/11104 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.03.2022
 Schlagworte: Investition, Marzahn-Hellersdorf, Naturschutz, Schulausstattung, Schule, Schulen
@@ -311,7 +311,7 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fi
 Schlagworte: Frühkindliche Bildung, Kinder- und Jugendhilfe, Kinderbetreuung, Marzahn-Hellersdorf, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Pflegenotstand - Aber kein Oberstufenzentrum in Biesdorf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10805.pdf)**
 19/10805 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.02.2022
 Schlagworte: Berufsausbildung, Fachkraft, Marzahn-Hellersdorf, Personalplanung, Pflege

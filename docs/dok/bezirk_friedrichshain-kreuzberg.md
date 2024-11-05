@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## June 2024
+## Juni 2024
 **[Grundschulkinder vor Drogenkonsum im öffentlichen Raum schützen: Thalia- Grundschule auf Alt-Stralau unterstützen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19339.pdf)**
 19/19339 - [Husein, Dr. Timur (CDU)](autor_husein_dr_timur_cdu.md) - 20.06.2024
 Schlagworte: Allgemeinbildende Schulen, Friedrichshain-Kreuzberg, Kind, Ordnungsbehörde, Ordnungsrecht, Wohnungslosigkeit, Öffentliche Sicherheit und Ordnung
@@ -18,19 +18,19 @@ Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzber
 Schlagworte: Asbest, Bausanierung, Friedrichshain-Kreuzberg, Schulen
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Friedrichshain-Kreuzberg ausgefallen? (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18232.pdf)**
 19/18232 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Friedrichshain-Kreuzberg, Lehrer, Schule, Schulen, Unterricht
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Personal](thema_personal.md)
 
-## January 2023
+## Januar 2023
 **[Bauprojekt Marchlewskistrasse 40 in Friedrichshain](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14435.pdf)**
 19/14435 - [Valgolio, Damiano (Die Linke)](autor_valgolio_damiano_die_linke.md) - 19.01.2023
 Schlagworte: Baugenehmigung, Baulärm, Baum, Bauplanung, Baustelle, Bauwesen, Friedrichshain-Kreuzberg, Frühkindliche Bildung, Schadstoffe, Immissionen, Emissionen, Spielplatz
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Friedrichshain-Kreuzberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14260.pdf)**
 19/14260 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Friedrichshain-Kreuzberg, Integrationspolitik, Statistik
@@ -70,7 +70,7 @@ Grundvoraussetzungen für die Übernahme in die Gruppe der zentralverwalteten Sc
 Schlagworte: Bauplanung, Friedrichshain-Kreuzberg, Schulbau, Schulrecht
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2022
+## Juli 2022
 **[Zur Schulplatzsituation in Friedrichshain-Kreuzberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12374.pdf)**
 19/12374 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 13.07.2022
 Schlagworte: Allgemeinbildende Schulen, Friedrichshain-Kreuzberg, Investition, Osteuropa, Schulfinanzierung, Schulweg, Statistik

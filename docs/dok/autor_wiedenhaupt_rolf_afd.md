@@ -1,8 +1,8 @@
-# Amfragen von Wiedenhaupt, Rolf (AfD)
+# Anfragen von Wiedenhaupt, Rolf (AfD)
 
 Stand: 05.11.2024 14:41
 
-## July 2024
+## Juli 2024
 **[Berliner Verkehrsschulen quo vadis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19553.pdf)**
 19/19553 - [Wiedenhaupt, Rolf (AfD)](autor_wiedenhaupt_rolf_afd.md) - 11.07.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Brandenburg, Jugendlicher, Kinder, Jugendliche, Mensch mit Migrationshintergrund, Personalplanung, Schule, Verkehr, Verkehrssicherheit, Älterer Mensch, Öffentlicher Haushalt

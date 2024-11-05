@@ -1,14 +1,14 @@
-# Amfragen von Grasse, Adrian (CDU)
+# Anfragen von Grasse, Adrian (CDU)
 
 Stand: 05.11.2024 14:41
 
-## March 2023
+## März 2023
 **[Zeitplan zur Verbeamtung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14847.pdf)**
 19/14847 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 03.03.2023
 Schlagworte: Besoldung, Lehrer, Schule, Öffentlicher Dienst
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
-## December 2022
+## Dezember 2022
 **[Straftaten im Umfeld von Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14003.pdf)**
 19/14003 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 06.12.2022
 Schlagworte: Gewalt, Gewaltprävention, Innere Sicherheit, Kriminalstatistik, Lehrer, Schulen, Schüler, Straftat
@@ -20,25 +20,25 @@ Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Bezirk (Gebietskörperschaft), Innere Sicherheit, Kriminalstatistik, Schule, Öffentliche Sicherheit und Ordnung
 Themen: [Bezirke](thema_bezirke.md), [Sozialklima](thema_sozialklima.md)
 
-## October 2022
+## Oktober 2022
 **[Turmbesteigung auf dem Dahlemer Arndt-Gymnasium](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13400.pdf)**
 19/13400 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 13.10.2022
 Schlagworte: Bauaufsicht, Bauordnungsrecht, Bauwesen, Rettungswesen, Steglitz-Zehlendorf
 Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## June 2022
+## Juni 2022
 **[Quereinstiegsmaster und Berliner Lehramt-Stipendium](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11959.pdf)**
 19/11959 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 09.06.2022
 Schlagworte: Hochschule, Hochschulwesen, Lehrer, Master (Hochschule), Quereinsteiger, Statistik, Stipendium, Studienplatz
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Mühlenau-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10938.pdf)**
 19/10938 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 24.02.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Steglitz-Zehlendorf
 Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Zukunft der Schnelllernerklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10340.pdf)**
 19/10340 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 17.12.2021
 Schlagworte: Allgemeinbildende Schulen, Gymnasium, Statistik

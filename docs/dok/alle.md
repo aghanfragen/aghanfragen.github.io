@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**
 19/20564 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Bildungspolitik, Frühkindliche Bildung, Sprachförderung, Statistik, Öffentliche Mittel
@@ -403,7 +403,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulf
 Schlagworte: Allgemeinbildende Schulen, Digitalisierung, Grundschule, Personalplanung, Reinickendorf, Schüler, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2024
+## Juli 2024
 **[Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 A)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19758.pdf)**
 19/19758 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.07.2024
 Schlagworte: Bevölkerungsentwicklung, Lehramtsanwärter, Lehrer, Personalplanung, Schulpersonal, Statistik
@@ -538,7 +538,7 @@ Drs. = Drucksache
 Schlagworte: Erziehung, Gesellschaft, Bevölkerung, Kinder und Jugendliche, LSBTTIQ, Lehrplan, Sexualität, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer](thema_schulfaecher.md)
 
-## June 2024
+## Juni 2024
 **[Religion als ordentliches Schulfach: Welche Vorbereitungen trifft der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19418.pdf)**
 19/19418 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 27.06.2024
 Schlagworte: Allgemeinbildende Schulen, Gesetzgebung, Lehrerbildung, Lehrplan, Religion, Schule, Universitäten, Unterricht
@@ -728,7 +728,7 @@ Themen: [Integration](thema_integration.md), [Schulfächer](thema_schulfaecher.m
 Schlagworte: Berufliche Weiterbildung, Lehramtsanwärter, Lehrer
 Themen: [Personal](thema_personal.md)
 
-## May 2024
+## Mai 2024
 **[Transparenz im Haushalt Bildung, Jugend und Familie für Projekte, Träger und das Parlament wiederherstellen - Wer wird 2024 gefördert? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19146.pdf)**
 19/19146 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.05.2024
 Schlagworte: Finanzpolitik, Freier Träger, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -934,7 +934,7 @@ KJSG  = Gesetz zur Stärkung von Kindern und Jugendlichen (Kinder- und Jugendst�
 Schlagworte: Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Kindertagesstätte, Mensch mit Behinderung, Sozialarbeit, Soziales, Sozialpädagogik, Statistik, Teilhabe behinderter Menschen
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Qualitätssicherung im Ganztag, aber ohne Fachkenntnis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18583.pdf)**
 19/18583 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.03.2024
 Schlagworte: Allgemeinbildende Schulen, Bildung, Bildungspolitik, Qualitätssicherung, Schulrecht
@@ -1121,7 +1121,7 @@ Themen: [Finanzen](thema_finanzen.md)
 Schlagworte: Bezirksverwaltung, Einschulung, Kommunale Angelegenheiten, Schule, Schulen
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
 19/18242 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Reinickendorf, Schule, Schulen, Unterricht
@@ -1323,7 +1323,7 @@ Themen: [Verwaltung](thema_verwaltung.md)
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bevölkerungsentwicklung, Bezirk (Gebietskörperschaft), Privatschule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2024
+## Januar 2024
 **[Berliner Eliteschulen des Sports (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17844.pdf)**
 19/17844 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 31.01.2024
 Schlagworte: Schule, Schulen, Schüler, Sport, Sportförderung, Statistik
@@ -1380,7 +1380,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Bezirke:Marzahn-He
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Brandschutz, Pankow
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2023
+## Dezember 2023
 **[Neue Gemeinschaftsschule in Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17667.pdf)**
 19/17667 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.12.2023
 Schlagworte: Allgemeinbildende Schulen, Marzahn-Hellersdorf
@@ -1717,7 +1717,7 @@ Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildu
 Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schulen, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## October 2023
+## Oktober 2023
 **[Verfügbarkeit von kostenlosen Menstruationsprodukten an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17063.pdf)**
 19/17063 - [Haghanipour, Dr. Bahar (Grüne)](autor_haghanipour_dr_bahar_gruene.md) - 31.10.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Frau, Gesundheitsschutz, Hygiene, Kosten, Schulen, Schüler
@@ -2236,7 +2236,7 @@ Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Integrati
 Schlagworte: Ausländer, Migranten, Einschulung, Jugendamt, Kinder und Jugendliche, Kinder, Jugendliche, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## July 2023
+## Juli 2023
 **[Sanierung und Neubau von Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16173.pdf)**
 19/16173 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 28.07.2023
 Schlagworte: Bausanierung, Bauwesen, Investition, Marzahn-Hellersdorf, Schulen
@@ -2404,7 +2404,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](them
 Schlagworte: Bezirk, Gewalt, Grundschule, Innere Sicherheit, Jugendarbeit, Kinder und Jugendliche, Kinder- und Jugendhilfe, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Sozialklima](thema_sozialklima.md)
 
-## June 2023
+## Juni 2023
 **[Nachfrage zur Realisierung des 11. Pflichtschuljahrs](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15998.pdf)**
 19/15998 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 12.06.2023
 Schlagworte: Allgemeinbildende Schulen, Berufsausbildung, Berufsberatung, Jugendbildung
@@ -2574,7 +2574,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule]
 Schlagworte: Gerichtsentscheidung, Religionsgemeinschaften, Schule, Schulen
 Themen: [Vielfalt](thema_vielfalt.md)
 
-## May 2023
+## Mai 2023
 **[Lese- und Rechenkompetenz der Viertklässler in den Grundschulen Marzahn-Hellersdorfs](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15599.pdf)**
 19/15599 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 31.05.2023
 Schlagworte: Allgemeinbildende Schulen, Bildung, Marzahn-Hellersdorf, Schüler
@@ -2908,7 +2908,7 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weit
 Schlagworte: Beamtenrecht, Besoldung, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## March 2023
+## März 2023
 **[Möglichkeiten eines erweiterten Raumangebots am Schliemann- und Kollwitz- Gymnasium?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15099.pdf)**
 19/15099 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 28.03.2023
 Schlagworte: Allgemeinbildende Schulen, Pankow, Schulbau, Schulgebäude
@@ -3050,7 +3050,7 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 Schlagworte: Gesundheitsschutz, Kindertagesstätte, Krankheit, Personalplanung, Pflegeeinrichtung, Qualifikationsnachweis, Schule, Schüler
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## February 2023
+## Februar 2023
 **[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
 19/14850 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2023
 Schlagworte: Finanzierung, Frühkindliche Bildung, Personalplanung, Qualitätssicherung
@@ -3200,7 +3200,7 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Allgemeinbildende Schulen, Ausländer, Migranten, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Integrationspolitik, Oberschule, Schule, Schüler, Sprachförderung, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2023
+## Januar 2023
 **[Kitagebühren doppelt kassieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14642.pdf)**
 19/14642 - [Bung, Stefanie (CDU)](autor_bung_stefanie_cdu.md) - 31.01.2023
 Schlagworte: Abgaben, Finanzzuweisung, Frühkindliche Bildung, Gebühr
@@ -3318,7 +3318,7 @@ Themen: [Verwaltung](thema_verwaltung.md)
 Schlagworte: Ausbildungsordnung, Bauwesen, Berufsausbildung, Berufsbildende Schule, Bildungsabschluss, Kosten, Schulausstattung, Schulpersonal, Vergütung, Öffentlicher Haushalt
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[Lehrer gerechter verteilen - Geht das Konzept auf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14326.pdf)**
 19/14326 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 30.12.2022
 Schlagworte: Allgemeinbildende Schulen, Personalplanung, Personalwesen, Schule, Öffentlicher Dienst
@@ -3906,7 +3906,7 @@ Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Gebäudereinigung, Schulausstattung, Schulbau, Sportstättenbau, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Fachkräftemangel in der Eingliederungshilfe: Stärkung der Ausbildung zum\*zur Heilerziehungspfleger\*in (HEP), Möglichkeiten für den Quereinstieg und die Anerkennung von Qualifikationen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13586.pdf)**
 19/13586 - [Wahlen, Catrin (Grüne)](autor_wahlen_catrin_gruene.md) - 28.10.2022
 Schlagworte: Berufsausbildung, Berufsbildende Schule, Fachkraft, Kinder und Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Quereinsteiger, Schulgeld, Sozialberuf, Statistik
@@ -4593,7 +4593,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Personal](t
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Oberschule, Schulrecht, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Politische Bildung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12581.pdf)**
 19/12581 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lehr- und Lernmittel, Lehrer, Lehrerbildung, Personalplanung, Politische Bildung, Statistik, Unterricht
@@ -4921,7 +4921,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bez
 Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schüler, Statistik, Suchtprävention
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
 Schlagworte: Bildungsabschluss, Lehrer, Lehrerbildung, Statistik
@@ -5166,7 +5166,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 Schlagworte: Bausanierung, Frühkindliche Bildung, Kinderbetreuung, Kosten, Marzahn-Hellersdorf, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## May 2022
+## Mai 2022
 **[Personalentwicklung in den Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11853.pdf)**
 19/11853 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Disziplinarverfahren, Lehrer, Personalwesen, Quereinsteiger, Schule, Schulleiter, Statistik
@@ -5470,7 +5470,7 @@ Themen: [Statistik](thema_statistik.md)
 Schlagworte: Schule, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2022
+## März 2022
 **[MSA an Integrierten Sekundarschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11276.pdf)**
 19/11276 - [Melzer, Heiko (CDU)](autor_melzer_heiko_cdu.md) - 31.03.2022
 Schlagworte: Allgemeinbildende Schulen, Bildungsabschluss, Integrierte Sekundarschule, Prüfung, Schulfach
@@ -5695,7 +5695,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 Schlagworte: Bebauungsplan, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Kultur](thema_kultur.md)
 
-## February 2022
+## Februar 2022
 **[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
 19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
@@ -5996,7 +5996,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Ausschreibung, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagesstätte, Schule, Schulen, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[Gewalt an Marzahn-Hellersdorfer Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10615.pdf)**
 19/10615 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 31.01.2022
 Schlagworte: Gewalt, Gewaltprävention, Marzahn-Hellersdorf, Schulen, Schulpsychologischer Dienst, Strafanzeige
@@ -6138,7 +6138,7 @@ Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Finanzen](thema_finanz
 Schlagworte: COVID-19, Epidemie, Frühkindliche Bildung, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagespflege
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## December 2021
+## Dezember 2021
 **[Pandemie und Praktika](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10403.pdf)**
 Infektionssituation mit Betriebs- und Sozialpraktika an Schulen
 19/10403 - [Seibeld, Cornelia (CDU)](autor_seibeld_cornelia_cdu.md) - 29.12.2021

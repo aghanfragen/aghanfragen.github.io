@@ -1,8 +1,8 @@
-# Amfragen von Stettner, Dirk (CDU)
+# Anfragen von Stettner, Dirk (CDU)
 
 Stand: 05.11.2024 14:41
 
-## October 2022
+## Oktober 2022
 **[Aktueller Status der Luftfiltergeräte an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13489.pdf)**
 19/13489 - [Stettner, Dirk (CDU)](autor_stettner_dirk_cdu.md) - 19.10.2022
 Schlagworte: Finanzierung, Kindertagesstätte, Luftreinhaltung, Schulausstattung, Schulen, Statistik
@@ -25,7 +25,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](th
 Schlagworte: Allgemeinbildende Schulen, Arbeitszeit, Bezirk (Gebietskörperschaft), Erzieher, Lehrer, Lehrerbildung, Schule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Schulen & Internet](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10270.pdf)**
 19/10270 - [Stettner, Dirk (CDU)](autor_stettner_dirk_cdu.md) - 15.12.2021
 Schlagworte: ITDZ Berlin, Informations- und Kommunikationstechnologien, Internet, Schulausstattung, Schulen, WLAN

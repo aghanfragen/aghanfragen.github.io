@@ -1,8 +1,8 @@
-# Amfragen von Meyer, Sven (SPD)
+# Anfragen von Meyer, Sven (SPD)
 
 Stand: 05.11.2024 14:41
 
-## July 2023
+## Juli 2023
 **[Wie viel kostet die Rekommunalisierung der Schulreinigung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16045.pdf)**
 19/16045 - [Meyer, Sven (SPD)](autor_meyer_sven_spd.md) - 20.07.2023
 Schlagworte: Arbeitnehmer, Arbeitsentgelt, Dienstleistung, Dienstleistungen, Dienstleistungswirtschaft, Gebäudereinigung, Kosten, Landesbetrieb, Schulen, Tarifvertrag, Vergütung

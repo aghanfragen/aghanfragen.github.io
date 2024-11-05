@@ -13,13 +13,13 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Integration](t
 Schlagworte: Allgemeinbildende Schulen, Digitalisierung, Grundschule, Personalplanung, Reinickendorf, Schüler, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2024
+## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
 19/18242 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
 Schlagworte: Lehrer, Reinickendorf, Schule, Schulen, Unterricht
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Personal](thema_personal.md)
 
-## December 2023
+## Dezember 2023
 **[Geplante Bauvorhaben an der Chamisso-Grundschule, Märkisches Viertel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17627.pdf)**
 19/17627 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 27.12.2023
 Schlagworte: Bauplanung, Reinickendorf, Schulgebäude, Schüler-Lehrer-Relation, Städtebau
@@ -32,13 +32,13 @@ Versorgung mit Schul- und Kitaplätzen / Betreuung / Betreiber dieser Asylunterk
 Schlagworte: Ausländer, Migranten, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Reinickendorf
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Integration](thema_integration.md)
 
-## July 2023
+## Juli 2023
 **[Sicherung der Jugendkunstschule „Atrium” in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15887.pdf)**
 19/15887 - [Meyer, Sven (SPD)](autor_meyer_sven_spd.md) - 07.07.2023
 Schlagworte: Bildende Kunst, Jugendbildung, Kinder, Jugendliche, Kunst, Kultur, Musik, Personalplanung, Reinickendorf, Statistik, Unterricht, Öffentlicher Haushalt
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2023
+## Juni 2023
 **[Schulwegsicherheit an der Reinickendorfer Grundschule am Schäfersee (12G02) (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15838.pdf)**
 19/15838 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Straßenverkehrsunfall, Unfallstatistik, Verkehr, Verkehrssicherheit
@@ -49,7 +49,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Schulwegsicherheit an der Reinickendorfer Reginhard-Grundschule (12G03)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15395.pdf)**
 19/15395 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 16.05.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
@@ -76,7 +76,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Denkmalschutz, Grundschule, Reinickendorf, Städtebau
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Willkommensklassen im Bezirk Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14263.pdf)**
 19/14263 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.12.2022
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Integrationspolitik, Reinickendorf, Statistik
@@ -88,7 +88,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Integration](t
 Schlagworte: Allgemeinbildende Schulen, Personalwesen, Reinickendorf, Schulleiter
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Schulwegsicherheit für die Schüler der Schulfarm Insel Scharfenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13494.pdf)**
 Transportmittel und -möglichkeiten für Schüler und Schülerinnen die Insel Scharfenberg zu erreichen.
 19/13494 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 19.10.2022
@@ -112,7 +112,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](them
 Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Denkmalschutz, Grundschule, Reinickendorf, Schulen, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Grundschulneubau in Reinickendorf-Ost – eine unendliche Geschichte (Teil 8)im Nachgang zu den Schriftlichen Anfragen des Abgeordneten Burkard Dregger vom 22.01.2020 (Drs. 18/22270), 09.03.2020 (Drs. 18/22928), 02.10.2020 (Drs. 18/25168), 26.10.2020 (Drs. 18/25379), 10.02.2021 (Drs. 18/26596), 25.03.2021 (Drs. 18/27117) und 22.06.2021 (Drs. 18/27999)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12494.pdf)**
 19/12494 - [Wohlert, Björn (CDU)](autor_wohlert_bjoern_cdu.md) - 22.07.2022
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Grundschule, Reinickendorf, Städtebau
@@ -123,13 +123,13 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und S
 Schlagworte: Allgemeinbildende Schulen, Investition, Osteuropa, Reinickendorf, Schulfinanzierung, Schulweg, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2022
+## Februar 2022
 **[Inanspruchnahme des Programms „Stark trotz Corona” in Reinickendorfer Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10729.pdf)**
 19/10729 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 08.02.2022
 Schlagworte: Allgemeinbildende Schulen, COVID-19, Epidemie, Reinickendorf, Statistik, Verwaltungsverfahren, Öffentliche Mittel
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2022
+## Januar 2022
 **[Angebotsstruktur der Sekundarstufe-II-Unterrichtsplätze bis zum Schuljahr2029/30 in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10421.pdf)**
 19/10421 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 06.01.2022
 Schlagworte: Allgemeinbildende Schulen, Reinickendorf, Statistik, Unterricht

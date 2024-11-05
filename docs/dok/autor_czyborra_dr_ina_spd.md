@@ -1,8 +1,8 @@
-# Amfragen von Czyborra, Dr. Ina (SPD)
+# Anfragen von Czyborra, Dr. Ina (SPD)
 
 Stand: 05.11.2024 14:41
 
-## December 2022
+## Dezember 2022
 **[Befriste Einstellung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14151.pdf)**
 19/14151 - [Czyborra, Dr. Ina (SPD)](autor_czyborra_dr_ina_spd.md) - 20.12.2022
 Schlagworte: Befristetes Arbeitsverhältnis, Bildungsabschluss, Lehrer, Qualifikationsnachweis, Statistik

@@ -1,8 +1,8 @@
-# Amfragen von Lederer, Dr. Klaus (Die Linke)
+# Anfragen von Lederer, Dr. Klaus (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## July 2024
+## Juli 2024
 **[IGSV 2023: Bildung, Jugend und Familie](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19644.pdf)**
 IGSV = Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz geschlechtlicher und sexueller Vielfalt"
 19/19644 - [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md) - 18.07.2024
@@ -15,7 +15,7 @@ Drs. = Drucksache
 Schlagworte: Erziehung, Gesellschaft, Bevölkerung, Kinder und Jugendliche, LSBTTIQ, Lehrplan, Sexualität, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer](thema_schulfaecher.md)
 
-## March 2024
+## März 2024
 **[Unterstützung von TIN (trans, inter, nicht-binären)-Kindern und Jugendlichen in der außerschulischen Kinder- und Jugendarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18414.pdf)**
 19/18414 - [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md) - 19.03.2024
 Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Bildungspolitik, Diversity, Jugendarbeit, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Sexuelle Identität, Statistik, Öffentliche Mittel
@@ -26,7 +26,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Statistik](
 Schlagworte: Erziehung, Gesellschaft, Bevölkerung, Kinder und Jugendliche, LSBTTIQ, Lehrplan, Sexualität, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer](thema_schulfaecher.md)
 
-## October 2023
+## Oktober 2023
 **[Schutzkonzepte gegen sexualisierte Gewalt an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16902.pdf)**
 19/16902 - [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md) - 17.10.2023
 Schlagworte: Finanzierung, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Meldewesen, Schulen, Sexualdelikt

@@ -1,4 +1,4 @@
-# Amfragen von Freier-Winterwerb, Alexander (SPD)
+# Anfragen von Freier-Winterwerb, Alexander (SPD)
 
 Stand: 05.11.2024 14:41
 
@@ -8,13 +8,13 @@ Stand: 05.11.2024 14:41
 Schlagworte: Frühkindliche Bildung, Gewerkschaft, Kind, Landesbetrieb, Statistik, Streik, Tarifvertrag
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2024
+## Juni 2024
 **[Wirkungskreis und Handlungsvorhaben der Kitaaufsicht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19190.pdf)**
 19/19190 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 04.06.2024
 Schlagworte: Freier Träger, Frühkindliche Bildung, Kinderbetreuung, Meldewesen, Personalplanung, Statistik
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2024
+## Mai 2024
 **[Analyse des Einsatzes von Leasingkräften in Berliner Kitas: Kosten, Bedarf und Perspektiven bis 2030](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19004.pdf)**
 19/19004 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 14.05.2024
 Schlagworte: Arbeitsmarkt, Freier Träger, Frühkindliche Bildung, Leiharbeit, Personalplanung, Personalwesen, Statistik
@@ -26,7 +26,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Freie Schulen](thema_freie_sch
 Schlagworte: Bezirk (Gebietskörperschaft), Familienpolitik, Finanzierung, Frühkindliche Bildung, Jugendamt, Lebensgemeinschaften, Personalplanung, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2024
+## Februar 2024
 **[Umzug der Kita "Kleine Fische - ganz groß”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17927.pdf)**
 19/17927 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 02.02.2024
 Schlagworte: Bauplanung, Frühkindliche Bildung, Treptow-Köpenick, Verwaltungsverfahren

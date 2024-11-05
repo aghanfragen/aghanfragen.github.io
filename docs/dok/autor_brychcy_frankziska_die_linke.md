@@ -1,8 +1,8 @@
-# Amfragen von Brychcy, Frankziska (Die Linke)
+# Anfragen von Brychcy, Frankziska (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Wozu braucht es eine Stabsstelle für politische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20486.pdf)**
 19/20486 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 16.10.2024
 Schlagworte: Bildung, Bildungspolitik, Personalkosten, Personalplanung, Politische Bildung, Zuständigkeit (Verwaltung)
@@ -45,7 +45,7 @@ Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schu
 Schlagworte: Abriss, Bauplanung, Bausanierung, Kosten, Schulbau, Schulen, Stadtplanung, Steglitz-Zehlendorf, Städtebau
 Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md)
 
-## July 2024
+## Juli 2024
 **[Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 A)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19758.pdf)**
 19/19758 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.07.2024
 Schlagworte: Bevölkerungsentwicklung, Lehramtsanwärter, Lehrer, Personalplanung, Schulpersonal, Statistik
@@ -76,7 +76,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Dienstleistungen, Kosten, Qualitätssicherung, Schulen, Schulgebäude, Unternehmen, Öffentliche Mittel, Öffentlicher Auftrag
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## June 2024
+## Juni 2024
 **[RLP-Überarbeitung: Die Öffentlichkeit muss leider draußen bleiben?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19434.pdf)**
 RLP = Rahmenlehrplan
 19/19434 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 26.06.2024
@@ -104,7 +104,7 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Schulbau, Schulen, Schulfinanzierung, Unterricht, Öffentliche Mittel, Öffentlicher Haushalt, Ökologisches Bauen
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2024
+## Mai 2024
 **[Schulgesundheitsfachkräfte in Berlin: Was plant der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19022.pdf)**
 19/19022 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.05.2024
 Schlagworte: Allgemeinbildende Schulen, Gesundheitsschutz, Lichtenberg, Modellprojekt, Personalplanung, Schule, Öffentliche Finanzplanung
@@ -126,7 +126,7 @@ Themen: [Ganztag](thema_ganztag.md), [Grundschule](thema_grundschule.md), [Perso
 Schlagworte: Allgemeinbildende Schulen, Schule, Veranstaltung, Verteidigung
 Themen: [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2024
+## März 2024
 **[Situation der Erzieher\*innen in den Einrichtungen der Kita-Eigenbetrieben](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18579.pdf)**
 19/18579 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 28.03.2024
 Schlagworte: Arbeitszeit, Frühkindliche Bildung, Kindertagesstätte, Personalplanung, Statistik
@@ -162,7 +162,7 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 Schlagworte: Finanzzuweisung, Schulen, Schulfinanzierung, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md)
 
-## February 2024
+## Februar 2024
 **[Beschulung geflüchteter Kinder und Jugendlicher in Tegel und Tempelhof](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18060.pdf)**
 19/18060 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 14.02.2024
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Bildungspolitik, Flüchtlingsunterbringung, Kinder und Jugendliche, Lehrer, Lehrerbildung, Lehrplan, Schulen, Schulpflicht, Statistik
@@ -178,7 +178,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Statistik](
 Schlagworte: Deutsche Demokratische Republik, Laufbahnrecht, Lehrer, Lehrerbildung, Personalplanung, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## January 2024
+## Januar 2024
 **[Ganztag (Teil 3). Arbeits- und Ausbildungsbedingungen von Erzieher\*innen an Berliner Schulen: Arbeitsbelastung und Arbeitszeitberechnung von Erzieher\*innen in der ergänzenden Förderung und Betreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17714.pdf)**
 19/17714 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.01.2024
 Schlagworte: Berufliche Weiterbildung, Berufsausbildung, Kinder, Jugendliche, Personalplanung, Personalwesen, Pädagoge
@@ -189,7 +189,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Ganztag](thema_ganztag.md), [P
 Schlagworte: Allgemeinbildende Schulen, Frühkindliche Bildung, Kinderbetreuung, Kindertagesstätte, Mensch mit Behinderung, Personalplanung, Schule, Schulische Ausbildung, Sonderpädagogik, Verwaltungsverfahren
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Ganztag](thema_ganztag.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2023
+## Dezember 2023
 **[Zeitplan der Schulgesetz-Novelle des Senats](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17586.pdf)**
 19/17586 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 27.12.2023
 Schlagworte: Gesetzgebung, Schulen
@@ -227,7 +227,7 @@ Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_un
 Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schulen, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## October 2023
+## Oktober 2023
 **[Strukturelle Umwandlung von Lehrkräftestunden (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17061.pdf)**
 Umwandlung in Professionen zum Beispiel (Betreuerin / Betreuer, Erzieherin / Erzieher, Pädagogische Unterrichtshilfe, Psychologin / Psychologe an Schulen, Sozialarbeiterin / Sozialarbeiter, Sprachlernassistenz.
 19/17061 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 30.10.2023
@@ -294,7 +294,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Medien](thema_medien.md), 
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Bauwesen, Denkmalschutz, Grundstück, Investition, Kommunale Angelegenheiten, Kosten, Liegenschaftsverwaltung, Mitte
 Themen: [Bezirke:Mitte](thema_bezirke_mitte.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2023
+## Juli 2023
 **[Verlegung des SESB-Zweigs der Grundschule am Brandenburger Tor an den Standort der Brüder-Grimm-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16083.pdf)**
 19/16083 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 27.07.2023
 Schlagworte: Grundschule, Schulen, Schulpolitik, Statistik
@@ -320,7 +320,7 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Berufliche Qualifikation, Fachkraft, Kinder und Jugendliche, Kinder, Jugendliche, Schule, Sozialarbeit, Sozialpädagogik, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## June 2023
+## Juni 2023
 **[2. Nachfrage zu Drs. 19/15045: Wie gehtʹs weiter mit der Kommunalisierung der Schulreinigung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15777.pdf)**
 19/15777 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 28.06.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen, Statistik
@@ -343,7 +343,7 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozi
 Schlagworte: Bauplanung, Bausanierung, Bezirk (Gebietskörperschaft), Schulen, Schulgebäude, Städtebau
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2023
+## Mai 2023
 **[Nachfrage zu Drs. 19/15045: Arbeitsweise der AG Schulreinigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15520.pdf)**
 19/15520 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 25.05.2023
 Schlagworte: Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen
@@ -392,26 +392,26 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weit
 Schlagworte: Beamtenrecht, Besoldung, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## March 2023
+## März 2023
 **[Wie gehtʹs weiter mit der Kommunalisierung der Schulreinigung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15045.pdf)**
 19/15045 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 27.03.2023
 Schlagworte: Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen
 Themen: [Sonstige](thema_sonstige.md)
 
-## February 2023
+## Februar 2023
 **[Blockiert die Senatsfinanzverwaltung die Schaffung neuer Schulplätze?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14658.pdf)**
 Prüfungen zur Reduzierung des Schulplatzüberschusses und gegebenfalls Umnutzung für andere schulische Zwecke
 19/14658 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 07.02.2023
 Schlagworte: Allgemeinbildende Schulen, Finanzverwaltung, Neukölln, Schulbau, Schulfinanzierung, Schulpflicht, Zuständigkeit (Verwaltung), Öffentliche Verwaltung
 Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## January 2023
+## Januar 2023
 **[Von der Einschulung bis zum Schulabschluss: Stand der Berliner Gemeinschaftsschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14516.pdf)**
 19/14516 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 25.01.2023
 Schlagworte: Allgemeinbildende Schulen, Bildungsstatistik, Haushaltsrechnung, Schulpolitik, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2022
+## Dezember 2022
 **[Schuldigitalisierung in Berlin: Automatisierte Korrekturverfahren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14287.pdf)**
 Schulversuch „Hybride Formen des Lehrens und Lernens (hybrid)“
 19/14287 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 22.12.2022
@@ -455,7 +455,7 @@ SIBUZ: Schulpsychologische und Inklusionspädagogische Beratungs- und Unterstüt
 Schlagworte: Allgemeinbildende Schulen, Inklusion, Lehrer, Personalplanung, Personalwesen, Schule, Sonderpädagogik
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Schulbibliotheken an Schulen im Bonus-Programm](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13548.pdf)**
 19/13548 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 25.10.2022
 Schlagworte: Kunst, Kultur, Schulausstattung, Schule, Schulen
@@ -478,7 +478,7 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Schulen, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Mehr Gemeinschaftsschulen für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12455.pdf)**
 19/12455 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 22.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Schulbau, Schulfinanzierung, Statistik
@@ -489,7 +489,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 Schlagworte: Allgemeinbildende Schulen, Fachkraft, Frühkindliche Bildung, Grundschule, Kinderbetreuung, Personalplanung
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Ganztag](thema_ganztag.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## June 2022
+## Juni 2022
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
 Schlagworte: Bildungsabschluss, Lehrer, Lehrerbildung, Statistik
@@ -510,7 +510,7 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bauplanung, Bauwesen, Schulbau, Schulen, Statistik
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2022
+## März 2022
 **[Ausnahmen von der Präsenzpflicht für Schülerinnen und Schüler mit Vorerkrankungen bzw. mit vorerkrankten Angehörigen im Schuljahr 2021/22](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11246.pdf)**
 19/11246 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 28.03.2022
 Schlagworte: COVID-19, Epidemie, Gesundheitsschutz, Hygiene, Impfung, Quarantäne, Rechtsvorschrift, Schulen, Schüler, Statistik
@@ -531,19 +531,19 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Lehrer, Lehrerbildung, Personalplanung, Statistik, Teilzeitarbeit
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Umsetzung der grundgesetzlichen Vorgaben für Schulen in Freier Trägerschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10862.pdf)**
 19/10862 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 22.02.2022
 Schlagworte: Freier Träger, Privatschulen, Schulgeld, Schulrecht, Sozialpädagogik, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
-## January 2022
+## Januar 2022
 **[Wie ist der aktuelle Ausstattungsstand mit Luftfiltern an Berliner Schulen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10520.pdf)**
 19/10520 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 21.01.2022
 Schlagworte: Gesundheitsschutz, Luftreinhaltung, Schule, Schulen
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## December 2021
+## Dezember 2021
 **[Wann wird die Schuldatenverordnung aktualisiert und die digitale Lehr- und Lernmittelverordnung erstellt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10151.pdf)**
 19/10151 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 06.12.2021
 Schlagworte: Datenschutz, Lehr- und Lernmittel, Schule, Schulen

@@ -1,4 +1,4 @@
-# Amfragen von Dörstelmann, Florian (SPD)
+# Anfragen von Dörstelmann, Florian (SPD)
 
 Stand: 05.11.2024 14:41
 
@@ -8,7 +8,7 @@ Stand: 05.11.2024 14:41
 Schlagworte: Bausanierung, Schule, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## July 2024
+## Juli 2024
 **[Digitalisierung an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19555.pdf)**
 19/19555 - [Dörstelmann, Florian (SPD)](autor_doerstelmann_florian_spd.md) - 11.07.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schulausstattung

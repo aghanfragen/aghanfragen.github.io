@@ -1,8 +1,8 @@
-# Amfragen von Simon, Roman (CDU)
+# Anfragen von Simon, Roman (CDU)
 
 Stand: 05.11.2024 14:41
 
-## December 2022
+## Dezember 2022
 **[Personalausstattung in den Kindergärten - Theorie und rot-grün-rote Praxis](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13967.pdf)**
 19/13967 - [Simon, Roman (CDU)](autor_simon_roman_cdu.md) - 05.12.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Fachkraft, Frühkindliche Bildung, Kinderbetreuung, Personalplanung, Personalwesen, Pädagoge, Statistik

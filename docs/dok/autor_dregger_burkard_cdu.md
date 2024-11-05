@@ -1,4 +1,4 @@
-# Amfragen von Dregger, Burkard (CDU)
+# Anfragen von Dregger, Burkard (CDU)
 
 Stand: 05.11.2024 14:41
 

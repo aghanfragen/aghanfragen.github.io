@@ -1,8 +1,8 @@
-# Amfragen von Buchner, Dennis (SPD)
+# Anfragen von Buchner, Dennis (SPD)
 
 Stand: 05.11.2024 14:41
 
-## February 2024
+## Februar 2024
 **[Grundschule am Weißen See – Wird endlich gut, was schon sehr lange währt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18183.pdf)**
 19/18183 - [Buchner, Dennis (SPD)](autor_buchner_dennis_spd.md) - 20.02.2024
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Pankow, Sporthalle
@@ -13,7 +13,7 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Frühkindliche Bildung, Pankow, Statistik
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Planungsprozesse für den Erweiterungsbau des Primo-Levi-Gymnasiums](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12063.pdf)**
 19/12063 - [Buchner, Dennis (SPD)](autor_buchner_dennis_spd.md) - 22.06.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Pankow, Schulbau, Schulgebäude, Städtebau

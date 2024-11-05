@@ -1,8 +1,8 @@
-# Amfragen von Franco, Vasili (Grüne)
+# Anfragen von Franco, Vasili (Grüne)
 
 Stand: 05.11.2024 14:41
 
-## February 2023
+## Februar 2023
 **[Freie Schule Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14803.pdf)**
 19/14803 - [Franco, Vasili (Grüne)](autor_franco_vasili_gruene.md) - 23.02.2023
 Schlagworte: Ideologien, Lehrer, Lehrmethode, Marzahn-Hellersdorf, Privatschulen, Qualifikationsnachweis, Rechtsextremismus, Schulaufsicht, Sozialarbeit, Sozialpädagogik

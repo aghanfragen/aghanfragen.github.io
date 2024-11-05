@@ -1,4 +1,4 @@
-# Amfragen von König, Bettina (SPD)
+# Anfragen von König, Bettina (SPD)
 
 Stand: 05.11.2024 14:41
 
@@ -8,7 +8,7 @@ Stand: 05.11.2024 14:41
 Schlagworte: Beratung, COVID-19, Epidemie, Gesundheit, Schulen, Schulpflicht, Schulrecht, Schüler
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## June 2023
+## Juni 2023
 **[Schulwegsicherheit an der Reinickendorfer Grundschule am Schäfersee (12G02) (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15838.pdf)**
 19/15838 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Straßenverkehrsunfall, Unfallstatistik, Verkehr, Verkehrssicherheit
@@ -19,7 +19,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Schulwegsicherheit an der Reinickendorfer Reginhard-Grundschule (12G03)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15395.pdf)**
 19/15395 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 16.05.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
@@ -46,13 +46,13 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und
 Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Denkmalschutz, Grundschule, Reinickendorf, Schulen, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## July 2022
+## Juli 2022
 **[Perspektive Schuljahr 22/23: Corona-Strategie in Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12354.pdf)**
 19/12354 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 13.07.2022
 Schlagworte: COVID-19, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Hygiene, Schulen
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## June 2022
+## Juni 2022
 **[Stand der Schuleingangs- und Kita-Reihenuntersuchungen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12136.pdf)**
 19/12136 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 29.06.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Kindertagesstätte, Schulpflicht, Statistik

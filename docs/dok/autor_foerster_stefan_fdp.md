@@ -1,20 +1,20 @@
-# Amfragen von Förster, Stefan (FDP)
+# Anfragen von Förster, Stefan (FDP)
 
 Stand: 05.11.2024 14:41
 
-## March 2023
+## März 2023
 **[Reaktivierung des Schulgebäudes Alfred-Randt-Straße 54 in Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14973.pdf)**
 19/14973 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 10.03.2023
 Schlagworte: Bauplanung, Bausanierung, Schulen, Städtebau, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## February 2023
+## Februar 2023
 **[Schulplatzkapazitäten bei den Eliteschulen des Sports](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14678.pdf)**
 19/14678 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 10.02.2023
 Schlagworte: Charlottenburg-Wilmersdorf, Oberschule, Schulen, Schulklasse, Schulpflicht, Schulrecht, Sport, Sportförderung
 Themen: [Bezirke:Charlottenburg-Wilmersdorf](thema_bezirke_charlottenburg-wilmersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## July 2022
+## Juli 2022
 **[Verrennt sich der Senat weiter beim Vorgehen gegen die Ballettschule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12359.pdf)**
 Kündigung des Leiters und des künstlerischen Leiters der Staatlichen Ballettschule
 19/12359 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 14.07.2022
@@ -27,7 +27,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 Schlagworte: Frühkindliche Bildung, Landesregierung, Senat, Berlin, Senatskanzlei, Verwaltungsverfahren
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[Gleichgültiger Schulleiter, ignorantes Amt - Warum geht die Grünflächenpflege der Vorgärten an der Müggelsee-Grundschule niemanden etwas an?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10620.pdf)**
 19/10620 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 26.01.2022
 Schlagworte: Allgemeinbildende Schulen, Ehrenamtliche Tätigkeit, Gehweg, Grünfläche, Treptow-Köpenick

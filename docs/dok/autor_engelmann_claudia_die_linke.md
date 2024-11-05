@@ -1,20 +1,20 @@
-# Amfragen von Engelmann, Claudia (Die Linke)
+# Anfragen von Engelmann, Claudia (Die Linke)
 
 Stand: 05.11.2024 14:41
 
-## March 2022
+## März 2022
 **[Digitalisierung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11186.pdf)**
 19/11186 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 24.03.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Digitalisierung, Informations- und Kommunikationstechnologien, Modellprojekt, Schulausstattung, Schulen, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## February 2022
+## Februar 2022
 **[Fachkräftegewinnung für die Kita – Potenziale der Zusammenarbeit mit der Arbeitsagentur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10960.pdf)**
 19/10960 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 28.02.2022
 Schlagworte: Arbeitsmarkt, Arbeitsverwaltung, Erzieher, Fachkraft, Frühkindliche Bildung, Personalplanung
 Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
-## January 2022
+## Januar 2022
 **[Luftfilteranlagen in Schultoiletten für Menschen mit Behinderung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10600.pdf)**
 19/10600 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 31.01.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Luftreinhaltung, Mensch mit Behinderung, Menschen mit Behinderungen, Sanitäranlage, Schulausstattung, Schulen, Statistik

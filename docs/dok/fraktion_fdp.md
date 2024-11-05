@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## March 2023
+## März 2023
 **[Teilnahme am Religions- und Weltanschauungsunterricht an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14938.pdf)**
 19/14938 - [Wolf, Christian (FDP)](autor_wolf_christian_fdp.md) - 09.03.2023
 Schlagworte: Allgemeinbildende Schulen, Kosten, Religion, Religionsgemeinschaften, Schüler, Statistik
@@ -23,7 +23,7 @@ Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md),
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Personalplanung, Quereinsteiger, Sprache, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## February 2023
+## Februar 2023
 **[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
 19/14850 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2023
 Schlagworte: Finanzierung, Frühkindliche Bildung, Personalplanung, Qualitätssicherung
@@ -50,13 +50,13 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Digitalisierung](thema_digital
 Schlagworte: Charlottenburg-Wilmersdorf, Oberschule, Schulen, Schulklasse, Schulpflicht, Schulrecht, Sport, Sportförderung
 Themen: [Bezirke:Charlottenburg-Wilmersdorf](thema_bezirke_charlottenburg-wilmersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## January 2023
+## Januar 2023
 **[Alter bei Ausbildungsbeginn in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14547.pdf)**
 19/14547 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 25.01.2023
 Schlagworte: Berufsausbildung, Berufsbildende Schule, Frau, Frauen, Männer, Mann, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Statistik](thema_statistik.md)
 
-## December 2022
+## Dezember 2022
 **[Offene Funktionsstellen im Berliner Bildungssystem](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14311.pdf)**
 19/14311 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.12.2022
 Schlagworte: Bildungspolitik, Frühkindliche Bildung, Kindertagesstätte, Lehrer, Personalplanung, Schule, Schulen
@@ -118,7 +118,7 @@ Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Gebäudereinigung, Schulausstattung, Schulbau, Sportstättenbau, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## October 2022
+## Oktober 2022
 **[Betreuung von (ukrainischen) Geflüchteten in Berliner Kindertagesstätten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13653.pdf)**
 19/13653 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 31.10.2022
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtling, Frühkindliche Bildung, Kind, Kindertagesstätte, Osteuropa, Sprachförderung, Statistik, Öffentliche Mittel
@@ -151,7 +151,7 @@ Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Schü
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Oberschule, Schulrecht, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Sanierungsbedarf der Berliner Oberstufenzentren 2022](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12517.pdf)**
 19/12517 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 28.07.2022
 Schlagworte: Bausanierung, Bauwesen, Berufsbildende Schulen, Investition, Kosten, Liegenschaftsverwaltung, Schulfinanzierung, Schulgebäude, Statistik
@@ -168,7 +168,7 @@ Kündigung des Leiters und des künstlerischen Leiters der Staatlichen Ballettsc
 Schlagworte: Darstellende Kunst, Kosten, Kunst- und Musikhochschulen, Kündigung, Personalplanung, Rechtsanwalt, Schulleiter
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Darstellende Kunst](thema_schulfaecher_darstellende_kunst.md)
 
-## June 2022
+## Juni 2022
 **[Leerstelle Unterrichtsgarantie: Fachkräftemangel an Berlins Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11949.pdf)**
 19/11949 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 09.06.2022
 Schlagworte: Allgemeinbildende Schulen, Beamtenrecht, Besoldung, Bezirk (Gebietskörperschaft), Fachkraft, Lehrer, Personalplanung, Statistik, Unterricht
@@ -185,7 +185,7 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 Schlagworte: Digitalisierung, Hochschule, Hochschulwesen, Kosten, Lehrer, Personenbezogene Daten, Verwaltungsverfahren
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
-## May 2022
+## Mai 2022
 **[Kosten und Ersparnisse von verbeamteten Lehrern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11712.pdf)**
 19/11712 - [Meister, Sibylle (FDP)](autor_meister_sibylle_fdp.md) - 12.05.2022
 Schlagworte: Beamtenrecht, Beamtenversorgung, Beamter, Kosten, Lehrer, Statistik, Öffentlicher Dienst
@@ -222,7 +222,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Verwaltung](
 Schlagworte: Allgemeinbildende Schulen, Friedrichshain-Kreuzberg, Grundschule, Gymnasium, Neubau, Schulgebäude
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2022
+## März 2022
 **[Landesmindestlohn und Kitakosten (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11298.pdf)**
 19/11298 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.03.2022
 Schlagworte: Arbeitsentgelt, Freier Träger, Frühkindliche Bildung, Kinder- und Jugendhilfe, Kindertagesstätte, Kosten
@@ -243,7 +243,7 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 Schlagworte: Arbeitsentgelt, Freier Träger, Frühkindliche Bildung, Kinder- und Jugendhilfe, Kindertagesstätte, Kosten
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
-## February 2022
+## Februar 2022
 **[Das Gute-Kita-Gesetz in der Praxis des Landes Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11025.pdf)**
 Gewährung für Maßnahmen zur räumlichen Gestaltung im Rahmen des KiTa-Qualitäts- und -Teilhabeverbesserungsgesetzes (KiQuTG)
 19/11025 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2022
@@ -275,7 +275,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit u
 Schlagworte: Beratung, Gewalt, Gewaltprävention, Innere Sicherheit, Lehrer, Mobbing, Schulaufsicht, Schulen, Schulpsychologischer Dienst
 Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[Die Digitalisierungspauschale in den Kostenblättern der RV Tag](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10613.pdf)**
 Rahmenvereinbarung über die Finanzierung und Leistungssicherstellung der Tageseinrichtungen (RV Tag); Ausbau der digitalen Infrastruktur für die mittelbare und unmittelbare pädagogische Arbeit zur Förderung der kindlichen Entwicklung
 19/10613 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.01.2022

@@ -1,8 +1,8 @@
-# Amfragen von Suka, Aferdita (Grüne)
+# Anfragen von Suka, Aferdita (Grüne)
 
 Stand: 05.11.2024 14:41
 
-## March 2023
+## März 2023
 **[Gesundheitliche Versorgung von Schüler\*innen sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14837.pdf)**
 19/14837 - [Suka, Aferdita (Grüne)](autor_suka_aferdita_gruene.md) - 01.03.2023
 Schlagworte: Gesundheitsschutz, Kindertagesstätte, Krankheit, Personalplanung, Pflegeeinrichtung, Qualifikationsnachweis, Schule, Schüler

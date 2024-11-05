@@ -2,7 +2,7 @@
 
 Stand: 05.11.2024 14:41
 
-## October 2024
+## Oktober 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**
 19/20418 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 10.10.2024
 Schlagworte: Datenverarbeitung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Kosten, Schule, Schulen
@@ -45,7 +45,7 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Integration](t
 Schlagworte: Allgemeinbildende Schulen, Digitalisierung, Grundschule, Personalplanung, Reinickendorf, Schüler, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2024
+## Juli 2024
 **[Zeitplan für den MEB an der Oberseeschule weiter transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19718.pdf)**
 MEB = Modularer Ergänzungsbau
 19/19718 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 31.07.2024
@@ -67,7 +67,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Schülerinnen und 
 Schlagworte: Bauplanung, Kindertagesstätte, Lichtenberg, Schule, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## June 2024
+## Juni 2024
 **[Wie werden Berlins Schüler auf das Leben nach der Schule vorbereitet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19374.pdf)**
 19/19374 - [Hack, Ariturel (CDU)](autor_hack_ariturel_cdu.md) - 25.06.2024
 Schlagworte: Allgemeinbildende Schulen, Jugendbildung, Jugendlicher, Schüler, Unterricht, Öffentlicher Haushalt
@@ -93,7 +93,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Grundstück, Kindertagesstätte, Lichtenberg, Stadtplanung, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## May 2024
+## Mai 2024
 **[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
 19/18946 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 08.05.2024
 Schlagworte: Droge, Gesundheitsschutz, Informationssystem, Kinder, Jugendliche, Kindertagesstätte, Lichtenberg, Register
@@ -125,7 +125,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauwesen, Lichtenberg, Schulen, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
-## March 2024
+## März 2024
 **[Arbeit der Lehrkräfte an den Schulen zuverlässig und angemessen würdigen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18405.pdf)**
 19/18405 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 14.03.2024
 Schlagworte: Beamter, Jubiläum, Lehrer, Personalplanung, Veranstaltung, Verwaltungsverfahren
@@ -151,7 +151,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Ausschreibung, Ernährung, Lichtenberg, Schulen, Vergaberecht
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2024
+## Februar 2024
 **[Aktueller Stand zur geplanten Errichtung eines Modularen Ergänzungsbaus (MEB) an der Obersee-Schule in Alt-Hohenschönhausen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18030.pdf)**
 19/18030 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 13.02.2024
 Schlagworte: Bauaufsicht, Bauwesen, Lichtenberg, Naturschutz, Schulen
@@ -162,7 +162,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bevölkerungsentwicklung, Bezirk (Gebietskörperschaft), Privatschule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2023
+## Dezember 2023
 **[Geplante Bauvorhaben an der Chamisso-Grundschule, Märkisches Viertel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17627.pdf)**
 19/17627 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 27.12.2023
 Schlagworte: Bauplanung, Reinickendorf, Schulgebäude, Schüler-Lehrer-Relation, Städtebau
@@ -189,7 +189,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 Schlagworte: Baum, Bauwesen, Landschaftsschutz, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## October 2023
+## Oktober 2023
 **[Situation des Musikunterrichts in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17029.pdf)**
 19/17029 - [Wein, Dr. Claudia (CDU)](autor_wein_dr_claudia_cdu.md) - 30.10.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Lehrerbildung, Musik, Personalplanung, Statistik, Unterricht
@@ -216,7 +216,7 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Allgemeinbildende Schulen, Arbeitszeit, Lehrer
 Themen: [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2023
+## Juli 2023
 **[Auswirkungen auf den Landschaftspark Herzberge durch die neue Schule an der Allee der Kosmonauten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16165.pdf)**
 19/16165 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 28.07.2023
 Schlagworte: Fußgänger, Lichtenberg, Natur, Radverkehr, Verkehr, Verkehrsplanung, Verkehrssicherheit
@@ -227,13 +227,13 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Fachkraft, Finanzierung, Lichtenberg, Medizinische Berufe, Modellprojekt, Schule, Schulen, Öffentlicher Gesundheitsdienst
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
-## June 2023
+## Juni 2023
 **[Mehr Selbstbestimmung der Berliner Schulen durch Verfügungsfonds ermöglichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15876.pdf)**
 19/15876 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Schulausstattung, Schule, Schulfinanzierung, Statistik, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## May 2023
+## Mai 2023
 **[Verkehrssituation Schulneubau Allee der Kosmonauten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15349.pdf)**
 19/15349 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 11.05.2023
 Schlagworte: Allgemeinbildende Schulen, Baum, Lichtenberg, Neubau, Parkfläche, Städtebau, Wohnungsbaugesellschaft, Öffentlicher Personennahverkehr
@@ -271,7 +271,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Denkmalschutz, Grundschule, Reinickendorf, Städtebau
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## March 2023
+## März 2023
 **[Verkehrssicherheit bei Einschulungsbereichen berücksichtigen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14980.pdf)**
 19/14980 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 14.03.2023
 Schlagworte: Fußgänger, Grundschule, Straßenverkehr, Straßenverkehrsunfall, Verkehr, Verkehrssicherheit
@@ -287,7 +287,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 Schlagworte: Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen, Verwaltungsverfahren
 Themen: [Digitalisierung](thema_digitalisierung.md), [Verwaltung](thema_verwaltung.md)
 
-## February 2023
+## Februar 2023
 **[Ganztagsausbau für Grundschulkinder](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14812.pdf)**
 19/14812 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 20.02.2023
 Schlagworte: Finanzierung, Schulen, Schulfinanzierung, Statistik, Öffentlicher Haushalt
@@ -338,7 +338,7 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 Schlagworte: Lehramtsanwärter, Lehrer, Praktikum, Quereinsteiger, Studium
 Themen: [Personal](thema_personal.md)
 
-## January 2023
+## Januar 2023
 **[Kitagebühren doppelt kassieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14642.pdf)**
 19/14642 - [Bung, Stefanie (CDU)](autor_bung_stefanie_cdu.md) - 31.01.2023
 Schlagworte: Abgaben, Finanzzuweisung, Frühkindliche Bildung, Gebühr
@@ -405,7 +405,7 @@ Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfueh
 Schlagworte: Ausbildungsordnung, Bauwesen, Berufsausbildung, Berufsbildende Schule, Bildungsabschluss, Kosten, Schulausstattung, Schulpersonal, Vergütung, Öffentlicher Haushalt
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## December 2022
+## Dezember 2022
 **[MEB an der Oberseeschule - Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14307.pdf)**
 Geplante Modulare Ergänzungsbauten (MEB) sowie Vorplanung einer Gymnastikhalle. Einhaltung der geforderten Abstandsflächen, Ersatzpflanzungen für gefällte Bäume, Ausgleichsflächen für Abstellplätze für Fahrräder, Spielflächen, Stellplätze für Kraftfahrzeuge und für die Feuerwehr. Schadstoffanalysen des Baufläche.
 19/14307 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 29.12.2022
@@ -573,7 +573,7 @@ MoKiS: Mobiler Kinderbetreuungsservice
 Schlagworte: Arbeitszeit, Berufliche Qualifikation, Eltern, Frühkindliche Bildung, Jugendamt, Kinder, Jugendliche, Kindertagespflege, Lebensgemeinschaften, Lohn- und Gehaltstarif, Personalplanung, Personalwesen
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
-## October 2022
+## Oktober 2022
 **[Nachfragen zur Schriftlichen Anfrage: 19/13152 „Verbeamtung in Berlin”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13574.pdf)**
 19/13574 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.10.2022
 Schlagworte: Beamtenrecht, Besoldung, Laufbahnrecht, Lehramtsanwärter, Lehrer, Quereinsteiger, Statistik, Öffentlicher Dienst
@@ -994,7 +994,7 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwalt
 Schlagworte: Allgemeinbildende Schulen, Arbeitszeit, Bezirk (Gebietskörperschaft), Erzieher, Lehrer, Lehrerbildung, Schule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## July 2022
+## Juli 2022
 **[Politische Bildung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12581.pdf)**
 19/12581 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lehr- und Lernmittel, Lehrer, Lehrerbildung, Personalplanung, Politische Bildung, Statistik, Unterricht
@@ -1217,7 +1217,7 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bez
 Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schüler, Statistik, Suchtprävention
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## June 2022
+## Juni 2022
 **[Qualifikationskontrolle von Schullaufsichten – Standards transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12196.pdf)**
 19/12196 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 29.06.2022
 Schlagworte: Personalwesen, Qualitätssicherung, Schulen, Öffentliche Verwaltung
@@ -1308,7 +1308,7 @@ Einschränkungen der Öffnungszeiten in der Verkehrsschule Steglitz
 Schlagworte: Fahrrad, Kinder und Jugendliche, Kinder, Jugendliche, Straßenverkehr, Verkehrssicherheit
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## May 2022
+## Mai 2022
 **[Personalentwicklung in den Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11853.pdf)**
 19/11853 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Disziplinarverfahren, Lehrer, Personalwesen, Quereinsteiger, Schule, Schulleiter, Statistik
@@ -1466,7 +1466,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integr
 Schlagworte: Schule, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## March 2022
+## März 2022
 **[MSA an Integrierten Sekundarschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11276.pdf)**
 19/11276 - [Melzer, Heiko (CDU)](autor_melzer_heiko_cdu.md) - 31.03.2022
 Schlagworte: Allgemeinbildende Schulen, Bildungsabschluss, Integrierte Sekundarschule, Prüfung, Schulfach
@@ -1573,7 +1573,7 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md)
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Schulbau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## February 2022
+## Februar 2022
 **[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
 19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
@@ -1706,7 +1706,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Ausschreibung, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagesstätte, Schule, Schulen, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## January 2022
+## Januar 2022
 **[Neubau der Schule Wiesen-/ Weidenweg in Staaken - wie ist der Stand?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10551.pdf)**
 19/10551 - [Melzer, Heiko (CDU)](autor_melzer_heiko_cdu.md) - 24.01.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Schulausstattung, Spandau, Verkehrsplanung
@@ -1737,7 +1737,7 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 Schlagworte: Allgemeinbildende Schulen, Reinickendorf, Statistik, Unterricht
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## December 2021
+## Dezember 2021
 **[Pandemie und Praktika](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10403.pdf)**
 Infektionssituation mit Betriebs- und Sozialpraktika an Schulen
 19/10403 - [Seibeld, Cornelia (CDU)](autor_seibeld_cornelia_cdu.md) - 29.12.2021
