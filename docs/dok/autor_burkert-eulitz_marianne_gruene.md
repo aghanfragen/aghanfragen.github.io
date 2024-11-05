@@ -1,6 +1,6 @@
 # Amfragen von Burkert-Eulitz, Marianne (Grüne)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## October 2024
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**

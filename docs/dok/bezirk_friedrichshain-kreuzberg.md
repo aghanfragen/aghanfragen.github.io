@@ -1,6 +1,6 @@
 # Bezirk Friedrichshain-Kreuzberg
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## June 2024
 **[Grundschulkinder vor Drogenkonsum im öffentlichen Raum schützen: Thalia- Grundschule auf Alt-Stralau unterstützen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19339.pdf)**

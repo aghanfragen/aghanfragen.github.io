@@ -1,6 +1,6 @@
 # Amfragen von Bocian, Lars (CDU)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## August 2024
 **[Organisation und Finanzierung von Schul-Shuttles für Kinder aus Flüchtlingsunterkünften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19815.pdf)**

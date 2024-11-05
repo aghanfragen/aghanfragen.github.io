@@ -1,6 +1,6 @@
 # Amfragen von Freier-Winterwerb, Alexander (SPD)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## September 2024
 **[Die Streiks zeigen Wirkung - Stehen die Kita-Eigenbetriebe vor dem Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20247.pdf)**

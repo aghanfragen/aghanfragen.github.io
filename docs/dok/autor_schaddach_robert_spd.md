@@ -1,6 +1,6 @@
 # Amfragen von Schaddach, Robert (SPD)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## May 2022
 **[Verfügbarkeit der Züge nach Schulentwicklungsplänen für alle Schultypen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11598.pdf)**

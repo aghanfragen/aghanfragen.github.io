@@ -1,6 +1,6 @@
 # Amfragen von Schulze, Tobias (Die Linke)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## February 2024
 **[Ex-Diesterweg-Gymnasium in der Putbusser Straße: Leerstand der Sporthalle trotz Bedarf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18098.pdf)**

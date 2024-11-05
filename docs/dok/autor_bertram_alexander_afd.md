@@ -1,6 +1,6 @@
 # Amfragen von Bertram, Alexander (AfD)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## August 2023
 **[Natur- und Umweltbildung: Volkshochschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16410.pdf)**

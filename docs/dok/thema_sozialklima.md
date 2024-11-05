@@ -1,6 +1,6 @@
 # Thema: Sozialklima
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 Zugeordnete Schlagworte: Sozialklima, Gewaltanwendung, Gewaltprävention, Innere Sicherheit, Mobbing, Schulpsychologischer Dienst, Strafrecht
 

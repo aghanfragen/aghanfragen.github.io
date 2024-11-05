@@ -1,6 +1,6 @@
 # Amfragen von Brychcy, Frankziska (Die Linke)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## October 2024
 **[Wozu braucht es eine Stabsstelle für politische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20486.pdf)**

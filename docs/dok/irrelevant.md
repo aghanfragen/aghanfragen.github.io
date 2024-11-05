@@ -1,6 +1,6 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 **[Aktueller Stand des Bundesprogramms Sprach-Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20564.pdf)**
 19/20564 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024

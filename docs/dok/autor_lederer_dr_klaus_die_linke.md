@@ -1,6 +1,6 @@
 # Amfragen von Lederer, Dr. Klaus (Die Linke)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## July 2024
 **[IGSV 2023: Bildung, Jugend und Familie](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19644.pdf)**

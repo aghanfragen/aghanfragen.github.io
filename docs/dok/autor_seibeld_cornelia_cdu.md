@@ -1,6 +1,6 @@
 # Amfragen von Seibeld, Cornelia (CDU)
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 ## June 2022
 **[Kein Fahrradnachwuchs für Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11870.pdf)**

@@ -1,6 +1,6 @@
 # Thema: Berufsbildung
 
-Stand: 04.11.2024 22:02
+Stand: 05.11.2024 14:41
 
 Zugeordnete Schlagworte: Berufsbildung, Arbeitsmarkt, Arbeitsplatz, Ausbildungsförderung, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen
 
