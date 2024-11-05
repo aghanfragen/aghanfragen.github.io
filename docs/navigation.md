@@ -5,3 +5,4 @@
 [Abgeordnete](dok/abgeordnete.md)
 [Bezirke](dok/bezirke.md)
 [Alle Dokumente](dok/alle.md)
+[Info](info.md)
