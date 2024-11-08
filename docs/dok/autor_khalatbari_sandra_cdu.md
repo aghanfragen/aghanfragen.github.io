@@ -1,6 +1,6 @@
 # Anfragen von Khalatbari, Sandra (CDU)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## November 2022
 **[Eliteschulen des Sports](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13666.pdf)**

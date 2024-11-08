@@ -1,6 +1,6 @@
 # Anfragen von Goiny, Christian (CDU)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## Mai 2023
 **[Fahrradprüfungen in Steglitz-Zehlendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15346.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Bozkurt, Tuba (Grüne)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## Mai 2024
 **[Schuldienst „Under Cover” - Wie schreitet der Diskriminierungsabbau konkret voran?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18960.pdf)**

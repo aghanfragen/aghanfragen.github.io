@@ -1,10 +1,15 @@
 # Thema: Gebäude und Standorte
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 Zugeordnete Schlagworte: Gebäude und Standorte, Architekt, Asbest, Baufinanzierung, Baugenehmigung, Bauordnungsrecht, Bauplanung, Bausanierung, Bauwesen, Bebauungsplan, Bibliothek, Brandschutz, Energie, Energiepreis, Energieverbrauch, Erbbaurecht, Gebäude, Gehweg, Grünfläche, Grundstück, Infrastruktur, Internet, Liegenschaftsverwaltung, Neubau, Planfeststellung, Sanitäranlage, Schadstoff, Schulausstattung, Schulbau, Schulgebäude, Schulgeld, Schulhof, Schulweg, Sporthalle, Sportplatz, Sportstättenbau, Städtebau, Verkehrsplanung
 
 ## Oktober 2024
+**[Untergraben private Schließfächer an Schulen die gebührenfreie Schule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20572.pdf)**
+19/20572 - [Lasić, Dr. Maja (SPD)](autor_lasic_dr_maja_spd.md) - 30.10.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Gebühr, Rechtsvorschrift, Schulausstattung, Schulbau, Schulen, Unternehmen
+Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Str. 51-52 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20497.pdf)**
 19/20497 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 17.10.2024
 Schlagworte: Ausschreibung, Freier Träger, Kinder- und Jugendhilfe, Kindertagesstätte, Neubau, Städtebau, Vergaberecht, Öffentliche Mittel

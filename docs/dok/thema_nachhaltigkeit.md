@@ -1,6 +1,6 @@
 # Thema: Nachhaltigkeit
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 Zugeordnete Schlagworte: Nachhaltigkeit, Abfall, Abfallbeseitigung, Klimaschutz, Naturschutz, Solartechnik, Umwelt, Umwelterziehung, Umweltschutz
 

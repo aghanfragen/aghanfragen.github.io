@@ -1,6 +1,6 @@
 # Thema: Finanzen
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 Zugeordnete Schlagworte: Finanzen, Baufinanzierung, Besoldung, Bildungsfinanzierung, Finanzhilfe, Finanzierung, Finanzzuweisung, Honorar, Investition, Kosten, Öffentliche Mittel, Personalkosten, Schulfinanzierung, Schulgeld, Subvention, Zahlungsunfähigkeit, Öffentlicher Auftrag, Öffentlicher Haushalt
 

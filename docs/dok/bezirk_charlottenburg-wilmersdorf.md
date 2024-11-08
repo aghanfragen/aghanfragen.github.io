@@ -1,6 +1,6 @@
 # Bezirk Charlottenburg-Wilmersdorf
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## August 2024
 **[Grundstücke für Angebote der Berliner Kinder- und Jugendförderung und Familienförderung außerhalb von Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19871.pdf)**

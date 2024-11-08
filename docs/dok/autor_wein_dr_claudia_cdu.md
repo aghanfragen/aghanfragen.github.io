@@ -1,6 +1,6 @@
 # Anfragen von Wein, Dr. Claudia (CDU)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## Oktober 2023
 **[Situation des Musikunterrichts in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17029.pdf)**

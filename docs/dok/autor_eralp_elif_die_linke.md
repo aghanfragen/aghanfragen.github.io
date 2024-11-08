@@ -1,6 +1,6 @@
 # Anfragen von Eralp, Elif (Die Linke)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## August 2024
 **[Stand der Beschulung geflüchteter Kinder und Jugendlicher in Gemeinschaftsunterkünften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19748.pdf)**

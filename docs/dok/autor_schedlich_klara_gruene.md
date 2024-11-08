@@ -1,6 +1,6 @@
 # Anfragen von Schedlich, Klara (Grüne)
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 ## Oktober 2024
 **[Berliner Eliteschulen des Sports (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20356.pdf)**

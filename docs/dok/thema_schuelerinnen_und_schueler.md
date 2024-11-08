@@ -1,10 +1,15 @@
 # Thema: Schülerinnen und Schüler
 
-Stand: 05.11.2024 14:41
+Stand: 07.11.2024 22:02
 
 Zugeordnete Schlagworte: Schülerinnen und Schüler, Schüler, Schulpflicht
 
 ## Oktober 2024
+**[Sonderbeschulung von Geflüchteten - ein Ende in Sicht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20595.pdf)**
+19/20595 - [Lasić, Dr. Maja (SPD)](autor_lasic_dr_maja_spd.md) - 31.10.2024
+Schlagworte: Asylbewerber, Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flughafen, Tegel, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Schulpflicht, Schüler, Staatsbürgerschaft, Statistik
+Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Umsetzung der UN-Behindertenrechtskonvention bei der Bildung für Kinder und Jugendliche nur nach Kassenlage?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20567.pdf)**
 19/20567 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024
 Schlagworte: Inklusion, Mensch mit Behinderung, Menschen mit Behinderungen, Rechtsvorschrift, Schule, Schulen, Schüler
