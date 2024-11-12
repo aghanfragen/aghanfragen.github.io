@@ -1,6 +1,6 @@
 # Bezirke
 
-Stand: 07.11.2024 22:02
+Stand: 11.11.2024 22:02
 
 [Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md)
 [Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md)

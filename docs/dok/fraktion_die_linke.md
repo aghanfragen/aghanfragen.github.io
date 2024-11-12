@@ -1,8 +1,13 @@
 # Anfragen von Die Linke
 
-Stand: 07.11.2024 22:02
+Stand: 11.11.2024 22:02
 
 ## Oktober 2024
+**[Verzögerungen beim Schulneubau in Rummelsburg (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20635.pdf)**
+19/20635 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 31.10.2024
+Schlagworte: Bauplanung, Bauwesen, Lichtenberg, Neubau, Schulen, Zuständigkeit (Verwaltung)
+Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Wozu braucht es eine Stabsstelle für politische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20486.pdf)**
 19/20486 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 16.10.2024
 Schlagworte: Bildung, Bildungspolitik, Personalkosten, Personalplanung, Politische Bildung, Zuständigkeit (Verwaltung)

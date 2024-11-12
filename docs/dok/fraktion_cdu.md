@@ -1,6 +1,6 @@
 # Anfragen von CDU
 
-Stand: 07.11.2024 22:02
+Stand: 11.11.2024 22:02
 
 ## Oktober 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**

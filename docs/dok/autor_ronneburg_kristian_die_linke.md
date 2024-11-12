@@ -1,6 +1,6 @@
 # Anfragen von Ronneburg, Kristian (Die Linke)
 
-Stand: 07.11.2024 22:02
+Stand: 11.11.2024 22:02
 
 ## Oktober 2024
 **[Fortführung von Teach-First an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20435.pdf)**
