@@ -1,6 +1,6 @@
 # Anfragen von Suka, Aferdita (Grüne)
 
-Stand: 11.11.2024 22:02
+Stand: 12.11.2024 22:02
 
 ## März 2023
 **[Gesundheitliche Versorgung von Schüler\*innen sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14837.pdf)**

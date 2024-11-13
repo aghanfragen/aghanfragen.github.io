@@ -10,14 +10,14 @@ Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.
  - mailPassword: hQy3i9^91
  - mailProperties: {mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=mx2fa3.netcup.net, mail.smtp.port=587, mail.smtp.ssl.protocols=TLSv1.2}
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-12T07:10:02.441 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-13T07:10:02.789 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
-Letzer Lauf: 1731046211491, Force: false
+Letzer Lauf: 1731391811773, Force: false
 Import file: pardok-wp19.xml
 Download https://www.parlament-berlin.de/opendata/pardok-wp19.xml to /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
 Lese /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
-Importiere Datei vom 2024-11-11T22:02:39
-1469 Dokumente gelesen.
+Importiere Datei vom 2024-11-12T22:02:44
+1470 Dokumente gelesen.
 Neue Daten: 1
 Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_bezirke.md
@@ -25,8 +25,10 @@ Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_integrati
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_schuelerinnen_und_schueler.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_statistik.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_gebaeude_und_standorte.md
-Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sonstige.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_personal.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_qualitaet_und_erfolg.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_schulfaecher.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sonstige.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_finanzen.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_fruehkindliche_bildung.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_inklusion.md
@@ -34,9 +36,7 @@ Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_digitalis
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_verwaltung.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_grundschule.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_freie_schulen.md
-Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_schulfaecher.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_gesundheit_und_ernaehrung.md
-Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_qualitaet_und_erfolg.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sozialklima.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_soziales.md
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_berufsbildung.md
@@ -62,11 +62,11 @@ Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
 Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/unbekannte_stichworte.nd
 Send to MailList: joerg@staudemeyer.de
 Send Mail (true):
-<p>Stand: 11.11.2024 22:02
-<p><b>Verzögerungen beim Schulneubau in Rummelsburg (Teil 2)</b><br />
-Klein, Hendrikje (Die Linke)<br />
-Stichworte: Bauplanung, Bauwesen, Lichtenberg, Neubau, Schulen, Zuständigkeit (Verwaltung)<br />
-<a href="https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20635.pdf">19/20635</a></p>
+<p>Stand: 12.11.2024 22:02
+<p><b>Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356</b><br />
+Schedlich, Klara (Grüne)<br />
+Stichworte: Lehrer, Qualitätssicherung, Schule, Schulen, Schüler, Sport, Sportförderung, Statistik<br />
+<a href="https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf">19/20639</a></p>
 <p>Siehe auch <a href="https://aghanfragen.github.io/">https://aghanfragen.github.io/</a><br />
 Quelle: <a href="https://www.parlament-berlin.de/dokumente/open-data">Abgeordnetenhaus Berlin</a></p>
 

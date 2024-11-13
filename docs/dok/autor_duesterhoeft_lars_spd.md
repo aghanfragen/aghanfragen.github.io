@@ -1,6 +1,6 @@
 # Anfragen von Düsterhöft, Lars (SPD)
 
-Stand: 11.11.2024 22:02
+Stand: 12.11.2024 22:02
 
 ## März 2024
 **[Die unendliche Geschichte geht weiter - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18344.pdf)**

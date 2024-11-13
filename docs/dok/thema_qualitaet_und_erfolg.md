@@ -1,10 +1,15 @@
 # Thema: Qualität und Erfolg
 
-Stand: 11.11.2024 22:02
+Stand: 12.11.2024 22:02
 
 Zugeordnete Schlagworte: Qualität und Erfolg, Abitur, Bildungsabschluss, Förderunterricht, Forschung, Prüfung, Qualitätssicherung, Schulaufsicht
 
 ## Oktober 2024
+**[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
+19/20639 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 25.10.2024
+Schlagworte: Lehrer, Qualitätssicherung, Schule, Schulen, Schüler, Sport, Sportförderung, Statistik
+Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Chaos beim Schulessen (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20434.pdf)**
 19/20434 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 11.10.2024
 Schlagworte: Ausschreibung, Bezirk (Gebietskörperschaft), Ernährung, Qualitätssicherung, Schulen, Schüler, Vergaberecht
