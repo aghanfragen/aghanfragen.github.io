@@ -4,11 +4,11 @@ Antworten der letzten 24 Monate auf schriftliche Anfragen der Abgeordneten aller
 
 Die Verweise auf die Dokumente sind nach umgekehrt chronologisch (neueste zuerst) angeordnet und nach verschiedenen Kriterien gegliedert:
 
+* [**Aktuelle** Dokumente](dok/aktuell.md)
 * [**Themenbereiche**, denen die Dokumente zugeordnet werden können<sup>1</sup>](dok/themen.md)
 * [**Fraktionen**, deren Abgeordnete die Fragen gestellt haben](dok/parteien.md)
 * [**Abgeordnete**, die die Fragen gestellt haben](dok/abgeordnete.md)
 * [**Stadtbezirke**, denen die Dokumente zugeordnet werden können](dok/bezirke.md)
-* [**Alle** Dokumente](dok/alle.md)
 
 Informationen zu Implementierung siehe [Info](info.md) 
 
