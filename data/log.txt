@@ -10,12 +10,12 @@ Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.
  - mailPassword: hQy3i9^91
  - mailProperties: {mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=mx2fa3.netcup.net, mail.smtp.port=587, mail.smtp.ssl.protocols=TLSv1.2}
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-14T07:10:01.646 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-15T07:10:01.761 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
 Letzer Lauf: 1731478211037, Force: false
 Import file: pardok-wp19.xml
 Download https://www.parlament-berlin.de/opendata/pardok-wp19.xml to /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
 Lese /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
-Importiere Datei vom 2024-11-13T22:02:40
+Importiere Datei vom 2024-11-14T22:02:41
 1470 Dokumente gelesen.
 Neue Daten: 0
