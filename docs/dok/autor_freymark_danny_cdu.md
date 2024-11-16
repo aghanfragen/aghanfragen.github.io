@@ -1,6 +1,6 @@
 # Anfragen von Freymark, Danny (CDU)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## Oktober 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**

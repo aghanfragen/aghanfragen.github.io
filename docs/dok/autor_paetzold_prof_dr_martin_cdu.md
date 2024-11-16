@@ -1,6 +1,6 @@
 # Anfragen von Pätzold, Prof. Dr. Martin (CDU)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## August 2024
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**

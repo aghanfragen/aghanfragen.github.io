@@ -10,12 +10,73 @@ Lese Konfigurationsdatei: /home/joerg/projects/aghanfragen-update/config/config.
  - mailPassword: hQy3i9^91
  - mailProperties: {mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=mx2fa3.netcup.net, mail.smtp.port=587, mail.smtp.ssl.protocols=TLSv1.2}
 Lese Keyword-Mapping: /home/joerg/projects/aghanfragen-update/config/themen.yml
-*** AGH-Anfragen 2024-11-15T07:10:01.761 on ubuntu-2gb-nbg1-3 ***
+*** AGH-Anfragen 2024-11-16T07:10:02.266 on ubuntu-2gb-nbg1-3 ***
 ubuntu-2gb-nbg1-3/127.0.1.1
 Letzer Lauf: 1731478211037, Force: false
 Import file: pardok-wp19.xml
 Download https://www.parlament-berlin.de/opendata/pardok-wp19.xml to /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
 Lese /home/joerg/projects/aghanfragen.github.io/data/pardok-wp19.xml
-Importiere Datei vom 2024-11-14T22:02:41
-1470 Dokumente gelesen.
-Neue Daten: 0
+Importiere Datei vom 2024-11-15T22:02:40
+1473 Dokumente gelesen.
+Neue Daten: 3
+Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_berufsbildung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_qualitaet_und_erfolg.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_schuelerinnen_und_schueler.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_bezirke.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_integration.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_statistik.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_gebaeude_und_standorte.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_personal.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_schulfaecher.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sonstige.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_finanzen.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_fruehkindliche_bildung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_inklusion.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_digitalisierung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_verwaltung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_grundschule.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_freie_schulen.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_gesundheit_und_ernaehrung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_sozialklima.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_soziales.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_gemeinschaftsschule.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_weiterfuehrende_schule.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_medien.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_ganztag.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_erwachsenenbildung.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_vielfalt.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_nachhaltigkeit.md
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/thema_kultur.md
+- 28 Dokumente geschrieben
+- /home/joerg/projects/aghanfragen.github.io/docs/dok/themen.md geschrieben.
+Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
+- 12 Dokumente geschrieben
+- /home/joerg/projects/aghanfragen.github.io/docs/dok/bezirke.md geschrieben.
+Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
+- 7 Dokumente geschrieben
+- /home/joerg/projects/aghanfragen.github.io/docs/dok/parteien.md geschrieben.
+Erzeuge Dateien in /home/joerg/projects/aghanfragen.github.io/docs/dok
+- 107 Dokumente geschrieben
+- /home/joerg/projects/aghanfragen.github.io/docs/dok/abgeordnete.md geschrieben.
+Geschrieben: /home/joerg/projects/aghanfragen.github.io/docs/dok/unbekannte_stichworte.nd
+Send to MailList: joerg@staudemeyer.de
+Send Mail (true):
+<p>Stand: 15.11.2024 22:02
+<p><b>Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?</b><br />
+IBA = Integrierten Berufsausbildungsvorbereitung<br />
+Schedlich, Klara (Grüne)<br />
+Stichworte: Berufsausbildung, Berufsberatung, Qualitätssicherung, Rechtsvorschrift, Schulen, Schüler<br />
+<a href="https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf">19/20685</a></p>
+<p><b>Wohnungen für angehende Lehrer*innen in Marzahn-Hellersdorf</b><br />
+Ronneburg, Kristian (Die Linke)<br />
+Stichworte: Landesbetrieb, Lehrer, Marzahn-Hellersdorf, Wohnungsbaugesellschaft, Wohnungspolitik, Wohnungswesen<br />
+<a href="https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf">19/20680</a></p>
+<p><b>Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal</b><br />
+Düsterhöft, Lars (SPD)<br />
+Stichworte: Baugenehmigung, Bauplanung, Bauwesen, Kosten, Schulbau, Schule, Schulen, Treptow-Köpenick<br />
+<a href="https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf">19/20668</a></p>
+<p>Siehe auch <a href="https://aghanfragen.github.io/">https://aghanfragen.github.io/</a><br />
+Quelle: <a href="https://www.parlament-berlin.de/dokumente/open-data">Abgeordnetenhaus Berlin</a></p>
+
+Send mail to joerg@staudemeyer.de: 3 neue parlamentarische Anfragen

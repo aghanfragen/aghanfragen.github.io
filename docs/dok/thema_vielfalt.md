@@ -1,6 +1,6 @@
 # Thema: Vielfalt
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 Zugeordnete Schlagworte: Vielfalt, Antisemitismus, Diskriminierung, Rassismus, Religion, Religionsgemeinschaften
 

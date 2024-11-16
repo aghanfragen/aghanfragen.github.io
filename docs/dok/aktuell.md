@@ -1,8 +1,23 @@
-# AlleDokumente
+# Aktuelle Dokumente
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
-## Oktober 2024
+**[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
+IBA = Integrierten Berufsausbildungsvorbereitung
+19/20685 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 07.11.2024
+Schlagworte: Berufsausbildung, Berufsberatung, Qualitätssicherung, Rechtsvorschrift, Schulen, Schüler
+Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**
+19/20680 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 07.11.2024
+Schlagworte: Landesbetrieb, Lehrer, Marzahn-Hellersdorf, Wohnungsbaugesellschaft, Wohnungspolitik, Wohnungswesen
+Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf)**
+19/20668 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 07.11.2024
+Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Kosten, Schulbau, Schule, Schulen, Treptow-Köpenick
+Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
 19/20639 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 25.10.2024
 Schlagworte: Lehrer, Qualitätssicherung, Schule, Schulen, Schüler, Sport, Sportförderung, Statistik
@@ -50,6 +65,10 @@ Themen: [Sonstige](thema_sonstige.md)
 Schlagworte: Arbeitsschutz, Datenverarbeitung, Lehrer
 Themen: [Personal](thema_personal.md)
 
+**[Entwicklung von Inobhutnahmen in den Jahren 2017 bis 2023 - Drucksache 19/20391 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20563.pdf)**
+19/20563 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 24.10.2024
+Schlagworte: Asylbewerber, Bezirk (Gebietskörperschaft), Flüchtling, Gewalt, Häusliche Gewalt, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Staatsbürgerschaft, Statistik, Straftat
+
 **[Umsetzung der UN-Behindertenrechtskonvention bei der Bildung für Kinder und Jugendliche nur nach Kassenlage?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20567.pdf)**
 19/20567 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.10.2024
 Schlagworte: Inklusion, Mensch mit Behinderung, Menschen mit Behinderungen, Rechtsvorschrift, Schule, Schulen, Schüler
@@ -70,6 +89,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 Schlagworte: Ausschreibung, Datenschutz, ITDZ Berlin, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Instant Messaging, Kosten, Schule, Schulen, Software, Vergaberecht, Öffentlicher Haushalt
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
+**[Aktueller Stand des Maßnahmenpakets zur Prävention von Jugendgewalt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20520.pdf)**
+19/20520 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 18.10.2024
+Schlagworte: Gewalt, Innere Sicherheit, Jugendlicher, Öffentlicher Haushalt
+
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Str. 51-52 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20497.pdf)**
 19/20497 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 17.10.2024
 Schlagworte: Ausschreibung, Freier Träger, Kinder- und Jugendhilfe, Kindertagesstätte, Neubau, Städtebau, Vergaberecht, Öffentliche Mittel
@@ -79,6 +102,10 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 19/20496 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 17.10.2024
 Schlagworte: Berufliche Qualifikation, Inklusion, Mensch mit Behinderung, Menschen mit Behinderungen, Schule, Schulen, Schüler, Vergütung
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Muss das Kind namenslos bleiben? Wartezeiten für Geburtsurkunden und Elterngeldanträge](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20498.pdf)**
+19/20498 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 16.10.2024
+Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Digitalisierung, E-Government, Personalplanung, Statistik, Verwaltungsverfahren, Öffentliche Verwaltung
 
 **[Wozu braucht es eine Stabsstelle für politische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20486.pdf)**
 19/20486 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 16.10.2024
@@ -146,10 +173,22 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 Schlagworte: Ausschreibung, Ernährung, Schulen, Vergaberecht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
+**[Altersfeststellung und Umverteilung minderjähriger Ausländer](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20407.pdf)**
+19/20407 - [Bronson, Dr. Hugh (AfD)](autor_bronson_dr_hugh_afd.md) - 07.10.2024
+Schlagworte: Arzt, Asylbewerber, Ausländer, Ausländer, Migranten, Gutachten, Jugendamt, Kinder und Jugendliche, Kinder- und Jugendhilfe, Personenbezogene Daten, Staatsangehörigkeit, Statistik
+
+**[Klein Wall - Warum verfallen die Gebäude des Landes Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20405.pdf)**
+19/20405 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 08.10.2024
+Schlagworte: Brandenburg, Kommunale Angelegenheiten, Landesimmobilien, Liegenschaftsverwaltung, Pacht, Öffentliches Vermögen
+
 **[Sportorientierte Jugendsozialarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20394.pdf)**
 19/20394 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Freier Träger, Jugendarbeit, Kinder, Jugendliche, Schule, Sozialarbeit, Sport, Statistik, Verein, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Entwicklung von Inobhutnahmen in den Jahren 2017 bis 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20391.pdf)**
+19/20391 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.10.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Gewalt, Häusliche Gewalt, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Kosten, Statistik, Straftat
 
 **[Aufbau eines Kompetenzzentrums für Beteiligung und Demokratiebildung junger Menschen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20390.pdf)**
 19/20390 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.10.2024
@@ -160,6 +199,19 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 19/20373 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 04.10.2024
 Schlagworte: Berufliche Qualifikation, Erzieher, Lehrer, Lohn- und Gehaltstarif, Personalplanung, Schulen, Statistik, Unterricht
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Erstellung der bezirklichen Familienförderpläne](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20395.pdf)**
+19/20395 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 02.10.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Lebensgemeinschaften, Öffentlicher Haushalt
+
+**[Jugendbericht und jugendpolitische Leitlinien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20392.pdf)**
+19/20392 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 02.10.2024
+Schlagworte: Familienpolitik, Gesetzgebung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Personalplanung, Öffentliche Mittel
+
+**[Qualifizierungsangebote für Pädagogische Unterrichtshilfen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20372.pdf)**
+19/20372 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.09.2024
+Schlagworte: Berufliche Qualifikation, Berufsausbildung, Bezirk (Gebietskörperschaft), Erzieher, Lehrer, Lohn- und Gehaltstarif, Personalplanung, Quereinsteiger, Schulen, Sonderpädagogik, Unterricht
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
 
 **[Familiengrundschulzentren - Was ist der Sachstand?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20370.pdf)**
 19/20370 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 02.10.2024
@@ -181,16 +233,14 @@ Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schulfächer:Spo
 Schlagworte: Baum, Bauplanung, Lichtenberg, Schulen, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
+**[Jung und erfahren zusammenbringen - Wie fördert Berlin den Austausch zwischen den Generationen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20316.pdf)**
+19/20316 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 02.10.2024
+Schlagworte: Alte Menschen, Bezirk (Gebietskörperschaft), Ehrenamtliche Tätigkeit, Freier Träger, Jugendlicher, Kinder, Jugendliche, Statistik, Verein, Öffentliche Mittel
+
 **[Genehmigung von Schüler\*innenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20301.pdf)**
 19/20301 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 02.10.2024
 Schlagworte: Lehrplan, Schulen, Schüler, Vergaberecht
 Themen: [Schulfächer](thema_schulfaecher.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
-
-## September 2024
-**[Qualifizierungsangebote für Pädagogische Unterrichtshilfen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20372.pdf)**
-19/20372 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.09.2024
-Schlagworte: Berufliche Qualifikation, Berufsausbildung, Bezirk (Gebietskörperschaft), Erzieher, Lehrer, Lohn- und Gehaltstarif, Personalplanung, Quereinsteiger, Schulen, Sonderpädagogik, Unterricht
-Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
 
 **[Wo sind unsere Kindheitspädagog\*innen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20297.pdf)**
 19/20297 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.09.2024
@@ -207,6 +257,10 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schül
 Schlagworte: Inklusion, Integrativer Unterricht, Mensch mit Behinderung, Menschen mit Behinderungen, Schule, Schüler, Sonderpädagogik, Sozialleistung, Teilhabe behinderter Menschen, Zuständigkeit (Verwaltung)
 Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Soziales](thema_soziales.md)
 
+**[Berliner Jugendarbeit in Klein Wall?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20268.pdf)**
+19/20268 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 23.09.2024
+Schlagworte: Kommunale Angelegenheiten, Landesimmobilien, Liegenschaftsverwaltung, Öffentliches Vermögen
+
 **[Die Streiks zeigen Wirkung - Stehen die Kita-Eigenbetriebe vor dem Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20247.pdf)**
 19/20247 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 23.09.2024
 Schlagworte: Frühkindliche Bildung, Gewerkschaft, Kind, Landesbetrieb, Statistik, Streik, Tarifvertrag
@@ -221,6 +275,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schul
 19/20264 - [Gebel, Silke (Grüne)](autor_gebel_silke_gruene.md) - 21.09.2024
 Schlagworte: Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
+
+**[Kosten für Heimerziehung und sonstige betreute Wohnformen nach § 34 SGB VIII](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20216.pdf)**
+19/20216 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2024
+Schlagworte: Kinder und Jugendliche, Kosten, Pflege, Pflegeeinrichtung, Rechtsvorschrift, Statistik, Wohngemeinschaft
 
 **[Bilanz ziehen: Welche Folgen hat die Erhöhung der Pflichtstunden von Referendar\*innen und die Aussetzung des Profilbedarfs II?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20188.pdf)**
 19/20188 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 20.09.2024
@@ -257,6 +315,14 @@ Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Schülerinnen und Sch�
 Schlagworte: Bauplanung, Bausanierung, Bezirk (Gebietskörperschaft), Schulen, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
+**[Von Fördergeldern und "woker Ideologie" - was ist dran an den Ideologievorwürfen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20178.pdf)**
+19/20178 - [Franco, Vasili (Grüne)](autor_franco_vasili_gruene.md) - 19.09.2024
+Schlagworte: Landesregierung, Senat, Berlin, Subvention, Öffentliche Mittel
+
+**[Spart der Bezirk Pankow auf Kosten der Kinder, Jugendlichen und Familien?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20123.pdf)**
+19/20123 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 18.09.2024
+Schlagworte: Kinder und Jugendliche, Kinder, Jugendliche, Pankow, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+
 **[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20114.pdf)**
 19/20114 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 11.09.2024
 Schlagworte: Marzahn-Hellersdorf, Schule, Schulen, Schüler, Statistik
@@ -266,6 +332,10 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Sc
 19/20095 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.09.2024
 Schlagworte: Bausanierung, Bezirk (Gebietskörperschaft), Kosten, Schule, Schulen, Schüler, Sport, Sporthalle, Sportstättenbau, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
+
+**[Geschlossene Unterbringung – eine alte Forderung der CDU](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20088.pdf)**
+19/20088 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.09.2024
+Schlagworte: Asylbewerber, Asylverfahren, Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtling, Kinder und Jugendliche, Strafverfahren
 
 **[Priorisierung bei der Aufnahme von Kindern in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20089.pdf)**
 19/20089 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.09.2024
@@ -282,7 +352,6 @@ Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen un
 Schlagworte: Armut, Schulen, Schüler, Statistik
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 19/20043 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 29.08.2024
 Schlagworte: Grundschule, Straßenverkehr, Verkehrssicherheit
@@ -318,6 +387,10 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 Schlagworte: Fahrrad, Frühkindliche Bildung, Prüfung, Qualitätssicherung, Senatsverwaltung für Bildung, Jugend und Familie, Verkehr, Verkehrssicherheit, Öffentlichkeitsarbeit
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
+**[Strategie gegen Obdachlosigkeit junger Menschen im Land Berlin – Streichung der Unterbringungsmöglichkeiten junger Menschen über §13.3 SGB VIII verhindern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19932.pdf)**
+19/19932 - [Knack, Lisa-Bettina (CDU)](autor_knack_lisa-bettina_cdu.md) - 21.08.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Flüchtling, Jugendarbeit, Jugendlicher, Kinder- und Jugendhilfe, Neukölln, Sonstige gesellschaftliche Gruppen, Sozialleistung, Sozialleistungen, Sozialpolitik, Sozialpädagogik, Statistik, Öffentlicher Haushalt
+
 **[Leistungsprämie und Leistungszulage für Lehrkräfte - in Zeiten knapper Kassen von Priorität?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19956.pdf)**
 19/19956 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 20.08.2024
 Schlagworte: Arbeitsentgelt, Lehrer, Öffentliche Mittel, Öffentlicher Haushalt
@@ -348,6 +421,10 @@ Themen: [Bezirke:Charlottenburg-Wilmersdorf](thema_bezirke_charlottenburg-wilmer
 Schlagworte: Bevölkerung, Bezirk (Gebietskörperschaft), Kinder- und Jugendhilfe, Personalplanung, Schulen, Sozialstruktur, Zuständigkeit (Verwaltung), Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
+**[Stadtteilmutter im Jahre 2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19834.pdf)**
+19/19834 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 12.08.2024
+Schlagworte: Armut, Ausländer, Migranten, Ausländerintegration, Bezirk (Gebietskörperschaft), Erziehung, Frau, Kosten, Lohn- und Gehaltstarif, Mensch mit Migrationshintergrund, Soziales, Stadtteil, Öffentlicher Haushalt
+
 **[Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19829.pdf)**
 19/19829 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 12.08.2024
 Schlagworte: Allgemeinbildende Schulen, Gemeinschaftsschule, Schulklasse, Schüler, Statistik, Verwaltungsverfahren
@@ -357,6 +434,10 @@ Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Schülerinnen und 
 19/19825 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 08.08.2024
 Schlagworte: Beratung, Berliner Verkehrsbetriebe, Schulweg, Schüler, Verkehrssicherheit, Älterer Mensch, Öffentlicher Personenverkehr
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Sekteninfo Berlins: Ausstattung und Themen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19820.pdf)**
+19/19820 - [Kahlefeld, Dr. Susanna (Grüne)](autor_kahlefeld_dr_susanna_gruene.md) - 08.08.2024
+Schlagworte: Beratung, Ideologien, Information, Personalplanung, Religionsgemeinschaften, Statistik
 
 **[Mobile Endgeräte für Schüler\*innen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19860.pdf)**
 19/19860 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 09.08.2024
@@ -378,6 +459,10 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 Schlagworte: Ausländer, Migranten, Dienstleistungen, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Personenbeförderung, Reinickendorf, Schule, Schüler
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
+**["Regenbogenzentrum" in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19813.pdf)**
+19/19813 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 08.08.2024
+Schlagworte: Beratung, Kinder und Jugendliche, Kosten, Lebensgemeinschaften, Marzahn-Hellersdorf, Sexuelle Identität, Öffentliche Mittel
+
 **[Ergebnisse der aktuellen VERA-Vergleichsarbeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19806.pdf)**
 19/19806 - [King, Dr. Alexander (fraktionslos)](autor_king_dr_alexander_fraktionslos.md) - 09.08.2024
 Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Bildungsstatistik, Qualitätssicherung, Schüler
@@ -397,6 +482,16 @@ Themen: [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
 19/19794 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 05.08.2024
 Schlagworte: Beratung, Kinder, Jugendliche, Schulen, Schulpsychologischer Dienst, Schüler
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md)
+
+**[Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 A)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19758.pdf)**
+19/19758 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.07.2024
+Schlagworte: Bevölkerungsentwicklung, Lehramtsanwärter, Lehrer, Personalplanung, Schulpersonal, Statistik
+Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Mobile Endgeräte für Schülerinnen und Schüler an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19757.pdf)**
+19/19757 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 31.07.2024
+Schlagworte: Digitalisierung, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Medienpädagogik, Schulausstattung, Schulen, Schüler
+Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Medien](thema_medien.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
 **[Abriss und Neubau der Mercator-Grundschule in Lichterfelde Süd](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19750.pdf)**
 19/19750 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 01.08.2024
@@ -422,17 +517,6 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulf
 19/19747 - [Schmidt, Stephan (CDU)](autor_schmidt_stephan_cdu.md) - 01.08.2024
 Schlagworte: Allgemeinbildende Schulen, Digitalisierung, Grundschule, Personalplanung, Reinickendorf, Schüler, Statistik
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
-
-## Juli 2024
-**[Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 A)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19758.pdf)**
-19/19758 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.07.2024
-Schlagworte: Bevölkerungsentwicklung, Lehramtsanwärter, Lehrer, Personalplanung, Schulpersonal, Statistik
-Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
-
-**[Mobile Endgeräte für Schülerinnen und Schüler an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19757.pdf)**
-19/19757 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 31.07.2024
-Schlagworte: Digitalisierung, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Medienpädagogik, Schulausstattung, Schulen, Schüler
-Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Medien](thema_medien.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
 **[Zeitplan für den MEB an der Oberseeschule weiter transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19718.pdf)**
 MEB = Modularer Ergänzungsbau
@@ -542,6 +626,10 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gesundheit und Ernährung]
 Schlagworte: Bausanierung, Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Sozialarbeit, Statistik, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
+**[Wie steht es um den Kindernotdienst, warum werden nicht alle Kinder aufgenommen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19539.pdf)**
+19/19539 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 11.07.2024
+Schlagworte: Jugendamt, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kosten, Mensch mit Behinderung, Psychiatrie, Öffentlicher Haushalt
+
 **[Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19532.pdf)**
 19/19532 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 11.07.2024
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Schulklasse, Schulpflicht, Schüler, Statistik, Verwaltungsverfahren
@@ -552,13 +640,16 @@ Themen: [Bezirke](thema_bezirke.md), [Schülerinnen und Schüler](thema_schueler
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Grundstück, Marzahn-Hellersdorf, Sportstättenbau, Stadtplanung, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Strategie gegen Kinderarmut](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19480.pdf)**
+19/19480 - [Knack, Lisa-Bettina (CDU)](autor_knack_lisa-bettina_cdu.md) - 05.07.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Gesundheitsvorsorge, Kinder, Jugendliche, Personalplanung, Sozialarbeit, Soziales, Sozialleistung, Sozialpolitik, Öffentlicher Haushalt
+
 **[Unterstützung von TIN (trans, inter, nicht-binären)-Kindern und -Jugendlichen in Berliner Schulen (Teil 2) (Nachfragen zur Antwort des Senats zu Drs. 19/18415)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19436.pdf)**
 Drs. = Drucksache
 19/19436 - [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md) - 03.07.2024
 Schlagworte: Erziehung, Gesellschaft, Bevölkerung, Kinder und Jugendliche, LSBTTIQ, Lehrplan, Sexualität, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer](thema_schulfaecher.md)
 
-## Juni 2024
 **[Religion als ordentliches Schulfach: Welche Vorbereitungen trifft der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19418.pdf)**
 19/19418 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 27.06.2024
 Schlagworte: Allgemeinbildende Schulen, Gesetzgebung, Lehrerbildung, Lehrplan, Religion, Schule, Universitäten, Unterricht
@@ -595,6 +686,10 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Lehrer, Lohnzuschlag, Personalwesen, Senatsverwaltung für Bildung, Jugend und Familie, Vergütung, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
+**[Nachfrage Drucksache 19/18987: Modellprojekt Familienräte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19414.pdf)**
+19/19414 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 25.06.2024
+Schlagworte: Familienhilfe, Familienpolitik, Lebensgemeinschaften, Marzahn-Hellersdorf, Modellprojekt, Qualitätssicherung, Öffentliche Mittel
+
 **[Verdrängung und Rettung von Kitaplätzen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19410.pdf)**
 19/19410 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 26.06.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Finanzierung, Finanzzuweisung, Frühkindliche Bildung, Kindertagespflege, Statistik, Öffentliche Mittel
@@ -625,6 +720,10 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/19297 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 24.06.2024
 Schlagworte: Ausländer, Ausländer, Migranten, Flüchtling, Integrationspolitik, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schulbau, Schule, Schulen, Statistik
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Sorgerechtsvollmachten für begleitete geflüchtete Kinder und Jugendliche ohne Personensorgeberechtigte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19345.pdf)**
+19/19345 - [Omar, Jian (Grüne)](autor_omar_jian_gruene.md) - 21.06.2024
+Schlagworte: Asylverfahren, Ausländer, Migranten, Familienrecht, Flüchtling, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Lebensgemeinschaften, Sozialleistung, Verwaltungsverfahren
 
 **[Schnellschuss mit unklaren Auswirkungen? – Welche Folgen hat die Erhöhung der Pflichtstunden von Referendar\*innen und die Aussetzung des Profilbedarfs II?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19343.pdf)**
 19/19343 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 21.06.2024
@@ -692,6 +791,10 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Abriss, Asbest, Friedrichshain-Kreuzberg, Grundschule, Schulbau, Städtebau, Wohnungsbaugesellschaft, Ökologisches Bauen
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md)
 
+**[Beteiligung von Kindern und Jugendlichen in den Bezirken](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19254.pdf)**
+19/19254 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 17.06.2024
+Schlagworte: Bezirksverwaltung, Kinder, Jugendliche, Wahlrecht, Öffentliche Mittel
+
 **[Umsetzung der Ernährungsstrategie der Bundesregierung in Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19252.pdf)**
 19/19252 - [Altuǧ, Dr. Turgut (Grüne)](autor_altug_dr_turgut_gruene.md) - 14.06.2024
 Schlagworte: Beratung, Ernährung, Lebensmittel, Modellprojekt, Qualitätssicherung, Schulverpflegung
@@ -713,6 +816,10 @@ Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzber
 Schlagworte: Allgemeinbildende Schulen, Berufsausbildung, Bildungsstatistik, Flüchtling, Frau, Gymnasium, Hochschule, Hochschulwesen, Religion, Studium, Unterricht
 Themen: [Berufsbildung](thema_berufsbildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Die Zukunft des "Landesprogramms Stadtteilmütter"](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19258.pdf)**
+19/19258 - [Helm, Anne (Die Linke)](autor_helm_anne_die_linke.md) - 07.06.2024
+Schlagworte: Ausländer, Migranten, Freier Träger, Gesellschaft, Bevölkerung, Mensch mit Migrationshintergrund, Personalplanung, Sozialarbeit, Soziales, Öffentliche Mittel, Öffentlicher Haushalt
+
 **[Schulbaukosten von Neubauten durch die HOWOGE](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19232.pdf)**
 19/19232 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 06.06.2024
 Schlagworte: Finanzierung, Kosten, Lichtenberg, Neubau, Schule, Schulen, Städtebau, Wohnungsbaugesellschaft, Öffentliche Mittel
@@ -727,6 +834,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 19/18868 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 07.06.2024
 Schlagworte: Grundstück, Kindertagesstätte, Lichtenberg, Stadtplanung, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Abenteuerspielplätze und Kinderbauernhöfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19189.pdf)**
+19/19189 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 06.06.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Freizeit, Jugendarbeit, Jugendfreizeitstätte, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Landwirtschaft, Statistik
 
 **[Verbeamtung und Lehrkräftemangel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19157.pdf)**
 19/19157 - [Lüdke, Tamara (SPD)](autor_luedke_tamara_spd.md) - 06.06.2024
@@ -743,12 +854,19 @@ Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_
 Schlagworte: Bildungspolitik, Schule, Schulen, Schulfach, Sprache, Unterricht
 Themen: [Integration](thema_integration.md), [Schulfächer](thema_schulfaecher.md)
 
+**[Funktionalität des Integrierte Software Berliner Jugendhilfe (ISBJ) Trägerportals](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19191.pdf)**
+19/19191 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 01.06.2024
+Schlagworte: Datenverarbeitung, Freier Träger, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Kinder- und Jugendhilfe, Personalplanung
+
 **[Blackbox Landesinstitut - Schluss mit der Geheimniskrämerei um das neue Landesinstitut für die Aus-, Fort- und Weiterbildung von Lehrkräften!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19145.pdf)**
 19/19145 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 03.06.2024
 Schlagworte: Berufliche Weiterbildung, Lehramtsanwärter, Lehrer
 Themen: [Personal](thema_personal.md)
 
-## Mai 2024
+**[Prävention gegen verdächtiges Ansprechen von Kindern ("Mitschnacker")](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19120.pdf)**
+19/19120 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 31.05.2024
+Schlagworte: Gewaltprävention, Information, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Verbrechensbekämpfung, Öffentliche Sicherheit und Ordnung
+
 **[Transparenz im Haushalt Bildung, Jugend und Familie für Projekte, Träger und das Parlament wiederherstellen - Wer wird 2024 gefördert? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19146.pdf)**
 19/19146 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.05.2024
 Schlagworte: Finanzpolitik, Freier Träger, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -764,6 +882,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Sozialklima
 Schlagworte: Jugendlicher, Kinder, Jugendliche, Kinder- und Jugendkriminalität, Schulen, Öffentliche Sicherheit und Ordnung
 Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md)
 
+**[Stand der Dinge? Prüfung der Feiertagsregelung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19046.pdf)**
+19/19046 - [Kahlefeld, Dr. Susanna (Grüne)](autor_kahlefeld_dr_susanna_gruene.md) - 15.05.2024
+Schlagworte: Religion, Religionsgemeinschaften
+
 **[Drucksache 19/18007 nachgefragt: Jugendliche Intensivtäter als Gefahr für andere Jugendliche: Gewalt an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19054.pdf)**
 19/19054 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.05.2024
 Schlagworte: Gewalt, Innere Sicherheit, Jugendgericht, Kinder- und Jugendhilfe, Schulen, Schulrecht, Schüler, Staatsanwaltschaft, Strafverfahren
@@ -778,6 +900,10 @@ Themen: [Finanzen](thema_finanzen.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 19/18994 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.05.2024
 Schlagworte: Berufliche Weiterbildung, Bildung, Eltern, Erziehung, Kinder und Jugendliche, Kindertagesstätte, Qualitätssicherung, Schule, Sexualität, Statistik, Unterricht, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md)
+
+**[Modellprojekt Familienräte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18987.pdf)**
+19/18987 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2024
+Schlagworte: Familienhilfe, Familienpolitik, Lebensgemeinschaften, Marzahn-Hellersdorf, Modellprojekt, Qualitätssicherung, Sozialarbeit, Öffentliche Mittel
 
 **[Eröffnung der 36. Grundschule Hellersdorf – Zustand der Außenanlagen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18982.pdf)**
 19/18982 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.05.2024
@@ -804,10 +930,18 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gesundheit und Ern
 Schlagworte: Arbeitsmarkt, Freier Träger, Frühkindliche Bildung, Leiharbeit, Personalplanung, Personalwesen, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Umsetzung der Förderung von Projekten und Maßnahmen im Bereich der Jugendarbeit und -beteiligung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19003.pdf)**
+19/19003 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 15.05.2024
+Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, LSBTTIQ, Statistik, Öffentliche Finanzplanung, Öffentlicher Haushalt
+
 **[Geplante Studie zu Problemlagen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18977.pdf)**
 19/18977 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 15.05.2024
 Schlagworte: Allgemeinbildende Schulen, Antisemitismus, Diskriminierung, Studie, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Kinderarmut in Berlin – 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18966.pdf)**
+19/18966 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 15.05.2024
+Schlagworte: Bevölkerungsstatistik, Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Soziales, Sozialleistung
 
 **[Schuldienst „Under Cover” - Wie schreitet der Diskriminierungsabbau konkret voran?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18960.pdf)**
 19/18960 - [Bozkurt, Tuba (Grüne)](autor_bozkurt_tuba_gruene.md) - 14.05.2024
@@ -819,10 +953,18 @@ Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md), [Weiterfü
 Schlagworte: Berufliche Weiterbildung, Inklusion, Kinder und Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Kinderschutz, Medizinische Versorgung, Menschen mit Behinderungen
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
 
+**[Schutz von Jugendeinrichtungen vor Rechtsextremistischen Bedrohungen (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18961.pdf)**
+19/18961 - [Tomiak, June (Grüne)](autor_tomiak_june_gruene.md) - 13.05.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Ideologien, Kriminalität, Kriminalstatistik, Rechtsextremismus, Statistik, Straftat
+
 **[Wie steht es um den Kinderschutz an den Berliner Schulen besonderer pädagogischer Prägung für Musik und wie werden Minderjährige an den Musikhochschulen in Berlin geschützt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18959.pdf)**
 19/18959 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 13.05.2024
 Schlagworte: Berufliche Weiterbildung, Hochschule, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Lehrer, Musikschule, Schulen, Schulrecht
 Themen: [Personal](thema_personal.md)
+
+**[Kinderschutz: Geschwister im Kontext von Misshandlung, Missbrauch und Vernachlässigung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18988.pdf)**
+19/18988 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.05.2024
+Schlagworte: Jugendamt, Kind, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Sozialarbeit
 
 **[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
 19/18946 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 08.05.2024
@@ -833,6 +975,14 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Digitalisierung](t
 19/18938 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 10.05.2024
 Schlagworte: Finanzzuweisung, Schulen, Schulfinanzierung, Statistik, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md)
+
+**[Sanierung von Sporthallen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18923.pdf)**
+19/18923 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 10.05.2024
+Schlagworte: Bausanierung, Marzahn-Hellersdorf, Sport
+
+**[Neubau eines Sportfunktionsgebäudes in der Jänschwalder Straße und Sanierung der Sportanlage an der Lichtenhainer Straße in Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18891.pdf)**
+19/18891 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 08.05.2024
+Schlagworte: Baugenehmigung, Bauplanung, Bausanierung, Bauwesen, Jugendfreizeitstätte, Marzahn-Hellersdorf, Sport, Sportverein, Unterricht, Öffentliche Mittel
 
 **[Herrichtung von Außenanlagen an neuen MEB-Standorten in Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18890.pdf)**
 MEB = Mobiler Ergänzungsbau
@@ -860,12 +1010,15 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), 
 Schlagworte: Gesundheitsrisiko, Gesundheitsschutz, Gesundheitsvorsorge, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Rauchen, Rauschmittel, Suchtprävention
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
+**[Kleiner Check zum Jugendcheck](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18884.pdf)**
+19/18884 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 06.05.2024
+Schlagworte: Demokratie, Gesetzgebung, Kinder und Jugendliche, Kinder, Jugendliche, Qualitätssicherung
+
 **[Caterervergabe zum Mittagessen an Gemeinschaftsschulen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18869.pdf)**
 19/18869 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 02.05.2024
 Schlagworte: Ausschreibung, Gemeinschaftsschule, Schulen, Vergaberecht, Öffentliche Vergabe, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Verwaltung](thema_verwaltung.md)
 
-## April 2024
 **[Was ist die Strategie bei der Jugendstrategie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18864.pdf)**
 19/18864 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 30.04.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Freier Träger, Jugendarbeit, Jugendlicher, Jugendorganisation, Kinder, Jugendliche, Personalplanung, Politische Bildung, Sozialarbeit, Statistik
@@ -896,10 +1049,18 @@ Themen: [Finanzen](thema_finanzen.md), [Vielfalt](thema_vielfalt.md)
 Schlagworte: Lichtenberg, Natur, Naturschutz, Schule
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
+**[Schutz von Jugendeinrichtungen vor Rechtsextremistischen Bedrohungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18735.pdf)**
+19/18735 - [Tomiak, June (Grüne)](autor_tomiak_june_gruene.md) - 19.04.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Ideologien, Jugendarbeit, Jugendlicher, Kinder, Jugendliche, Kriminalität, Kriminalstatistik, Rechtsextremismus, Straftat
+
 **[Ausbau der Kitaplätze im Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18770.pdf)**
 19/18770 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.04.2024
 Schlagworte: Bausanierung, Bauwesen, Frühkindliche Bildung, Neubau, Statistik, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
+
+**[Vaterlose Familien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18768.pdf)**
+19/18768 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.04.2024
+Schlagworte: Familie, Lebensgemeinschaften, Mutter, Statistik, Vater
 
 **[Planung für den Modularen Ergänzungsbau (MEB) an der Oberseeschule transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18712.pdf)**
 19/18712 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 10.04.2024
@@ -937,6 +1098,11 @@ OSZ = Oberstufenzentrum
 Schlagworte: Bauplanung, Berufsbildende Schulen, Marzahn-Hellersdorf, Schulbau
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
+**[Qualitätssicherung im Ganztag, aber ohne Fachkenntnis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18583.pdf)**
+19/18583 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.03.2024
+Schlagworte: Allgemeinbildende Schulen, Bildung, Bildungspolitik, Qualitätssicherung, Schulrecht
+Themen: [Ganztag](thema_ganztag.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Was lernt der Senat aus den neuen Studien zu Helmut Kentlers Wirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18582.pdf)**
 19/18582 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 02.04.2024
 Schlagworte: Familienpolitik, Freier Träger, Jugendamt, Kinder, Jugendliche, Kinderbetreuung, Kinderschutz, Pflegekind, Qualitätssicherung, Senatsverwaltung für Bildung, Jugend und Familie, Sozialarbeit, Soziales
@@ -953,12 +1119,6 @@ KJSG  = Gesetz zur Stärkung von Kindern und Jugendlichen (Kinder- und Jugendst�
 19/18580 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 02.04.2024
 Schlagworte: Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Kindertagesstätte, Mensch mit Behinderung, Sozialarbeit, Soziales, Sozialpädagogik, Statistik, Teilhabe behinderter Menschen
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
-
-## März 2024
-**[Qualitätssicherung im Ganztag, aber ohne Fachkenntnis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18583.pdf)**
-19/18583 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.03.2024
-Schlagworte: Allgemeinbildende Schulen, Bildung, Bildungspolitik, Qualitätssicherung, Schulrecht
-Themen: [Ganztag](thema_ganztag.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Situation der Erzieher\*innen in den Einrichtungen der Kita-Eigenbetrieben](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18579.pdf)**
 19/18579 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 28.03.2024
@@ -1026,6 +1186,14 @@ BSO = Berliner Schlubauoffensive
 Schlagworte: Bauwesen, Kosten, Landeshaushaltsordnung, Neubau, Schule, Schulen, Statistik, Wohnungsbaugesellschaft, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
+**[Akteneinsicht für Careleaver nach § 25 SGB X](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18425.pdf)**
+19/18425 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 18.03.2024
+Schlagworte: Adoption, Akten, Jugendamt, Kinder, Jugendliche, Pflegekind, Verwaltungsverfahren
+
+**[Situation wohnungsloser und obdachloser Kinder und Jugendlicher in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18419.pdf)**
+19/18419 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 18.03.2024
+Schlagworte: Freier Träger, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Sonstige gesellschaftliche Gruppen, Sozialarbeit, Soziales, Sozialpolitik
+
 **[Pankower Schuldrehscheiben – Lessons learned und wie gehtʹs weiter?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18416.pdf)**
 19/18416 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 15.03.2024
 Schlagworte: Bauplanung, Pankow, Schule, Schulen
@@ -1080,6 +1248,11 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/18301 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 06.03.2024
 Schlagworte: Lehrer, Personalplanung, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
+19/18242 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
+Schlagworte: Lehrer, Reinickendorf, Schule, Schulen, Unterricht
+Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Personal](thema_personal.md)
 
 **[Die unendliche Geschichte geht weiter - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18344.pdf)**
 19/18344 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 06.03.2024
@@ -1136,21 +1309,15 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 Schlagworte: Finanzzuweisung, Schulen, Schulfinanzierung, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md)
 
-**[Einschulungsbereiche besser planen: Was kann die neue Software für die Bezirke?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18247.pdf)**
-19/18247 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 01.03.2024
-Schlagworte: Bezirksverwaltung, Einschulung, Kommunale Angelegenheiten, Schule, Schulen
-Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md)
-
-## Februar 2024
-**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
-19/18242 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.02.2024
-Schlagworte: Lehrer, Reinickendorf, Schule, Schulen, Unterricht
-Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Personal](thema_personal.md)
-
 **[Auskömmliche ergänzende Kinderbetreuung garantieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18253.pdf)**
 19/18253 - [Schmidt, Ines (Die Linke)](autor_schmidt_ines_die_linke.md) - 29.02.2024
 Schlagworte: Alleinerziehender, Beratung, Berufliche Qualifikation, Bezirk (Gebietskörperschaft), Familie, Frühkindliche Bildung, Lebensgemeinschaften, Statistik, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+**[Einschulungsbereiche besser planen: Was kann die neue Software für die Bezirke?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18247.pdf)**
+19/18247 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 01.03.2024
+Schlagworte: Bezirksverwaltung, Einschulung, Kommunale Angelegenheiten, Schule, Schulen
+Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md)
 
 **[Roadmap zur Vergabe des Berliner Schulmittagessens - diesmal ohne Testessen, ohne digitales Bestellsystem und nur ein bisschen DGE-Qualitätsstandards?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18203.pdf)**
 19/18203 - [Gebel, Silke (Grüne)](autor_gebel_silke_gruene.md) - 28.02.2024
@@ -1247,6 +1414,10 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Frühkindliche Bildung](them
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Gebäude, Gymnasium, Schule, Sport
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Reform für Pflegefamilien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18147.pdf)**
+19/18147 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.02.2024
+Schlagworte: Familie, Finanzierung, Kinder, Jugendliche, Lebensgemeinschaften, Pflege, Pflegekosten, Statistik
+
 **[Beschulung geflüchteter Kinder und Jugendlicher in Tegel und Tempelhof](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18060.pdf)**
 19/18060 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 14.02.2024
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Bildungspolitik, Flüchtlingsunterbringung, Kinder und Jugendliche, Lehrer, Lehrerbildung, Lehrplan, Schulen, Schulpflicht, Statistik
@@ -1317,6 +1488,10 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schül
 Schlagworte: Datenschutz, Gewalt, Jugendamt, Schulen, Schulrecht, Schüler, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Eckpunktepapier zur Reform des Unterhaltsrechts](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18004.pdf)**
+19/18004 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 05.02.2024
+Schlagworte: Familie, Familienrecht, Lebensgemeinschaften, Publikation
+
 **[Neuausschreibung für das Angebot von Schulmittagessen für die Primarstufe Klasse 1 bis 6 im Jahr 2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17922.pdf)**
 19/17922 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 07.02.2024
 Schlagworte: Ausschreibung, Bezirk (Gebietskörperschaft), Schulen, Vergaberecht
@@ -1343,7 +1518,6 @@ Themen: [Verwaltung](thema_verwaltung.md)
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bevölkerungsentwicklung, Bezirk (Gebietskörperschaft), Privatschule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## Januar 2024
 **[Berliner Eliteschulen des Sports (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17844.pdf)**
 19/17844 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 31.01.2024
 Schlagworte: Schule, Schulen, Schüler, Sport, Sportförderung, Statistik
@@ -1353,6 +1527,10 @@ Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Sc
 19/17858 - [Hassepaß, Oda (Grüne)](autor_hassepass_oda_gruene.md) - 31.01.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Schulen, Verkehr, Verkehrssicherheit
 Themen: [Bezirke](thema_bezirke.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
+
+**[Stadtteilmütter in Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17896.pdf)**
+19/17896 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 29.01.2024
+Schlagworte: Bezirk, Lohn- und Gehaltstarif, Mensch mit Migrationshintergrund, Pankow, Soziale Einrichtungen, Stadtteil, Statistik
 
 **[Verhältnis von Senatsmitgliedern zu CDU-Großspendern hier: Senatorin für Bildung, Jugend und Familie](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17842.pdf)**
 19/17842 - [Brousek, Antonin (fraktionslos)](autor_brousek_antonin_fraktionslos.md) - 24.01.2024
@@ -1384,10 +1562,34 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 Schlagworte: Berufliche Weiterbildung, Berufsausbildung, Kinder, Jugendliche, Personalplanung, Personalwesen, Pädagoge
 Themen: [Berufsbildung](thema_berufsbildung.md), [Ganztag](thema_ganztag.md), [Personal](thema_personal.md)
 
+**[Ganztag (Teil 2). Offene Stellen und Einstellungsverfahren von Erzieher\*innen in der ergänzenden Förderung und Betreuung (eFöB): Fehlendes Personal und ungleiche Pauschalen in der ergänzenden Förderung und Betreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17713.pdf)**
+19/17713 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.01.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Erzieher, Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Personalwesen, Pädagoge, Statistik, Öffentliche Mittel
+
 **[Ganztag (Teil 1). Antragsverfahren sonderpädagogischer Förder- und Betreuungsbedarf: Förderbedarfe und personelle Nachsteuerung in der ergänzenden Förderung und Betreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17712.pdf)**
 19/17712 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.01.2024
 Schlagworte: Allgemeinbildende Schulen, Frühkindliche Bildung, Kinderbetreuung, Kindertagesstätte, Mensch mit Behinderung, Personalplanung, Schule, Schulische Ausbildung, Sonderpädagogik, Verwaltungsverfahren
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Ganztag](thema_ganztag.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Altersfeststellung bei minderjährigen Flüchtlingen/Asylbewerbern: Methoden und Durchführung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17699.pdf)**
+19/17699 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.01.2024
+Schlagworte: Ausländer, Ausländer, Migranten, Charité - Universitätsmedizin Berlin, Gutachten, Kinder und Jugendliche, Kinder- und Jugendhilfe, Personenbezogene Daten
+
+**[Altersfeststellung bei minderjährigen Flüchtlingen/Asylbewerbern: ärztliche Untersuchung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17698.pdf)**
+19/17698 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.01.2024
+Schlagworte: Ausländer, Ausländer, Migranten, Gutachten, Jugendamt, Kinder und Jugendliche, Kinder- und Jugendhilfe, Personenbezogene Daten
+
+**[Altersfeststellung bei minderjährigen Flüchtlingen/Asylbewerbern: Zahlen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17697.pdf)**
+19/17697 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.01.2024
+Schlagworte: Ausländer, Ausländer, Migranten, Gutachten, Kinder und Jugendliche, Kinder- und Jugendhilfe, Personenbezogene Daten, Statistik
+
+**[Altersfeststellung bei minderjährigen Flüchtlingen/Asylbewerbern: Rechtliches und Kosten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17696.pdf)**
+19/17696 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.01.2024
+Schlagworte: Ausländer, Ausländer, Migranten, Gutachten, Jugendamt, Kinder und Jugendliche, Kinder- und Jugendhilfe, Kosten, Personenbezogene Daten
+
+**[Altersfeststellung bei minderjährigen Flüchtlingen/Asylbewerbern: Inaugenscheinnahme](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17695.pdf)**
+19/17695 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.01.2024
+Schlagworte: Ausländer, Ausländer, Migranten, Gutachten, Jugendamt, Kinder und Jugendliche, Kinder- und Jugendhilfe, Personenbezogene Daten
 
 **[Pad gGmbH](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17678.pdf)**
 Die pad gGmbH begleitet und unterstützt Menschen. Zur pad gGmbH gehören inzwischen über 60 Einrichtungen und Projekte an mehr als 50 Standorten mit ca. 370 Mitarbeiterinnen und Mitarbeitern in den Bereichen Kindertagesbetreuung, Familie, Schule & Delinquenz, Jugend, Arbeit & Sucht sowie Demokratie
@@ -1400,7 +1602,6 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Bezirke:Marzahn-He
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Brandschutz, Pankow
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## Dezember 2023
 **[Neue Gemeinschaftsschule in Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17667.pdf)**
 19/17667 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.12.2023
 Schlagworte: Allgemeinbildende Schulen, Marzahn-Hellersdorf
@@ -1485,6 +1686,10 @@ Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfueh
 Schlagworte: Allgemeinbildende Schulen, Bildung, Inklusion, Sonderpädagogik, Statistik
 Themen: [Inklusion](thema_inklusion.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Standorte und Situation des Kindernotdienstes in Berlin – aktueller Stand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17592.pdf)**
+19/17592 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 28.12.2023
+Schlagworte: Beratung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Personalplanung, Statistik
+
 **[Modularer Ergänzungsbau (MEB) für die Grundschule an der Geißenweide in Marzahn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17581.pdf)**
 19/17581 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.12.2023
 Schlagworte: Kosten, Marzahn-Hellersdorf, Schulbau, Schulen, Schüler, Städtebau
@@ -1505,11 +1710,27 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Qualit�
 Schlagworte: Integrativer Unterricht, Menschen mit Behinderungen, Schüler, Sonderpädagogik, Teilhabe behinderter Menschen
 Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
+**[Mehr Geld für Pflegeeltern und ihre Pflegekinder – Ab 1. Januar 2024, vielleicht etwas später oder wie all die Jahre zuvor überhaupt nicht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17644.pdf)**
+19/17644 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.12.2023
+Schlagworte: Familie, Kinder, Jugendliche, Pflege, Sozialleistung, Sozialleistungen
+
 **[Fehlende Grundbildung trotz Schulbesuchs - Was unternehmen Senat und KMK?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17593.pdf)**
 KMK = Kultusministerkonferenz
 19/17593 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 27.12.2023
 Schlagworte: Bildungsabschluss, Jugendbildung, Kinder, Jugendliche, Schulen, Schulpolitik
 Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
+
+**[Situation unbegleiteter minderjähriger Geflüchteter in Berlin (Teil 3) - Perspektiven im Clearingverfahren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17591.pdf)**
+19/17591 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.12.2023
+Schlagworte: Ausländer, Migranten, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinder- und Jugendliche, Statistik
+
+**[Trotz Familienfördergesetz – drohende Kürzungen in der Familienförderung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17590.pdf)**
+19/17590 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.12.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Kinder- und Jugendhilfe, Lebensgemeinschaften, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+
+**[Chancen und Entwicklungsperspektiven auch für Kinder in Gemeinschaftsunterkünften für Geflüchtete](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17589.pdf)**
+19/17589 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.12.2023
+Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtling, Flüchtlingsunterbringung, Kinder, Jugendliche, Kinderbetreuung, Statistik, Säugling
 
 **[Schulische Inklusion: Zahlen und Daten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17598.pdf)**
 19/17598 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 27.12.2023
@@ -1540,6 +1761,10 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Ge
 19/17529 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 19.12.2023
 Schlagworte: Ausländer, Migranten, Flüchtling, Flüchtlingsunterbringung, Kinder, Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schulen, Statistik, Unterricht
 Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md)
+
+**[Neubau des Nachwuchsleistungszentrum für den 1. FC Union Berlin e.V. am Standort Oberspree](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17504.pdf)**
+19/17504 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 19.12.2023
+Schlagworte: Erbbaurecht, Fußball, Sport, Sportverein
 
 **[Spandau: Entwicklung der Schülerschaft mit nichtdeutscher Herkunftssprache 2014-2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17498.pdf)**
 19/17498 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.12.2023
@@ -1581,15 +1806,33 @@ Themen: [Bezirke:Spandau](thema_bezirke_spandau.md), [Personal](thema_personal.m
 Schlagworte: Bausanierung, Bauwesen, Finanzierung, Jugendarbeit, Kinder, Jugendliche, Marzahn-Hellersdorf
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
+**[(Keine) Kinder- und Jugendhilfe in der Köllnischen Heide?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17402.pdf)**
+19/17402 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 12.12.2023
+Schlagworte: Jugendamt, Jugendarbeit, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Kosten, Neukölln, Personalplanung, Sozialleistung, Sozialleistungen, Statistik
+
 **[Manipulation bei der Schulplatzvergabe – das Losverfahren auf dem Prüfstein](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17441.pdf)**
 19/17441 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 11.12.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Oberschule, Verwaltungsverfahren
 Themen: [Bezirke](thema_bezirke.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Unbegleitete minderjährige Flüchtlinge in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17390.pdf)**
+19/17390 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 07.12.2023
+Schlagworte: Asylrecht, Ausländer, Migranten, Jugendlicher, Staatsangehörigkeit, Statistik
+
 **[Studierende an Berliner Schulen: Wer füllt aktuell die Lücken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17434.pdf)**
 19/17434 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 06.12.2023
 Schlagworte: Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Pädagoge, Quereinsteiger, Schule
 Themen: [Personal](thema_personal.md)
+
+**[Angebote des Mitternachtssports in den Bezirken](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17391.pdf)**
+Mitternachtssport soll, wie alle Angebote der sportorientierten Jugendsozialarbeit, spielerisch Regeln vermitteln und gewaltfreie Handlungsmöglichkeiten für Konflikte im angeleiteten sozialpädagogischen Spiel/in der Sportaktivität aufzeigen.
+19/17391 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 06.12.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Gewaltprävention, Kinder, Jugendliche, Sozialarbeit, Soziale Einrichtungen, Sport, Statistik
+
+**[Berliner Rahmenlehrpläne für die Bildung der offenen und vielfältigen Gesellschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17382.pdf)**
+19/17382 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.11.2023
+Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Diversity, Schule, Unterricht
+Themen: [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Schüler\*innenbeteiligung - warum nicht von Anfang an?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17406.pdf)**
 19/17406 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 01.12.2023
@@ -1606,16 +1849,26 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integra
 Schlagworte: Bezirk (Gebietskörperschaft), Bildung, Bildungspolitik, Deutsch, Integrationspolitik, Oberschule, Prüfung, Schulaufsicht, Sprachförderung, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## November 2023
-**[Berliner Rahmenlehrpläne für die Bildung der offenen und vielfältigen Gesellschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17382.pdf)**
-19/17382 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 30.11.2023
-Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Diversity, Schule, Unterricht
-Themen: [Weiterführende Schule](thema_weiterfuehrende_schule.md)
-
 **[Schulbaupotentialflächen in Marzahn-Hellersdorf (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17352.pdf)**
 19/17352 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 29.11.2023
 Schlagworte: Allgemeinbildende Schulen, Bauwesen, Grundstück, Marzahn-Hellersdorf, Statistik, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[§ 91 SGB VIII – weitere finanzielle und juristische Aspekte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17341.pdf)**
+19/17341 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.11.2023
+Schlagworte: Kosten, Sozialleistung, Sozialleistungen, Sozialrecht, Statistik
+
+**[§ 91 (2) SGB VIII – Kostenbeiträge zu teilstationären Leistungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17340.pdf)**
+19/17340 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.11.2023
+Schlagworte: Kosten, Sozialleistung, Sozialleistungen, Sozialrecht
+
+**[§ 91 (1) SGB VIII – Kostenbeiträge zu vollstationären Leistungen und vorläufigen Maßnahmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17339.pdf)**
+19/17339 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.11.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Kosten, Sozialleistung, Sozialleistungen, Sozialrecht, Statistik
+
+**[Angebote für Jugendliche in der Silvesternacht 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17368.pdf)**
+19/17368 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 28.11.2023
+Schlagworte: Feiertag, Gewaltprävention, Jugendarbeit, Jugendlicher, Sozialarbeit, Soziales
 
 **[Privat-gewerbliche Trägerschaft von Kindertagesstätten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17293.pdf)**
 19/17293 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 27.11.2023
@@ -1691,6 +1944,10 @@ Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Sta
 Schlagworte: Beamtenrecht, Lehrer, Lohnzuschlag, Schulrecht, Öffentlicher Dienst, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
+**[Religionsunterricht in Berlin: Staatsverträge mit dem Land Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17115.pdf)**
+19/17115 - [Trefzer, Martin (AfD)](autor_trefzer_martin_afd.md) - 07.11.2023
+Schlagworte: Kommunale Angelegenheiten, Religion, Religionsgemeinschaft, Religionsgemeinschaften, Unterricht
+
 **[Religionsunterricht in Berlin: Art. 141 GG („Bremer Klausel”) und Art. 21 Reichskonkordat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17111.pdf)**
 19/17111 - [Trefzer, Martin (AfD)](autor_trefzer_martin_afd.md) - 07.11.2023
 Schlagworte: Allgemeinbildende Schulen, Gerichtsentscheidung, Religion, Schulrecht
@@ -1732,12 +1989,6 @@ Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_un
 Schlagworte: Bezirk (Gebietskörperschaft), Erwachsenenbildung, Gesetzgebung
 Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md)
 
-**[Personalausstattung der Berliner Schulen zum Schuljahr 2023/24](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17093.pdf)**
-19/17093 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 01.11.2023
-Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schulen, Statistik, Unterricht
-Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
-
-## Oktober 2023
 **[Verfügbarkeit von kostenlosen Menstruationsprodukten an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17063.pdf)**
 19/17063 - [Haghanipour, Dr. Bahar (Grüne)](autor_haghanipour_dr_bahar_gruene.md) - 31.10.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Frau, Gesundheitsschutz, Hygiene, Kosten, Schulen, Schüler
@@ -1747,6 +1998,11 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gesundheit 
 19/17046 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 31.10.2023
 Schlagworte: Bausanierung, Bauwesen, Marzahn-Hellersdorf, Sanitäranlage, Schulen
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Personalausstattung der Berliner Schulen zum Schuljahr 2023/24](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17093.pdf)**
+19/17093 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 01.11.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Schulen, Statistik, Unterricht
+Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 **[Strukturelle Umwandlung von Lehrkräftestunden (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17061.pdf)**
 Umwandlung in Professionen zum Beispiel (Betreuerin / Betreuer, Erzieherin / Erzieher, Pädagogische Unterrichtshilfe, Psychologin / Psychologe an Schulen, Sozialarbeiterin / Sozialarbeiter, Sprachlernassistenz.
@@ -1759,10 +2015,22 @@ Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Lehrerbildung, Musik, Personalplanung, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Pflegeeltern: Dokumentation der Pauschalbeträge in der Vollzeitpflege auf moses-online.de](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17015.pdf)**
+19/17015 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.10.2023
+Schlagworte: Datenverarbeitung, Informations- und Kommunikationstechnologien, Internet, Kinder, Jugendliche, Sozialleistung, Sozialleistungen
+
 **[Pflegeeltern: „Allianz für Pflegekinder” – Nachlese zum parlamentarischen Abend mit der Senatorin Katharina Günther-Wünsch](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17013.pdf)**
 19/17013 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.10.2023
 Schlagworte: Beratung, Eltern, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflege, Senatsverwaltung für Bildung, Jugend und Familie, Zuständigkeit (Verwaltung), Öffentliche Verwaltung
 Themen: [Verwaltung](thema_verwaltung.md)
+
+**[Pflegeeltern: Entwicklung der Pflegestellen im Bezirk Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17012.pdf)**
+19/17012 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.10.2023
+Schlagworte: Familie, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Lichtenberg, Pflege, Statistik
+
+**[Werden die Verfahrenslots\*innen zum 01.01.2024 ihre Arbeit aufnehmen, wie das Bundesrecht es verlangt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16984.pdf)**
+19/16984 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 26.10.2023
+Schlagworte: Berufliche Qualifikation, Inklusion, Jugendamt, Kinder, Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Personalplanung, Sozialpädagogik, Sozialrecht, Vergütung, Öffentliche Verwaltung
 
 **[Berliner Eliteschulen des Sports (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16961.pdf)**
 19/16961 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 24.10.2023
@@ -1784,6 +2052,10 @@ Themen: [Sonstige](thema_sonstige.md)
 19/16945 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.10.2023
 Schlagworte: Allgemeinbildende Schulen, Gemeinschaftsschule, Grundschule, Statistik
 Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Jugendberufsagenturen nach Wechsel in Zuständigkeit der Bundesagentur für Arbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16899.pdf)**
+19/16899 - [Schubert, Katina (Die Linke)](autor_schubert_katina_die_linke.md) - 20.10.2023
+Schlagworte: Arbeitsmarkt, Arbeitsverwaltung, Jobcenter, Kinder, Jugendliche, Sozialpolitik
 
 **[Zusammenhang von Bildung und Kriminalität](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16951.pdf)**
 Zusammenhang zwischen Kinder-/Jugendkriminalität und Bildungsniveau bzw. kausaler Zusammenhang zwischen Bildungsniveau und kriminellem Verhalten
@@ -1811,6 +2083,11 @@ Themen: [Bezirke](thema_bezirke.md), [Freie Schulen](thema_freie_schulen.md), [G
 19/16902 - [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md) - 17.10.2023
 Schlagworte: Finanzierung, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Meldewesen, Schulen, Sexualdelikt
 Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
+
+**[Freiheitsentziehende Unterbringung von Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16866.pdf)**
+Einstweilige Unterbringung in einem psychiatrischen Krankenhaus oder einem geeigneten Heim der Jugendhilfe für Kinder und Jugendliche die psychisch erkrankt sich, gemäß des Gesetzes über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (PsychKG)
+19/16866 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.10.2023
+Schlagworte: Gericht, Gerichtsverfahren, Gesundheitseinrichtungen, Jugendstrafe, Kinder, Jugendliche, Kinder- und Jugendhilfe, Krankenhaus, Psychiatrie, Statistik
 
 **[Sparmaßnahmen in den Bezirken: Bildung, Jugend und Familie – Drucksache 19/16612](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16865.pdf)**
 19/16865 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.10.2023
@@ -1842,6 +2119,10 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/16842 - [Bocian, Lars (CDU)](autor_bocian_lars_cdu.md) - 13.10.2023
 Schlagworte: Bauplanung, Bebauungsplan, Grundstück, Kleingarten, Pacht, Pankow, Schulbau, Schulen, Städtebau
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Hohe Fluktuation und Arbeitsbelastung beim Regionalen Sozialpädagogischen Dienst (RSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16855.pdf)**
+19/16855 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 12.10.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Personalplanung, Personalwesen, Sozialarbeit, Öffentliche Verwaltung
 
 **[Zahnpflege in der Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16834.pdf)**
 Erlernen der Mundhygiene / Schulungen des Fachpersonals in der Kinderzahnpflege/ Förderung der Mundgesundheit / Bereitstellung von Zahnpflegematerialien
@@ -1913,17 +2194,32 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration]
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Pankow, Schulbau, Städtebau, Wohnungsbau
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Gibt es eine gesetzliche Leerstelle bei der Finanzierung pädagogisch betreuter Abenteuerspielplätze und Kinderbauernhöfe?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16728.pdf)**
+19/16728 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 04.10.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Finanzierung, Freizeit, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Pädagoge, Statistik
+
 **[Schulschwimmen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16751.pdf)**
 Hier auch Schwimm-Intensivkurse in den Bezirken und erworbenen Schwimmabzeichen
 19/16751 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 01.10.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Marzahn-Hellersdorf, Schwimmbad, Sport, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## September 2023
+**[Finanzielle Umsetzung des Jugendfördergesetzes sowie des Familienfördergesetzes](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16693.pdf)**
+19/16693 - [Freier-Winterwerb, Alexander (SPD)](autor_freier-winterwerb_alexander_spd.md) - 28.09.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Familienhilfe, Gesetzgebung, Jugendarbeit, Kinder, Jugendliche, Lebensgemeinschaften, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+
+**[Betriebsräte bei freien Trägern der Jugendhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16726.pdf)**
+19/16726 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2023
+Schlagworte: Kinder, Jugendliche, Kinder- und Jugendhilfe, Personalplanung, Personalwesen, Soziales
+
 **[Zustand und Sanierung der Schultoiletten in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16682.pdf)**
 19/16682 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 26.09.2023
 Schlagworte: Bausanierung, Bauwesen, Kosten, Marzahn-Hellersdorf, Sanitäranlage, Schulen
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Haus für 65 minderjährige unbegleitete Flüchtlinge in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16678.pdf)**
+19/16678 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 27.09.2023
+Schlagworte: Ausländer, Migranten, Dienstleistung, Flüchtling, Gebäude, Integrationspolitik, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Miete, Reinickendorf
 
 **[Bilanz Sommer-Schulbauoffensive 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16670.pdf)**
 19/16670 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 26.09.2023
@@ -1950,6 +2246,27 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Verwaltung]
 19/16645 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2023
 Schlagworte: Frühkindliche Bildung, Kinder, Jugendliche, Kinderbetreuung, Kinderschutz, Publikation
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
+
+**[Lichtenberger Kinderarmutskonferenz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16676.pdf)**
+19/16676 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 20.09.2023
+Schlagworte: Kinder, Jugendliche, Kinder- und Jugendarmut, Lichtenberg, Soziales
+
+**[Procedere beim Verdacht von Kindeswohlgefährdungen durch Pflegeeltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16727.pdf)**
+19/16727 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2023
+Schlagworte: Beratung, Familie, Kinder, Jugendliche, Pflegekind
+
+**[Pflegeeltern: Kostenvergleich der stationären Hilfen zur Erziehung zwischenUnterbringung in einer Pflegefamilie und der Unterbringung in Heimen odersonstigen betreuten Wohnformen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16609.pdf)**
+19/16609 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Familie, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kosten, Sozialleistung
+
+**[Pflegeeltern: Wer bekommt das Kindergeld?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16608.pdf)**
+19/16608 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2023
+Schlagworte: Kinder, Jugendliche, Kindergeld
+
+**[Pflegeeltern: Trends und aktuelle Zahlen zur Altersstruktur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16607.pdf)**
+Anzahl der Pflegestellen in den Jahren 2017 – 2022 und Durchschnittsalter der Pflegeeltern
+19/16607 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.09.2023
+Schlagworte: Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik
 
 **[Lichtenberger Schulentwicklung unter schlechten Vorzeichen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16606.pdf)**
 19/16606 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 20.09.2023
@@ -2000,6 +2317,10 @@ Versorgung mit Schul- und Kitaplätzen / Betreuung / Betreiber dieser Asylunterk
 Schlagworte: Ausländer, Migranten, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Reinickendorf
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Integration](thema_integration.md)
 
+**[Schnittstelle Wohnungsnotfallhilfe und Jugendhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16566.pdf)**
+19/16566 - [Kurt, Taylan (Grüne)](autor_kurt_taylan_gruene.md) - 18.09.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Kinder- und Jugendhilfe, Notunterkunft, Sonstige gesellschaftliche Gruppen, Sozialleistungen, Wohnungslosigkeit
+
 **[Schulreinigung in Berlin: Was sind dem schwarz-roten Senat saubere Schulenwert?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16537.pdf)**
 19/16537 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 14.09.2023
 Schlagworte: Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen, Öffentlicher Haushalt
@@ -2020,15 +2341,28 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bezirk (Gebietskörperschaft), Lehrer, Personalplanung, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Senatsstrategie zur Förderung der queeren Jugendzentren: Finanzierung,Bedarf und Zukunftsperspektiven](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16524.pdf)**
+19/16524 - [Neumann, Wiebke (SPD)](autor_neumann_wiebke_spd.md) - 14.09.2023
+Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Jugendfreizeitstätte, Jugendlicher, Kinder, Jugendliche, LSBTTIQ, Sexuelle Identität, Öffentlicher Haushalt
+
 **[Die unendliche Geschichte - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16523.pdf)**
 19/16523 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 14.09.2023
 Schlagworte: Allgemeinbildende Schulen, Ausschreibung, Bauplanung, Bauwesen, Investition, Treptow-Köpenick, Vergaberecht
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Maßnahmenpaket des Senats zur Prävention von Jugendgewalt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16513.pdf)**
+19/16513 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.09.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendlicher, Kinder, Jugendliche, Öffentlicher Haushalt
+
 **[Mittel gegen Jugendgewalt: Berufliche Chancen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16499.pdf)**
 19/16499 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.09.2023
 Schlagworte: Berufsausbildung, Berufsberatung, Gewalt, Innere Sicherheit, Jugendarbeitslosigkeit, Jugendbildung, Jugendlicher, Kinder, Jugendliche, Öffentlicher Haushalt
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
+
+**[Mittel gegen Jugendgewalt: Sanierung von Jugendfreizeiteinrichtungen,Familienzentren und Sportanlagen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16495.pdf)**
+Sanierung, bauliche Aufwertung und Anpassung von Einrichtungen der Jugendfreizeiteinrichtungen, Sportanlagen und Familienförderung, auch im Hinblick auf Mehrfachnutzung
+19/16495 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.09.2023
+Schlagworte: Bausanierung, Familienhilfe, Finanzierung, Gewalt, Innere Sicherheit, Jugendarbeit, Jugendfreizeitstätte, Jugendlicher, Kinder, Jugendliche, Sportstätte, Öffentliche Mittel
 
 **[Staatsvertrag Lehrkräftebildung (Teil 2): Wie positioniert sich der neue Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16488.pdf)**
 19/16488 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.09.2023
@@ -2040,10 +2374,27 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Ausschreibung, Ernährung, Lebensmittel, Qualitätssicherung, Schulen, Trinkwasser
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
 
+**[Mittel gegen Jugendgewalt: Konzept](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16496.pdf)**
+19/16496 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 11.09.2023
+Schlagworte: Beratung, Gewalt, Jugendlicher, Kinder, Jugendliche, Zuständigkeit (Verwaltung), Öffentlicher Haushalt
+
 **[Jugendverkehrsschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16520.pdf)**
 19/16520 - [Schopf, Tino (SPD)](autor_schopf_tino_spd.md) - 11.09.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Kosten, Statistik, Verkehr
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md)
+
+**[Mittel gegen Jugendgewalt: Senatsbeschluss](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16493.pdf)**
+Übersicht zu den Maßnahmen und Mitteln aus dem Gipfel gegen Jugendgewalt
+19/16493 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.09.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendlicher, Kinder, Jugendliche, Öffentliche Mittel, Öffentlicher Haushalt
+
+**[Mittel gegen Jugendgewalt: Arbeitsgruppe Jugenddelinquenz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16501.pdf)**
+19/16501 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.09.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendarbeit, Jugendlicher, Kinder, Jugendliche, Strafverfolgung
+
+**[Mittel gegen Jugendgewalt: Jugendwohnagentur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16498.pdf)**
+19/16498 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.09.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendlicher, Kinder, Jugendliche, Kinder- und Jugendhilfe, Wohnraummangel, Wohnungsvermittlung, Wohnungswesen, Öffentlicher Haushalt
 
 **[Mittel gegen Jugendgewalt: Kita-Sozialarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16497.pdf)**
 19/16497 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.09.2023
@@ -2072,6 +2423,14 @@ Verbesserung der Schulwegsicherheit
 Schlagworte: Schulen, Verkehr, Verkehrssicherheit
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
+**[Mittel gegen Jugendgewalt: Stadtteilmütter](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16500.pdf)**
+19/16500 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 04.09.2023
+Schlagworte: Familienhilfe, Jugendlicher, Kinder, Jugendliche, Lebensgemeinschaften
+
+**[Mittel gegen Jugendgewalt: Väter- und Männerarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16491.pdf)**
+19/16491 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 04.09.2023
+Schlagworte: Familienpolitik, Frauen, Männer, Jugendlicher, Kinder, Jugendliche, Lebensgemeinschaften
+
 **[Die ungewisse Zukunft des Instituts für Schulqualität (ISQ)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16453.pdf)**
 Ausstieg Brandenburgs aus dem gemeinsamen Institut für Schulqualität Berlin-Brandenburg (ISQ). Das Institut bietet eine Vielzahl von forschungsbasierten Serviceleistungen (z. B. diagnostische Verfahren, Schulleistungsrückmeldungen, Evaluationsinstrumente) zur Unterstützung einer systematischen Unterrichts- und Schulentwicklung für die Länder Berlin und Brandenburg an.
 19/16453 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 03.09.2023
@@ -2094,22 +2453,16 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 Schlagworte: Frühkindliche Bildung, Kinderbetreuung, Kindertagespflege, Studie
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
 
+**[Natur- und Umweltbildung: Volkshochschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16410.pdf)**
+19/16410 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 31.08.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Erwachsenenbildung, Naturschutz, Umweltbildung, Veranstaltung
+Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
+
 **[Naturerleben und Gesundheit: Nature-Deficit-Disorder – Naturentfremdung und „Jugendreport Natur”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16436.pdf)**
 "Nature-Deficit-Disorder" (Naturdefizitstörung)Entfremdung der Kinder, Jugendlichen und Erwachsenen von der Natur (Nichtkenntnis und Nicht-Erleben natürlicher Rhythmen und Erscheinungen) sowie die sich aus dieser Entfremdung ergebenden Folgen, wie etwa verringerte Sinneswahrnehmungen,Aufmerksamkeitsprobleme oder körperliche und emotionale Erkrankungen.
 19/16436 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 01.09.2023
 Schlagworte: Bildung, Gesundheitsvorsorge, Jugendbildung, Kinder und Jugendliche, Kinder, Jugendliche, Unterricht
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
-
-**[Missstände in Kitas – Kinderschutzkonzepte und rechtlicher Rahmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16445.pdf)**
-19/16445 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 01.09.2023
-Schlagworte: Frühkindliche Bildung, Kinderschutz
-Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
-
-## August 2023
-**[Natur- und Umweltbildung: Volkshochschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16410.pdf)**
-19/16410 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 31.08.2023
-Schlagworte: Bezirk (Gebietskörperschaft), Erwachsenenbildung, Naturschutz, Umweltbildung, Veranstaltung
-Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Nachhaltigkeit](thema_nachhaltigkeit.md)
 
 **[Schulneubau- und Schulsanierungsmaßnahmen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16421.pdf)**
 19/16421 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 31.08.2023
@@ -2120,6 +2473,11 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fi
 19/16411 - [Bertram, Alexander (AfD)](autor_bertram_alexander_afd.md) - 31.08.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Bildung, Gartenbau, Natur, Naturschutz, Unterricht, Öffentlicher Haushalt
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Nachhaltigkeit](thema_nachhaltigkeit.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Missstände in Kitas – Kinderschutzkonzepte und rechtlicher Rahmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16445.pdf)**
+19/16445 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 01.09.2023
+Schlagworte: Frühkindliche Bildung, Kinderschutz
+Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
 **[Übergriffige Queer-Propaganda an der Kopernikus-Schule (06K03)?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16443.pdf)**
 Angebot und Beratung des „Diversity-Teams“ für Schüler an der Kopernikus-Schule
@@ -2251,12 +2609,20 @@ Durchschnittsnoten für Schüler und Schülerinnen zur Aufnahme an weiterführen
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Flüchtling, Oberschule, Sekundarstufe I, Sonderpädagogik, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Lieber an der Parkraumbewirtschaftung sparen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16175.pdf)**
+Hier auch: Prioritätensetzung von Haushaltsentscheidungen in Bezug auf Parkraumbewirtschaftung, Jugendarbeit sowie Kinder- und Jugendfreizeitstätten
+19/16175 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 03.08.2023
+Schlagworte: Bezirksverwaltung, Straßenverkehr, Öffentlicher Haushalt
+
 **[Situation unbegleiteter minderjähriger Geflüchteter in Berlin (Teil 2): Erstgespräche, Altersschätzung und Vormundschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16167.pdf)**
 19/16167 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 03.08.2023
 Schlagworte: Ausländer, Migranten, Einschulung, Jugendamt, Kinder und Jugendliche, Kinder, Jugendliche, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## Juli 2023
+**[Kinderarmut in Berlin – 2022](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16169.pdf)**
+19/16169 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 31.07.2023
+Schlagworte: Bevölkerungsstatistik, Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Soziales, Sozialleistung
+
 **[Sanierung und Neubau von Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16173.pdf)**
 19/16173 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 28.07.2023
 Schlagworte: Bausanierung, Bauwesen, Investition, Marzahn-Hellersdorf, Schulen
@@ -2373,6 +2739,11 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit u
 Schlagworte: Ausschreibung, Ernährung, Kosten, Lebensmittel, Schulen, Trinkwasser
 Themen: [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
+**[Nachfrage zur Realisierung des 11. Pflichtschuljahrs](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15998.pdf)**
+19/15998 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 12.06.2023
+Schlagworte: Allgemeinbildende Schulen, Berufsausbildung, Berufsberatung, Jugendbildung
+Themen: [Berufsbildung](thema_berufsbildung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Ausweitung der Staatlichen Europa-Schule Berlin (SESB) um neue Sprachen und Standorte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15983.pdf)**
 Hier auch Deutsch-Ukrainische Begegnungsschule
 19/15983 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 11.07.2023
@@ -2409,6 +2780,10 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanz
 Schlagworte: Allgemeinbildende Schulen, Baugenehmigung, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Schulpflicht, Statistik
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Situation unbegleiteter minderjähriger Geflüchteter in Berlin (Teil 1): Unterbringung in Brückenangeboten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15944.pdf)**
+19/15944 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 05.07.2023
+Schlagworte: Ausländer, Migranten, Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Statistik
+
 **[Zertifikatskurs „Quereinstieg in die Jugendsozialarbeit an Berliner Schulen”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15921.pdf)**
 19/15921 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 05.07.2023
 Schlagworte: Berufliche Qualifikation, Fachkraft, Kinder und Jugendliche, Kinder, Jugendliche, Schule, Sozialarbeit, Sozialpädagogik, Statistik
@@ -2419,16 +2794,22 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Bildende Kunst, Jugendbildung, Kinder, Jugendliche, Kunst, Kultur, Musik, Personalplanung, Reinickendorf, Statistik, Unterricht, Öffentlicher Haushalt
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
+**[Finanzierung der freien Träger der Pflegekinderhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15927.pdf)**
+19/15927 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 05.07.2023
+Schlagworte: Finanzierung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kosten, Pflege, Pflegekind, Statistik
+
+**[Verwandtenpflege im Zusammenhang mit der Pflegekinderhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15926.pdf)**
+19/15926 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 05.07.2023
+Schlagworte: Familienrecht, Kinder, Jugendliche, Pflege
+
+**[Drucksache 19/15718 nachgefragt – Fragen zur vorgesehenen Rechtsverordnung gemäß § 20b Abs. 5 AG KJHG](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15924.pdf)**
+19/15924 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 05.07.2023
+Schlagworte: Gesetzgebung, Kinder, Jugendliche, Kinder- und Jugendhilfe
+
 **[Maßnahmen gegen Jugendgewalt im Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15894.pdf)**
 19/15894 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 03.07.2023
 Schlagworte: Bezirk, Gewalt, Grundschule, Innere Sicherheit, Jugendarbeit, Kinder und Jugendliche, Kinder- und Jugendhilfe, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Sozialklima](thema_sozialklima.md)
-
-## Juni 2023
-**[Nachfrage zur Realisierung des 11. Pflichtschuljahrs](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15998.pdf)**
-19/15998 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 12.06.2023
-Schlagworte: Allgemeinbildende Schulen, Berufsausbildung, Berufsberatung, Jugendbildung
-Themen: [Berufsbildung](thema_berufsbildung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Mehr Selbstbestimmung der Berliner Schulen durch Verfügungsfonds ermöglichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15876.pdf)**
 19/15876 - [Haustein, Dennis (CDU)](autor_haustein_dennis_cdu.md) - 30.06.2023
@@ -2444,6 +2825,14 @@ Themen: [Berufsbildung](thema_berufsbildung.md)
 19/15838 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 30.06.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Straßenverkehrsunfall, Unfallstatistik, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Spandau: Situation unbegleiteter minderjähriger Ausländer](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15832.pdf)**
+19/15832 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.06.2023
+Schlagworte: Ausländer, Migranten, Bezirksverwaltung, Kinder und Jugendliche, Kinder, Jugendliche, Spandau, Verwaltungsverfahren, Öffentliche Verwaltung
+
+**[Zwischenbilanz zu den 90 Millionen Euro für den Einsatz gegen Jugendgewalt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15828.pdf)**
+19/15828 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.07.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendarbeit, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Öffentliche Mittel, Öffentlicher Haushalt
 
 **[Spracherwerb von Kindern im Elternhaus und in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15826.pdf)**
 19/15826 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.06.2023
@@ -2461,6 +2850,10 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Fi
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Kosten, Schadstoff, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Kinderfreundliche Kommunen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15822.pdf)**
+19/15822 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.06.2023
+Schlagworte: Jugendamt, Kinder, Jugendliche, Verwaltungsverfahren, Öffentliche Mittel, Öffentliche Verwaltung, Öffentlicher Haushalt
+
 **[2. Nachfrage zu Drs. 19/15045: Wie gehtʹs weiter mit der Kommunalisierung der Schulreinigung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15777.pdf)**
 19/15777 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 28.06.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen, Statistik
@@ -2470,6 +2863,14 @@ Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md), [Verwaltun
 19/15801 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 22.06.2023
 Schlagworte: Allgemeinbildende Schulen, Berufsausbildung, Berufsberatung, Jugendbildung
 Themen: [Berufsbildung](thema_berufsbildung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Zusammenarbeit mit der Jugendberufsagentur evaluieren und fördern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15797.pdf)**
+19/15797 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 23.06.2023
+Schlagworte: Arbeitsmarkt, Arbeitsverwaltung, Berufsberatung, Beschäftigungspolitik, Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Personalplanung
+
+**[Entwicklung der Anzahl von Familien mit ledigen Kindern von 2013 bis 2022](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15820.pdf)**
+19/15820 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 26.06.2023
+Schlagworte: Bevölkerungsstatistik, Kind, Lebensgemeinschaften, Mensch mit Migrationshintergrund, Personenstand, Statistik
 
 **[Neue Abteilung, alte Probleme? - Die Zukunft der Schulbauoffensive in der SenBJF](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15756.pdf)**
 19/15756 - [Schulze, André (Grüne)](autor_schulze_andre_gruene.md) - 26.06.2023
@@ -2491,6 +2892,10 @@ Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md)
 19/15709 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 23.06.2023
 Schlagworte: Bevölkerungsentwicklung, Lehrer, Lehrerbildung, Personalplanung, Quereinsteiger, Schulpersonal, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Familienpolitik im Kontext des Heimatbegriffes](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15821.pdf)**
+19/15821 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.06.2023
+Schlagworte: Familienhilfe, Lebensgemeinschaften, Statistik, Öffentlicher Haushalt
 
 **[Stand Weiterentwicklung der Sprachförderung in den Berliner Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15761.pdf)**
 19/15761 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 22.06.2023
@@ -2534,6 +2939,15 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gesund
 Schlagworte: Finanzierung, Frühkindliche Bildung, Gebühr, Kinderbetreuung, Steglitz-Zehlendorf
 Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
 
+**[Erforderliches Sprachniveau bei Pflegepersonen mit Migrationshintergrund -Drucksache 19/15456 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15723.pdf)**
+Erforderliches Sprachniveau für die Aufnahme von Pflegekindern um auch die Aufgabe des öffentlichen Erziehungsauftrages erfüllen zu können.
+19/15723 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.06.2023
+Schlagworte: Familie, Kinder, Jugendliche, Kinderbetreuung, Mensch mit Migrationshintergrund, Pflege, Sprache
+
+**[Kinderschutzteams, Krisendienste und Kriseninterventionsteams in den Bezirken](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15721.pdf)**
+19/15721 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.06.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Jugendamt, Kinder, Jugendliche
+
 **[Modulare Kita-Bauten für Berlin (MOKIB)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15725.pdf)**
 19/15725 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 20.06.2023
 Schlagworte: Bauland, Bodenbelastung, Gebäude, Kommunale Angelegenheiten, Kosten
@@ -2543,6 +2957,10 @@ Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_u
 19/15700 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 15.06.2023
 Schlagworte: Förderunterricht, Inklusion, Kinder, Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Schule, Schulische Ausbildung, Schulpflicht, Schulpolitik, Schulrecht, Schüler, Sonderpädagogik, Sozialrecht, Unterricht
 Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Jugendfreizeiteinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15696.pdf)**
+19/15696 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 14.06.2023
+Schlagworte: Bausanierung, Bezirk (Gebietskörperschaft), Kinder und Jugendliche, Kinder, Jugendliche, Statistik
 
 **[Sommer-Schulbauoffensive 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15682.pdf)**
 19/15682 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 15.06.2023
@@ -2569,10 +2987,18 @@ Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfueh
 Schlagworte: Allgemeinbildende Schulen, Ausländerintegration, Bezirk (Gebietskörperschaft), Kosten, Lehrer, Schule, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Umsetzungsstand Maßnahmen für das Jahr 2023 aus dem Maßnahmenpaket des Gipfels gegen Jugendgewalt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15632.pdf)**
+19/15632 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 07.06.2023
+Schlagworte: Gewalt, Innere Sicherheit, Jugendarbeit, Kinder und Jugendliche, Kinder, Jugendliche
+
 **[Maßnahmen gegen den akuten Lehrkräftemangel - Wann werden aus Worten auch Taten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15641.pdf)**
 19/15641 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 06.06.2023
 Schlagworte: Lehrer, Personalplanung, Schule, Schulpolitik, Unterricht
 Themen: [Personal](thema_personal.md)
+
+**[Endlich Verfahrenslotsen für Kinder und Jugendliche mit Behinderungendurch den Paragrafen- und Behördendschungel - werden sie am 01.01.2024starten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15634.pdf)**
+19/15634 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 07.06.2023
+Schlagworte: Inklusion, Jugendamt, Kinder, Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Sozialarbeit, Sozialpädagogik, Sozialrecht, Verwaltungsverfahren
 
 **[Aufnahmeverfahren für zugewanderte Kinder und Jugendliche in das Berliner Schulsystem](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15633.pdf)**
 19/15633 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 06.06.2023
@@ -2594,7 +3020,10 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule]
 Schlagworte: Gerichtsentscheidung, Religionsgemeinschaften, Schule, Schulen
 Themen: [Vielfalt](thema_vielfalt.md)
 
-## Mai 2023
+**[Steigende Zahlen Unterhaltsvorschuss](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15618.pdf)**
+19/15618 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 01.06.2023
+Schlagworte: Jugendamt, Kosten, Lebensgemeinschaften, Statistik, Unterhaltspflicht
+
 **[Lese- und Rechenkompetenz der Viertklässler in den Grundschulen Marzahn-Hellersdorfs](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15599.pdf)**
 19/15599 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 31.05.2023
 Schlagworte: Allgemeinbildende Schulen, Bildung, Marzahn-Hellersdorf, Schüler
@@ -2615,6 +3044,10 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Kultur](thema_kultur.md), 
 19/15533 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 31.05.2023
 Schlagworte: Allgemeinbildende Schulen, Fachkraft, Lehrer, Lehrerbildung, Personalplanung, Religion, Schulfach, Unterricht
 Themen: [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Leitungskräfte in bezirklichen Jugendfreizeiteinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15545.pdf)**
+19/15545 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 30.05.2023
+Schlagworte: Arbeitsentgelt, Ausschreibung, Kinder, Jugendliche, Personalplanung, Vergütung
 
 **[Gewalt und Messerangriffe an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15528.pdf)**
 19/15528 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 25.05.2023
@@ -2657,6 +3090,14 @@ Förderschwerpunkt „Autismus“
 Schlagworte: Allgemeinbildende Schulen, Inklusion, Kinder, Jugendliche, Lehrer, Lehrerbildung, Personalplanung, Schule, Schüler
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Kindeswohlgefährdungen beim Kindernotdienst?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15454.pdf)**
+19/15454 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.05.2023
+Schlagworte: Beratung, Gewalt, Kinder, Jugendliche, Kinderschutz, Personalplanung, Statistik
+
+**[Kindeswohlgefährdungen im Umfeld von Clan-Kriminalität](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15452.pdf)**
+19/15452 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.05.2023
+Schlagworte: Gewaltprävention, Innere Sicherheit, Jugendamt, Kinder, Jugendliche, Kinderschutz
+
 **[Hilft eine mit 90 Millionen Euro befüllte Gießkanne gegen die sogenannte Jugendgewalt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15442.pdf)**
 19/15442 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 25.05.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Inklusion, Innere Sicherheit, Jugendarbeit, Jugendfreizeitstätte, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendkriminalität, Schule, Statistik
@@ -2673,10 +3114,18 @@ Themen: [Erwachsenenbildung](thema_erwachsenenbildung.md), [Finanzen](thema_fina
 Schlagworte: Erzieher, Frühkindliche Bildung, Personalplanung, Quereinsteiger, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Unter welchen Voraussetzungen kommen Pflegepersonen mit Migrationshintergrund für die Aufnahme eines Pflegekindes in Frage?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15456.pdf)**
+19/15456 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2023
+Schlagworte: Eltern, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Mensch mit Migrationshintergrund, Pflege, Sprache
+
 **[Kitas der Schwulenberatung am Lebensort Vielfalt am Südkreuz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15444.pdf)**
 19/15444 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2023
 Schlagworte: Diversity, Frühkindliche Bildung, Sexualität, Tempelhof-Schöneberg
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Vielfalt](thema_vielfalt.md)
+
+**[19 Forderungen zum Kinderschutz, Nr. 4: Fallobergrenze pro Mitarbeiter in den Jugendämtern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15448.pdf)**
+19/15448 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 22.05.2023
+Schlagworte: Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderschutz, Personalplanung, Öffentlicher Dienst
 
 **[Prämien und Zulagen für Dienstkräfte im Schulbereich](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15400.pdf)**
 19/15400 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 17.05.2023
@@ -2687,6 +3136,19 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik
 19/15395 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 16.05.2023
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[19 Forderungen zum Kinderschutz, Nr. 6: Verbindliche Kooperation](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15450.pdf)**
+Zusammenarbeit und Kooperation im Kinderschutz zwischen den Jugendämtern, den Gesundheitsämtern, den Sozialämtern und dem Landesamt für Flüchtlingsangelegenheiten
+19/15450 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 19.05.2023
+Schlagworte: Information, Kinder, Jugendliche, Zuständigkeit (Verwaltung), Öffentliche Verwaltung
+
+**[19 Forderungen zum Kinderschutz, Nr. 5: Einführung einer gesetzlichen Generalklausel im Kinderschutz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15449.pdf)**
+19/15449 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.05.2023
+Schlagworte: Datenschutz, Gesetzgebung, Informations- und Kommunikationstechnologien, Jugendamt, Kinder, Jugendliche, Personenbezogene Daten, Öffentliche Verwaltung
+
+**[19 Forderungen zum Kinderschutz, Nr. 3: Zusätzliche Kinderschutzteams zur schnellen Intervention („Feuerwehrfunktionʺ).](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15447.pdf)**
+19/15447 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.05.2023
+Schlagworte: Jugendamt, Kinder, Jugendliche, Öffentliche Verwaltung
 
 **[Staatsvertrag Lehrkräftebildung: Eine bundesweite Lösung gegen den Lehrkräftemangel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15424.pdf)**
 19/15424 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 17.05.2023
@@ -2708,6 +3170,10 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und
 Schlagworte: Allgemeinbildende Schulen, Grundschule, Reinickendorf, Verkehr, Verkehrssicherheit
 Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Neun Jahre nach der Haasenburg, was tut Berlin für die Betroffenen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15404.pdf)**
+19/15404 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 16.05.2023
+Schlagworte: Eltern, Familienrecht, Kinder, Jugendliche, Kinderbetreuung, Lebensgemeinschaften
+
 **[Rosenheimer Modell – faire und zeitgemäße Verteilung der Betreuung und der Kosten in Trennungsfamilien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15458.pdf)**
 19/15458 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
 Schlagworte: Frühkindliche Bildung, Kindertagesstätte, Stiftung
@@ -2717,6 +3183,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 19/15443 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Entschädigung, Kinder, Jugendliche
 Themen: [Bezirke](thema_bezirke.md)
+
+**[Zahlen und Erkenntnisse zu alleinerziehenden Eltern und getrennterziehenden Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15437.pdf)**
+19/15437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.05.2023
+Schlagworte: Eltern, Familie, Lebensgemeinschaften, Statistik
 
 **[Abschulungen an Sporteliteschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15380.pdf)**
 Nichtbestandenes Probejahr an Sporteliteschulen und Nachbetreuung für die Betroffenen
@@ -2729,6 +3199,10 @@ Nichtbestandenes Probejahr in Gymnasien an Sekundarschulen und Gemeinschaftsschu
 19/15379 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.05.2023
 Schlagworte: Allgemeinbildende Schulen, Schulrecht
 Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Behinderte Pflegekinder nach § 80, §§ 99 ff., 113 Abs.2 Nr. 4 SGB IX = Pflegekinder 2. Klasse?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15372.pdf)**
+19/15372 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 12.05.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Sozialpolitik, Statistik, Unterhaltspflicht
 
 **[Wo bleiben die IT-Administrator\*innen aus dem Digitalpakt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15368.pdf)**
 19/15368 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.05.2023
@@ -2755,6 +3229,10 @@ Themen: [Medien](thema_medien.md), [Personal](thema_personal.md), [Statistik](th
 19/15371 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 10.05.2023
 Schlagworte: Bausanierung, Bauwesen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Kinder- und Jugendfreizeiteinrichtungen in Gefahr – wie hoch ist der Sanierungsstau bei den Berliner Kinder- und Jugendfreizeiteinrichtungen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15370.pdf)**
+19/15370 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 10.05.2023
+Schlagworte: Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Freizeit, Gewalt, Gewaltprävention, Statistik, Öffentliche Mittel
 
 **[Schulungen zu BeoKiz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15362.pdf)**
 Beobachtung und Einschätzungen im Kita-Alltag: kinderzentriert und ganzheitlich
@@ -2836,7 +3314,10 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Fi
 Schlagworte: Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen
 Themen: [Sonstige](thema_sonstige.md)
 
-## April 2023
+**[Väterarbeit: Vater-Kind-Reisen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15353.pdf)**
+19/15353 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.05.2023
+Schlagworte: Freizeit, Kind, Reisekosten, Subvention, Urlaub
+
 **[Multiprofessionelle Teams an Schulen – Welche Konzepte hat der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15257.pdf)**
 19/15257 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 26.04.2023
 Schlagworte: Berufliche Weiterbildung, Inklusion, Personalplanung, Pädagoge, Schulen, Schulpersonal, Sonderpädagogik
@@ -2883,6 +3364,11 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterf
 Schlagworte: Allgemeinbildende Schulen, Asylbewerber, Ausländer, Migranten, Flüchtlingsunterbringung, Kinder und Jugendliche, Kinder, Jugendliche, Schule, Statistik
 Themen: [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Unterbringung von Familien mit Kindern und Jugendlichen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15190.pdf)**
+Im Land Berlin untergebrachte unbegleitete minderjährige Geflüchtete
+19/15190 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 13.04.2023
+Schlagworte: Ausländer, Migranten, Familienhilfe, Flüchtling, Integrationspolitik, Jugendlicher, Landesamt für Flüchtlingsangelegenheiten, Sozialarbeit, Statistik, Wohnungslosigkeit
+
 **[Lehrkräftemangel in Berlin (Teil 2): Steuerung bei Einstellungen zum Schuljahr 2023/2024 und weitere Maßnahmen gegen den Lehrkräftemangel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15186.pdf)**
 19/15186 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 13.04.2023
 Schlagworte: Lehrer, Personalplanung, Schule
@@ -2913,10 +3399,22 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 Schlagworte: Berliner Beauftragter für Datenschutz und Informationsfreiheit, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen
 Themen: [Digitalisierung](thema_digitalisierung.md)
 
+**[Stärkung und Weiterentwicklung der Jugendfreiwilligendienste in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15179.pdf)**
+19/15179 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 11.04.2023
+Schlagworte: Gesellschaft, Bevölkerung, Jugendarbeit, Kinder- und Jugendhilfe
+
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
 19/15141 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
 Schlagworte: , Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
+
+**[Drucksache 19/15008 nachgefragt: Pflegeeltern – strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15140.pdf)**
+19/15140 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
+Schlagworte: Jugendamt, Kinder, Jugendliche, Straftat, Verwaltungsverfahren
+
+**[Drucksache 19/15007 nachgefragt: Pflegeeltern – Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15139.pdf)**
+19/15139 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.04.2023
+Schlagworte: Familie, Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik
 
 **[Fehlende Schulplätze zum Schuljahr 2023/24](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15104.pdf)**
 19/15104 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 03.04.2023
@@ -2928,7 +3426,6 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weit
 Schlagworte: Beamtenrecht, Besoldung, Laufbahnrecht, Lehramtsanwärter, Lehrer, Statistik, Öffentlicher Dienst
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
-## März 2023
 **[Möglichkeiten eines erweiterten Raumangebots am Schliemann- und Kollwitz- Gymnasium?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15099.pdf)**
 19/15099 - [Otto, Andreas (Grüne)](autor_otto_andreas_gruene.md) - 28.03.2023
 Schlagworte: Allgemeinbildende Schulen, Pankow, Schulbau, Schulgebäude
@@ -2938,6 +3435,10 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 19/15045 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 27.03.2023
 Schlagworte: Dienstleistung, Dienstleistungen, Gebäudereinigung, Schulen
 Themen: [Sonstige](thema_sonstige.md)
+
+**[Gewaltvorfälle beim Berliner Kindernotdienst – Wie reagiert der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15048.pdf)**
+19/15048 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 24.03.2023
+Schlagworte: Arbeitsbedingungen, Beratung, Gewalt, Kinder, Jugendliche, Personalplanung, Statistik
 
 **[Das Therapieschwimmbad in der Peter-Frankenfeld-Schule in Berlin-Lankwitz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15033.pdf)**
 19/15033 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 21.03.2023
@@ -2953,6 +3454,10 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 19/15010 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
 Schlagworte: Berufliche Qualifikation, Frühkindliche Bildung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
+
+**[Pflegeeltern - strafrechtliche Regelungen bei Missbrauchsfällen durch leibliche Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15008.pdf)**
+19/15008 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
+Schlagworte: Jugendamt, Kinder, Jugendliche, Kinderschutz, Pflegekind, Strafrecht, Verwaltungsverfahren
 
 **[Pflegeeltern - Zahlen und Fakten für Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15007.pdf)**
 19/15007 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 16.03.2023
@@ -2979,10 +3484,22 @@ Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md)
 Schlagworte: Allgemeinbildende Schulen, Kosten, Religion, Religionsgemeinschaften, Schüler, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Pflegeeltern - Weitergabe von Daten zur Vorgeschichte des Pflegekindes](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15009.pdf)**
+19/15009 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 13.03.2023
+Schlagworte: Datenschutz, Eltern, Jugendamt, Kinder, Jugendliche, Personenbezogene Daten
+
 **[Reaktivierung des Schulgebäudes Alfred-Randt-Straße 54 in Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14973.pdf)**
 19/14973 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 10.03.2023
 Schlagworte: Bauplanung, Bausanierung, Schulen, Städtebau, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Flutlichtanlage am Sportplatz Darßer Straße 97 reparieren - Trainingsbetrieb aufrecht erhalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14911.pdf)**
+19/14911 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 09.03.2023
+Schlagworte: Beleuchtung, Sport, Sportverein
+
+**[Zentraler Omnibus Bahnhof Berlin (ZOB)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14906.pdf)**
+19/14906 - [Friederici, Oliver (CDU)](autor_friederici_oliver_cdu.md) - 07.03.2023
+Schlagworte: Bahnhof, Bauplanung, Kosten, Öffentlicher Personennahverkehr, Öffentlicher Personenverkehr
 
 **[Hochbegabtenförderung und Schnelllernerklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14903.pdf)**
 19/14903 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 09.03.2023
@@ -3018,6 +3535,50 @@ Themen: [Sonstige](thema_sonstige.md)
 19/14897 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 09.03.2023
 Schlagworte: Bildung, Bildungspolitik, Kinder und Jugendliche, Kinder, Jugendliche, Schule
 Themen: [Sonstige](thema_sonstige.md)
+
+**[Ausbau und Akzeptanz der Angebote der Väterarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14877.pdf)**
+19/14877 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Familienhilfe, Familienpolitik, Frauen, Männer, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Vater, Öffentliche Mittel
+
+**[Finanzielle Mittel und Qualitätsmerkmale für die Väterarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14871.pdf)**
+19/14871 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Familienhilfe, Lebensgemeinschaften, Soziale Einrichtungen, Öffentliche Mittel, Öffentlicher Haushalt
+
+**[Väterarbeit und familienfreundliche Unternehmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14862.pdf)**
+19/14862 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Lebensgemeinschaften, Wirtschaft
+
+**[Väterarbeit und das Ziel der Gleichstellung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14861.pdf)**
+19/14861 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Familienpolitik, Frauen, Männer, Lebensgemeinschaften, Vater
+
+**[Väterarbeit in der Migrationsgesellschaft, Prinzen-Erziehung und „kleine Paschas”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14860.pdf)**
+19/14860 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Eltern, Familienhilfe, Frauen, Männer, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Migration, Vater
+
+**[Treffen und Gespräche zum Ausbau der Väterarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14859.pdf)**
+19/14859 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Eltern, Familienhilfe, Kinder, Jugendliche, Lebensgemeinschaften, Soziale Einrichtungen
+
+**[Väterarbeit zum Thema Trennung und Scheidung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14858.pdf)**
+19/14858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Eltern, Familie, Familienhilfe, Gleichberechtigung von Mann und Frau, Kinder, Jugendliche, Soziale Einrichtungen
+
+**[Väterarbeit und Vätergruppen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14857.pdf)**
+19/14857 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Familienhilfe, Gleichberechtigung von Mann und Frau, Kinder, Jugendliche, Soziale Einrichtungen
+
+**[Väterlotsen und Ansprechpartner für Väterarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14856.pdf)**
+19/14856 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Eltern, Familie, Familienhilfe, Gleichberechtigung von Mann und Frau, Jugendamt, Kinder, Jugendliche, Soziale Einrichtungen
+
+**[Väterzentrum und PapaTreff](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14855.pdf)**
+19/14855 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Eltern, Familie, Familienhilfe, Kinder, Jugendliche, Soziale Einrichtungen, Statistik, Öffentliche Mittel
+
+**[Vielzahl an besonderen Angeboten für Väter](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14853.pdf)**
+19/14853 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.03.2023
+Schlagworte: Beratung, Eltern, Familie, Familienhilfe, Gleichberechtigung von Mann und Frau, Kinder, Jugendliche, Lebensgemeinschaften, Soziale Einrichtungen
 
 **[Anti-Mobbing-Beauftragter und Antidiskriminierungsbeauftragter für Schulen - nachgefragt zu Drs. 19/10690](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14909.pdf)**
 19/14909 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 06.03.2023
@@ -3060,6 +3621,11 @@ Themen: [Grundschule](thema_grundschule.md), [Soziales](thema_soziales.md)
 Schlagworte: Allgemeinbildende Schulen, Bausanierung, Tempelhof-Schöneberg
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
+19/14850 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2023
+Schlagworte: Finanzierung, Frühkindliche Bildung, Personalplanung, Qualitätssicherung
+Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
+
 **[Mehrsprachige KiTas in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14849.pdf)**
 19/14849 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 01.03.2023
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Personalplanung, Quereinsteiger, Sprache, Statistik
@@ -3069,12 +3635,6 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 19/14837 - [Suka, Aferdita (Grüne)](autor_suka_aferdita_gruene.md) - 01.03.2023
 Schlagworte: Gesundheitsschutz, Kindertagesstätte, Krankheit, Personalplanung, Pflegeeinrichtung, Qualifikationsnachweis, Schule, Schüler
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
-
-## Februar 2023
-**[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
-19/14850 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2023
-Schlagworte: Finanzierung, Frühkindliche Bildung, Personalplanung, Qualitätssicherung
-Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
 
 **[Standardisiertes Verfahren im Falle einer längerfristigen Personalschlüsselunterschreitung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14845.pdf)**
 19/14845 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 27.02.2023
@@ -3096,6 +3656,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration]
 Schlagworte: Bildungspolitik, Bußgeld, COVID-19, Epidemie, Schule, Schulen, Schüler
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
+**[Unbegleitete minderjährige Flüchtlinge und die Kosten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14828.pdf)**
+19/14828 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 24.02.2023
+Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Kinder und Jugendliche, Kinder, Jugendliche, Kosten, Statistik
+
 **[Überarbeitung der Rahmenlehrpläne](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14829.pdf)**
 19/14829 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 23.02.2023
 Schlagworte: Berlin/Brandenburg, Schule, Schulen, Schulpolitik, Schulrecht
@@ -3110,6 +3674,10 @@ Themen: [Sonstige](thema_sonstige.md)
 19/14803 - [Franco, Vasili (Grüne)](autor_franco_vasili_gruene.md) - 23.02.2023
 Schlagworte: Ideologien, Lehrer, Lehrmethode, Marzahn-Hellersdorf, Privatschulen, Qualifikationsnachweis, Rechtsextremismus, Schulaufsicht, Sozialarbeit, Sozialpädagogik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
+**[Geflüchtete Kinder und Jugendliche in die Freizeitgestaltung integrieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14820.pdf)**
+19/14820 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 23.02.2023
+Schlagworte: Ausländer, Migranten, Flüchtling, Jugendarbeit, Jugendfreizeitstätte, Kinder, Jugendliche, Soziale Einrichtungen
 
 **[Ganztagsausbau für Grundschulkinder](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14812.pdf)**
 19/14812 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 20.02.2023
@@ -3126,6 +3694,15 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 19/14821 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 15.02.2023
 Schlagworte: Bevölkerungsentwicklung, Bevölkerungsstatistik, Kinder, Jugendliche, Schule, Schulen, Schulfinanzierung
 Themen: [Finanzen](thema_finanzen.md)
+
+**[Unbegleitete Minderjährige](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14781.pdf)**
+Aufnahme von unbegleiteten geflüchteten minderjährigen Kindern und Jugendlichen in Berlin
+19/14781 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 17.02.2023
+Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flüchtlinge, Kinder, Jugendliche, Statistik, Öffentliche Mittel
+
+**[Engagement langjähriger Pflegeeltern sichtbar würdigen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14741.pdf)**
+19/14741 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 08.02.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Eltern, Familienpolitik, Gesellschaft, Bevölkerung, Kinderbetreuung, Pflegekind, Sozialpolitik, Statistik
 
 **[Textroboter ChatGPT, KI-Tools und das Prüfungswesen an der Schule: Wer schreibt künftig die Hausaufgaben?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14730.pdf)**
 19/14730 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 10.02.2023
@@ -3220,7 +3797,6 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Allgemeinbildende Schulen, Ausländer, Migranten, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Integrationspolitik, Oberschule, Schule, Schüler, Sprachförderung, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## Januar 2023
 **[Kitagebühren doppelt kassieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14642.pdf)**
 19/14642 - [Bung, Stefanie (CDU)](autor_bung_stefanie_cdu.md) - 31.01.2023
 Schlagworte: Abgaben, Finanzzuweisung, Frühkindliche Bildung, Gebühr
@@ -3241,6 +3817,10 @@ Themen: [Bezirke:Charlottenburg-Wilmersdorf](thema_bezirke_charlottenburg-wilmer
 19/14516 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 25.01.2023
 Schlagworte: Allgemeinbildende Schulen, Bildungsstatistik, Haushaltsrechnung, Schulpolitik, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Hilfe zur Erziehung (HzE) in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14514.pdf)**
+19/14514 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 27.01.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Familienhilfe, Haushaltsrechnung, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Sozialleistungen, Statistik, Öffentlicher Haushalt
 
 **[Personalsituation an der Staatlichen Ballett- und Artistikschule Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14507.pdf)**
 19/14507 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.01.2023
@@ -3272,10 +3852,34 @@ Themen: [Sonstige](thema_sonstige.md)
 Schlagworte: Berufsausbildung, Berufsbildende Schule, Frau, Frauen, Männer, Mann, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Statistik](thema_statistik.md)
 
+**[Leistungen nach dem Unterhaltsvorschussgesetz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14549.pdf)**
+19/14549 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 27.01.2023
+Schlagworte: Alleinerziehender, Jugendamt, Lebensgemeinschaften, Sozialleistungen, Statistik, Unterhaltspflicht, Verwaltungsverfahren, Öffentliche Verwaltung
+
+**[Wartezeiten bei Verwaltungsleistungen: Elterngeld](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14550.pdf)**
+19/14550 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 27.01.2023
+Schlagworte: Bezirk (Gebietskörperschaft), Elterngeld, Familie, Personalplanung, Sozialleistung, Sozialleistungen, Verwaltungsverfahren, Öffentliche Verwaltung
+
+**[Kinderarmutprävention in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14555.pdf)**
+19/14555 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 26.01.2023
+Schlagworte: Familienhilfe, Finanzierung, Kinder, Jugendliche, Kinder- und Jugendhilfe, Lichtenberg, Sozialarbeit, Soziales, Statistik
+
+**[Zunahme von Rohheitsdelikten und Messerangriffen durch Kinder und Jugendliche – War die schlimme Silvesternacht kein bedauerlicher Einzelfall?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14486.pdf)**
+19/14486 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 24.01.2023
+Schlagworte: Ausländer, Migranten, Ermittlungsverfahren, Gewalt, Gewaltprävention, Innere Sicherheit, Kinder und Jugendliche, Kinder, Jugendliche, Kriminalstatistik, Polizei, Rettungswesen, Staatsbürgerschaft, Straftat
+
 **[Tierparkschule des Tierparks Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14588.pdf)**
 19/14588 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 23.01.2023
 Schlagworte: Allgemeinbildende Schulen, MINT-Fächer, Schule, Sonderpädagogik, Unterrichtsausfall an Schulen, Zoologischer Garten
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Planungsstand zum Grundstück in der Tino-Schwierzina-Straße 77 (Wasserturm Heinersdorf)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14526.pdf)**
+19/14526 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 23.01.2023
+Schlagworte: Bauplanung, Grundstück, Pankow, Städtebau
+
+**[Bilanz von 5 Jahren Dienstbehörde und Personalstelle für Berliner Notdienst Kinderschutz (BNK) und die Zentrale Jugendgerichtshilfe (ZJGH)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14491.pdf)**
+19/14491 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.01.2023
+Schlagworte: Gericht, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Notruf, Personalplanung, Psychosoziale Beratung, Sozialarbeit, Soziale Einrichtungen, Sozialpädagogik, Statistik
 
 **[Aktuelle Förderung für Kitaneubauten und tatsächliche Kosten pro Kitaplatz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14490.pdf)**
 19/14490 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.01.2023
@@ -3338,7 +3942,11 @@ Themen: [Verwaltung](thema_verwaltung.md)
 Schlagworte: Ausbildungsordnung, Bauwesen, Berufsausbildung, Berufsbildende Schule, Bildungsabschluss, Kosten, Schulausstattung, Schulpersonal, Vergütung, Öffentlicher Haushalt
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
-## Dezember 2022
+**[Verzerrter politischer Wettbewerb vor der Wahlwiederholung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14354.pdf)**
+Fördermittel für die Friedrich-Naumann-Stiftung
+19/14354 - [Bronson, Dr. Hugh (AfD)](autor_bronson_dr_hugh_afd.md) - 03.01.2023
+Schlagworte: Finanzzuweisung, Stiftung, Wahl, Wahlen, Wahlkampf, Wahlrecht, Öffentliche Mittel
+
 **[Lehrer gerechter verteilen - Geht das Konzept auf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14326.pdf)**
 19/14326 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 30.12.2022
 Schlagworte: Allgemeinbildende Schulen, Personalplanung, Personalwesen, Schule, Öffentlicher Dienst
@@ -3354,6 +3962,10 @@ Geplante Modulare Ergänzungsbauten (MEB) sowie Vorplanung einer Gymnastikhalle.
 19/14307 - [Pätzold, Prof. Dr. Martin (CDU)](autor_paetzold_prof_dr_martin_cdu.md) - 29.12.2022
 Schlagworte: Allgemeinbildende Schulen, Asbest, Baum, Bauplanung, Baurecht, Bauwesen, Bodenbelastung, Lichtenberg, Sport, Sporthalle, Sportstättenbau, Straßenbepflanzung
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Handeln und Wertschätzen statt Zögern und Knausern - Wann werden endlich die Pauschalen zum Lebensunterhalt in der Vollzeitpflege angepasst?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14296.pdf)**
+19/14296 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 30.12.2022
+Schlagworte: Familienhilfe, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflege, Pflegekosten, Sozialpolitik, Verein, Verwaltungsverfahren
 
 **[Unterrichtsausfall und Kürzung der Stundentafel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14345.pdf)**
 19/14345 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 27.12.2022
@@ -3496,10 +4108,29 @@ Themen: [Personal](thema_personal.md)
 Schlagworte: Ausländer, Migranten, Ausländerintegration, Berufsbildende Schulen, Flüchtling, Schulklasse, Schüler, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Interaktive Ausstellung „Experimentarium - Akustik” in der Kinder- und Jugendfreizeiteinrichtung FEZ](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14274.pdf)**
+19/14274 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 22.12.2022
+Schlagworte: Ausstellung, Freizeit, Kinder und Jugendliche, Messen, Ausstellungen, Treptow-Köpenick
+
 **[Ausstattung und Aufgaben der Stabsstelle „Schule in der digitalen Welt”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14252.pdf)**
 19/14252 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 22.12.2022
 Schlagworte: Digitalisierung, Informations- und Kommunikationstechnologien, Personalplanung, Schulen, Senatsverwaltung für Bildung, Jugend und Familie, Öffentliche Verwaltung
 Themen: [Digitalisierung](thema_digitalisierung.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Hilfe zur Erziehung (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14249.pdf)**
+Höhe der Überschreitungen der Hilfe zur Erziehung (HzE) und Maßnahmen gegen die Überschreitungen.
+19/14249 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 22.12.2022
+Schlagworte: Familienhilfe, Jugendamt, Kinder- und Jugendhilfe, Marzahn-Hellersdorf, Sozialleistungen, Öffentliche Verwaltung, Öffentlicher Haushalt
+
+**[Hilfe zur Erziehung (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14248.pdf)**
+Mittel in den Haushalten der 12 Bezirke für die Zuweisung der Mittel für Hilfe zur Erziehung (HzE) sowie für die Eingliederungshilfe / Kosten und Dauer der Maßnahmen zur Hilfe der Erziehung / Aufschlüsselung nach: ambulant, teilstationär, stationär, pädagogische Maßnahmen, therapeutische Maßnahmen im den jeweiligen Bezirken.
+19/14248 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 22.12.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Familienhilfe, Jugendamt, Kinder- und Jugendhilfe, Sozialleistungen, Statistik, Öffentliche Verwaltung, Öffentlicher Haushalt
+
+**[Hilfe zur Erziehung (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14247.pdf)**
+Wer hat Anspruch auf Mittel der Hilfe zur Erziehung (HzE) / Maßnahmen im Zuge der Hilfe zur Erziehung / Aufschlüsselung der Mitarbeit in Bezirken für die Bearbeitung der Hilfen.
+19/14247 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 22.12.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Familienhilfe, Jugendamt, Kinder- und Jugendhilfe, Personalplanung, Sozialleistungen, Statistik, Öffentliche Verwaltung
 
 **[Funktionsstellen an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14214.pdf)**
 19/14214 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 22.12.2022
@@ -3606,6 +4237,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [S
 Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juristische Berufe, Kinder, Jugendliche, Kinder- und Jugendhilfe, Personalplanung, Rechtliche Betreuung, Rechtspflege, Richter
 Themen: [Personal](thema_personal.md)
 
+**[Anträge auf Elterngeld, ElterngeldPlus und Kinderzuschlag in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14062.pdf)**
+19/14062 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 12.12.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Kindergeld, Sozialleistungen, Statistik, Verwaltungsverfahren, Öffentliche Verwaltung
+
 **[Bekommt Berlin bald digitale Zeugnisse?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14089.pdf)**
 19/14089 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 08.12.2022
 Schlagworte: Bildung, Datenschutz, Digitalisierung, Informations- und Kommunikationstechnik, Schulen, Schulpolitik, Technologie
@@ -3686,12 +4321,23 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 Schlagworte: Bezirk (Gebietskörperschaft), Einschulung, Frühkindliche Bildung, Kind, Kinderbetreuung, Sprache, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
 
-## November 2022
+**[Entwicklung der Vollzeitpflege in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13960.pdf)**
+19/13960 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 30.11.2022
+Schlagworte: Familie, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Statistik
+
+**[Zusammensetzung der Pauschalen zum Lebensunterhalt bei Vollzeitpflege](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13961.pdf)**
+19/13961 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 30.11.2022
+Schlagworte: Familienhilfe, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Verwaltungsverfahren
+
 **[Drehscheibenschulen in Lichtenberg - Planungen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13907.pdf)**
 Drehscheibenschulen dienen als Ausweichquartier, um ganze Schulen bei Sanierungs- und Erweiterungsmaßnahmen auszulagern. Schüler und Schülerinnen können beschult werden, ohne mit Baustellenlärm und -dreck konfrontiert zu sein.
 19/13907 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 23.11.2022
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Finanzierung, Investition, Kosten, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Minderjährige Unbegleitete Flüchtlinge](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13891.pdf)**
+19/13891 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 25.11.2022
+Schlagworte: Ausländer, Migranten, Flüchtlingsunterbringung, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe
 
 **[Recht auf Bildung und Ruhen der Schulbesuchspflicht gem. § 41 Abs. 3a SchulG](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13840.pdf)**
 19/13840 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 24.11.2022
@@ -3713,6 +4359,10 @@ Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_
 Schlagworte: Eltern, Grundschule, Schulklasse, Sonderpädagogik, Therapie
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md)
 
+**[Drucksache 19/13220 nachgefragt: Kinderschutzfälle mit Auslandsbezug: Unterbringung im Ausland](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13848.pdf)**
+19/13848 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
+Schlagworte: Ausland, Familienrecht, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Kosten, Statistik
+
 **[Wahlpflichtfach Feuerwehrunterricht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13857.pdf)**
 19/13857 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
 Schlagworte: Allgemeinbildende Schulen, Feuerwehr, Modellprojekt, Oberschule, Personalplanung, Rettungswesen
@@ -3722,6 +4372,10 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Person
 19/13852 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
 Schlagworte: Demokratie, Frauen, Männer, Jugendlicher, Wahlen, Wahlrecht
 Themen: [Verwaltung](thema_verwaltung.md)
+
+**[Hilfen mit Auslandsbezug in der Kinder- und Jugendhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13847.pdf)**
+19/13847 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 23.11.2022
+Schlagworte: Ausland, Familienrecht, Freier Träger, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Kosten
 
 **[Digitale Realität an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13825.pdf)**
 19/13825 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 22.11.2022
@@ -3743,10 +4397,18 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qu
 Schlagworte: Bauwesen, Bildungspolitik, Finanzpolitik, Investition, Schule, Schulen, Öffentliche Finanzplanung, Öffentliche Mittel
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
+**[Aufklärung und Forschung zum sogenannten Kentler-Experiment - Wo lässt sich der für den 31.10.2022 avisierte Zwischenbericht der Universität Hildesheim nachlesen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13858.pdf)**
+19/13858 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
+Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind, Sexueller Missbrauch, Wissenschaft, Forschung, Öffentlicher Auftrag
+
 **[Ordnungswidrigkeiten von Kitabetreibern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13851.pdf)**
 19/13851 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
 Schlagworte: Bußgeld, Frühkindliche Bildung, Kinderbetreuung, Ordnungswidrigkeit, Sozialrecht
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
+
+**[Empfehlungen des Deutschen Vereins zur Fortschreibung der Pauschalbeträge in der Vollzeitpflege für das Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13844.pdf)**
+19/13844 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 21.11.2022
+Schlagworte: Familienhilfe, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekosten, Statistik, Studie, Verein
 
 **[Kitabesuch und soziale Lage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13807.pdf)**
 19/13807 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 22.11.2022
@@ -3762,6 +4424,10 @@ Themen: [Personal](thema_personal.md)
 19/13843 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.11.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kinderbetreuung, Statistik, Verwaltungsverfahren, Öffentliche Verwaltung
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Unbegleitete minderjährige Flüchtlinge und ihre Unterbringung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13831.pdf)**
+19/13831 - [Bronson, Dr. Hugh (AfD)](autor_bronson_dr_hugh_afd.md) - 21.11.2022
+Schlagworte: Asien, Ausländer, Migranten, Flüchtlingsunterbringung, Freier Träger, Jugendamt, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Osteuropa, Statistik
 
 **[Schulklassen im Schuljahr 2022/2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13794.pdf)**
 19/13794 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 18.11.2022
@@ -3926,7 +4592,6 @@ Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuel
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bausanierung, Bauwesen, Gebäudereinigung, Schulausstattung, Schulbau, Sportstättenbau, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## Oktober 2022
 **[Fachkräftemangel in der Eingliederungshilfe: Stärkung der Ausbildung zum\*zur Heilerziehungspfleger\*in (HEP), Möglichkeiten für den Quereinstieg und die Anerkennung von Qualifikationen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13586.pdf)**
 19/13586 - [Wahlen, Catrin (Grüne)](autor_wahlen_catrin_gruene.md) - 28.10.2022
 Schlagworte: Berufsausbildung, Berufsbildende Schule, Fachkraft, Kinder und Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen, Quereinsteiger, Schulgeld, Sozialberuf, Statistik
@@ -3972,6 +4637,10 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 19/13548 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 25.10.2022
 Schlagworte: Kunst, Kultur, Schulausstattung, Schule, Schulen
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Drucksache 19/13220 nachgefragt: Kinderschutzfälle mit Auslandsbezug: Unterbringung im Ausland](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13579.pdf)**
+19/13579 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 25.10.2022
+Schlagworte: Ausland, Familienrecht, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Lebensgemeinschaften
 
 **[Unterstützung des Landes Berlin für die 3-Religionen-Kita in Friedrichshain](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13530.pdf)**
 19/13530 - [Valgolio, Damiano (Die Linke)](autor_valgolio_damiano_die_linke.md) - 21.10.2022
@@ -4056,6 +4725,10 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statist
 19/13392 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 12.10.2022
 Schlagworte: Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Informationsgesellschaft, Medien, Lehr- und Lernmittel, Mobilfunk, Schulausstattung, Schulen, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Medien](thema_medien.md), [Statistik](thema_statistik.md)
+
+**[Väterarbeit in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13387.pdf)**
+19/13387 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 12.10.2022
+Schlagworte: Beratung, Eltern, Erziehung, Familie, Familienpolitik, Frauen, Männer, Kinder, Jugendliche, Lebensgemeinschaften
 
 **[Schulbau im Blockdammweg 60- 64/Ehrlichstr. 79-83: Aktuelle Planungen und Zeitplan transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13365.pdf)**
 19/13365 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 10.10.2022
@@ -4279,7 +4952,18 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fr
 Schlagworte: Begabtenförderung, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen, Bezirk (Gebietskörperschaft), Grundschule, Gymnasium, Modellprojekt, Schulen, Schulreform, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## September 2022
+**[Struktur der Pflegekinderhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13204.pdf)**
+19/13204 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.09.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Familie, Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Kinderschutz, Personalplanung, Sozialarbeit, Statistik
+
+**[Recht des Kindes auf den Vater](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13219.pdf)**
+19/13219 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
+Schlagworte: Eltern, Erziehung, Familie, Familienpolitik, Forschung, Frauen, Männer, Gleichberechtigung von Mann und Frau, Kinder, Jugendliche, Lebensgemeinschaften, Vater
+
+**[Einsatz von Verfahrenslotsen und Inklusive Hilfeplanung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13222.pdf)**
+19/13222 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.09.2022
+Schlagworte: Berufliche Qualifikation, Inklusion, Jugendamt, Mensch mit Behinderung, Sozialarbeit, Soziales, Sozialpädagogik, Sozialrecht
+
 **[Entwicklung der investiven Mittel des Investitionsprogramms 2022 - 2026 für Lichtenbergs Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13256.pdf)**
 19/13256 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.09.2022
 Schlagworte: Bildungspolitik, Investition, Lichtenberg, Schulen, Schulpolitik, Statistik, Öffentlicher Haushalt
@@ -4289,6 +4973,11 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Finanzen](thema_fi
 19/13259 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.09.2022
 Schlagworte: Allgemeinbildende Schulen, Auskunfterteilung, Bauplanung, Bauwesen, Lichtenberg, Schulbau, Senatsverwaltung für Bildung, Jugend und Familie
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Betrugsfälle bei Kindergeldbezug und das NRW-Projekt „Missimo”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13228.pdf)**
+Mit dem Konzept "Missimo" geht Nordrhein-Westfalen gegen organisierten Missbrauch von Kindergeldzahlungen vor.
+19/13228 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 28.09.2022
+Schlagworte: Kinder, Jugendliche, Sozialleistungen, Steuerdelikt, Strafverfahren, Öffentlicher Dienst
 
 **[Verbeamtung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13152.pdf)**
 19/13152 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 28.09.2022
@@ -4305,10 +4994,26 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Lehr- und Lernmittel, Lehrer, Rechtschreibung, Schule, Schulen
 Themen: [Medien](thema_medien.md), [Personal](thema_personal.md)
 
+**[Kinderschutzfälle mit Auslandsbezug: Unterbringung im Ausland](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13220.pdf)**
+19/13220 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
+Schlagworte: Ausland, Familienrecht, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinderbetreuung, Lebensgemeinschaften, Statistik
+
 **[Schulneubau  -  Was macht die HOWOGE?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13167.pdf)**
 19/13167 - [Brinker, Dr. Kristin (AfD)](autor_brinker_dr_kristin_afd.md) - 26.09.2022
 Schlagworte: Bauplanung, Bauwesen, Bezirk (Gebietskörperschaft), Schulen, Wirtschaftsprüfung, Wohnungsbaugesellschaft
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Kinderschutzfälle mit Auslandsbezug: Kinderhandel und Kindesentführungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13221.pdf)**
+19/13221 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 27.09.2022
+Schlagworte: Adoption, Ausland, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kindesmisshandlung, Lebensgemeinschaften, Menschenhandel, Statistik, Strafrecht
+
+**[Pflegekinder in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13203.pdf)**
+19/13203 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 26.09.2022
+Schlagworte: Familie, Kinder, Jugendliche, Kinderbetreuung, Kinderschutz, Statistik
+
+**[Beteiligung des leiblichen Vaters an Adoptionsverfahren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13215.pdf)**
+19/13215 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 26.09.2022
+Schlagworte: Eltern, Familienpolitik, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften
 
 **[Schulneubau und Schulsanierungen im Bezirk Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13123.pdf)**
 19/13123 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 23.09.2022
@@ -4391,6 +5096,10 @@ MEB: Modularer Ergänzungsbau / Modularer Schulergänzungsbau
 Schlagworte: Bauplanung, Bauwesen, Bezirksverwaltung, Grundstück, Schulbau, Sonderpädagogik, Treptow-Köpenick
 Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Verwaltung](thema_verwaltung.md)
 
+**[Umsetzungsstand bezirkliche Koordinierungsstellen zur Prävention von Kinderund Familienarmut - Netzwerke gegen Kinder- und Familienarmut](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13126.pdf)**
+19/13126 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 15.09.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Finanzierung, Kinder, Jugendliche, Kinder- und Jugendarmut, Kinder- und Jugendhilfe, Personalplanung, Soziales, Öffentlicher Haushalt
+
 **[Grundschuleinzugsgebiete in Marzahn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13041.pdf)**
 19/13041 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 14.09.2022
 Schlagworte: Allgemeinbildende Schulen, Einschulung, Marzahn-Hellersdorf, Stadtteil
@@ -4406,13 +5115,16 @@ Themen: [Integration](thema_integration.md), [Personal](thema_personal.md)
 Schlagworte: Bauplanung, Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Schulen, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
+**[Zur Situation beim Fußballclub HFC Berlin e.V. in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13030.pdf)**
+19/13030 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 14.09.2022
+Schlagworte: Bausanierung, Freizeit, Freizeiteinrichtung, Fußball, Marzahn-Hellersdorf, Ordnungsrecht, Sport, Sportplatz
+
 **[Inklusion und BuT-Förderung an Freien Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13069.pdf)**
 BuT: Bildung und Teilhabe
 19/13069 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 14.09.2022
 Schlagworte: Finanzierung, Freier Träger, Inklusion, Privatschulen, Sonderpädagogik
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Inklusion](thema_inklusion.md)
 
-## August 2022
 **[Grundschulneubau in der Aroser Allee - sind weitere Verzögerungen zu erwarten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12950.pdf)**
 19/12950 - [König, Bettina (SPD)](autor_koenig_bettina_spd.md) - 31.08.2022
 Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Denkmalschutz, Grundschule, Reinickendorf, Schulen, Statistik
@@ -4524,6 +5236,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 Schlagworte: Frühkindliche Bildung, Gebühr, Kinderbetreuung, Kosten, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
+**[Sicherung der Teilhabe- und Förderbedarfe von Kindern aus sozial benachteiligten, armutsgefährdeten Familien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12770.pdf)**
+19/12770 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 16.08.2022
+Schlagworte: Armut, Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Kinderbetreuung, Statistik
+
 **[Vergabe von Grundschulplätzen für das Schuljahr 2022/2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12682.pdf)**
 Anmeldungen an Grundschulen
 19/12682 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 11.08.2022
@@ -4613,7 +5329,6 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Personal](t
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Oberschule, Schulrecht, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
-## Juli 2022
 **[Politische Bildung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12581.pdf)**
 19/12581 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 29.07.2022
 Schlagworte: Allgemeinbildende Schulen, Lehr- und Lernmittel, Lehrer, Lehrerbildung, Personalplanung, Politische Bildung, Statistik, Unterricht
@@ -4715,21 +5430,44 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 Schlagworte: Allgemeinbildende Schulen, Dienstleistung, Ernährung, Kantine, Marzahn-Hellersdorf, Schulverpflegung
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Inobhutnahmen nach den §§ 8a und 42 SGB VIII: Rechtliche Aspekte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12433.pdf)**
+Schutzauftrag bei Kindeswohlgefährdung und Verfahren zur Einschätzung des Gefährdungsrisikos des Kindes oder Jugendlichen
+19/12433 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
+Schlagworte: Familienrecht, Gesetzgebung, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Verwaltungsverfahren
+
 **[Informationsveranstaltungen für interessierte Neugründer einer Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12488.pdf)**
 19/12488 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 18.07.2022
 Schlagworte: Frühkindliche Bildung, Information, Kindertagesstätte, Ordnungsrecht, Statistik
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
+
+**[Inobhutnahmen und Entscheidung des Familiengerichts](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12440.pdf)**
+19/12440 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
+Schlagworte: Eltern, Familienrecht, Gerichte und Staatsanwaltschaften, Gerichtsentscheidung, Gerichtsverfahren, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Kosten, Statistik
 
 **[Inobhutnahme nach den §§ 8a und § 42 SGB VIII: Unterrichtung der Eltern und Rechtsmittelbelehrung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12439.pdf)**
 19/12439 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
 Schlagworte: Eltern, Gesetzgebung, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Rechtsberatung, Verwaltungsverfahren, Öffentliche Verwaltung
 Themen: [Verwaltung](thema_verwaltung.md)
 
+**[Inobhutnahmen nach den §§ 8a und 42 SGB VIII: Platzkapazitäten und Gewährleistungspflicht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12438.pdf)**
+Stationäre Jugendhilfeeinrichtungen, Berliner Notdienst Kinderschutz (BNK), Kontakt- und Beratungsstellen, überregionale Kriseneinrichtungen für spezialisierte Zielgruppen (Krisenwohnungen für Mädchen, Schutzeinrichtungen für von Zwangsverheiratung und Verschleppung bedrohte junge Menschen, therapeutische Krisenwohngruppen
+19/12438 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
+Schlagworte: Finanzierung, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Notunterkunft, Statistik
+
+**[Inobhutnahme nach den §§ 8a und 42 SGB VIII: Kosten im Zuge einer Inobhutnahme](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12435.pdf)**
+Kostenheranziehung für unterschiedliche Hilfeleistungen
+19/12435 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.07.2022
+Schlagworte: Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz, Kosten, Statistik
+
 **[Inobhutnahme nach den §§ 8a und 42 SGB VIII: Kein Widersprechen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12434.pdf)**
 Herausnahme aus der Familien z.B. in der Wohnung der Familie, in der Kita oder Schule des Kindes, in bestimmten Milieus (Drogen-, Prostitutions-, Glücksspiel- und Straßenmilieu) usw.. Möglichkeiten des Widerspruchs der Eltern
 19/12434 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 18.07.2022
 Schlagworte: Familienrecht, Jugendamt, Jugendschutz, Kinder, Jugendliche, Kinderschutz
 Themen: [Sonstige](thema_sonstige.md)
+
+**[§ 8a Schutzauftrag bei Kindeswohlgefährdung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12431.pdf)**
+19/12431 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.07.2022
+Schlagworte: Familienrecht, Gerichtsentscheidung, Jugendschutz, Kinder, Jugendliche, Kinderschutz
 
 **[Inobhutnahmen nach den §§ 8a und 42 SGB VIII: Studium, Schulungen und Qualitätssicherung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12430.pdf)**
 Ausbildung für Sozialpädagogen, Sozialarbeiter, Sozialwissenschaftler, Erziehungswissenschaftler und Erzieher (Studium angehender Jugendamtmitarbeiter\*innen)
@@ -4741,6 +5479,16 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), 
 19/12409 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 15.07.2022
 Schlagworte: Allgemeinbildende Schulen, Flüchtling, Osteuropa, Schule, Schulklasse, Schulpolitik, Schüler, Sprache
 Themen: [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Inobhutnahmen nach den §§ 8a und 42 SGB VIII: Beendigung einer Inobhutnahme und Rückkehr](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12437.pdf)**
+§ 8a Schutzauftrag bei Kindeswohlgefährdung§ 42 Inobhutnahme von Kindern und Jugendlichen
+19/12437 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.07.2022
+Schlagworte: Jugendschutz, Kinder, Jugendliche, Kinderschutz, Statistik
+
+**[Inobhutnahme nach den §§ 8a und 42 SGB VIII: Beteiligung freier Träger der Jugendhilfe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12436.pdf)**
+§ 8a Schutzauftrag bei Kindeswohlgefährdung§ 42 Inobhutnahme von Kindern und Jugendlichen
+19/12436 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.07.2022
+Schlagworte: Freier Träger, Jugendschutz, Kinder, Jugendliche, Kinderschutz
 
 **[Perspektiven an der Maxie-Wander-Str./Carola-Neher-Str. in Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12415.pdf)**
 Grundstück des ehemaligen Max-Reinhard-Gymnasiums in der Maxie-Wander-Straße/Carola-Neher-Straße
@@ -4839,6 +5587,16 @@ Themen: [Bezirke:Steglitz-Zehlendorf](thema_bezirke_steglitz-zehlendorf.md), [Fi
 Schlagworte: Allgemeinbildende Schulen, Investition, Osteuropa, Schulfinanzierung, Schulweg, Statistik, Tempelhof-Schöneberg
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Inobhutnahmen nach den § 8a und § 42 SGB VIII: Zahlen und Trends](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12432.pdf)**
+§ 8a SGB Schutzauftrag bei Kindeswohlgefährdung§ 42 SGB Inobhutnahme von Kindern und Jugendlichen
+19/12432 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 14.07.2022
+Schlagworte: Jugendschutz, Kinder, Jugendliche, Kinderschutz, Statistik
+
+**[Potentielle Pflegefamilien unterstützen(Nachfrage zur Antwort auf die Schriftliche Anfrage S19-11913)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12411.pdf)**
+Drucksache 19/11913
+19/12411 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 14.07.2022
+Schlagworte: Familie, Jugendamt, Kinder, Jugendliche, Lebensgemeinschaften, Pflege, Pflegekosten
+
 **[Endlich eine Whitelist für digitale Lehr- und Lernangebote](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12378.pdf)**
 Auflistung einer an Schulen in Betracht kommenden Auswahl an digitalen Lehr- und Lernmitteln für das Schulwesen.
 19/12378 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 06.07.2022
@@ -4861,6 +5619,10 @@ Zielsetzung, Mitglieder und Anzahl der Sitzungen der Steuerungsgruppe
 19/12379 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 14.07.2022
 Schlagworte: Lehrer
 Themen: [Personal](thema_personal.md)
+
+**[Fachbereich für Inklusion – Wie logisch nachvollziehbar ist hier die Zusammensetzung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12377.pdf)**
+19/12377 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 13.07.2022
+Schlagworte: Inklusion, Mensch mit Behinderung, Menschen mit Behinderungen
 
 **[ISS Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12361.pdf)**
 Bauliche Mängel und Geruchsbildung
@@ -4899,6 +5661,15 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bezirksverwaltung, Friedrichshain-Kreuzberg, Gehweg, Grundschule, Grundstück, Gymnasium, Schulgebäude, Sportstättenbau, Städtebau
 Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Weitere Aufklärung und Forschung zum sogenannten Kentler-Experiment –Wie ist der Stand der Dinge?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12316.pdf)**
+Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
+19/12316 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
+Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
+
+**[Partizipation, gerne, aber doch bitte nicht von Kindern bei der Gestaltung von Spielplätzen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12315.pdf)**
+19/12315 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 06.07.2022
+Schlagworte: Bausanierung, Bürgerbeteiligung, Städtebau
+
 **[Pläne des Senats zur Schulerweiterung der Wangari-Maathai-Internationale-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12312.pdf)**
 19/12312 - [Altuǧ, Dr. Turgut (Grüne)](autor_altug_dr_turgut_gruene.md) - 07.07.2022
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Charlottenburg-Wilmersdorf, Schulbau, Städtebau
@@ -4919,6 +5690,10 @@ Finanzierung der Bildungsprogramme z.B. „Lernrückstände aufholen“, „frü
 19/12252 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 06.07.2022
 Schlagworte: Bezirk (Gebietskörperschaft), COVID-19, Epidemie, Kinder, Jugendliche, Schule, Schulen, Statistik, Öffentliche Mittel
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statistik](thema_statistik.md)
+
+**[Kinder- und Jugendferienfreizeiten in Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12245.pdf)**
+19/12245 - [Evers, Stefan (CDU)](autor_evers_stefan_cdu.md) - 07.07.2022
+Schlagworte: Freizeit, Freizeit und Erholung, Kinder und Jugendliche, Kinder, Jugendliche, Statistik, Treptow-Köpenick
 
 **[Schülerforschungszentren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12250.pdf)**
 Das Schülerforschungszentrum Berlin e.V. (SFZ Berlin) ist ein Verein mit Sitz an der Lise-Meitner-Schule auf dem Campus Efeuweg. Der Verein ermöglicht es Kindern und Jugendlichen aus ganz Berlin in ihrer Freizeit eigenen Forschungsprojekten aus der Chemie, Biologie, Physik, Informatik, Technik oder Mathematik nachzugehen
@@ -4941,7 +5716,16 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bez
 Schlagworte: Berufsbildende Schulen, Lehrer, Lichtenberg, Personalplanung, Schüler, Statistik, Suchtprävention
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
-## Juni 2022
+**[FEZ Badesee – ein kurzes Sommervergnügen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12241.pdf)**
+Öffnungszeiten, Kosten und Personalaufwand des Badesees
+19/12241 - [Evers, Stefan (CDU)](autor_evers_stefan_cdu.md) - 04.07.2022
+Schlagworte: Binnengewässer, Freizeit, Kosten, Treptow-Köpenick, Umweltsanierung
+
+**[Childhood-Haus Berlin – Kinderschutz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12253.pdf)**
+Das Childhood-Haus versteht sich als transdisziplinäres Kompetenzzentrum, welches die Umsetzung einer kindgerechten Justiz stärkt.
+19/12253 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.06.2022
+Schlagworte: Charité - Universitätsmedizin Berlin, Ermittlungsverfahren, Informations- und Kommunikationstechnik, Kinder, Jugendliche, Kinder- und Jugendhilfe, Modellprojekt, Opferschutz, Sexueller Missbrauch, Statistik, Strafrecht, Strafverfahren
+
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
 19/12146 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 29.06.2022
 Schlagworte: Bildungsabschluss, Lehrer, Lehrerbildung, Statistik
@@ -5085,6 +5869,10 @@ Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Gebäude und Standorte](them
 Schlagworte: Bundesrecht, Erzieher, Frühkindliche Bildung, Kindertagesstätte, Lehrer, Lohnzuschlag, Schulen, Schulfinanzierung, Statistik, Vergütung
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Kinderchancenstadt Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11987.pdf)**
+19/11987 - [Evers, Stefan (CDU)](autor_evers_stefan_cdu.md) - 15.06.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Familie, Familienhilfe, Gesundheitsvorsorge, Grundsicherung für Arbeitsuchende, Kinder, Jugendliche, Soziales, Sozialstruktur, Statistik, Öffentliche Mittel
+
 **[Die unionsgeführte Bundesregierung hat 2018 das Gute - Kita - Gesetz, das den Bundesländern Mittel bis 31.12.2022 zur Verfügung stellt, auf den Weg gebracht - was tut der rot-grün-rote Senat, um sich auf 2023 vorzubereiten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11991.pdf)**
 19/11991 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 13.06.2022
 Schlagworte: Finanzzuweisung, Frühkindliche Bildung, Gesetzgebung, Statistik, Öffentliche Mittel
@@ -5170,10 +5958,23 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 Schlagworte: Bausanierung, Bauwesen, Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kosten, Neubau, Statistik, Städtebau
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
+**[Straßensozialarbeit stärken – Unterstützung und Bedarfe transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11915.pdf)**
+Arbeit der Streetworker
+19/11915 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 01.06.2022
+Schlagworte: Kinder, Jugendliche, Lichtenberg, Sozialer Brennpunkt, Sozialleistungen, Statistik, Öffentliche Mittel
+
+**[Potenzielle Pflegefamilien stärker unterstützen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11913.pdf)**
+19/11913 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 01.06.2022
+Schlagworte: Familie, Finanzierung, Kinder, Jugendliche, Lebensgemeinschaften, Pflege, Pflegekosten, Statistik
+
 **[Verwaltungskosten des Bewerbungsprozesses für Lehramtsreferendare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11878.pdf)**
 19/11878 - [Bauschke, Tobias (FDP)](autor_bauschke_tobias_fdp.md) - 02.06.2022
 Schlagworte: Digitalisierung, Hochschule, Hochschulwesen, Kosten, Lehrer, Personenbezogene Daten, Verwaltungsverfahren
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Umsetzung Ferienfahrten und Reisemaßnahmen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11873.pdf)**
+19/11873 - [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md) - 01.06.2022
+Schlagworte: Finanzzuweisung, Jugendamt, Jugendaustausch, Jugendfreizeitstätte, Kinder, Jugendliche, Marzahn-Hellersdorf, Statistik, Öffentliche Mittel
 
 **[Kein Fahrradnachwuchs für Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11870.pdf)**
 Einschränkungen der Öffnungszeiten in der Verkehrsschule Steglitz
@@ -5186,7 +5987,6 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 Schlagworte: Bausanierung, Frühkindliche Bildung, Kinderbetreuung, Kosten, Marzahn-Hellersdorf, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
-## Mai 2022
 **[Personalentwicklung in den Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11853.pdf)**
 19/11853 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 31.05.2022
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Disziplinarverfahren, Lehrer, Personalwesen, Quereinsteiger, Schule, Schulleiter, Statistik
@@ -5238,6 +6038,10 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Bauplanung, Bauwesen, Kosten, Pankow, Schule, Schulen, Sport, Sportplatz, Sportstättenbau
 Themen: [Bezirke:Pankow](thema_bezirke_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
 
+**[Reich und sexy? – Warum ist die Rückholquote bei den Unterhaltsvorschusszahlungen so gering](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11738.pdf)**
+19/11738 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 17.05.2022
+Schlagworte: Alleinerziehender, Jugendamt, Sozialleistungen, Unterhaltspflicht, Verwaltungsverfahren, Öffentliche Verwaltung
+
 **[Saubere Luft für Kinder und Personal – Luftfiltergeräte in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11815.pdf)**
 19/11815 - [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md) - 17.05.2022
 Schlagworte: COVID-19, Epidemie, Frühkindliche Bildung, Gesundheitsschutz, Hygiene, Luftreinhaltung, Personalplanung
@@ -5252,6 +6056,10 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik
 19/11710 - [Laatsch, Harald (AfD)](autor_laatsch_harald_afd.md) - 11.05.2022
 Schlagworte: Flüchtlingsunterbringung, Infrastruktur, Investition, Kindertagesstätte, Kommunale Angelegenheiten, Schulbau, Städtebau, Tempelhof-Schöneberg, Wohnungsbau
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md)
+
+**[Kinderarmut in Berlin – 2021](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11705.pdf)**
+19/11705 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 13.05.2022
+Schlagworte: Asylbewerber, Kinder, Jugendliche, Sozialleistung, Statistik
 
 **[Eine weitere staatliche Europaschule für Berlin und die ukrainischen Kinder?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11695.pdf)**
 19/11695 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 11.05.2022
@@ -5277,6 +6085,10 @@ Themen: [Grundschule](thema_grundschule.md), [Schulfächer:Sport](thema_schulfae
 19/11696 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 11.05.2022
 Schlagworte: Lehramtsanwärter, Lehrer, Lehrerbildung, Personalplanung, Quereinsteiger, Schule, Schulen, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Aufnahme ukrainischer Kinder und Jugendlicher – ein Lotteriespiel?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11694.pdf)**
+19/11694 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 11.05.2022
+Schlagworte: Ausländer, Migranten, Flüchtling, Kinder, Jugendliche, Meldewesen, Osteuropa, Statistik
 
 **[Ukrainische Pädagogen – ein Einsatz an Berliner Schulen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11693.pdf)**
 19/11693 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 11.05.2022
@@ -5328,11 +6140,14 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäu
 Schlagworte: Schule, Schulen, Schüler
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
-## April 2022
 **[Schulneubau in der Carola-Neher-Straße 61-65 in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11588.pdf)**
 19/11588 - [Herrmann, Alexander (CDU)](autor_herrmann_alexander_cdu.md) - 27.04.2022
 Schlagworte: Bezirksverwaltung, Marzahn-Hellersdorf, Schulen
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Verwaltung](thema_verwaltung.md)
+
+**[Zur Nutzung des Gebäudes Teterower Ring 168-170 in Kaulsdorf-Nord](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11574.pdf)**
+19/11574 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 27.04.2022
+Schlagworte: Bezirksverwaltung, Erbbaurecht, Marzahn-Hellersdorf, Städtebau, Öffentliches Vermögen
 
 **[Schüler\*innenzahlen und Raumkapazitäten der Schule am Ginkobaum / Zukünftige Schulen in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11573.pdf)**
 19/11573 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 27.04.2022
@@ -5374,6 +6189,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration]
 Schlagworte: Allgemeinbildende Schulen, Statistik, Tempelhof-Schöneberg
 Themen: [Bezirke:Tempelhof-Schöneberg](thema_bezirke_tempelhof-schoeneberg.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Steuerung, Finanzierung und Umsetzung von Maßnahmen der Kinder- undJugenderholung (Ferienfahrten) in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11494.pdf)**
+19/11494 - [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md) - 22.04.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Finanzzuweisung, Jugendamt, Jugendaustausch, Jugendfreizeitstätte, Kinder, Jugendliche, Statistik
+
 **[Schnelllerner-Klassen in Berlin und ihre Zukunft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11480.pdf)**
 19/11480 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 22.04.2022
 Schlagworte: Allgemeinbildende Schulen, Schulklasse, Schüler, Statistik
@@ -5383,6 +6202,10 @@ Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Stat
 19/11479 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 22.04.2022
 Schlagworte: Abordnung, Lehrer, Statistik
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Elterngeldstelle des Jugendamtes Berlin-Mitte nicht erreichbar?!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11521.pdf)**
+19/11521 - [Auricht, Jeannette (AfD)](autor_auricht_jeannette_afd.md) - 20.04.2022
+Schlagworte: Dienstleistung, Elterngeld, Mitte, Personalplanung, Sozialleistungen, Verwaltungsverfahren, Öffentliche Verwaltung
 
 **[Mehrsprachigkeit beim Lesestart 1-2-3](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11478.pdf)**
 Bei „Lesestart 1-2-3“ handelt es sich um ein 2019 bundesweit gestartetes Programm zur frühen Sprach- und Leseförderung. Es wird vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und von der Stiftung Lesen durchgeführt.
@@ -5490,7 +6313,6 @@ Themen: [Statistik](thema_statistik.md)
 Schlagworte: Schule, Schulen, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
-## März 2022
 **[MSA an Integrierten Sekundarschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11276.pdf)**
 19/11276 - [Melzer, Heiko (CDU)](autor_melzer_heiko_cdu.md) - 31.03.2022
 Schlagworte: Allgemeinbildende Schulen, Bildungsabschluss, Integrierte Sekundarschule, Prüfung, Schulfach
@@ -5573,6 +6395,10 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Stand
 Schlagworte: Allgemeinbildende Schulen, Lichtenberg
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Differenzen zwischen Jugendamt Treptow-Köpenick und dem TrägerEinhorn gGmbH – Wie geht es mit den Einrichtungen weiter?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11193.pdf)**
+19/11193 - [Förster, Stefan (FDP)](autor_foerster_stefan_fdp.md) - 24.03.2022
+Schlagworte: Bezirksverwaltung, Freier Träger, Kinder- und Jugendhilfe, Statistik, Öffentliche Mittel, Öffentliche Verwaltung
+
 **[Digitalisierung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11186.pdf)**
 19/11186 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 24.03.2022
 Schlagworte: Bezirk (Gebietskörperschaft), Digitalisierung, Informations- und Kommunikationstechnologien, Modellprojekt, Schulausstattung, Schulen, Statistik
@@ -5582,6 +6408,10 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 19/11263 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 21.03.2022
 Schlagworte: Digitalisierung, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Internet, Kosten, Lichtenberg, Schulen
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Jugendgästehaus in Falkenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11185.pdf)**
+19/11185 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 21.03.2022
+Schlagworte: Grundstück, Kinder, Jugendliche, Kommunale Angelegenheiten, Lichtenberg, Liegenschaftsverwaltung
 
 **[Übergang Schule – Beruf, (Teil 1): Zahlen und Maßnahmen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11175.pdf)**
 19/11175 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 18.03.2022
@@ -5643,6 +6473,10 @@ Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Fi
 Schlagworte: Frühkindliche Bildung, Kinder- und Jugendhilfe, Kinderbetreuung, Marzahn-Hellersdorf, Statistik
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
+**[Personal im Jugendamt in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11114.pdf)**
+19/11114 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 10.03.2022
+Schlagworte: Marzahn-Hellersdorf, Mehrarbeit, Personalplanung, Öffentliche Verwaltung
+
 **[Versorgung mit Oberschulplätzen in Hohenschönhausen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11092.pdf)**
 19/11092 - [Liebe, Dirk (SPD)](autor_liebe_dirk_spd.md) - 09.03.2022
 Schlagworte: Allgemeinbildende Schulen, Berufsbildende Schule, Lichtenberg
@@ -5658,11 +6492,24 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Schlagworte: Lehrer, Lehrerbildung, Personalplanung, Statistik, Teilzeitarbeit
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Endlich Unterstützung für die Kinder- und Jugendhilfe!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11063.pdf)**
+Stationäre Kinder- und Jugendeinrichtungen sowie die stationären Einrichtungen der Eingliederungshilfe Jugend.
+19/11063 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 08.03.2022
+Schlagworte: COVID-19, Epidemie, Gesundheitseinrichtungen, Gesundheitswesen, Kinder, Jugendliche, Personalplanung, Sozialleistung
+
+**[Kinder und Jugendliche mit besonderen Bedarfen (Teil 3) - Egal wo du wohnst, du bekommst die gleichen Leistungen - Berlineinheitliche Rechtsanwendung von SGB VIII und SGB IX](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11047.pdf)**
+19/11047 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 08.03.2022
+Schlagworte: Kinder, Jugendliche, Mensch mit Behinderung, Menschen mit Behinderungen
+
 **[Kinder mit besonderen Bedarfen (Teil 1) - Stand Umsetzung - Status B+ Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11045.pdf)**
 Bedarfe der Kinder mit Behinderung im frühkindlichen Bereich
 19/11045 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 08.03.2022
 Schlagworte: Finanzierung, Frühkindliche Bildung, Kinderbetreuung, Mensch mit Behinderung, Menschen mit Behinderungen
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md)
+
+**[Stand und Weiterentwicklung der Pflegekinderhilfe in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11040.pdf)**
+19/11040 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 08.03.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflege, Pflegegeld, Statistik
 
 **[Kita-Platz-Finanzierung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11066.pdf)**
 19/11066 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 04.03.2022
@@ -5679,15 +6526,30 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 Schlagworte: Berufliche Weiterbildung, Digitalisierung, Erzieher, Fachkraft, Finanzierung, Frühkindliche Bildung, Informations- und Kommunikationstechnologien, Medien, Sozialpädagogik, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Kinder und Jugendliche mit besonderen Bedarfen (Teil 2) - Qualifizierung für Fachkräfte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11046.pdf)**
+19/11046 - [Burkert-Eulitz, Marianne (Grüne)](autor_burkert-eulitz_marianne_gruene.md) - 04.03.2022
+Schlagworte: Beratung, Fachkraft, Kinder, Jugendliche, Sozialberuf, Sozialpädagogik
+
 **[Wie bewahrt der Senat die Kita vor dem Nachzahlungsschock für Energiekosten?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11024.pdf)**
 19/11024 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 03.03.2022
 Schlagworte: Energie, Energiepreis, Frühkindliche Bildung, Kosten, Öffentlicher Haushalt
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
 
+**[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
+19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
+Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
+Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Landesmindestlohn und Kitakosten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11026.pdf)**
 19/11026 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 01.03.2022
 Schlagworte: Arbeitsentgelt, Freier Träger, Frühkindliche Bildung, Kinder- und Jugendhilfe, Kindertagesstätte, Kosten
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
+
+**[Das Gute-Kita-Gesetz in der Praxis des Landes Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11025.pdf)**
+Gewährung für Maßnahmen zur räumlichen Gestaltung im Rahmen des KiTa-Qualitäts- und -Teilhabeverbesserungsgesetzes (KiQuTG)
+19/11025 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2022
+Schlagworte: Frühkindliche Bildung, Gesetzgebung, Personalplanung, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Subvention, Öffentliche Mittel, Öffentliche Verwaltung
+Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 **[Mehrsprachigkeit und SESB](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10987.pdf)**
 Einsetzung eines Gremiums "Mehrsprachigkeit und SESB"; Staatliche Europa-Schule Berlin (SESB)
@@ -5705,37 +6567,29 @@ Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md)
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Marzahn-Hellersdorf, Schulbau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Stand der Umsetzung der Digitalisierungsstrategie für die Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10964.pdf)**
+19/10964 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 28.02.2022
+Schlagworte: Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Schulausstattung, Schulen, Software, Statistik
+Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
+
 **[LAN-Anbindung von Schulen und die Rolle des Landes dabei](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10963.pdf)**
 19/10963 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 01.03.2022
 Schlagworte: Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Internet, Schulausstattung, Schulen, WLAN, Öffentlicher Auftrag
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
+
+**[Fachkräftegewinnung für die Kita – Potenziale der Zusammenarbeit mit der Arbeitsagentur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10960.pdf)**
+19/10960 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 28.02.2022
+Schlagworte: Arbeitsmarkt, Arbeitsverwaltung, Erzieher, Fachkraft, Frühkindliche Bildung, Personalplanung
+Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
 **[Nachfragen zur Schriftlichen Anfrage 19/10525: Schule, Kita, Kultur und Park in der Rummelsburger Bucht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10890.pdf)**
 19/10890 - [Klein, Hendrikje (Die Linke)](autor_klein_hendrikje_die_linke.md) - 02.03.2022
 Schlagworte: Bebauungsplan, Grundstück, Grünfläche, Lichtenberg, Schulbau, Städtebau
 Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Kultur](thema_kultur.md)
 
-## Februar 2022
-**[Entwicklung der Schülerzahlen: Zahlen transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10977.pdf)**
-19/10977 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 28.02.2022
-Schlagworte: Allgemeinbildende Schulen, Lichtenberg, Schulbau, Statistik
-Themen: [Bezirke:Lichtenberg](thema_bezirke_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
-
-**[Das Gute-Kita-Gesetz in der Praxis des Landes Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11025.pdf)**
-Gewährung für Maßnahmen zur räumlichen Gestaltung im Rahmen des KiTa-Qualitäts- und -Teilhabeverbesserungsgesetzes (KiQuTG)
-19/11025 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 28.02.2022
-Schlagworte: Frühkindliche Bildung, Gesetzgebung, Personalplanung, Senatsverwaltung für Bildung, Jugend und Familie, Statistik, Subvention, Öffentliche Mittel, Öffentliche Verwaltung
-Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
-
-**[Stand der Umsetzung der Digitalisierungsstrategie für die Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10964.pdf)**
-19/10964 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 28.02.2022
-Schlagworte: Digitalisierung, ITDZ Berlin, Informations- und Kommunikationstechnologien, Schulausstattung, Schulen, Software, Statistik
-Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
-
-**[Fachkräftegewinnung für die Kita – Potenziale der Zusammenarbeit mit der Arbeitsagentur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10960.pdf)**
-19/10960 - [Engelmann, Claudia (Die Linke)](autor_engelmann_claudia_die_linke.md) - 28.02.2022
-Schlagworte: Arbeitsmarkt, Arbeitsverwaltung, Erzieher, Fachkraft, Frühkindliche Bildung, Personalplanung
-Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
+**[Wartezeiten bei Verwaltungsleistungen: Elterngeld](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10948.pdf)**
+19/10948 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 25.02.2022
+Schlagworte: Bezirksverwaltung, Jugendamt, Landesregierung, Personalplanung, Sozialleistungen, Statistik, Verwaltungsverfahren
 
 **[Die unionsgeführte Koalition hat das "Gute-Kita-Gesetz" 2018 im Deutschen Bundestag verabschiedet – Wie erfolgt die Umsetzung in Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10989.pdf)**
 19/10989 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 25.02.2022
@@ -5746,6 +6600,10 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 19/10980 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 24.02.2022
 Schlagworte: Frühkindliche Bildung, Kindertagesstätte, Personalplanung, Statistik, Vergütung
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Situation des Regionalen Sozialpädagogischen Dienstes der Jugendämter (RSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10972.pdf)**
+19/10972 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 24.02.2022
+Schlagworte: Ausschreibung, Bezirk (Gebietskörperschaft), Sozialarbeit, Statistik, Öffentliche Verwaltung
 
 **[Nutzung mobiler Endgeräte und Dienst-Mailadressen durch Lehrkräfte an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10965.pdf)**
 19/10965 - [Krüger, Louis (Grüne)](autor_krueger_louis_gruene.md) - 24.02.2022
@@ -5774,6 +6632,10 @@ Präsenzpflicht an Berufsschulen in Zeiten der Corona Pandemie
 Schlagworte: Berufsausbildung, Berufsbildende Schulen, COVID-19, Epidemie
 Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
+**[Unbegleitete minderjährige Geflüchtete - Kindeswohl sichern und Perspektiven schaffen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10959.pdf)**
+19/10959 - [Seidel, Katrin (Die Linke)](autor_seidel_katrin_die_linke.md) - 23.02.2022
+Schlagworte: Ausländer, Migranten, Kinder und Jugendliche, Kinder, Jugendliche, Kinder- und Jugendhilfe, Statistik, Vormundschaft
+
 **[Wie wirkt „Stark trotz Corona” in Moabit und im Brüsseler Kiez?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10883.pdf)**
 19/10883 - [Kurt, Taylan (Grüne)](autor_kurt_taylan_gruene.md) - 23.02.2022
 Schlagworte: COVID-19, Epidemie, Kinder, Jugendliche, Kinder- und Jugendhilfe, Mitte, Schulen, Öffentliche Mittel
@@ -5798,6 +6660,10 @@ Themen: [Finanzen](thema_finanzen.md), [Statistik](thema_statistik.md)
 19/10862 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 22.02.2022
 Schlagworte: Freier Träger, Privatschulen, Schulgeld, Schulrecht, Sozialpädagogik, Statistik
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+**[„Freiwilliges Jahr des Engagements” in Berlin und Deutschland ausbauen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10870.pdf)**
+19/10870 - [Freymark, Danny (CDU)](autor_freymark_danny_cdu.md) - 18.02.2022
+Schlagworte: Freiwilligendienst, Gesellschaft, Bevölkerung
 
 **[Wie viele Schülerinnen und Schüler verlassen die Berliner Schulen mit und ohne Abschluss?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10841.pdf)**
 19/10841 - [Zander, Christian (CDU)](autor_zander_christian_cdu.md) - 18.02.2022
@@ -5848,6 +6714,10 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 19/10807 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.02.2022
 Schlagworte: Grundstück, Marzahn-Hellersdorf, Schulen, Städtebau
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Migrantenselbsthilfeorganisationen in Marzahn-Hellersdorf - Hilfe bei der Wohnungssuche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10805.pdf)**
+19/10805 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 16.02.2022
+Schlagworte: Asylbewerber, Ausländer, Migranten, Beratung, Flüchtling, Wohlfahrtsorganisation, Wohnungsbaugesellschaft, Wohnungsvermittlung, Wohnungswesen
 
 **[Luftfilter in Berlins Schulen und Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10796.pdf)**
 19/10796 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 15.02.2022
@@ -5909,10 +6779,42 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](th
 Schlagworte: Frühkindliche Bildung, Personalkosten, Personalplanung
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
+**[Erziehungs- und Familienberatungsstellen (EFB): Hochstrittige Eltern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10750.pdf)**
+19/10750 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.02.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Erziehung, Familienhilfe, Freier Träger, Gerichtsverfahren, Kinder- und Jugendhilfe, Lebensgemeinschaften, Soziale Einrichtungen, Statistik
+
+**[Leistungsspektrum der Erziehungs- und Familienberatungsstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10749.pdf)**
+19/10749 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 10.02.2022
+Schlagworte: Erziehung, Familienhilfe, Freier Träger, Kinder- und Jugendhilfe, Lebensgemeinschaften, Soziale Einrichtungen, Statistik
+
+**[Bedarfsgerechter Ausbau der Erziehungs- und Familienberatungsstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10748.pdf)**
+19/10748 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 09.02.2022
+Schlagworte: Erziehung, Fachkraft, Familienhilfe, Freier Träger, Kinder- und Jugendhilfe, Lebensgemeinschaften, Personalplanung, Soziale Einrichtungen, Statistik
+
+**[Erziehungs- und Familienberatungsstellen (EFB) in öffentlicher und freier Trägerschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10746.pdf)**
+19/10746 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 09.02.2022
+Schlagworte: Erziehung, Familienhilfe, Freier Träger, Kinder- und Jugendhilfe, Lebensgemeinschaften, Soziale Einrichtungen, Statistik
+
 **[Ausgelutscht? Wie professionell ist die Logistik der Lolli-Tests?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10741.pdf)**
 19/10741 - [Fresdorf, Paul (FDP)](autor_fresdorf_paul_fdp.md) - 09.02.2022
 Schlagworte: Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagesstätte, Verwaltungsverfahren
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
+
+**[Qualitätssicherung in der Erziehungs- und Familienberatung (EFB)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10747.pdf)**
+19/10747 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 09.02.2022
+Schlagworte: Erziehung, Familienhilfe, Freier Träger, Kinder- und Jugendhilfe, Lebensgemeinschaften, Qualitätssicherung, Soziale Einrichtungen, Statistik
+
+**[Erziehungs- und Familienberatungsstellen - Zahlen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10745.pdf)**
+19/10745 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.02.2022
+Schlagworte: Bevölkerungsstatistik, Erziehung, Familienhilfe, Freier Träger, Kinder- und Jugendhilfe, Lebensgemeinschaften, Soziale Einrichtungen, Statistik
+
+**[Erziehungs- und Familienberatungsstellen (EFB) unter Corona-Bedingungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10744.pdf)**
+19/10744 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 08.02.2022
+Schlagworte: COVID-19, Epidemie, Erziehung, Familienhilfe, Freier Träger, Lebensgemeinschaften, Soziale Einrichtungen, Statistik, Veranstaltung
+
+**[Finanzierung der Erziehungs- und Familienberatungsstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10743.pdf)**
+19/10743 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 07.02.2022
+Schlagworte: Erziehung, Familienhilfe, Finanzierung, Freier Träger, Lebensgemeinschaften, Soziale Einrichtungen, Statistik, Öffentlicher Haushalt
 
 **[Inanspruchnahme des Programms „Stark trotz Corona” in Reinickendorfer Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10729.pdf)**
 19/10729 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 08.02.2022
@@ -6016,7 +6918,6 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 Schlagworte: Ausschreibung, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagesstätte, Schule, Schulen, Öffentlicher Auftrag
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwaltung](thema_verwaltung.md)
 
-## Januar 2022
 **[Gewalt an Marzahn-Hellersdorfer Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10615.pdf)**
 19/10615 - [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md) - 31.01.2022
 Schlagworte: Gewalt, Gewaltprävention, Marzahn-Hellersdorf, Schulen, Schulpsychologischer Dienst, Strafanzeige
@@ -6042,6 +6943,10 @@ Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Gebäu
 19/10576 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 26.01.2022
 Schlagworte: Ausbildungsförderung, Berufsausbildung, Statistik
 Themen: [Berufsbildung](thema_berufsbildung.md), [Statistik](thema_statistik.md)
+
+**[Leistungen nach dem Unterhaltsvorschussgesetz in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10575.pdf)**
+19/10575 - [Jasper-Winter, Dr. Maren (FDP)](autor_jasper-winter_dr_maren_fdp.md) - 25.01.2022
+Schlagworte: Bezirk (Gebietskörperschaft), Jugendamt, Personalplanung, Sozialleistungen, Statistik
 
 **[Wer ist hier der Boss?  - Herrscht im Kita-Eigenbetrieb „Kindergärten City” Gute Arbeit vor, die Grundrechte der Arbeitnehmer schützt oder stimmen Berichte der sozialistischen Tageszeitung nd über Bossing in der Geschäftsstelle?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10577.pdf)**
 19/10577 - [Auricht, Jeannette (AfD)](autor_auricht_jeannette_afd.md) - 21.01.2022
@@ -6143,6 +7048,10 @@ Themen: [Bezirke:Reinickendorf](thema_bezirke_reinickendorf.md), [Statistik](the
 Schlagworte: Freier Träger, Frühkindliche Bildung, Kosten
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
+**[Vaterschaftsurlaub bzw. Vaterschaftsfreistellung zur Geburt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10434.pdf)**
+19/10434 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.01.2022
+Schlagworte: Elterngeld, Sozialleistungen, Vater
+
 **[Schule in der Köllnischen Heide: Kinder aus kriminellen Clanfamilien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10431.pdf)**
 19/10431 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 03.01.2022
 Schlagworte: Allgemeinbildende Schulen, Gewaltprävention, Innere Sicherheit, Kinder, Jugendliche, Kinderschutz, Neukölln, Organisierte Kriminalität, Veranstaltung, Verbrechensbekämpfung
@@ -6158,7 +7067,6 @@ Themen: [Bezirke:Neukölln](thema_bezirke_neukoelln.md), [Finanzen](thema_finanz
 Schlagworte: COVID-19, Epidemie, Frühkindliche Bildung, Gesundheitsschutz, Gesundheitsvorsorge, Kindertagespflege
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
-## Dezember 2021
 **[Pandemie und Praktika](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10403.pdf)**
 Infektionssituation mit Betriebs- und Sozialpraktika an Schulen
 19/10403 - [Seibeld, Cornelia (CDU)](autor_seibeld_cornelia_cdu.md) - 29.12.2021
@@ -6174,6 +7082,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Inklusion](
 19/10394 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 29.12.2021
 Schlagworte: Ausländer, Migranten, Bezirk (Gebietskörperschaft), Schulen, Staatsangehörigkeit, Statistik
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
+
+**[Angebotsstruktur und Investitionen für Kinder und Jugendliche im Märkischen Viertel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10384.pdf)**
+19/10384 - [Dietmann, Michael (CDU)](autor_dietmann_michael_cdu.md) - 29.12.2021
+Schlagworte: Freier Träger, Jugendarbeit, Kinder, Jugendliche, Reinickendorf, Statistik
 
 **[Schulnotstand in Berlin - Fokus auf Schulversuche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10383.pdf)**
 19/10383 - [Khalatbari, Sandra (CDU)](autor_khalatbari_sandra_cdu.md) - 29.12.2021
@@ -6235,6 +7147,10 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 19/10239 - [Weiß, Thorsten (AfD)](autor_weiss_thorsten_afd.md) - 16.12.2021
 Schlagworte: Allgemeinbildende Schulen, Bußgeld, Elektronische Aktenführung, Kosten, Sonderpädagogik, Statistik
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Inklusion](thema_inklusion.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Scheinvaterschaft und Ankerkinder: - Präventionsmaßnahmen zur missbräuchlichen Anerkennung der Vaterschaft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10290.pdf)**
+19/10290 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 15.12.2021
+Schlagworte: Frauen, Männer, Urkunde, Vater
 
 **[Schulen & Internet](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10270.pdf)**
 19/10270 - [Stettner, Dirk (CDU)](autor_stettner_dirk_cdu.md) - 15.12.2021
@@ -6303,21 +7219,19 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statis
 Schlagworte: Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Informationssicherheit, Schulausstattung, Schulen
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-**[Lolli-Tests in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10116.pdf)**
-19/10116 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 01.12.2021
-Schlagworte: COVID-19, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kosten
-Themen: [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
-
-**[Schul-Avatare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10111.pdf)**
-19/10111 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 01.12.2021
-Schlagworte: Hardware, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen
-Themen: [Digitalisierung](thema_digitalisierung.md)
-
-## November 2021
 **[Grundschule an der Wuhle](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10152.pdf)**
 19/10152 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 30.11.2021
 Schlagworte: Allgemeinbildende Schulen, Bauplanung, Bauwesen, Marzahn-Hellersdorf, Sporthalle
 Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Zukunft vom Jugendclub M3 in Marzahn (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10137.pdf)**
+19/10137 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 02.12.2021
+Schlagworte: Finanzierung, Freier Träger, Freizeit, Jugendamt, Jugendarbeit, Kinder, Jugendliche, Marzahn-Hellersdorf
+
+**[Lolli-Tests in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10116.pdf)**
+19/10116 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 01.12.2021
+Schlagworte: COVID-19, Epidemie, Gesundheitsschutz, Gesundheitsvorsorge, Kosten
+Themen: [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
 **[Einschulungsuntersuchung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10110.pdf)**
 19/10110 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 30.11.2021
@@ -6339,6 +7253,11 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 19/10118 - [Tabor, Tommy (AfD)](autor_tabor_tommy_afd.md) - 30.11.2021
 Schlagworte: Gewaltprävention, Kinder, Jugendliche, Kindertagesstätte, Sexueller Missbrauch, Spandau, Strafrecht
 Themen: [Bezirke:Spandau](thema_bezirke_spandau.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Sozialklima](thema_sozialklima.md)
+
+**[Schul-Avatare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10111.pdf)**
+19/10111 - [Günther-Wünsch, Katharina (CDU)](autor_guenther-wuensch_katharina_cdu.md) - 01.12.2021
+Schlagworte: Hardware, Informations- und Kommunikationstechnik, Informations- und Kommunikationstechnologien, Schule, Schulen
+Themen: [Digitalisierung](thema_digitalisierung.md)
 
 **[Ersthelfer an Berliner Schulen und Hochschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10100.pdf)**
 19/10100 - [Grasse, Adrian (CDU)](autor_grasse_adrian_cdu.md) - 30.11.2021

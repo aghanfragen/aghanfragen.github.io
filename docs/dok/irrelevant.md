@@ -1,6 +1,22 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
+
+**[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
+IBA = Integrierten Berufsausbildungsvorbereitung
+19/20685 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 07.11.2024
+Schlagworte: Berufsausbildung, Berufsberatung, Qualitätssicherung, Rechtsvorschrift, Schulen, Schüler
+Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**
+19/20680 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 07.11.2024
+Schlagworte: Landesbetrieb, Lehrer, Marzahn-Hellersdorf, Wohnungsbaugesellschaft, Wohnungspolitik, Wohnungswesen
+Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf)**
+19/20668 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 07.11.2024
+Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Kosten, Schulbau, Schule, Schulen, Treptow-Köpenick
+Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
 19/20639 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 25.10.2024

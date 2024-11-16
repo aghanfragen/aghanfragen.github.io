@@ -1,6 +1,6 @@
 # Anfragen von Schmidberger, Katrin (Grüne)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## Oktober 2022
 **[Die GSE-Gesellschaft für Stadtentwicklung gemeinnützige GmbH als Treuhänder Berlins für dauerhafte Sicherung von Wohn- und Gewerberäumen: Wohnungsbestand und Mieterhöhungen wie bei der Lehrter Straße 26a, 26b, 27-30, 36, 37 & 38](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13464.pdf)**

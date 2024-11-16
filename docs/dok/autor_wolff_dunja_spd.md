@@ -1,6 +1,6 @@
 # Anfragen von Wolff, Dunja (SPD)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## Juli 2024
 **[Faktenlage Typensporthalle - insbesondere Alfred-Randt-Straße 19/21](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19671.pdf)**

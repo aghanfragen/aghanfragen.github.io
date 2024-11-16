@@ -1,8 +1,15 @@
 # Thema: Qualität und Erfolg
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 Zugeordnete Schlagworte: Qualität und Erfolg, Abitur, Bildungsabschluss, Förderunterricht, Forschung, Prüfung, Qualitätssicherung, Schulaufsicht
+
+## November 2024
+**[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
+IBA = Integrierten Berufsausbildungsvorbereitung
+19/20685 - [Schedlich, Klara (Grüne)](autor_schedlich_klara_gruene.md) - 07.11.2024
+Schlagworte: Berufsausbildung, Berufsberatung, Qualitätssicherung, Rechtsvorschrift, Schulen, Schüler
+Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
 ## Oktober 2024
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**

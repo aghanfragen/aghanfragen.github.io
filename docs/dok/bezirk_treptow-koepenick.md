@@ -1,6 +1,12 @@
 # Bezirk Treptow-Köpenick
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
+
+## November 2024
+**[Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf)**
+19/20668 - [Düsterhöft, Lars (SPD)](autor_duesterhoeft_lars_spd.md) - 07.11.2024
+Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Kosten, Schulbau, Schule, Schulen, Treptow-Köpenick
+Themen: [Bezirke:Treptow-Köpenick](thema_bezirke_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## März 2024
 **[Die unendliche Geschichte geht weiter - Dauerbaustelle Schule An der Wuhlheide](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18344.pdf)**

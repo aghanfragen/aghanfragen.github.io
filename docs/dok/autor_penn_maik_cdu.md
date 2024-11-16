@@ -1,6 +1,6 @@
 # Anfragen von Penn, Maik (CDU)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## August 2022
 **[Schulwegsicherheit in Berlin, Fokus: Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12674.pdf)**

@@ -1,6 +1,12 @@
 # Anfragen von Die Linke
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
+
+## November 2024
+**[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**
+19/20680 - [Ronneburg, Kristian (Die Linke)](autor_ronneburg_kristian_die_linke.md) - 07.11.2024
+Schlagworte: Landesbetrieb, Lehrer, Marzahn-Hellersdorf, Wohnungsbaugesellschaft, Wohnungspolitik, Wohnungswesen
+Themen: [Bezirke:Marzahn-Hellersdorf](thema_bezirke_marzahn-hellersdorf.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
 ## Oktober 2024
 **[Verzögerungen beim Schulneubau in Rummelsburg (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20635.pdf)**

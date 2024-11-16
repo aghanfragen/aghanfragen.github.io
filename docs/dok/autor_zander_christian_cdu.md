@@ -1,6 +1,6 @@
 # Anfragen von Zander, Christian (CDU)
 
-Stand: 12.11.2024 22:02
+Stand: 15.11.2024 22:02
 
 ## Februar 2023
 **[Befreiung von der Unterrichts-Präsenzpflicht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14665.pdf)**
