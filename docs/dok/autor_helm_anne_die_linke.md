@@ -1,6 +1,6 @@
 # Anfragen von Helm, Anne (Die Linke)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## September 2023
 **[Standortsicherung JugendKulturZentrum Pumpe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16592.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Lindemann, Gunnar (AfD)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## Februar 2024
 **[Teilnahme von Vertretern des sogenannten Recherchekollektivs Correctiv bei Veranstaltungen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18196.pdf)**

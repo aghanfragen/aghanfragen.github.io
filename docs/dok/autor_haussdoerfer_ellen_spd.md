@@ -1,6 +1,6 @@
 # Anfragen von Haußdörfer, Ellen (SPD)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## Juli 2022
 **[Geplanter Schulstandort Kalker Straße/Chorweiler Straße in Berlin Altglienicke](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12347.pdf)**

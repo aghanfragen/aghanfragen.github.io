@@ -1,6 +1,6 @@
 # Anfragen von Stettner, Dirk (CDU)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## Oktober 2022
 **[Aktueller Status der Luftfiltergeräte an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13489.pdf)**

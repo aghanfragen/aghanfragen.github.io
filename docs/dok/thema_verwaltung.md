@@ -1,6 +1,6 @@
 # Thema: Verwaltung
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 Zugeordnete Schlagworte: Verwaltung, Auskunfterteilung, Bezirksverwaltung, Landesbetrieb, Landesregierung, Meldewesen, Öffentliche Vergabe, Öffentliche Verwaltung, Senatsverwaltung für Bildung, Jugend und Familie, Schulaufsicht, Senat, Berlin, Senatskanzlei, Staatssekretär, Vergaberecht, Verwaltungsverfahren, Verwaltungsvorschrift, Öffentlicher Auftrag, Öffentlicher Haushalt, Elektronische Aktenführung
 

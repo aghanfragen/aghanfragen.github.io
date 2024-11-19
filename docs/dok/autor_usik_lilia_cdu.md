@@ -1,6 +1,6 @@
 # Anfragen von Usik, Lilia (CDU)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## Dezember 2023
 **[Gartenarbeitsschule Lichtenberg fördern und unterstützen (10318 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17624.pdf)**

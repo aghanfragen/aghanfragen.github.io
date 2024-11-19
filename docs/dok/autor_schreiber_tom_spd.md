@@ -1,6 +1,6 @@
 # Anfragen von Schreiber, Tom (SPD)
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 ## Oktober 2022
 **[Amokprävention an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13565.pdf)**

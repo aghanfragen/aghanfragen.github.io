@@ -1,6 +1,6 @@
 # Thema: Kultur
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
 
 Zugeordnete Schlagworte: Kultur, Kulturförderung, Kunst
 

@@ -1,6 +1,11 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 15.11.2024 22:02
+Stand: 18.11.2024 22:02
+
+**[Neubau der Lenau-Grundschule in Kreuzberg (jetzt Bergmannkiez-Gemeinschaftsschule)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20695.pdf)**
+19/20695 - [Husein, Dr. Timur (CDU)](autor_husein_dr_timur_cdu.md) - 08.11.2024
+Schlagworte: Allgemeinbildende Schulen, Bauplanung, Friedrichshain-Kreuzberg, Grundschule, Kosten, Neubau
+Themen: [Bezirke:Friedrichshain-Kreuzberg](thema_bezirke_friedrichshain-kreuzberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
