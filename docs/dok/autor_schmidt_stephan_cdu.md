@@ -1,6 +1,6 @@
 # Anfragen von Schmidt, Stephan (CDU)
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 ## August 2024
 **[Einschulung von Erstklässlern für das Schuljahr 2024/2025 in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19747.pdf)**

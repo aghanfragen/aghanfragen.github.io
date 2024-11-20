@@ -1,6 +1,6 @@
 # Anfragen von Buchner, Dennis (SPD)
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 ## Februar 2024
 **[Grundschule am Weißen See – Wird endlich gut, was schon sehr lange währt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18183.pdf)**

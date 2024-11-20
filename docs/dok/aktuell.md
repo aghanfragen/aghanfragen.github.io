@@ -1,6 +1,6 @@
 # Aktuelle Dokumente
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 **[Neubau der Lenau-Grundschule in Kreuzberg (jetzt Bergmannkiez-Gemeinschaftsschule)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20695.pdf)**
 19/20695 - [Husein, Dr. Timur (CDU)](autor_husein_dr_timur_cdu.md) - 08.11.2024

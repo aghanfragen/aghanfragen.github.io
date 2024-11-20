@@ -1,6 +1,6 @@
 # Thema: Freie Schulen
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 Zugeordnete Schlagworte: Freie Schulen, Privatschulen, Freier Träger
 

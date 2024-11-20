@@ -1,6 +1,6 @@
 # Thema: Qualität und Erfolg
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 Zugeordnete Schlagworte: Qualität und Erfolg, Abitur, Bildungsabschluss, Förderunterricht, Forschung, Prüfung, Qualitätssicherung, Schulaufsicht
 

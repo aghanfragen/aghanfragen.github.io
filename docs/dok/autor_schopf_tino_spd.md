@@ -1,6 +1,6 @@
 # Anfragen von Schopf, Tino (SPD)
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 ## Februar 2024
 **[Schuldrehscheibe Werneuchener Wiese (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17917.pdf)**

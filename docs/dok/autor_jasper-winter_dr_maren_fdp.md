@@ -1,6 +1,6 @@
 # Anfragen von Jasper-Winter, Dr. Maren (FDP)
 
-Stand: 18.11.2024 22:02
+Stand: 19.11.2024 22:02
 
 ## Februar 2023
 **[Digitalisierung der Oberstufenzentren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14718.pdf)**
