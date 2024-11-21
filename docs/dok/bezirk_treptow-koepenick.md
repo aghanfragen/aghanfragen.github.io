@@ -1,6 +1,6 @@
 # Bezirk Treptow-Köpenick
 
-Stand: 19.11.2024 22:02
+Stand: 20.11.2024 22:02
 
 ## November 2024
 **[Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf)**

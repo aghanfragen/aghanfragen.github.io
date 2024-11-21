@@ -1,6 +1,6 @@
 # Thema: Inklusion
 
-Stand: 19.11.2024 22:02
+Stand: 20.11.2024 22:02
 
 Zugeordnete Schlagworte: Inklusion, Barrierefreiheit, Gebärdensprache, Gehörloser, Mensch mit Behinderung, Menschen mit Behinderungen, Sonderpädagogik, Sonderschule, Teilhabe behinderter Menschen
 

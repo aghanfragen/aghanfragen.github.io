@@ -1,6 +1,6 @@
 # Thema: Sonstige
 
-Stand: 19.11.2024 22:02
+Stand: 20.11.2024 22:02
 
 ## Oktober 2024
 **[Nachgefragt: Klassengrößen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20568.pdf)**

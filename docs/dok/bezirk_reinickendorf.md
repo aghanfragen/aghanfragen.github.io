@@ -1,6 +1,6 @@
 # Bezirk Reinickendorf
 
-Stand: 19.11.2024 22:02
+Stand: 20.11.2024 22:02
 
 ## August 2024
 **[Organisation und Finanzierung von Schul-Shuttles für Kinder aus Flüchtlingsunterkünften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19815.pdf)**
