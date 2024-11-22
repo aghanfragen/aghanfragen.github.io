@@ -1,6 +1,6 @@
 # Thema: Soziales
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 Zugeordnete Schlagworte: Soziales, Alleinerziehender, Elterngeld, Familienhilfe, Pflegegeld, Schulgeld, Soziale Einrichtungen, Sozialleistung, Sozialleistungen
 

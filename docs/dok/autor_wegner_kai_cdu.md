@@ -1,6 +1,6 @@
 # Anfragen von Wegner, Kai (CDU)
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 ## November 2022
 **[Digitalisierung an Berlins Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13712.pdf)**

@@ -1,6 +1,6 @@
 # Thema: Digitalisierung
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 Zugeordnete Schlagworte: Digitalisierung, Datenschutz, Elektronische Aktenführung, Hardware, Informations- und Kommunikationstechnologien, Informations- und Kommunikationstechnik, Informationssicherheit, Informationssystem, Internet, ITDZ Berlin, Software, WLAN
 

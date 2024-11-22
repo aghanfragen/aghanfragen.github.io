@@ -1,6 +1,15 @@
 # Aktuelle Dokumente
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
+
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
+19/20717 - [Lenz, Stephan (CDU)](autor_lenz_stephan_cdu.md) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Vielfalt](thema_vielfalt.md)
+
+**[Einsatz von KI bei der Intelligent Zoning Engine (IZE)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20710.pdf)**
+19/20710 - [Ziller, Stefan (Grüne)](autor_ziller_stefan_gruene.md) - 14.11.2024
+Schlagworte: Datenverarbeitung, Informations- und Kommunikationstechnologien
 
 **[Neubau der Lenau-Grundschule in Kreuzberg (jetzt Bergmannkiez-Gemeinschaftsschule)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20695.pdf)**
 19/20695 - [Husein, Dr. Timur (CDU)](autor_husein_dr_timur_cdu.md) - 08.11.2024

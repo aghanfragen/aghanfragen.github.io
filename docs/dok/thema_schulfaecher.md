@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
@@ -178,6 +178,11 @@ Schlagworte: Gebärdensprache, Gehörloser, Schulen, Schulfach
 Themen: [Inklusion](thema_inklusion.md), [Schulfächer](thema_schulfaecher.md), [Schulfächer:Gebärdensprache](thema_schulfaecher_gebaerdensprache.md)
 
 ## Politische Bildung
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
+19/20717 - [Lenz, Stephan (CDU)](autor_lenz_stephan_cdu.md) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Vielfalt](thema_vielfalt.md)
+
 **[Wozu braucht es eine Stabsstelle für politische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20486.pdf)**
 19/20486 - [Brychcy, Frankziska (Die Linke)](autor_brychcy_frankziska_die_linke.md) - 16.10.2024
 Schlagworte: Bildung, Bildungspolitik, Personalkosten, Personalplanung, Politische Bildung, Zuständigkeit (Verwaltung)

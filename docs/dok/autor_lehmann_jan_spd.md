@@ -1,6 +1,6 @@
 # Anfragen von Lehmann, Jan (SPD)
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 ## Oktober 2023
 **[Bau von zwei Sporthallen in Wilhelmsruh und Rosenthal / Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16954.pdf)**

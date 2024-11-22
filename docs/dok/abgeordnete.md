@@ -1,6 +1,6 @@
 # Abgeordnete
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 [Altuǧ, Dr. Turgut (Grüne)](autor_altug_dr_turgut_gruene.md)
 [Auricht, Jeannette (AfD)](autor_auricht_jeannette_afd.md)
@@ -62,6 +62,7 @@ Stand: 20.11.2024 22:02
 [Lasić, Dr. Maja (SPD)](autor_lasic_dr_maja_spd.md)
 [Lederer, Dr. Klaus (Die Linke)](autor_lederer_dr_klaus_die_linke.md)
 [Lehmann, Jan (SPD)](autor_lehmann_jan_spd.md)
+[Lenz, Stephan (CDU)](autor_lenz_stephan_cdu.md)
 [Liebe, Dirk (SPD)](autor_liebe_dirk_spd.md)
 [Lindemann, Gunnar (AfD)](autor_lindemann_gunnar_afd.md)
 [Lüdke, Tamara (SPD)](autor_luedke_tamara_spd.md)

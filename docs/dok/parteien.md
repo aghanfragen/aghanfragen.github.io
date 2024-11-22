@@ -1,6 +1,6 @@
 # Parteien
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 [AfD](fraktion_afd.md)
 [CDU](fraktion_cdu.md)

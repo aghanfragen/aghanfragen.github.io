@@ -1,6 +1,6 @@
 # Anfragen von Krüger, Louis (Grüne)
 
-Stand: 20.11.2024 22:02
+Stand: 21.11.2024 22:02
 
 ## Oktober 2024
 **[Nachgefragt: Klassengrößen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20568.pdf)**
