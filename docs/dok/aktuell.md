@@ -47,13 +47,3 @@ Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Schü
 [Lasić, Dr. Maja](autor_lasic_dr_maja_spd.md) ([SPD](fraktion_spd.md)) - 30.10.2024
 Themen: [Bezirke](thema_bezirke.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
-## Oct 23, 2024
-**[Nachgefragt: Klassengrößen an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20568.pdf)**
-Siehe auch Drucksache 19/17141
-[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 23.10.2024
-Themen: [Sonstige](thema_sonstige.md)
-
-**[Arbeitszeiterfassung: Wie viel arbeiten Lehrkräfte wirklich?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20569.pdf)**
-[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 23.10.2024
-Themen: [Personal](thema_personal.md)
-
