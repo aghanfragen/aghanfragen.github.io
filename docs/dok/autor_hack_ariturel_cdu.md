@@ -1,6 +1,6 @@
 # Anfragen von Hack, Ariturel (CDU)
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## Juni 2024
 **[Wie werden Berlins Schüler auf das Leben nach der Schule vorbereitet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19374.pdf)**

@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -1083,6 +1083,11 @@ Schlagworte: Bezirk, Gewalt, Grundschule, Innere Sicherheit, Jugendarbeit, Kinde
 Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Sozialklima](thema_sozialklima.md)
 
 ## Bildung
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
@@ -4080,6 +4085,11 @@ Schlagworte: Berufsbildende Schule, Hochschule, Humboldt-Universität, Lehramtsa
 Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## Ideologien
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
@@ -4769,6 +4779,11 @@ Schlagworte: Gewalt, Innere Sicherheit, Jugendgericht, Kinder- und Jugendhilfe, 
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md)
 
 ## Jugendlicher
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Aktueller Stand des Maßnahmenpakets zur Prävention von Jugendgewalt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20520.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.10.2024
 Schlagworte: Gewalt, Innere Sicherheit, Jugendlicher, Öffentlicher Haushalt
@@ -8051,6 +8066,11 @@ Schlagworte: Allgemeinbildende Schulen, Lernmittelfreiheit, Schüler
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Linksextremismus
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
@@ -9127,6 +9147,11 @@ Schlagworte: Begabtenförderung, Bildung, Bildungsfinanzierung, Bildungspolitik,
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## Publikation
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Eckpunktepapier zur Reform des Unterhaltsrechts](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18004.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 05.02.2024
 Schlagworte: Familie, Familienrecht, Lebensgemeinschaften, Publikation
@@ -9282,6 +9307,11 @@ Schlagworte: Lehr- und Lernmittel, Rechtschreibung, Schule, Schulen
 Themen: [Medien](thema_medien.md)
 
 ## Rechtsextremismus
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Schlagworte: Antisemitismus, Bildung, Ideologien, Islamismus, Linksextremismus, Politische Bildung, Rechtsextremismus, Veranstaltung
@@ -15463,6 +15493,12 @@ Transportmittel und -möglichkeiten für Schüler und Schülerinnen die Insel Sc
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 19.10.2022
 Schlagworte: Allgemeinbildende Schulen, Gymnasium, Personenbeförderung, Reinickendorf, Wasserfahrzeug, Öffentlicher Personennahverkehr, Öffentlicher Personenverkehr
 Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+## Website
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
 
 ## Wettbewerb
 **[Natur- und Umweltbildung: Wettbewerbe und Preise](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16409.pdf)**

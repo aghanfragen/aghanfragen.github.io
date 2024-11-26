@@ -1,6 +1,6 @@
 # Anfragen von Brinker, Dr. Kristin (AfD)
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## Mai 2023
 **[Vorträge von Externen in Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15322.pdf)**

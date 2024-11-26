@@ -1,6 +1,6 @@
 # Bezirk Pankow
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## März 2024
 **[Pankower Schuldrehscheiben – Lessons learned und wie gehtʹs weiter?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18416.pdf)**

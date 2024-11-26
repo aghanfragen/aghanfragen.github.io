@@ -1,6 +1,6 @@
 # Anfragen von Schedlich, Klara (Grüne)
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## November 2024
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**

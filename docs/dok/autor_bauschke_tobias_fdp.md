@@ -1,6 +1,6 @@
 # Anfragen von Bauschke, Tobias (FDP)
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## November 2022
 **[Lehrerverbeamtung und Folgekosten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13639.pdf)**

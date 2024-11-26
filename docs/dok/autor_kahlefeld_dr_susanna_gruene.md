@@ -1,6 +1,6 @@
 # Anfragen von Kahlefeld, Dr. Susanna (Grüne)
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 ## November 2023
 **[Wie wird das Erwachsenenbildungsgesetz an den Berliner Volkshochschulen umgesetzt? (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17089.pdf)**

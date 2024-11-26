@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 22.11.2024 22:02
+Stand: 25.11.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
@@ -145,6 +145,10 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 Themen: [Inklusion](thema_inklusion.md), [Schulfächer](thema_schulfaecher.md), [Schulfächer:Gebärdensprache](thema_schulfaecher_gebaerdensprache.md)
 
 ## Politische Bildung
+**[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
+[Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
+Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20717.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Vielfalt](thema_vielfalt.md)
