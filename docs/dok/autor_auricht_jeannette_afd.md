@@ -1,6 +1,6 @@
 # Anfragen von Auricht, Jeannette (AfD)
 
-Stand: 25.11.2024 22:02
+Stand: 26.11.2024 22:02
 
 ## Januar 2022
 **[Wer ist hier der Boss?  - Herrscht im Kita-Eigenbetrieb „Kindergärten City” Gute Arbeit vor, die Grundrechte der Arbeitnehmer schützt oder stimmen Berichte der sozialistischen Tageszeitung nd über Bossing in der Geschäftsstelle?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10577.pdf)**

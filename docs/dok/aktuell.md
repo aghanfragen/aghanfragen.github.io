@@ -1,6 +1,6 @@
 # Aktuelle Dokumente
 
-Stand: 25.11.2024 22:02
+Stand: 26.11.2024 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
 

@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 25.11.2024 22:02
+Stand: 26.11.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -2580,6 +2580,10 @@ Schlagworte: Allgemeinbildende Schulen, Fahrrad, Grundschule, Oberschule, Radver
 Themen: [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Familie
+**[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
+Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
+
 **[Vaterlose Familien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18768.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 15.04.2024
 Schlagworte: Familie, Lebensgemeinschaften, Mutter, Statistik, Vater
@@ -5166,6 +5170,10 @@ Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), COVID-19,
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Kinder, Jugendliche
+**[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
+Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
+
 **[Entwicklung von Inobhutnahmen in den Jahren 2017 bis 2023 - Drucksache 19/20391 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20563.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 24.10.2024
 Schlagworte: Asylbewerber, Bezirk (Gebietskörperschaft), Flüchtling, Gewalt, Häusliche Gewalt, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Staatsbürgerschaft, Statistik, Straftat
@@ -6974,6 +6982,10 @@ Schlagworte: Bezirk (Gebietskörperschaft), Inklusion, Innere Sicherheit, Jugend
 Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 ## Kinder und Jugendliche
+**[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
+Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
+
 **[Entwicklung von Inobhutnahmen in den Jahren 2017 bis 2023 - Drucksache 19/20391 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20563.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 24.10.2024
 Schlagworte: Asylbewerber, Bezirk (Gebietskörperschaft), Flüchtling, Gewalt, Häusliche Gewalt, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Staatsbürgerschaft, Statistik, Straftat
@@ -7781,6 +7793,10 @@ Schlagworte: Bausanierung, Frühkindliche Bildung, Lärmschutz, Statistik, Städ
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
 ## Lebensgemeinschaften
+**[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
+Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
+
 **[Erstellung der bezirklichen Familienförderpläne](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20395.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Lebensgemeinschaften, Öffentlicher Haushalt
@@ -9363,6 +9379,10 @@ Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juris
 Themen: [Personal](thema_personal.md)
 
 ## Rechtsvorschrift
+**[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
+Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
+
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.11.2024

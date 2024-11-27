@@ -1,6 +1,6 @@
 # Anfragen von Wolf, Christian (FDP)
 
-Stand: 25.11.2024 22:02
+Stand: 26.11.2024 22:02
 
 ## März 2023
 **[Teilnahme am Religions- und Weltanschauungsunterricht an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14938.pdf)**
