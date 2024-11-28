@@ -1,6 +1,6 @@
 # Thema: Schülerinnen und Schüler
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 Zugeordnete Schlagworte: Schülerinnen und Schüler, Schüler, Schulpflicht
 

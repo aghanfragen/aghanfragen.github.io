@@ -1,6 +1,6 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 **[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024

@@ -1,8 +1,16 @@
 # Anfragen von Grüne
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 ## November 2024
+**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
+
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.11.2024

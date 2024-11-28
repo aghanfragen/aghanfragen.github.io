@@ -1,6 +1,6 @@
 # Thema: Personal
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 Zugeordnete Schlagworte: Personal, Abordnung, Angestellter, Arbeitsbedingungen, Arbeitsentgelt, Arbeitszeit, Arbeitsschutz, Beamtenrecht, Beamtenversorgung, Beamter, Berufliche Weiterbildung, Besoldung, Erzieher, Fachkraft, Honorar, Laufbahnrecht, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Mehrarbeit, Öffentlicher Dienst, Pädagoge, Personalkosten, Personalplanung, Personalwesen, Quereinsteiger, Schulleiter, Schulpersonal, Sozialberuf, Studienfach, Studium, Teilzeitarbeit, Unterrichtsausfall an Schulen, Vergütung, Weiterbildung
 

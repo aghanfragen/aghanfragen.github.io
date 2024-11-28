@@ -1,6 +1,6 @@
 # Anfragen von Die Linke
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 ## November 2024
 **[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**

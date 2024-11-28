@@ -1,10 +1,14 @@
 # Thema: Schulfächer
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
 ## 
+**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
+
 **[Genehmigung von Schüler\*innenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20301.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 02.10.2024
 Themen: [Schulfächer](thema_schulfaecher.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)

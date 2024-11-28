@@ -1,8 +1,13 @@
 # Thema: Bezirke
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 Zugeordnete Schlagworte: Bezirke, Bezirk (Gebietskörperschaft), Charlottenburg-Wilmersdorf, Mitte, Friedrichshain-Kreuzberg, Pankow, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg, Reinickendorf
+
+## November 2024
+**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Oktober 2024
 **[Sonderbeschulung von Geflüchteten - ein Ende in Sicht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20595.pdf)**

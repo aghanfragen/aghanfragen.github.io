@@ -1,6 +1,11 @@
 # Anfragen von AfD
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
+
+## November 2024
+**[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**
+[Brinker, Dr. Kristin](autor_brinker_dr_kristin_afd.md) ([AfD](fraktion_afd.md)) - 19.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 
 ## Oktober 2024
 **[Lärmschutz in Kindertageseinrichtungen - Drucksache 19/20218 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20457.pdf)**

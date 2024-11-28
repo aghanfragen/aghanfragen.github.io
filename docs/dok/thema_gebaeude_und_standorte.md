@@ -1,8 +1,13 @@
 # Thema: Gebäude und Standorte
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 Zugeordnete Schlagworte: Gebäude und Standorte, Architekt, Asbest, Baufinanzierung, Baugenehmigung, Bauordnungsrecht, Bauplanung, Bausanierung, Bauwesen, Bebauungsplan, Bibliothek, Brandschutz, Energie, Energiepreis, Energieverbrauch, Erbbaurecht, Gebäude, Gehweg, Grünfläche, Grundstück, Infrastruktur, Internet, Liegenschaftsverwaltung, Neubau, Planfeststellung, Sanitäranlage, Schadstoff, Schulausstattung, Schulbau, Schulgebäude, Schulgeld, Schulhof, Schulweg, Sporthalle, Sportplatz, Sportstättenbau, Städtebau, Verkehrsplanung
+
+## November 2024
+**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Oktober 2024
 **[Untergraben private Schließfächer an Schulen die gebührenfreie Schule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20572.pdf)**

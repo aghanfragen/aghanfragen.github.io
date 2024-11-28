@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 26.11.2024 22:02
+Stand: 27.11.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -7626,6 +7626,11 @@ Schlagworte: Darstellende Kunst, Kosten, Kunst- und Musikhochschulen, Kündigung
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Darstellende Kunst](thema_schulfaecher_darstellende_kunst.md)
 
 ## Kunst, Kultur
+**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Kunst, Kultur, Schulausstattung, Schule, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Sicherung der Jugendkunstschule „Atrium” in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15887.pdf)**
 [Meyer, Sven](autor_meyer_sven_spd.md) ([SPD](fraktion_spd.md)) - 07.07.2023
 Schlagworte: Bildende Kunst, Jugendbildung, Kinder, Jugendliche, Kunst, Kultur, Musik, Personalplanung, Reinickendorf, Statistik, Unterricht, Öffentlicher Haushalt
@@ -9477,6 +9482,16 @@ Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juris
 Themen: [Personal](thema_personal.md)
 
 ## Schule
+**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Kunst, Kultur, Schulausstattung, Schule, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Schlagworte: Lehrplan, Schule, Schulen, Schulfahrt, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
+
 **[Verzögerungen bei der Sanierung und dem Ausbau der Hans-Grade-Schule in Johannisthal](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20668.pdf)**
 [Düsterhöft, Lars](autor_duesterhoeft_lars_spd.md) ([SPD](fraktion_spd.md)) - 07.11.2024
 Schlagworte: Baugenehmigung, Bauplanung, Bauwesen, Kosten, Schulbau, Schule, Schulen, Treptow-Köpenick
@@ -10822,6 +10837,16 @@ Schlagworte: Hochschule, Hochschulwesen, Lehrer, Rettungswesen, Schule, Schulen,
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Schulen
+**[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**
+[Brinker, Dr. Kristin](autor_brinker_dr_kristin_afd.md) ([AfD](fraktion_afd.md)) - 19.11.2024
+Schlagworte: Kosten, Schulen, Öffentliche Mittel, Öffentlicher Haushalt
+Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
+
+**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Schlagworte: Lehrplan, Schule, Schulen, Schulfahrt, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
+
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.11.2024
@@ -13056,6 +13081,11 @@ Schlagworte: Allgemeinbildende Schulen, Demonstration, Lehrer, Ordnungsrecht, Sc
 Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Schulfahrt
+**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
+Schlagworte: Lehrplan, Schule, Schulen, Schulfahrt, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
+
 **[Kostenübernahmen von Klassenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13600.pdf)**
 [Bauschke, Tobias](autor_bauschke_tobias_fdp.md) ([FDP](fraktion_fdp.md)) - 02.11.2022
 Schlagworte: Allgemeinbildende Schulen, Familie, Kosten, Schulfahrt, Schüler, Sozialleistung, Sozialleistungen
