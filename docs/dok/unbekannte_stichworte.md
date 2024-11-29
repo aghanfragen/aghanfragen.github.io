@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 27.11.2024 22:02
+Stand: 28.11.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -4156,6 +4156,10 @@ Schlagworte: Arbeitnehmer, Arbeitsentgelt, Erwachsenenbildung, Finanzierung, Fre
 Themen: [Erwachsenenbildung](thema_erwachsenenbildung.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
 ## Information
+**[Wie weit sind die Planungen zu den Aufwertungsmaßnahmen einer Ersatzfläche im Rosenfelder Ring? Werden die eingestellten Finanzmittel durch das Bezirksamt zielgerichtet eingesetzt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20765.pdf)**
+[Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 21.11.2024
+Schlagworte: Bauplanung, Bebauungsplan, Information, Landesbetrieb, Lichtenberg, Städtebau, Wohnungsbaugesellschaft, Öffentlicher Haushalt
+
 **[Sekteninfo Berlins: Ausstattung und Themen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19820.pdf)**
 [Kahlefeld, Dr. Susanna](autor_kahlefeld_dr_susanna_gruene.md) ([Grüne](fraktion_gruene.md)) - 08.08.2024
 Schlagworte: Beratung, Ideologien, Information, Personalplanung, Religionsgemeinschaften, Statistik
@@ -6284,6 +6288,11 @@ Schlagworte: Gewaltprävention, Kinder, Jugendliche, Kindertagesstätte, Sexuell
 Themen: [Bezirk Spandau](bezirk_spandau.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Sozialklima](thema_sozialklima.md)
 
 ## Kinderschutz
+**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Kinderschutz, Reinickendorf, Schule, Schulen, Schulklasse, Schüler, Sprache, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Entwicklung von Inobhutnahmen in den Jahren 2017 bis 2023 - Drucksache 19/20391 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20563.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 24.10.2024
 Schlagworte: Asylbewerber, Bezirk (Gebietskörperschaft), Flüchtling, Gewalt, Häusliche Gewalt, Innere Sicherheit, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Kinderschutz, Staatsbürgerschaft, Statistik, Straftat
@@ -6982,6 +6991,11 @@ Schlagworte: Bezirk (Gebietskörperschaft), Inklusion, Innere Sicherheit, Jugend
 Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 ## Kinder und Jugendliche
+**[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Flüchtlingsunterbringung, Kinder und Jugendliche, Reinickendorf, Schule, Schulen, Schulpflicht, Schüler, Tempelhof-Schöneberg
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
 **[Gibt es nicht nur in NRW ein Geschäftsmodell Pflegefamilie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20807.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.11.2024
 Schlagworte: Familie, Flüchtling, Kinder und Jugendliche, Kinder, Jugendliche, Lebensgemeinschaften, Rechtsvorschrift
@@ -9482,6 +9496,26 @@ Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juris
 Themen: [Personal](thema_personal.md)
 
 ## Schule
+**[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Lehrer, Personalplanung, Schule, Schulen, Schulklasse, Schüler, Sprache, Unterricht
+Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Flüchtlingsunterbringung, Kinder und Jugendliche, Reinickendorf, Schule, Schulen, Schulpflicht, Schüler, Tempelhof-Schöneberg
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Kinderschutz, Reinickendorf, Schule, Schulen, Schulklasse, Schüler, Sprache, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.11.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Marzahn-Hellersdorf, Schule, Schulen, Schüler, Statistik
+Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Kunst, Kultur, Schulausstattung, Schule, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -10837,6 +10871,26 @@ Schlagworte: Hochschule, Hochschulwesen, Lehrer, Rettungswesen, Schule, Schulen,
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Schulen
+**[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Lehrer, Personalplanung, Schule, Schulen, Schulklasse, Schüler, Sprache, Unterricht
+Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Flüchtlingsunterbringung, Kinder und Jugendliche, Reinickendorf, Schule, Schulen, Schulpflicht, Schüler, Tempelhof-Schöneberg
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Kinderschutz, Reinickendorf, Schule, Schulen, Schulklasse, Schüler, Sprache, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.11.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Marzahn-Hellersdorf, Schule, Schulen, Schüler, Statistik
+Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**
 [Brinker, Dr. Kristin](autor_brinker_dr_kristin_afd.md) ([AfD](fraktion_afd.md)) - 19.11.2024
 Schlagworte: Kosten, Schulen, Öffentliche Mittel, Öffentlicher Haushalt
@@ -13167,6 +13221,16 @@ Schlagworte: Ausländer, Migranten, Flüchtling, Osteuropa, Schulen, Schulische 
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
 ## Schulklasse
+**[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Lehrer, Personalplanung, Schule, Schulen, Schulklasse, Schüler, Sprache, Unterricht
+Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Kinderschutz, Reinickendorf, Schule, Schulen, Schulklasse, Schüler, Sprache, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19829.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 12.08.2024
 Schlagworte: Allgemeinbildende Schulen, Gemeinschaftsschule, Schulklasse, Schüler, Statistik, Verwaltungsverfahren
@@ -14822,6 +14886,16 @@ Schlagworte: Allgemeinbildende Schulen, Bildungsfinanzierung, Lehrmethode, Unter
 Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Unterricht
+**[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Lehrer, Personalplanung, Schule, Schulen, Schulklasse, Schüler, Sprache, Unterricht
+Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
+Schlagworte: Ausländer, Migranten, Ausländerintegration, Flüchtling, Flüchtlingsunterbringung, Kinderschutz, Reinickendorf, Schule, Schulen, Schulklasse, Schüler, Sprache, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Aktuelle Situation und Aufgabenprofil der Pädagogischen Unterrichtshilfen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20373.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 04.10.2024
 Schlagworte: Berufliche Qualifikation, Erzieher, Lehrer, Lohn- und Gehaltstarif, Personalplanung, Schulen, Statistik, Unterricht
@@ -15623,6 +15697,10 @@ Schlagworte: Schulbau, Städtebau, Wohnungsbau
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## Wohnungsbaugesellschaft
+**[Wie weit sind die Planungen zu den Aufwertungsmaßnahmen einer Ersatzfläche im Rosenfelder Ring? Werden die eingestellten Finanzmittel durch das Bezirksamt zielgerichtet eingesetzt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20765.pdf)**
+[Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 21.11.2024
+Schlagworte: Bauplanung, Bebauungsplan, Information, Landesbetrieb, Lichtenberg, Städtebau, Wohnungsbaugesellschaft, Öffentlicher Haushalt
+
 **[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**
 [Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 07.11.2024
 Schlagworte: Landesbetrieb, Lehrer, Marzahn-Hellersdorf, Wohnungsbaugesellschaft, Wohnungspolitik, Wohnungswesen

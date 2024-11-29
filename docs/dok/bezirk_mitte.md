@@ -1,6 +1,6 @@
 # Bezirk Mitte
 
-Stand: 27.11.2024 22:02
+Stand: 28.11.2024 22:02
 
 ## Februar 2024
 **[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Mitte ausgefallen? (Teil 6)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18237.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Hopp, Marcel (SPD)
 
-Stand: 27.11.2024 22:02
+Stand: 28.11.2024 22:02
 
 ## März 2024
 **[Quo vadis Erstsprachenunterricht als Hauptsäule der Mehrsprachigkeit in der Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18345.pdf)**
