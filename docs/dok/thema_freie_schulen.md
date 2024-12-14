@@ -1,8 +1,17 @@
 # Thema: Freie Schulen
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Freie Schulen, Privatschulen, Freier Träger
+
+## November 2024
+**[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Freie Schulen](thema_freie_schulen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md)
+
+**[Mittelabfluss der Präventionsmittel gegen Antisemitismus und Rassismus](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20789.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md)
 
 ## Oktober 2024
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Str. 51-52 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20497.pdf)**
@@ -17,6 +26,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schul
 **[Nachfragen zur Drucksache 19/19827 "Beförderung von Schüler\*innen mit Beeinträchtigungen"](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20213.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.09.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Sachstand zum geplanten Kita-Neubau in der Harzer Straße 51-52](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20272.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 19.09.2024
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 **[Nachfrage zur Drucksache 19/18587 - Kita-Zuzahlungen: Konsequenzen aus dem Urteil des Bundesverwaltungsgerichts](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20220.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.09.2024
@@ -74,9 +87,18 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 Themen: [Bezirke](thema_bezirke.md), [Freie Schulen](thema_freie_schulen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## Februar 2023
+**[Freie Schule Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14803.pdf)**
+[Franco, Vasili](autor_franco_vasili_gruene.md) ([Grüne](fraktion_gruene.md)) - 23.02.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
 **[Kitalandschaft in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14693.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 08.02.2023
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+## Januar 2023
+**[Eröffnung der „Freien Kita Marzahn”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14472.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 23.01.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
 ## Dezember 2022
 **[Zugang zu Fort- und Weiterbildung für Berliner Lehrkräfte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14235.pdf)**
@@ -86,6 +108,11 @@ Themen: [Erwachsenenbildung](thema_erwachsenenbildung.md), [Freie Schulen](thema
 **[Entlastung der Kita-Träger bei Energiekosten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13931.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 02.12.2022
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
+
+## Oktober 2022
+**[Freigeist Schule in Berlin-Mahlsdorf (ehemals Freie Schule am Elsengrund)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13264.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.10.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
 ## September 2022
 **[Inklusion und BuT-Förderung an Freien Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13069.pdf)**

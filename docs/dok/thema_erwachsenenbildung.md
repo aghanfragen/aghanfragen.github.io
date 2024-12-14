@@ -1,8 +1,13 @@
 # Thema: Erwachsenenbildung
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Erwachsenenbildung
+
+## November 2024
+**[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
 ## Juli 2024
 **[IGSV 2023: Bildung, Jugend und Familie](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19644.pdf)**
@@ -67,4 +72,9 @@ Themen: [Erwachsenenbildung](thema_erwachsenenbildung.md), [Finanzen](thema_fina
 **[Berufsbegleitende Ausbildung von Flüchtlingen zu Erziehern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13289.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 05.10.2022
 Themen: [Berufsbildung](thema_berufsbildung.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
+
+## Januar 2022
+**[Bleibt der Ofen künftig aus? – Kein Herz für Keramikkunst an der Volkshochschule Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10458.pdf)**
+[Förster, Stefan](autor_foerster_stefan_fdp.md) ([FDP](fraktion_fdp.md)) - 19.01.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md)
 

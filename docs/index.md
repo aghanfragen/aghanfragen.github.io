@@ -5,16 +5,19 @@ Antworten der letzten 24 Monate auf schriftliche Anfragen der Abgeordneten aller
 Die Verweise auf die Dokumente sind nach umgekehrt chronologisch (neueste zuerst) angeordnet und nach verschiedenen Kriterien gegliedert:
 
 * [**Aktuelle** Dokumente](dok/aktuell.md)
-* [**Themenbereiche**, denen die Dokumente zugeordnet werden können<sup>1</sup>](dok/themen.md)
-* [**Fraktionen**, deren Abgeordnete die Fragen gestellt haben](dok/parteien.md)
-* [**Abgeordnete**, die die Fragen gestellt haben](dok/abgeordnete.md)
-* [**Stadtbezirke**, denen die Dokumente zugeordnet werden können](dok/bezirke.md)
+* [**Themenbereiche**, denen die Dokumente zugeordnet werden können*](dok/themen.md)
+* [**Fraktionen und Abgeordnete**, von denen die Fragen kommen](dok/abgeordnete.md)
+* [**Stadtbezirke**, denen die Dokumente zugeordnet werden können*](dok/bezirke.md)
 
-Informationen zu Implementierung siehe [Info](info.md) 
+Informationen zu Implementierung siehe [Info](info.md).
 
 ----
 
-<sup>1</sup>) Die Zuordnung der Dokumente zu Themenbereichen ist experimentell und lückenhaft. Sie ist Gegenstand laufender Justierung.
+*) Die Zuordnung der Dokumente zu Themenbereichen und Bezirken beruht auf der Verschlagwortung durch die Abgeordnetenhaus-Verwaltung. Sie ist lückenhaft und bedarf laufender Justierung.
+
+----
+
+<sup>[Intern](intern.md)</sup>
 
 
 

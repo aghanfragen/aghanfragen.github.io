@@ -1,6 +1,6 @@
 # Thema: Frühkindliche Bildung
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Frühkindliche Bildung, Einschulung, Kinderbetreuung, Kindertagespflege, Kindertagesstätte
 
@@ -42,6 +42,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 [Freier-Winterwerb, Alexander](autor_freier-winterwerb_alexander_spd.md) ([SPD](fraktion_spd.md)) - 23.09.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
+**[Sachstand zum geplanten Kita-Neubau in der Harzer Straße 51-52](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20272.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 19.09.2024
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Bauliche Maßnahmen für den Lärmschutz in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20218.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 19.09.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
@@ -64,6 +68,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](th
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
 ## Juli 2024
+**[Bauarbeiten an der Kultschule in Friedrichsfelde transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19557.pdf)**
+[Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 11.07.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Lässt der Senat unsere Kitas sanieren oder wann fällt den Kindern die Decke auf den Kopf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19540.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 11.07.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
@@ -72,6 +80,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 **[Verdrängung und Rettung von Kitaplätzen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19410.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 26.06.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
+
+**[Schleizer Straße: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18868.pdf)**
+[Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 07.06.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 **[Wirkungskreis und Handlungsvorhaben der Kitaaufsicht](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19190.pdf)**
 [Freier-Winterwerb, Alexander](autor_freier-winterwerb_alexander_spd.md) ([SPD](fraktion_spd.md)) - 04.06.2024
@@ -89,6 +101,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Freie Schulen](thema_freie_sch
 **[Wie steht es um den Kinderschutz bei Kindern mit Behinderung und Pflegebedürftigkeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18958.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 14.05.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
+
+**[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
+[Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 08.05.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
 ## April 2024
 **[Ausbau der Kitaplätze im Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18770.pdf)**
@@ -129,6 +145,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit u
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 14.03.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
+**[Kita-Plätze in Marzahn-Hellersdorf (Teil 5)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18303.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 05.03.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
 **[Bilinguale Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18337.pdf)**
 [Eralp, Elif](autor_eralp_elif_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 05.03.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Statistik](thema_statistik.md)
@@ -145,6 +165,18 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 **[Auskömmliche ergänzende Kinderbetreuung garantieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18253.pdf)**
 [Schmidt, Ines](autor_schmidt_ines_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.02.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+**[Aktueller Stand Ahornstraße 15 in Steglitz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18249.pdf)**
+[Wojahn, Tonka](autor_wojahn_tonka_gruene.md) ([Grüne](fraktion_gruene.md)) - 24.02.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
+
+**[Entwicklung von Kita-Plätzen in der Nordost-Region des Bezirks Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18182.pdf)**
+[Buchner, Dennis](autor_buchner_dennis_spd.md) ([SPD](fraktion_spd.md)) - 20.02.2024
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
+
+**[Umzug der Kita "Kleine Fische - ganz groß”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17927.pdf)**
+[Freier-Winterwerb, Alexander](autor_freier-winterwerb_alexander_spd.md) ([SPD](fraktion_spd.md)) - 02.02.2024
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Verwaltung](thema_verwaltung.md)
 
 ## Januar 2024
 **[Ganztag (Teil 1). Antragsverfahren sonderpädagogischer Förder- und Betreuungsbedarf: Förderbedarfe und personelle Nachsteuerung in der ergänzenden Förderung und Betreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17712.pdf)**
@@ -178,6 +210,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
 ## Oktober 2023
+**[Betreuungsschlüssel bzw. Fachkraft-Kind-Relation in der Kita McNair](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16863.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 13.10.2023
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2022 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16857.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.10.2023
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
@@ -200,6 +236,15 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 **[Missstände in Kitas – überarbeitete Broschüre zum Institutionellen Kinderschutz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16645.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 20.09.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
+
+**[Chaos zum Schulstart – verlängerte Ferien für die Wolkenstein Grundschule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16604.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.09.2023
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Gibt es in der Kita Waschbär in Rummelsburg Räume für Doktorspiele, die auf Gedanken [...] Kentlers und [...] Uwe Sielert beruhen, also einer angeblich „modernen Sexualpädagogik”, die Kinder möglichst früh zu sexuell lustvollen Erfahrungen anregen soll?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16578.pdf)**
+Die Veröffentlichung der Schriftlichen Anfrage erfolgt aus rechtlichen Gründen nicht im vollen Wortlaut.
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 15.09.2023
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
 **[Mittel gegen Jugendgewalt: Kita-Sozialarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16497.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 07.09.2023
@@ -227,6 +272,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
 
 ## August 2023
+**[Kitaplätze in Marzahn Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16383.pdf)**
+[Lindemann, Gunnar](autor_lindemann_gunnar_afd.md) ([AfD](fraktion_afd.md)) - 24.08.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
 **[Schul- und Kitaplätze in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16288.pdf)**
 [Lindemann, Gunnar](autor_lindemann_gunnar_afd.md) ([AfD](fraktion_afd.md)) - 17.08.2023
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
@@ -254,9 +303,18 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.07.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Schüler in Treptow-Köpenick ohne Deutsch als Erstsprache bei Einschulungsbeginn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16049.pdf)**
+Hier auch Anzahl der Schülerinnen und Schüler ohne Schulabschluss
+[Bertram, Alexander](autor_bertram_alexander_afd.md) ([AfD](fraktion_afd.md)) - 19.07.2023
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Weshalb baut Berlin keine weiteren Kitas in modularer nachhaltiger Holzbauweise?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15969.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 11.07.2023
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
+
+**[(K)eine Zukunft für die Kita Kleine Fische in der Schmöckwitzer Insel-Schule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15940.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 07.07.2023
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## Juni 2023
 **[Spracherwerb von Kindern im Elternhaus und in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15826.pdf)**
@@ -267,10 +325,18 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.06.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md)
 
+**[Die Kita Nannyʹs Place in Lichterfelde](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15726.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 20.06.2023
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md)
+
 ## Mai 2023
 **[Anzahl der ausgebildeten Erzieher und Quereinsteiger in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15459.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 22.05.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Kitas der Schwulenberatung am Lebensort Vielfalt am Südkreuz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15444.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 22.05.2023
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Vielfalt](thema_vielfalt.md)
 
 **[Rosenheimer Modell – faire und zeitgemäße Verteilung der Betreuung und der Kosten in Trennungsfamilien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15458.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 16.05.2023
@@ -334,6 +400,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](t
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 16.03.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
+**[Kita-Plätze in Marzahn-Hellersdorf (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14894.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 02.03.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
 **[Mehrsprachige KiTas in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14849.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 01.03.2023
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
@@ -372,9 +442,21 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 23.01.2023
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
+**[Kitaplatzversorgung in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14473.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 23.01.2023
+Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
+
+**[Eröffnung der „Freien Kita Marzahn”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14472.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 23.01.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
+
 **[Kita-Navigator](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14422.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 23.01.2023
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Statistik](thema_statistik.md)
+
+**[Bauprojekt Marchlewskistrasse 40 in Friedrichshain](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14435.pdf)**
+[Valgolio, Damiano](autor_valgolio_damiano_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 19.01.2023
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
 **[Mehr Musik für alle?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14421.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 19.01.2023
@@ -385,9 +467,17 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 28.12.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
 
+**[Gartenarbeitsschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14135.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 14.12.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Personalmangel in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14121.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 14.12.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md)
+
+**[Kita-Plätze in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13987.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 06.12.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
 **[Personalausstattung in den Kindergärten - Theorie und rot-grün-rote Praxis](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13967.pdf)**
 [Simon, Roman](autor_simon_roman_cdu.md) ([CDU](fraktion_cdu.md)) - 05.12.2022
@@ -476,6 +566,11 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](th
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 05.10.2022
 Themen: [Berufsbildung](thema_berufsbildung.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
 
+## September 2022
+**[Grundschuleinzugsgebiete in Marzahn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13041.pdf)**
+[Lindemann, Gunnar](autor_lindemann_gunnar_afd.md) ([AfD](fraktion_afd.md)) - 14.09.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## August 2022
 **[Begabtes Berlin (Teil 5) - Zukunftsperspektive](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12923.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 31.08.2022
@@ -496,6 +591,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [F
 **[Kita-Platz-Ausbau in Berlin: Wie hoch ist die Teilhabequote? Wie viele Plätzehat der Senat bereits bewilligt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12885.pdf)**
 [Simon, Roman](autor_simon_roman_cdu.md) ([CDU](fraktion_cdu.md)) - 26.08.2022
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
+**[Kitaplätze in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12909.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 26.08.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Statistik](thema_statistik.md)
 
 **[Qualitätssicherung in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12886.pdf)**
 [Simon, Roman](autor_simon_roman_cdu.md) ([CDU](fraktion_cdu.md)) - 25.08.2022
@@ -592,6 +691,15 @@ Bedarfsplanung und Angebotsanpassung für unter Drei- und unter Sechsjährige
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 03.06.2022
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Kita- und Schulwegsicherheit in der Lessingstraße in Wilhelmsruh, Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11920.pdf)**
+Ausdehnung der Tempo-30-Beschilderung in der Lessingstraße Wilhelmsruh um 100 Meter
+[Hofer, Torsten](autor_hofer_torsten_spd.md) ([SPD](fraktion_spd.md)) - 03.06.2022
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Kitaplätze in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11862.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 02.06.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
 **[Geschwisterkinder in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11932.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 01.06.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md)
@@ -608,6 +716,14 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_
 **[Saubere Luft für Kinder und Personal – Luftfiltergeräte in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11815.pdf)**
 [Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 17.05.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md)
+
+**[Geplante soziale Infrastruktur in Tempelhof](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11710.pdf)**
+[Laatsch, Harald](autor_laatsch_harald_afd.md) ([AfD](fraktion_afd.md)) - 11.05.2022
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md)
+
+**[Geplante soziale Infrastruktur in Altglienicke](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11709.pdf)**
+[Laatsch, Harald](autor_laatsch_harald_afd.md) ([AfD](fraktion_afd.md)) - 11.05.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
 ## April 2022
 **[Was tut Rot-Grün-Rot, um die betriebliche Kindertagesbetreuung zu fördern?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11569.pdf)**
@@ -647,6 +763,10 @@ Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), 
 **[Gelungene Integration an Berlins Schulen für die Kinder aus der Ukraine](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11255.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 28.03.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Kitaplätze in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11109.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 14.03.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
 **[Kinder mit besonderen Bedarfen (Teil 1) - Stand Umsetzung - Status B+ Kita](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11045.pdf)**
 Bedarfe der Kinder mit Behinderung im frühkindlichen Bereich
@@ -742,6 +862,10 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 [Auricht, Jeannette](autor_auricht_jeannette_afd.md) ([AfD](fraktion_afd.md)) - 21.01.2022
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
+**[Schulplatzbedarf in Moabit und im Brüsseler Kiez](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10493.pdf)**
+[Kurt, Taylan](autor_kurt_taylan_gruene.md) ([Grüne](fraktion_gruene.md)) - 19.01.2022
+Themen: [Bezirk Mitte](bezirk_mitte.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Anmeldung Schülerinnen und Schüler an Grundschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10488.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 19.01.2022
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
@@ -762,6 +886,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit u
 **[Einschulungsuntersuchungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10250.pdf)**
 [Grasse, Adrian](autor_grasse_adrian_cdu.md) ([CDU](fraktion_cdu.md)) - 16.12.2021
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Kita-Plätze in Hohenschönhausen: Vereinbarkeit von Familie und Beruf fördern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10204.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 13.12.2021
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
 **[Ist der Pilot abgestürzt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10200.pdf)**
 Pilotprojekt zum Einsatz von sogenannten PCR-Pool-Lollotests an 30 Kitas nun auch an 24 Schulen. Ausstattung der Schulen mit mobilfunkbasierten WLAN-Routern
@@ -785,6 +913,14 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 **[Wer maskiert sich in Kindertageseinrichtungen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10122.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 30.11.2021
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
+
+**[Kindesmissbrauch in Spandauer Kita (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10118.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 30.11.2021
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Sozialklima](thema_sozialklima.md)
+
+**[Kindesmissbrauch in Spandauer Kita (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10117.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 25.11.2021
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Sozialklima](thema_sozialklima.md)
 
 **[Kostenbeteiligung der Eltern an der Verpflegung in Kindertageseinrichtungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10043.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 22.11.2021

@@ -2,7 +2,6 @@
 
 [Aktuell](dok/aktuell.md)
 [Themen](dok/themen.md)
-[Parteien](dok/parteien.md)
-[Abgeordnete](dok/abgeordnete.md)
+[Fraktionen und Abgeordnete](dok/abgeordnete.md)
 [Bezirke](dok/bezirke.md)
 [Info](info.md)

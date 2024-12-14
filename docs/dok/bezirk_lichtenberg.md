@@ -1,6 +1,11 @@
 # Bezirk Lichtenberg
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
+
+## November 2024
+**[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Freie Schulen](thema_freie_schulen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md)
 
 ## Oktober 2024
 **[Verzögerungen beim Schulneubau in Rummelsburg (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20635.pdf)**

@@ -1,6 +1,6 @@
 # Parteien und Abgeordnete
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 
 ## AfD

@@ -1,10 +1,14 @@
 # Thema: Vielfalt
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Vielfalt, Antisemitismus, Diskriminierung, Rassismus, Religion, Religionsgemeinschaften
 
 ## November 2024
+**[Mittelabfluss der Präventionsmittel gegen Antisemitismus und Rassismus](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20789.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)
@@ -96,6 +100,10 @@ Themen: [Vielfalt](thema_vielfalt.md)
 **[Woher kommen die Fachkräfte für ein Wahlpflichtfach Weltanschauungen/Religionen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15533.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 31.05.2023
 Themen: [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md), [Vielfalt](thema_vielfalt.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Kitas der Schwulenberatung am Lebensort Vielfalt am Südkreuz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15444.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 22.05.2023
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Vielfalt](thema_vielfalt.md)
 
 ## März 2023
 **[Nochmals zur Überparteilichkeit der Berliner Landeszentrale für politische Bildung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14966.pdf)**

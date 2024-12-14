@@ -1,8 +1,18 @@
 # Thema: Medien
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Medien, Landesinstitut für Schule und Medien Berlin-Brandenburg (LISUM), Lehr- und Lernmittel, Medienpädagogik
+
+## Dezember 2024
+**[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**
+[Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 04.12.2024
+Themen: [Medien](thema_medien.md)
+
+## November 2024
+**[Kürzungen in den Bezirken im Bildungsbereich](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20881.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 27.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Mobile Endgeräte für Schüler\*innen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19860.pdf)**
@@ -141,6 +151,10 @@ Themen: [Medien](thema_medien.md)
 Rahmenvereinbarung über die Finanzierung und Leistungssicherstellung der Tageseinrichtungen (RV Tag); Ausbau der digitalen Infrastruktur für die mittelbare und unmittelbare pädagogische Arbeit zur Förderung der kindlichen Entwicklung
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 28.01.2022
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Medien](thema_medien.md)
+
+**[Schule in der Köllnischen Heide: Schuldaten und Schulkonzept](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10430.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 03.01.2022
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integration](thema_integration.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Dezember 2021
 **[Wann wird die Schuldatenverordnung aktualisiert und die digitale Lehr- und Lernmittelverordnung erstellt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10151.pdf)**

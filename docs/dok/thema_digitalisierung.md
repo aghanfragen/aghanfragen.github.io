@@ -1,6 +1,6 @@
 # Thema: Digitalisierung
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Digitalisierung, Datenschutz, Elektronische Aktenführung, Hardware, Informations- und Kommunikationstechnologien, Informations- und Kommunikationstechnik, Informationssicherheit, Informationssystem, Internet, ITDZ Berlin, Software, WLAN
 
@@ -26,6 +26,10 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](th
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 08.08.2024
 Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Einschulung von Erstklässlern für das Schuljahr 2024/2025 in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19747.pdf)**
+[Schmidt, Stephan](autor_schmidt_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 01.08.2024
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## Juli 2024
 **[Mobile Endgeräte für Schülerinnen und Schüler an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19757.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 31.07.2024
@@ -42,6 +46,11 @@ Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md)
 **[Quo vadis, Schulessen und Lebensmittelverschwendung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19545.pdf)**
 [Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 11.07.2024
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+## Mai 2024
+**[Kita in der Paul-Koenig-Straße öffentlich machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18946.pdf)**
+[Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 08.05.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
 
 ## Februar 2024
 **[Jugendliche Intensivtäter als Gefahr für andere Jugendliche: Gewalt an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18007.pdf)**
@@ -192,6 +201,11 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](th
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 12.10.2022
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Medien](thema_medien.md), [Statistik](thema_statistik.md)
 
+## August 2022
+**[Schnelles Glasfasernetz für Schulen in Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12946.pdf)**
+[Wolff, Dunja](autor_wolff_dunja_spd.md) ([SPD](fraktion_spd.md)) - 30.08.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
+
 ## Juli 2022
 **[Endlich eine Whitelist für digitale Lehr- und Lernangebote](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12378.pdf)**
 Auflistung einer an Schulen in Betracht kommenden Auswahl an digitalen Lehr- und Lernmitteln für das Schulwesen.
@@ -199,6 +213,10 @@ Auflistung einer an Schulen in Betracht kommenden Auswahl an digitalen Lehr- und
 Themen: [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## Juni 2022
+**[Glasfaser- und Breitbandanschlüsse für Marzahn-Hellersdorfer Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12104.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.06.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Digitalisierung](thema_digitalisierung.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Verwaltungskosten des Bewerbungsprozesses für Lehramtsreferendare](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11878.pdf)**
 [Bauschke, Tobias](autor_bauschke_tobias_fdp.md) ([FDP](fraktion_fdp.md)) - 02.06.2022
 Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
@@ -227,9 +245,17 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Medien](thema_medien.md), 
 [Engelmann, Claudia](autor_engelmann_claudia_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 24.03.2022
 Themen: [Bezirke](thema_bezirke.md), [Digitalisierung](thema_digitalisierung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md)
 
+**[Breitbandausbau in Lichtenberger Schulen beschleunigen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11263.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 21.03.2022
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Leistungsdaten und Anwendungsfreundlichkeit der für Berliner Lehrkräfte beschafften digitalen Dienstgeräte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11230.pdf)**
 [Dietmann, Michael](autor_dietmann_michael_cdu.md) ([CDU](fraktion_cdu.md)) - 18.03.2022
 Themen: [Digitalisierung](thema_digitalisierung.md), [Personal](thema_personal.md)
+
+**[Hohenschönhausener Schulgipfel: Jetzt Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11134.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 17.03.2022
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Digitalisierung](thema_digitalisierung.md)
 
 **[Mehr Geld für gute Kitas!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11064.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 04.03.2022

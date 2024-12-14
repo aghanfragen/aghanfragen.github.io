@@ -1,10 +1,14 @@
 # Thema: Berufsbildung
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Berufsbildung, Arbeitsmarkt, Arbeitsplatz, Ausbildungsförderung, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen
 
 ## November 2024
+**[Bilanz zweiter Bildungsweg - Kollegs und Abendschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20880.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.11.2024
@@ -42,6 +46,12 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Freie Schulen](thema_freie_sch
 **[Berufliche Lehrkräftebildung stärken – Mehr gut ausgebildete Lehrkräfte gewinnen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18921.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.05.2024
 Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+## April 2024
+**[Wartet Biesdorf weiter auf das OSZ? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18610.pdf)**
+OSZ = Oberstufenzentrum
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 02.04.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## Januar 2024
 **[Ganztag (Teil 3). Arbeits- und Ausbildungsbedingungen von Erzieher\*innen an Berliner Schulen: Arbeitsbelastung und Arbeitszeitberechnung von Erzieher\*innen in der ergänzenden Förderung und Betreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17714.pdf)**
@@ -121,6 +131,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Integration](thema_integration
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 13.12.2022
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
+**[OSZ Soziale Berufe am Standort Biesdorf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13988.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 06.12.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 ## November 2022
 **[Umsetzungsstand des Bildungsgangs Berufsabitur/duales Abitur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13798.pdf)**
 [Jasper-Winter, Dr. Maren](autor_jasper-winter_dr_maren_fdp.md) ([FDP](fraktion_fdp.md)) - 23.11.2022
@@ -183,6 +197,14 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md), 
 [Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 15.07.2022
 Themen: [Berufsbildung](thema_berufsbildung.md)
 
+**[Politische und zivilgesellschaftliche Bildungsangebote der Jane-Addams-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12239.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 06.07.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md)
+
+**[Schulische Qualität der Jane-Addams-Schule transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12229.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 06.07.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 ## Juni 2022
 **[Erzieherische Arbeit wertschätzen - freie Träger unterstützen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11988.pdf)**
 Finanzierung und Leistungssicherstellung der Tageseinrichtungen für Kinder (Rahmenvereinbarung - RV Tag)
@@ -207,6 +229,14 @@ Themen: [Berufsbildung](thema_berufsbildung.md)
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 18.03.2022
 Themen: [Berufsbildung](thema_berufsbildung.md)
 
+**[Jane-Addams-Schule für den Bezirk Lichtenberg nutzbar machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11132.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 17.03.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
+**[Versorgung mit Oberschulplätzen in Hohenschönhausen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11092.pdf)**
+[Liebe, Dirk](autor_liebe_dirk_spd.md) ([SPD](fraktion_spd.md)) - 09.03.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## Februar 2022
 **[Fachkräftegewinnung für die Kita – Potenziale der Zusammenarbeit mit der Arbeitsagentur](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10960.pdf)**
 [Engelmann, Claudia](autor_engelmann_claudia_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 28.02.2022
@@ -216,6 +246,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Frühkindliche Bildung](thema_
 Präsenzpflicht an Berufsschulen in Zeiten der Corona Pandemie
 [Melzer, Heiko](autor_melzer_heiko_cdu.md) ([CDU](fraktion_cdu.md)) - 24.02.2022
 Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md)
+
+**[Pflegenotstand - Aber kein Oberstufenzentrum in Biesdorf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10805.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 16.02.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](thema_personal.md)
 
 **[Arbeitssituation der Berliner Schulhausmeister\*innen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10751.pdf)**
 [Düsterhöft, Lars](autor_duesterhoeft_lars_spd.md) ([SPD](fraktion_spd.md)) - 11.02.2022

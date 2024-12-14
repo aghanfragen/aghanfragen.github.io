@@ -1,13 +1,45 @@
 # Thema: Personal
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Personal, Abordnung, Angestellter, Arbeitsbedingungen, Arbeitsentgelt, Arbeitszeit, Arbeitsschutz, Beamtenrecht, Beamtenversorgung, Beamter, Berufliche Weiterbildung, Besoldung, Erzieher, Fachkraft, Honorar, Laufbahnrecht, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Mehrarbeit, Öffentlicher Dienst, Pädagoge, Personalkosten, Personalplanung, Personalwesen, Quereinsteiger, Schulleiter, Schulpersonal, Sozialberuf, Studienfach, Studium, Teilzeitarbeit, Unterrichtsausfall an Schulen, Vergütung, Weiterbildung
 
 ## November 2024
+**[Kürzungen in den Bezirken im Bildungsbereich](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20881.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 27.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+**[MentalHealthMatters! – Psychische Gesundheit des Schulpersonals stärken](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20851.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[MentalHealthMatters! - Sind Berliner Schulen auf psychische Krisen und Gewaltvorfälle vorbereitet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20850.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md)
+
+**[Personalausstattung der Berliner Schulen zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20822.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 26.11.2024
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md)
+
+**[Fehlende Lehrkräfte: Einstellungszahlen zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20821.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 26.11.2024
+Themen: [Personal](thema_personal.md)
+
 **[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
 Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Mittelabfluss der Präventionsmittel gegen Antisemitismus und Rassismus](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20789.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.11.2024
+Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md)
+
+**[Wohnungen für angehende Lehrer\*innen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20680.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 07.11.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
 ## Oktober 2024
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
@@ -106,6 +138,10 @@ Themen: [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md)
 [Eralp, Elif](autor_eralp_elif_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 01.08.2024
 Themen: [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md)
 
+**[Einschulung von Erstklässlern für das Schuljahr 2024/2025 in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19747.pdf)**
+[Schmidt, Stephan](autor_schmidt_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 01.08.2024
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Digitalisierung](thema_digitalisierung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## Juli 2024
 **[Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 A)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19758.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.07.2024
@@ -200,6 +236,10 @@ Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md), [Weiterfü
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 14.05.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
 
+**[Schulgesundheitsfachkräfte in Berlin: Was plant der Senat?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19022.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.05.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Wie steht es um den Kinderschutz an den Berliner Schulen besonderer pädagogischer Prägung für Musik und wie werden Minderjährige an den Musikhochschulen in Berlin geschützt?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18959.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.05.2024
 Themen: [Personal](thema_personal.md)
@@ -235,6 +275,14 @@ Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Personal]
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 28.03.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Die Demonstration „Schule gegen rechts” vom 28.02.2024 und ihre rechtlichen Konsequenzen: Dienstpflichten des Schulleiters](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18534.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 24.03.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
+**[Das Neutralitätsgebot an Berliner Schulen – Die Demonstration vom 28.02.2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18459.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 21.03.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Willkommensklassen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18447.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 15.03.2024
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
@@ -260,9 +308,69 @@ Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Februar 2024
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Reinickendorf ausgefallen? (Teil 12)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18242.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Charlottenburg-Wilmersdorf ausgefallen? (Teil 9)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18271.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Spandau ausgefallen? (Teil 10)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18241.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Steglitz-Zehlendorf ausgefallen? (Teil 11)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18240.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Tempelhof-Schöneberg ausgefallen? (Teil 8)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18239.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Treptow-Köpenick ausgefallen? (Teil 7)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18238.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Mitte ausgefallen? (Teil 6)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18237.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Mitte](bezirk_mitte.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Pankow ausgefallen? (Teil 5)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18236.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Marzahn-Hellersdorf ausgefallen? (Teil 4)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18235.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Neukölln ausgefallen? (Teil 3)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18234.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Lichtenberg ausgefallen? (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18233.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Personal](thema_personal.md)
+
+**[Die Lehrkräftekrise ist auch eine Unterrichtskrise – wie viel Unterricht ist im ersten Halbjahr 2023/24 in den Schulen von Friedrichshain-Kreuzberg ausgefallen? (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18232.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 22.02.2024
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Personal](thema_personal.md)
+
+**[Spandau: Quereinsteiger an Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18149.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 22.02.2024
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Situation der Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18130.pdf)**
+[Hopp, Marcel](autor_hopp_marcel_spd.md) ([SPD](fraktion_spd.md)) - 21.02.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Beschulung geflüchteter Kinder und Jugendlicher in Tegel und Tempelhof](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18060.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 14.02.2024
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Schulfächer](thema_schulfaecher.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Spandau: Versetzungsanträge von Lehrkräften (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18160.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 12.02.2024
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
 **[Endlich eine Perspektive für alle „Lehrer für untere Klassen”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17939.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 08.02.2024
@@ -293,6 +401,10 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Ganztag](the
 **[Nutzung von Mitteln zur Personalkostenbudgetierung an öffentlichen Schulen im Jahr 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17652.pdf)**
 [Lasić, Dr. Maja](autor_lasic_dr_maja_spd.md) ([SPD](fraktion_spd.md)) - 29.12.2023
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Gewalttätige Auseinandersetzungen an der Gemeinschaftsschule am Efeuweg in Gropiusstadt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17602.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 28.12.2023
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Digitalisierung des BeoTools](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17649.pdf)**
 BeoKiz – „Beobachtung & Einschätzung im Kita-Alltag: kindzentriert & ganzheitlich“, Verfahren zur Beobachtung, Dokumentation und Einschätzung kindlicher Entwicklung
@@ -325,6 +437,10 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Qualit�
 **[Aktueller Stand zum Neutralitätsgesetz (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17482.pdf)**
 [Eralp, Elif](autor_eralp_elif_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 14.12.2023
 Themen: [Personal](thema_personal.md), [Vielfalt](thema_vielfalt.md)
+
+**[Spandau: Versetzungsanträge von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17462.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 14.12.2023
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
 
 **[Studierende an Berliner Schulen: Wer füllt aktuell die Lücken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17434.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 06.12.2023
@@ -378,6 +494,10 @@ Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](
 [Wein, Dr. Claudia](autor_wein_dr_claudia_cdu.md) ([CDU](fraktion_cdu.md)) - 30.10.2023
 Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Betreuungsschlüssel bzw. Fachkraft-Kind-Relation in der Kita McNair](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16863.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 13.10.2023
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2022 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16857.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.10.2023
 Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
@@ -396,6 +516,11 @@ Hier auch Verteilung des pädagogischen Personals nach Beschäftigungsumfang (Ju
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 11.10.2023
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
+**[Wartet Biesdorf weiter auf das OSZ?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16824.pdf)**
+OSZ = Oberstufenzentrum
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 11.10.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Liegen dem Berliner Senat Ergebnisse aus dem ersten Jahr seit Bestehen der Schulgesundheitsfachkräfte vor?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16829.pdf)**
 [Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 10.10.2023
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md)
@@ -408,6 +533,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 **[Entwicklung der Fehlzeiten Pädagogisches Personal in Grundschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16684.pdf)**
 [Bocian, Lars](autor_bocian_lars_cdu.md) ([CDU](fraktion_cdu.md)) - 14.09.2023
 Themen: [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Schulstart in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16589.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.09.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md)
 
 **[Wiedereinstieg in die Verbeamtung: Bilanz dritter Durchgang undVerbeamtung der Bestandslehrkräfte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16557.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.09.2023
@@ -479,6 +608,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Personal](thema_personal.md)
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 17.07.2023
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
 
+**[Die Zukunft der Gesundheitsfachkräfte an Schulen in Lichtenberg nicht mehr sicher?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15955.pdf)**
+[Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 10.07.2023
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
+
 **[Antidiskriminierungsbeauftragte\*r in der Bildungsverwaltung: Stand der Neubesetzung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15915.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 10.07.2023
 Themen: [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md)
@@ -486,6 +619,10 @@ Themen: [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md), [Vielf
 **[Umsetzungsstand Kinderschutzkonzept nach § 8 Abs. 2 Nr. 5 SchulG Berlin an den Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15943.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.07.2023
 Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md)
+
+**[Sicherung der Jugendkunstschule „Atrium” in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15887.pdf)**
+[Meyer, Sven](autor_meyer_sven_spd.md) ([SPD](fraktion_spd.md)) - 07.07.2023
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 **[Zertifikatskurs „Quereinstieg in die Jugendsozialarbeit an Berliner Schulen”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15921.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 05.07.2023
@@ -643,6 +780,10 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 **[Standardisiertes Verfahren im Falle einer längerfristigen Personalschlüsselunterschreitung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14845.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 27.02.2023
 Themen: [Digitalisierung](thema_digitalisierung.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Freie Schule Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14803.pdf)**
+[Franco, Vasili](autor_franco_vasili_gruene.md) ([Grüne](fraktion_gruene.md)) - 23.02.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
 **[Digitalisierung der Oberstufenzentren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14718.pdf)**
 [Jasper-Winter, Dr. Maren](autor_jasper-winter_dr_maren_fdp.md) ([FDP](fraktion_fdp.md)) - 10.02.2023
@@ -838,6 +979,18 @@ Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Weiterf
 [Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 11.11.2022
 Themen: [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Besetzungsverfahren Leitung Schulfarm Insel Scharfenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13711.pdf)**
+[Schmidt, Stephan](autor_schmidt_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 10.11.2022
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Mobbing und Gewalt an der Aziz-Nesin-Grundschule: Gegenmaßnahmen und Bericht der Schulinspektion](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13701.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 10.11.2022
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Mobbing und Gewalt an der Aziz-Nesin-Grundschule: Aus Sorge um den Ruf der Schule die Probleme kleinreden?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13700.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 10.11.2022
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Digitalisierung in Kitas](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13698.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 10.11.2022
 Themen: [Digitalisierung](thema_digitalisierung.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md)
@@ -867,6 +1020,10 @@ Themen: [Personal](thema_personal.md)
 **[Nachfragen zur Schriftlichen Anfrage: 19/13152 „Verbeamtung in Berlin”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13574.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 25.10.2022
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Geschäftsverteilungsplan der Schulfarm auf der Insel Scharfenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13493.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 19.10.2022
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Strukturelle Umwandlung von Lehrkräftestunden](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13443.pdf)**
 Umwandlung in Professionen zum Beispiel (Betreuerin / Betreuer, Erzieherin / Erzieher, Pädagogische Unterrichtshilfe, Psychologin / Psychologe an Schulen, Sozialarbeiterin / Sozialarbeiter, Sprachlernassistenz.
@@ -901,6 +1058,10 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Erwachsenenbildung](thema_erwa
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 05.10.2022
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
+**[Freigeist Schule in Berlin-Mahlsdorf (ehemals Freie Schule am Elsengrund)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13264.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.10.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
 ## September 2022
 **[Verbeamtung in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13152.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 28.09.2022
@@ -913,6 +1074,50 @@ Themen: [Medien](thema_medien.md), [Personal](thema_personal.md)
 **[Wiedereinstieg in die Verbeamtung: erste Bilanz und Ausblick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13188.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 27.09.2022
 Themen: [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13123.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Friedrichshain-Kreuzberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13124.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13122.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Mitte](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13121.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Mitte](bezirk_mitte.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Charlottenburg-Wilmersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13120.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13118.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13117.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Spandau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13116.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Steglitz-Zehlendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13115.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Tempelhof-Schöneberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13114.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Verwaltung](thema_verwaltung.md)
+
+**[Schulneubau und Schulsanierungen im Bezirk Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13113.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 23.09.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Kein regulärer Unterricht an Berliner Schulen gewährleistet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13105.pdf)**
 [Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 20.09.2022
@@ -1040,6 +1245,10 @@ Themen: [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfueh
 **[Gründung eines Landesinstituts für die Aus-, Fort- und Weiterbildung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12251.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 06.07.2022
 Themen: [Personal](thema_personal.md)
+
+**[Schulische Qualität der Jane-Addams-Schule transparent machen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12229.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 06.07.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## Juni 2022
 **[Ausbildung, Abbrüche und Erfolgsquote im Berliner Referendariat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12146.pdf)**
@@ -1216,6 +1425,10 @@ Zumessung von Lehrkräften, Erzieherinnen und Erzieher, Sozialarbeiterinnen und 
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 24.02.2022
 Themen: [Bezirke](thema_bezirke.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
+**[Pflegenotstand - Aber kein Oberstufenzentrum in Biesdorf?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10805.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 16.02.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](thema_personal.md)
+
 **[Mehrarbeit im Schulbetrieb](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10797.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 11.02.2022
 Themen: [Personal](thema_personal.md)
@@ -1286,10 +1499,18 @@ Themen: [Personal](thema_personal.md)
 [Khalatbari, Sandra](autor_khalatbari_sandra_cdu.md) ([CDU](fraktion_cdu.md)) - 10.01.2022
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md)
 
+**[Schule in der Köllnischen Heide: Schuldaten und Schulkonzept](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10430.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 03.01.2022
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integration](thema_integration.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## Dezember 2021
 **[Zumessung von Förderstunden zur strukturellen Unterstützung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10409.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.12.2021
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Spandau: Zustand und Perspektiven für die Bertolt-Brecht-Oberschule (05K03)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10380.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 29.12.2021
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Nachfrage zur Schriftlichen Anfrage Drs. 19/10100 Ersthelfer an Berliner Schulen und Hochschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10303.pdf)**
 [Grasse, Adrian](autor_grasse_adrian_cdu.md) ([CDU](fraktion_cdu.md)) - 16.12.2021

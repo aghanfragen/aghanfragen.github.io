@@ -1,6 +1,11 @@
 # Anfragen von Schedlich, Klara (Grüne)
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
+
+## Dezember 2024
+**[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
 
 ## November 2024
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**

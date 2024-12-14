@@ -1,10 +1,14 @@
 # Thema: Qualität und Erfolg
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Qualität und Erfolg, Abitur, Bildungsabschluss, Förderunterricht, Forschung, Prüfung, Qualitätssicherung, Schulaufsicht
 
 ## November 2024
+**[Bilanz zweiter Bildungsweg - Kollegs und Abendschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20880.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirke](thema_bezirke.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Planungsstand 11. Pflichtschuljahr - Wie geht es weiter mit der IBA?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20685.pdf)**
 IBA = Integrierten Berufsausbildungsvorbereitung
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 07.11.2024
@@ -114,6 +118,14 @@ Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 27.03.2024
 Themen: [Ganztag](thema_ganztag.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Die Demonstration „Schule gegen rechts” vom 28.02.2024 und ihre rechtlichen Konsequenzen: Dienstpflichten des Schulleiters](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18534.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 24.03.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
+**[Das Neutralitätsgebot an Berliner Schulen – Die Demonstration vom 28.02.2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18459.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 21.03.2024
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Was ist „kindliche Sexualität”?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18376.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 14.03.2024
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
@@ -182,6 +194,12 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 05.09.2023
 Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
 
+## Juli 2023
+**[Schüler in Treptow-Köpenick ohne Deutsch als Erstsprache bei Einschulungsbeginn](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16049.pdf)**
+Hier auch Anzahl der Schülerinnen und Schüler ohne Schulabschluss
+[Bertram, Alexander](autor_bertram_alexander_afd.md) ([AfD](fraktion_afd.md)) - 19.07.2023
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule](thema_grundschule.md), [Integration](thema_integration.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 ## Juni 2023
 **[Schulhelfer und/ oder Schulassistenz - das ist hier die Frage? Der Senat bleibt seit Februar 2020 die Antwort schuldig - und lässt damit Kinder und Jugendliche mit einem sehr hohen Unterstützungsbedarf und deren Eltern „im Regen stehen!”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15700.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 15.06.2023
@@ -213,6 +231,10 @@ Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindl
 **[Kontrollen der Kita-Aufsicht zur "Vertragstreue" bei Kita-Trägern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14850.pdf)**
 [Fresdorf, Paul](autor_fresdorf_paul_fdp.md) ([FDP](fraktion_fdp.md)) - 28.02.2023
 Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md)
+
+**[Freie Schule Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14803.pdf)**
+[Franco, Vasili](autor_franco_vasili_gruene.md) ([Grüne](fraktion_gruene.md)) - 23.02.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
 **[Textroboter ChatGPT, KI-Tools und das Prüfungswesen an der Schule: Wer schreibt künftig die Hausaufgaben?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14730.pdf)**
 [Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 10.02.2023
@@ -274,9 +296,22 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Qualität und Erfolg](thema_qu
 [Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 11.11.2022
 Themen: [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+**[Mobbing und Gewalt an der Aziz-Nesin-Grundschule: Gegenmaßnahmen und Bericht der Schulinspektion](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13701.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 10.11.2022
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Mobbing und Gewalt an der Aziz-Nesin-Grundschule: Aus Sorge um den Ruf der Schule die Probleme kleinreden?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13700.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 10.11.2022
+Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Grundschule](thema_grundschule.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Qualitätsentwicklung in der Kindertagesbetreuung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13697.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 09.11.2022
 Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
+## Oktober 2022
+**[Freigeist Schule in Berlin-Mahlsdorf (ehemals Freie Schule am Elsengrund)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13264.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.10.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Freie Schulen](thema_freie_schulen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
 
 ## September 2022
 **[Neue Schultypisierung anhand von sechs Kriterien und die Folgen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13106.pdf)**
@@ -327,6 +362,11 @@ Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_un
 [Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 26.06.2022
 Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
+## Mai 2022
+**[Vollständige Transparenz herstellen: Gewaltfreie Kommunikation bei Schulräten sicherstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11638.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 04.05.2022
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Verwaltung](thema_verwaltung.md)
+
 ## März 2022
 **[MSA an Integrierten Sekundarschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11276.pdf)**
 [Melzer, Heiko](autor_melzer_heiko_cdu.md) ([CDU](fraktion_cdu.md)) - 31.03.2022
@@ -349,6 +389,10 @@ Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_un
 **[Förderschule und dann?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10452.pdf)**
 [Förster, Stefan](autor_foerster_stefan_fdp.md) ([FDP](fraktion_fdp.md)) - 14.01.2022
 Themen: [Inklusion](thema_inklusion.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Schule in der Köllnischen Heide: Schuldaten und Schulkonzept](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10430.pdf)**
+[Weiß, Thorsten](autor_weiss_thorsten_afd.md) ([AfD](fraktion_afd.md)) - 03.01.2022
+Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Integration](thema_integration.md), [Medien](thema_medien.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Dezember 2021
 **[Zumessung von Förderstunden zur strukturellen Unterstützung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10409.pdf)**

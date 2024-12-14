@@ -1,6 +1,6 @@
 # Anfragen von AfD
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 ## November 2024
 **[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**
@@ -23,6 +23,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schul
 **[Aufbau eines Kompetenzzentrums für Beteiligung und Demokratiebildung junger Menschen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20390.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 07.10.2024
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Verwaltung](thema_verwaltung.md)
+
+**[Erstellung der bezirklichen Familienförderpläne](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20395.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Verwaltung](thema_verwaltung.md)
 
 **[Familiengrundschulzentren - Was ist der Sachstand?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20370.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024

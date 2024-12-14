@@ -1,6 +1,6 @@
 # Thema: Inklusion
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Inklusion, Barrierefreiheit, Gebärdensprache, Gehörloser, Mensch mit Behinderung, Menschen mit Behinderungen, Sonderpädagogik, Sonderschule, Teilhabe behinderter Menschen
 
@@ -27,6 +27,10 @@ Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schu
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
+**[Sachbeschädigung im Umfeld der Nils-Holgersson-Schule (Otto-Marquardt-Straße 12-14, 10369 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20007.pdf)**
+[Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 22.08.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)
+
 **[Beförderung von Schüler\*innen mit Beeinträchtigungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19827.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 09.08.2024
 Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
@@ -258,6 +262,11 @@ Themen: [Berufsbildung](thema_berufsbildung.md), [Finanzen](thema_finanzen.md), 
 Themen: [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## September 2022
+**[Die endlose Suche nach einem Standort für den MEB - Aktueller Stand an der Albatros-Schule in Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13076.pdf)**
+MEB: Modularer Ergänzungsbau / Modularer Schulergänzungsbau
+[Düsterhöft, Lars](autor_duesterhoeft_lars_spd.md) ([SPD](fraktion_spd.md)) - 15.09.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Verwaltung](thema_verwaltung.md)
+
 **[Inklusion und BuT-Förderung an Freien Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13069.pdf)**
 BuT: Bildung und Teilhabe
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 14.09.2022
@@ -288,6 +297,11 @@ Themen: [Finanzen](thema_finanzen.md), [Grundschule](thema_grundschule.md), [Ink
 Anzahl der Vollzeitstellen, Arbeitsbereiche und Fortbildung für Schulpsychologen im Fachbereich Schulpsychologie in den Schulpsychologischen und Inklusionspädagogischen Beratungs- und Unterstützungszentren (SIBUZ)
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 09.06.2022
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+## Mai 2022
+**[Planungen zum Modularen Ergänzungsbau für Geistige Entwicklung (MEBGE) an der Albatros-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11599.pdf)**
+[Düsterhöft, Lars](autor_duesterhoeft_lars_spd.md) ([SPD](fraktion_spd.md)) - 04.05.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md)
 
 ## April 2022
 **[Barrierefreiheit und Inklusion in den Schulen von Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11403.pdf)**

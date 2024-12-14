@@ -1,8 +1,13 @@
 # Thema: Soziales
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Soziales, Alleinerziehender, Elterngeld, Familienhilfe, Pflegegeld, Schulgeld, Soziale Einrichtungen, Sozialleistung, Sozialleistungen
+
+## November 2024
+**[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
 ## Oktober 2024
 **[Familiengrundschulzentren - Was ist der Sachstand?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20370.pdf)**
@@ -42,11 +47,21 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 [Brousek, Antonin](autor_brousek_antonin_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 24.01.2024
 Themen: [Inklusion](thema_inklusion.md), [Soziales](thema_soziales.md), [Verwaltung](thema_verwaltung.md)
 
+**[Pad gGmbH](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17678.pdf)**
+Die pad gGmbH begleitet und unterstützt Menschen. Zur pad gGmbH gehören inzwischen über 60 Einrichtungen und Projekte an mehr als 50 Standorten mit ca. 370 Mitarbeiterinnen und Mitarbeitern in den Bereichen Kindertagesbetreuung, Familie, Schule & Delinquenz, Jugend, Arbeit & Sucht sowie Demokratie
+[Lindemann, Gunnar](autor_lindemann_gunnar_afd.md) ([AfD](fraktion_afd.md)) - 02.01.2024
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
 ## Oktober 2023
 **[Finanzierung und Absolvent\*innen der Fachschulen für Sozialpädagogik](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16854.pdf)**
 Hier auch Verteilung des pädagogischen Personals nach Beschäftigungsumfang (Jugendarbeit, Eingliederungshilfe ,Kindertagesbetreuung) / Fachkräftebedarfsplanung in der Kinderbetreuung
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 11.10.2023
 Themen: [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+## September 2023
+**[Familienzentren an Schulen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16597.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 19.09.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Soziales](thema_soziales.md)
 
 ## August 2023
 **[Endlich sicher mit dem Fahrrad zur Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16399.pdf)**
@@ -70,6 +85,11 @@ Themen: [Finanzen](thema_finanzen.md), [Schülerinnen und Schüler](thema_schuel
 Familienzentren an Grundschulen sind als Orte der Familienbildung zu verstehen, mit der Zielsetzung, niedrigschwellige Angebote der Familienbildung an einem Ort anzubieten, den Familien regelmäßig aufsuchen.
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 03.03.2023
 Themen: [Grundschule](thema_grundschule.md), [Soziales](thema_soziales.md)
+
+## Dezember 2022
+**[Perspektiven an der Maxie-Wander-Str./Carola-Neher-Str. in Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13982.pdf)**
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 06.12.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Integration](thema_integration.md), [Soziales](thema_soziales.md)
 
 ## November 2022
 **[Kostenübernahmen von Klassenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13600.pdf)**

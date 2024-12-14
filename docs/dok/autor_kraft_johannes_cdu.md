@@ -1,6 +1,6 @@
 # Anfragen von Kraft, Johannes (CDU)
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 ## Februar 2024
 **[Grundschulplätze bei Bebauungsplanverfahren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17904.pdf)**

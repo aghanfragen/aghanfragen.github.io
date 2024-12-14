@@ -1,8 +1,20 @@
 # Anfragen von Krüger, Louis (Grüne)
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 ## November 2024
+**[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Personal](thema_personal.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
+
+**[MentalHealthMatters! – Psychische Gesundheit des Schulpersonals stärken](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20851.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Bezirke](thema_bezirke.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[MentalHealthMatters! - Sind Berliner Schulen auf psychische Krisen und Gewaltvorfälle vorbereitet?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20850.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 26.11.2024
+Themen: [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md)
+
 **[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
 Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)

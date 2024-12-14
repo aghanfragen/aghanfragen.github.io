@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 28.11.2024 22:02
+Stand: 13.12.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
@@ -125,6 +125,15 @@ Themen: [Inklusion](thema_inklusion.md), [Schulfächer](thema_schulfaecher.md), 
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 30.11.2021
 Themen: [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schulfächer](thema_schulfaecher.md), [Verwaltung](thema_verwaltung.md)
 
+## Bildende Kunst
+**[Sicherung der Jugendkunstschule „Atrium” in Reinickendorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15887.pdf)**
+[Meyer, Sven](autor_meyer_sven_spd.md) ([SPD](fraktion_spd.md)) - 07.07.2023
+Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
+**[Bleibt der Ofen künftig aus? – Kein Herz für Keramikkunst an der Volkshochschule Treptow-Köpenick](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10458.pdf)**
+[Förster, Stefan](autor_foerster_stefan_fdp.md) ([FDP](fraktion_fdp.md)) - 19.01.2022
+Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Erwachsenenbildung](thema_erwachsenenbildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Bildende Kunst](thema_schulfaecher_bildende_kunst.md)
+
 ## Darstellende Kunst
 **[Wie steht es um die Staatliche Ballettschule Berlin und Schule für Artistik](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18957.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 15.05.2024
@@ -165,6 +174,10 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 07.10.2024
 Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Verwaltung](thema_verwaltung.md)
 
+**[Erstellung der bezirklichen Familienförderpläne](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20395.pdf)**
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024
+Themen: [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Verwaltung](thema_verwaltung.md)
+
 **["Stabsstelle politische Bildung und Demokratieförderung" – Anfang vom Ende der Unabhängigkeit der politischen Bildung in Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19760.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 01.08.2024
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md)
@@ -177,6 +190,11 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 **[Was ist die Strategie bei der Jugendstrategie?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18864.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 30.04.2024
 Themen: [Bezirke](thema_bezirke.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md)
+
+**[Standortsicherung JugendKulturZentrum Pumpe](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16592.pdf)**
+Arbeit mit Kindern und Jugendliche in Verbindung von kultureller mit politischer Bildung
+[Helm, Anne](autor_helm_anne_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.09.2023
+Themen: [Bezirk Mitte](bezirk_mitte.md), [Finanzen](thema_finanzen.md), [Kultur](thema_kultur.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md)
 
 **[Nochmals zur Überparteilichkeit der Berliner Landeszentrale für politische Bildung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14966.pdf)**
 [Bronson, Dr. Hugh](autor_bronson_dr_hugh_afd.md) ([AfD](fraktion_afd.md)) - 14.03.2023
@@ -202,6 +220,10 @@ Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.
 **[Politische Bildung an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12581.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 29.07.2022
 Themen: [Medien](thema_medien.md), [Personal](thema_personal.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Politische und zivilgesellschaftliche Bildungsangebote der Jane-Addams-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12239.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 06.07.2022
+Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md)
 
 ## Sport
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
@@ -240,14 +262,43 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 31.01.2024
 Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Schulschwimmen in Marzahn-Hellersdorf (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17257.pdf)**
+Zusätzliche Hallenzeiten zur vollständigen Abdeckung des Schwimmunterrichts
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 21.11.2023
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Berliner Eliteschulen des Sports (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16961.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 24.10.2023
 Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Schulschwimmen in Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16751.pdf)**
+Hier auch Schwimm-Intensivkurse in den Bezirken und erworbenen Schwimmabzeichen
+[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 01.10.2023
+Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Spandau: Schwimmen rettet Leben](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16375.pdf)**
+Nichtschwimmer und Nichtschwimmerinnen in den Klassenstufen 1 und 2
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 24.08.2023
+Themen: [Bezirk Spandau](bezirk_spandau.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[Multifunktionsgebäude mit Mensa für die John-F.-Kennedy-Schule (JFKS) zuungunsten des PrimaVita Bads am Teltower Damm 95-101](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15823.pdf)**
+Nichtschwimmerquote unter Grundschülern / Bäderschließungen / Auswahl von schulischen Schwimmunterricht
+[Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 30.06.2023
+Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Abschulungen an Sporteliteschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15380.pdf)**
 Nichtbestandenes Probejahr an Sporteliteschulen und Nachbetreuung für die Betroffenen
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 12.05.2023
 Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Sozialklima](thema_sozialklima.md)
+
+**[Schulplatzkapazitäten bei den Eliteschulen des Sports](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14678.pdf)**
+[Förster, Stefan](autor_foerster_stefan_fdp.md) ([FDP](fraktion_fdp.md)) - 10.02.2023
+Themen: [Bezirk Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
+
+**[MEB an der Oberseeschule - Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14307.pdf)**
+Geplante Modulare Ergänzungsbauten (MEB) sowie Vorplanung einer Gymnastikhalle. Einhaltung der geforderten Abstandsflächen, Ersatzpflanzungen für gefällte Bäume, Ausgleichsflächen für Abstellplätze für Fahrräder, Spielflächen, Stellplätze für Kraftfahrzeuge und für die Feuerwehr. Schadstoffanalysen des Baufläche.
+[Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 29.12.2022
+Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Schwimmen in Berlin – nach der Pandemie wieder für alle Grundschüler?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14270.pdf)**
 Angebot der Schwimm-Intensivkurse in den Sommer- und Herbstferien des Schuljahres 2021/22
@@ -266,11 +317,32 @@ Themen: [Grundschule](thema_grundschule.md), [Schulfächer:Sport](thema_schulfae
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 07.07.2022
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
+**[Grundstücke Platanenstraße 115, 116, 13156 Berlin-Niederschönhausen-Erweiterung Max-Delbrück-Gymnasium (ehem. Friedrich-List-Schule), Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12054.pdf)**
+[Hofer, Torsten](autor_hofer_torsten_spd.md) ([SPD](fraktion_spd.md)) - 16.06.2022
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
+**[Max-Delbrück-Gymnasium (ehemals Friedrich-List-Gymnasium) in Nieder schönhausen, Pankow - Turnhalle, Sportplatz, Grundstück](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11744.pdf)**
+[Hofer, Torsten](autor_hofer_torsten_spd.md) ([SPD](fraktion_spd.md)) - 20.05.2022
+Themen: [Bezirk Pankow](bezirk_pankow.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Schwimmen in Berlin – eine Selbstverständlichkeit für alle Grundschüler?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11708.pdf)**
 [Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 12.05.2022
 Themen: [Grundschule](thema_grundschule.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
+**[Sport frei – eine neue Turnhalle für die Ulmengrundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11715.pdf)**
+[Günther-Wünsch, Katharina](autor_guenther-wuensch_katharina_cdu.md) ([CDU](fraktion_cdu.md)) - 11.05.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Sporthalle für die Ulmen-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11233.pdf)**
+Neubau der Typensporthallen am Standort Bergedorfer Straße
+[Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 28.03.2022
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Wie steht es um die Berliner Eliteschulen des Sports?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10516.pdf)**
 [Czaja, Sebastian](autor_czaja_sebastian_fdp.md) ([FDP](fraktion_fdp.md)) - 24.01.2022
 Themen: [Schulfächer:Sport](thema_schulfaecher_sport.md), [Statistik](thema_statistik.md)
+
+**[Neue Sporthalle für das Otto-Nagel-Gymnasium](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10350.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.12.2021
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
