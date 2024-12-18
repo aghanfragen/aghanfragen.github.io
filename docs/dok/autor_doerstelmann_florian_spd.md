@@ -1,6 +1,6 @@
 # Anfragen von Dörstelmann, Florian (SPD)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## August 2024
 **[Turnhalle der Nelson Mandela Schule in der Pfalzburger Straße/Günzel Straße](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19941.pdf)**

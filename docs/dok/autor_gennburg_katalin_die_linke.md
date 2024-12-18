@@ -1,6 +1,6 @@
 # Anfragen von Gennburg, Katalin (Die Linke)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Dezember 2022
 **[Denkmalgerechte Sanierung der Alexander-von-Humboldt-Schule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14117.pdf)**

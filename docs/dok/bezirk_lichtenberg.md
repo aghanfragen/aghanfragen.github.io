@@ -1,6 +1,6 @@
 # Bezirk Lichtenberg
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## November 2024
 **[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**

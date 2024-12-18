@@ -1,6 +1,6 @@
 # Anfragen von Altuǧ, Dr. Turgut (Grüne)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Juni 2024
 **[Umsetzung der Ernährungsstrategie der Bundesregierung in Berlin?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19252.pdf)**

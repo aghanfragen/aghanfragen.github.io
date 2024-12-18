@@ -1,6 +1,6 @@
 # Anfragen von Ronneburg, Kristian (Die Linke)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## November 2024
 **[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**

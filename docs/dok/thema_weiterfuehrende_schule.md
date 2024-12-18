@@ -1,6 +1,6 @@
 # Thema: Weiterführende Schule
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 Zugeordnete Schlagworte: Weiterführende Schule, Allgemeinbildende Schulen, Gymnasium, Integrierte Sekundarschule
 
@@ -21,6 +21,11 @@ Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [
 **[Spandau: Ekeltoiletten Robert-Reinick-Grundschule (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20456.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 11.10.2024
 Themen: [Bezirk Spandau](bezirk_spandau.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+## September 2024
+**[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
+[King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## August 2024
 **[Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19829.pdf)**

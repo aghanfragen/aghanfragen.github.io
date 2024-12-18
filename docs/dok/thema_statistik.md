@@ -1,6 +1,6 @@
 # Thema: Statistik
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 Zugeordnete Schlagworte: Statistik, Bildungsstatistik
 
@@ -123,7 +123,7 @@ Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerin
 
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
 [King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
-Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024

@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -1378,8 +1378,8 @@ Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Schülerinnen und Schüler](th
 
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
 [King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
-Schlagworte: Bildungspolitik, Bildungsstatistik, Qualitätssicherung, Schulen, Schüler
-Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Schlagworte: Bildungspolitik, Bildungsstatistik, Gemeinschaftsschule, Gymnasium, Qualitätssicherung, Schulen, Schüler, Sekundarschule
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Quereinstieg - Mehr Wege in den Lehrkräfteberuf schaffen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19975.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
@@ -11224,8 +11224,8 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
 [King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
-Schlagworte: Bildungspolitik, Bildungsstatistik, Qualitätssicherung, Schulen, Schüler
-Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Schlagworte: Bildungspolitik, Bildungsstatistik, Gemeinschaftsschule, Gymnasium, Qualitätssicherung, Schulen, Schüler, Sekundarschule
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
@@ -14020,6 +14020,11 @@ Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Finanzen](
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Grundschule, Schulen, Sekundarschule, Statistik, Unterricht
 Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
+
+**[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
+[King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
+Schlagworte: Bildungspolitik, Bildungsstatistik, Gemeinschaftsschule, Gymnasium, Qualitätssicherung, Schulen, Schüler, Sekundarschule
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 **["Klassenzimmer der Zukunft" in Hellersdorf – keine Zukunft für die außerschulische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19861.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 15.08.2024

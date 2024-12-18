@@ -1,6 +1,6 @@
 # Anfragen von Meyer, Sven (SPD)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Juli 2023
 **[Wie viel kostet die Rekommunalisierung der Schulreinigung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16045.pdf)**

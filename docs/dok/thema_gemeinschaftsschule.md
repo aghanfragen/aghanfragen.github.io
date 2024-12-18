@@ -1,6 +1,6 @@
 # Thema: Gemeinschaftsschule
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 Zugeordnete Schlagworte: Gemeinschaftsschule
 
@@ -12,6 +12,11 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 **[Neubau der Lenau-Grundschule in Kreuzberg (jetzt Bergmannkiez-Gemeinschaftsschule)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20695.pdf)**
 [Husein, Dr. Timur](autor_husein_dr_timur_cdu.md) ([CDU](fraktion_cdu.md)) - 08.11.2024
 Themen: [Bezirk Friedrichshain-Kreuzberg](bezirk_friedrichshain-kreuzberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+## September 2024
+**[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
+[King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## August 2024
 **[Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19829.pdf)**

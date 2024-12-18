@@ -1,6 +1,6 @@
 # Anfragen von fraktionslos
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Oktober 2024
 **["2 x 3 macht 4 Widdewiddewitt und Drei macht Neune" an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20605.pdf)**
@@ -10,7 +10,7 @@ Themen: [Sonstige](thema_sonstige.md)
 ## September 2024
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
 [King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
-Themen: [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## August 2024
 **[Ergebnisse der aktuellen VERA-Vergleichsarbeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19806.pdf)**

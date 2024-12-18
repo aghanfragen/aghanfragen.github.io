@@ -1,6 +1,6 @@
 # Anfragen von Günther-Wünsch, Katharina (CDU)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Februar 2023
 **[Ganztagsausbau für Grundschulkinder](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14812.pdf)**

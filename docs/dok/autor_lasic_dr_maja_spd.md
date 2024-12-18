@@ -1,6 +1,6 @@
 # Anfragen von Lasić, Dr. Maja (SPD)
 
-Stand: 13.12.2024 22:02
+Stand: 18.12.2024 14:41
 
 ## Oktober 2024
 **[Sonderbeschulung von Geflüchteten - ein Ende in Sicht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20595.pdf)**
