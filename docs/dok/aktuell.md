@@ -1,6 +1,6 @@
 # Aktuelle Dokumente
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
 
@@ -56,19 +56,6 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](th
 **[Fehlende Lehrkräfte: Einstellungszahlen zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20821.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 26.11.2024
 Themen: [Personal](thema_personal.md)
-
-## Nov 18, 2024
-**[Mittelabfluss der Präventionsmittel gegen Antisemitismus und Rassismus](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20789.pdf)**
-[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.11.2024
-Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Personal](thema_personal.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Vielfalt](thema_vielfalt.md)
-
-**[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**
-[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
-Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
-
-**[Genehmigung von Gedenkstättenfahrten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20760.pdf)**
-[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.11.2024
-Themen: [Finanzen](thema_finanzen.md), [Schulfächer](thema_schulfaecher.md), [Statistik](thema_statistik.md)
 
 ## Nov 20, 2024
 **[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**

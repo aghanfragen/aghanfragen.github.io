@@ -1,6 +1,6 @@
 # Anfragen von Haustein, Dennis (CDU)
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## Oktober 2024
 **[Standortentscheidung Drehscheibe in Lichtenberg - Ergebnisse des Beschlusses vom 18. Juni 2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20317.pdf)**

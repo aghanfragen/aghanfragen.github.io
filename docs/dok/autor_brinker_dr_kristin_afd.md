@@ -1,6 +1,6 @@
 # Anfragen von Brinker, Dr. Kristin (AfD)
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## November 2024
 **[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**

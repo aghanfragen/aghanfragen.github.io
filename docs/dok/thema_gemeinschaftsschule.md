@@ -1,6 +1,6 @@
 # Thema: Gemeinschaftsschule
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 Zugeordnete Schlagworte: Gemeinschaftsschule
 

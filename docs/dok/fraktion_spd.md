@@ -1,6 +1,6 @@
 # Anfragen von SPD
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## Dezember 2024
 **[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**

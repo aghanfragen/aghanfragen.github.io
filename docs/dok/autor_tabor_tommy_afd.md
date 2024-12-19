@@ -1,6 +1,6 @@
 # Anfragen von Tabor, Tommy (AfD)
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## Oktober 2024
 **[Lärmschutz in Kindertageseinrichtungen - Drucksache 19/20218 nachgefragt](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20457.pdf)**

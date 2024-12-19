@@ -1,6 +1,6 @@
 # Anfragen von Czyborra, Dr. Ina (SPD)
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## Dezember 2022
 **[Befriste Einstellung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14151.pdf)**

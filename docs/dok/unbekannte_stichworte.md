@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**

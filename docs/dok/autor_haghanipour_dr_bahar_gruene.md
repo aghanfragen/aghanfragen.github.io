@@ -1,6 +1,6 @@
 # Anfragen von Haghanipour, Dr. Bahar (Grüne)
 
-Stand: 18.12.2024 14:41
+Stand: 18.12.2024 22:02
 
 ## Oktober 2024
 **[Gewaltschutz konsequent umsetzen! Welche Maßnahmen plant die Senatsverwaltung für Bildung, Jugend und Familie für 2024 und 2025 zur Umsetzung der Istanbul Konvention?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20480.pdf)**
