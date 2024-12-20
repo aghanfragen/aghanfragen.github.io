@@ -1,6 +1,6 @@
 # Anfragen von Krüger, Louis (Grüne)
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 ## November 2024
 **[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**

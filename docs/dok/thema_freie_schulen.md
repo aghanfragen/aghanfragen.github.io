@@ -1,8 +1,13 @@
 # Thema: Freie Schulen
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 Zugeordnete Schlagworte: Freie Schulen, Privatschulen, Freier Träger
+
+## Dezember 2024
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## November 2024
 **[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**

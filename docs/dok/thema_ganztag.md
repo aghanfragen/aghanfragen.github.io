@@ -1,6 +1,6 @@
 # Thema: Ganztag
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 Zugeordnete Schlagworte: Ganztag, Ganztagsschule
 

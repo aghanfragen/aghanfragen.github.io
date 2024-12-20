@@ -1,8 +1,13 @@
 # Komplette Liste der Dokumente
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 ## Dezember 2024
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Schlagworte: Freier Träger, Frühkindliche Bildung, Kind, Mensch mit Behinderung, Menschen mit Behinderungen, Personalplanung, Sonderpädagogik, Statistik
+Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Grundschule, Schulen, Sekundarschule, Statistik, Unterricht

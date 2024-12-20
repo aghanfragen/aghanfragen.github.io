@@ -1,8 +1,13 @@
 # Aktuelle Dokumente
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
+
+## Dec 12, 2024
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Dec 5, 2024
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
@@ -73,9 +78,4 @@ Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schö
 **[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**
 [Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.11.2024
 Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
-
-## Nov 19, 2024
-**[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**
-[Brinker, Dr. Kristin](autor_brinker_dr_kristin_afd.md) ([AfD](fraktion_afd.md)) - 19.11.2024
-Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md)
 

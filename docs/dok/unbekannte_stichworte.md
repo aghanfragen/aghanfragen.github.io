@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -5135,6 +5135,11 @@ Schlagworte: Beratung, Innere Sicherheit, Katastrophen- und Zivilschutz, Polizei
 Themen: [Sozialklima](thema_sozialklima.md)
 
 ## Kind
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Schlagworte: Freier Träger, Frühkindliche Bildung, Kind, Mensch mit Behinderung, Menschen mit Behinderungen, Personalplanung, Sonderpädagogik, Statistik
+Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Wie geht es den Berliner Tagesmüttern und Tagesvätern im Jahr 2024?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20368.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024
 Schlagworte: Berufliche Weiterbildung, Fachkraft, Frühkindliche Bildung, Kind, Kindertagespflege, Sozialleistung, Statistik, Vergütung

@@ -1,6 +1,6 @@
 # Anfragen von Schedlich, Klara (Grüne)
 
-Stand: 18.12.2024 22:02
+Stand: 19.12.2024 22:02
 
 ## Dezember 2024
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
