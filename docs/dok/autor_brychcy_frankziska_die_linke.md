@@ -1,6 +1,6 @@
 # Anfragen von Brychcy, Frankziska (Die Linke)
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 ## November 2024
 **[Finanzierung der Gemeinschaftsschulen im Doppelhaushalt 2024/2025](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20883.pdf)**

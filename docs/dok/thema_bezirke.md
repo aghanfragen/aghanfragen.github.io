@@ -1,10 +1,14 @@
 # Thema: Bezirke
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 Zugeordnete Schlagworte: Bezirke, Bezirk (Gebietskörperschaft), Charlottenburg-Wilmersdorf, Mitte, Friedrichshain-Kreuzberg, Pankow, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg, Reinickendorf
 
 ## 
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)

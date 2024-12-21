@@ -1,6 +1,6 @@
 # Anfragen von Aydin, Sevim (SPD)
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 ## Juni 2024
 **[Sachstand zur Reinhardswald-Grundschule in Kreuzberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19276.pdf)**

@@ -1,6 +1,6 @@
 # Thema: Weiterführende Schule
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 Zugeordnete Schlagworte: Weiterführende Schule, Allgemeinbildende Schulen, Gymnasium, Integrierte Sekundarschule
 

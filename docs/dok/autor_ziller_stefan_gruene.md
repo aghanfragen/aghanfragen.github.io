@@ -1,6 +1,6 @@
 # Anfragen von Ziller, Stefan (Grüne)
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 ## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**

@@ -1,10 +1,14 @@
 # Aktuelle Dokumente
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
 
 ## Dec 12, 2024
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
@@ -61,21 +65,4 @@ Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](th
 **[Fehlende Lehrkräfte: Einstellungszahlen zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20821.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 26.11.2024
 Themen: [Personal](thema_personal.md)
-
-## Nov 20, 2024
-**[Willkommensklassen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20759.pdf)**
-[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
-Themen: [Integration](thema_integration.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
-
-**[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**
-[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
-Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)
-
-**[Kapazitäten und Nutzungsmöglichkeiten der Willkommensschulen Tegel und Tempelhof und Berliner Regelschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20757.pdf)**
-[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
-Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
-
-**[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**
-[Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.11.2024
-Themen: [Bezirke](thema_bezirke.md), [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 

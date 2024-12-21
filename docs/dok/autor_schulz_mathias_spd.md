@@ -1,6 +1,6 @@
 # Anfragen von Schulz, Mathias (SPD)
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 ## Mai 2022
 **[Meldung von verfügbaren Kapazitäten der Schulen für die Aufnahme von geflüchteten Kindern aus der Ukraine](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11661.pdf)**

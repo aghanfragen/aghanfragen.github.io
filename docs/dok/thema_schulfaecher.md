@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 

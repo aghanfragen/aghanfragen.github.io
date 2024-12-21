@@ -1,6 +1,6 @@
 # Bezirk Tempelhof-Schöneberg
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 ## Juni 2024
 **[Das Schul-Bermudadreieck von Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19370.pdf)**

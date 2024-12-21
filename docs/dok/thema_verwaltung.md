@@ -1,8 +1,13 @@
 # Thema: Verwaltung
 
-Stand: 19.12.2024 22:02
+Stand: 20.12.2024 22:02
 
 Zugeordnete Schlagworte: Verwaltung, Auskunfterteilung, Bezirksverwaltung, Landesbetrieb, Landesregierung, Meldewesen, Öffentliche Vergabe, Öffentliche Verwaltung, Senatsverwaltung für Bildung, Jugend und Familie, Schulaufsicht, Senat, Berlin, Senatskanzlei, Staatssekretär, Vergaberecht, Verwaltungsverfahren, Verwaltungsvorschrift, Öffentlicher Auftrag, Öffentlicher Haushalt, Elektronische Aktenführung
+
+## Dezember 2024
+**[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## November 2024
 **[Finanzierung der Gemeinschaftsschulen im Doppelhaushalt 2024/2025](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20883.pdf)**
