@@ -1,6 +1,11 @@
 # Anfragen von Krüger, Louis (Grüne)
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
+
+## Dezember 2024
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
 
 ## November 2024
 **[MentalHealthMatters! - Gesunde Fachkräfte brauchen gute Fortbildungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20852.pdf)**

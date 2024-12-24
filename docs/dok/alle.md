@@ -1,8 +1,23 @@
 # Komplette Liste der Dokumente
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 ## Dezember 2024
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Schlagworte: Personalplanung, Schulen, Schulhof, Statistik
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Frühkindliche Bildung, Kind, Kindertagespflege, Kindertagesstätte, Personalplanung, Sprachförderung, Statistik, Öffentliche Mittel, Öffentlicher Haushalt

@@ -1,10 +1,14 @@
 # Thema: Integration
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Zugeordnete Schlagworte: Integration, Asylbewerber, Ausländer, Ausländerintegration, Ausländer, Migranten, Europaschule, Flüchtling, Flüchtlingsunterbringung, Integrationspolitik, Islam, Mensch mit Migrationshintergrund, Osteuropa, Sprache, Sprachförderung, Staatsangehörigkeit
 
 ## Dezember 2024
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)

@@ -1,6 +1,11 @@
 # Anfragen von Brychcy, Frankziska (Die Linke)
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
+
+## Dezember 2024
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## November 2024
 **[Finanzierung der Gemeinschaftsschulen im Doppelhaushalt 2024/2025](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20883.pdf)**

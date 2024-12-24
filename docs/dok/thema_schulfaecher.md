@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
@@ -226,6 +226,10 @@ Themen: [Medien](thema_medien.md), [Personal](thema_personal.md), [Schulfächer:
 Themen: [Berufsbildung](thema_berufsbildung.md), [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md)
 
 ## Sport
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Berliner Eliteschulen des Sports (Teil 4) - Nachfragen zur Drucksache 19/20356](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20639.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 25.10.2024
 Themen: [Personal](thema_personal.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)

@@ -1,8 +1,13 @@
 # Thema: Gebäude und Standorte
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Zugeordnete Schlagworte: Gebäude und Standorte, Architekt, Asbest, Baufinanzierung, Baugenehmigung, Bauordnungsrecht, Bauplanung, Bausanierung, Bauwesen, Bebauungsplan, Bibliothek, Brandschutz, Energie, Energiepreis, Energieverbrauch, Erbbaurecht, Gebäude, Gehweg, Grünfläche, Grundstück, Infrastruktur, Internet, Liegenschaftsverwaltung, Neubau, Planfeststellung, Sanitäranlage, Schadstoff, Schulausstattung, Schulbau, Schulgebäude, Schulgeld, Schulhof, Schulweg, Sporthalle, Sportplatz, Sportstättenbau, Städtebau, Verkehrsplanung
+
+## Dezember 2024
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## November 2024
 **[Finanzierung der Gemeinschaftsschulen im Doppelhaushalt 2024/2025](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20883.pdf)**

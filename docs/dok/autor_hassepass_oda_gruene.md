@@ -1,6 +1,6 @@
 # Anfragen von Hassepaß, Oda (Grüne)
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 ## Januar 2024
 **[Schulwegpläne und Beseitigung von Gefahrenstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17858.pdf)**

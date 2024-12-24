@@ -1,6 +1,6 @@
 # Anfragen von Klein, Hendrikje (Die Linke)
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 ## Oktober 2024
 **[Verzögerungen beim Schulneubau in Rummelsburg (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20635.pdf)**

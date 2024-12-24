@@ -1,10 +1,23 @@
 # Aktuelle Dokumente
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
 
+## Dec 13, 2024
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 ## Dec 12, 2024
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)

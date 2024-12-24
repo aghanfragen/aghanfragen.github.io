@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -200,6 +200,16 @@ Schlagworte: Asien, Ausländer, Migranten, Flüchtlingsunterbringung, Freier Tr�
 [Hack, Ariturel](autor_hack_ariturel_cdu.md) ([CDU](fraktion_cdu.md)) - 07.04.2022
 Schlagworte: Allgemeinbildende Schulen, Asien, Charlottenburg-Wilmersdorf, Grundschule, Schulbau, Schulgebäude
 Themen: [Bezirk Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+## Asylrecht
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
+**[Unbegleitete minderjährige Flüchtlinge in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17390.pdf)**
+[Lindemann, Gunnar](autor_lindemann_gunnar_afd.md) ([AfD](fraktion_afd.md)) - 07.12.2023
+Schlagworte: Asylrecht, Ausländer, Migranten, Jugendlicher, Staatsangehörigkeit, Statistik
 
 ## Ausbildungsordnung
 **[Außerbetriebliche Ausbildung als Konkurrenz zur dualen Ausbildung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14366.pdf)**
@@ -3038,6 +3048,11 @@ Schlagworte: Bausanierung, Bauwesen, Finanzverwaltung, Investition, Lichtenberg,
 Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
 
 ## Flughafen, Tegel
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Sonderbeschulung von Geflüchteten - ein Ende in Sicht?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20595.pdf)**
 [Lasić, Dr. Maja](autor_lasic_dr_maja_spd.md) ([SPD](fraktion_spd.md)) - 31.10.2024
 Schlagworte: Asylbewerber, Ausländer, Migranten, Bezirk (Gebietskörperschaft), Flughafen, Tegel, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Schulpflicht, Schüler, Staatsbürgerschaft, Statistik
@@ -7068,6 +7083,11 @@ Schlagworte: Bezirk (Gebietskörperschaft), Inklusion, Innere Sicherheit, Jugend
 Themen: [Bezirke](thema_bezirke.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Statistik](thema_statistik.md)
 
 ## Kinder und Jugendliche
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**
 [Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 04.12.2024
 Schlagworte: Computerspiel, Gesetzgebung, Glücksspiel, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Medienpädagogik, Schule, Sucht, Suchtprävention
@@ -7791,6 +7811,11 @@ Schlagworte: Charlottenburg-Wilmersdorf, Familienpolitik, Freizeit, Jugendfreize
 Themen: [Bezirk Charlottenburg-Wilmersdorf](bezirk_charlottenburg-wilmersdorf.md), [Verwaltung](thema_verwaltung.md)
 
 ## Landesamt für Flüchtlingsangelegenheiten
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
 Schlagworte: Ausländerintegration, Flüchtlingsunterbringung, Freier Träger, Gesellschaft, Bevölkerung, Integrationspolitik, Jugendarbeit, Landesamt für Flüchtlingsangelegenheiten, Lichtenberg, Schulausstattung, Schule, Schulen, Schulpolitik
@@ -9604,6 +9629,16 @@ Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juris
 Themen: [Personal](thema_personal.md)
 
 ## Schule
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**
 [Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 04.12.2024
 Schlagworte: Computerspiel, Gesetzgebung, Glücksspiel, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Medienpädagogik, Schule, Sucht, Suchtprävention
@@ -11009,6 +11044,21 @@ Schlagworte: Hochschule, Hochschulwesen, Lehrer, Rettungswesen, Schule, Schulen,
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Schulen
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Schlagworte: Personalplanung, Schulen, Schulhof, Statistik
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
+**[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**
+[Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 13.12.2024
+Schlagworte: Asylrecht, Ausländer, Migranten, Flughafen, Tegel, Flüchtlingsunterbringung, Kinder und Jugendliche, Landesamt für Flüchtlingsangelegenheiten, Schule, Schulen, Sport
+Themen: [Integration](thema_integration.md), [Schulfächer:Sport](thema_schulfaecher_sport.md)
+
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Grundschule, Schulen, Sekundarschule, Statistik, Unterricht
@@ -14182,6 +14232,11 @@ Schlagworte: Gewalt, Innere Sicherheit, Schulen, Sicherheitsunternehmen (Bewachu
 Themen: [Sozialklima](thema_sozialklima.md)
 
 ## Sozialarbeit
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
 **[Sportorientierte Jugendsozialarbeit](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20394.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 07.10.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Freier Träger, Jugendarbeit, Kinder, Jugendliche, Schule, Sozialarbeit, Sport, Statistik, Verein, Öffentliche Mittel, Öffentlicher Haushalt
@@ -14344,6 +14399,11 @@ Arbeit der Streetworker
 Schlagworte: Kinder, Jugendliche, Lichtenberg, Sozialer Brennpunkt, Sozialleistungen, Statistik, Öffentliche Mittel
 
 ## Sozialpädagogik
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
 **[Strategie gegen Obdachlosigkeit junger Menschen im Land Berlin – Streichung der Unterbringungsmöglichkeiten junger Menschen über §13.3 SGB VIII verhindern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19932.pdf)**
 [Knack, Lisa-Bettina](autor_knack_lisa-bettina_cdu.md) ([CDU](fraktion_cdu.md)) - 21.08.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Flüchtling, Jugendarbeit, Jugendlicher, Kinder- und Jugendhilfe, Neukölln, Sonstige gesellschaftliche Gruppen, Sozialleistung, Sozialleistungen, Sozialpolitik, Sozialpädagogik, Statistik, Öffentlicher Haushalt
@@ -15110,6 +15170,11 @@ Schlagworte: Allgemeinbildende Schulen, Bildungsfinanzierung, Lehrmethode, Unter
 Themen: [Finanzen](thema_finanzen.md), [Verwaltung](thema_verwaltung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Unterricht
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
 **[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
 [Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Grundschule, Schulen, Sekundarschule, Statistik, Unterricht

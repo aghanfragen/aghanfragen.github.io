@@ -1,6 +1,11 @@
 # Bezirk Tempelhof-Schöneberg
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
+
+## Dezember 2024
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
 
 ## Juni 2024
 **[Das Schul-Bermudadreieck von Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19370.pdf)**

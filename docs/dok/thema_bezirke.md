@@ -1,6 +1,6 @@
 # Thema: Bezirke
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Zugeordnete Schlagworte: Bezirke, Bezirk (Gebietskörperschaft), Charlottenburg-Wilmersdorf, Mitte, Friedrichshain-Kreuzberg, Pankow, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg, Reinickendorf
 
@@ -2272,6 +2272,10 @@ Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Finanzen](
 Themen: [Bezirk Steglitz-Zehlendorf](bezirk_steglitz-zehlendorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Grundschule](thema_grundschule.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Tempelhof-Schöneberg
+**[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
+[Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
+Themen: [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Statistik](thema_statistik.md)
+
 **[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.11.2024
 Themen: [Bezirk Reinickendorf](bezirk_reinickendorf.md), [Bezirk Tempelhof-Schöneberg](bezirk_tempelhof-schoeneberg.md), [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md)

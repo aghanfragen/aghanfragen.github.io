@@ -1,10 +1,14 @@
 # Thema: Personal
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 Zugeordnete Schlagworte: Personal, Abordnung, Angestellter, Arbeitsbedingungen, Arbeitsentgelt, Arbeitszeit, Arbeitsschutz, Beamtenrecht, Beamtenversorgung, Beamter, Berufliche Weiterbildung, Besoldung, Erzieher, Fachkraft, Honorar, Laufbahnrecht, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Mehrarbeit, Öffentlicher Dienst, Pädagoge, Personalkosten, Personalplanung, Personalwesen, Quereinsteiger, Schulleiter, Schulpersonal, Sozialberuf, Studienfach, Studium, Teilzeitarbeit, Unterrichtsausfall an Schulen, Vergütung, Weiterbildung
 
 ## Dezember 2024
+**[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
+Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)

@@ -1,6 +1,6 @@
 # Bezirk Marzahn-Hellersdorf
 
-Stand: 20.12.2024 22:02
+Stand: 23.12.2024 22:02
 
 ## November 2024
 **[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20740.pdf)**
