@@ -1,6 +1,6 @@
 # Anfragen von Wahlen, Catrin (Grüne)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Juni 2024
 **[HEP: Fachkräftesicherung in der Heilerziehungspflege durch Ausbildung undAnerkennung im Land Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19217.pdf)**

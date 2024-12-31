@@ -1,6 +1,6 @@
 # Anfragen von Krüger, Louis (Grüne)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Dezember 2024
 **[Nachgefragt: Recht auf Beschulung von geflüchteten Kindern und Jugendlichen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20973.pdf)**

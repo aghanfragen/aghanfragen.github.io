@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -5261,6 +5261,10 @@ Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), COVID-19,
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Kinder, Jugendliche
+**[Umzug der Erstaufnahme- und Clearingstelle (EAC) für unbegleitete minderjährige Geflüchtete](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21021.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.12.2024
+Schlagworte: Ausländer, Migranten, Flüchtling, Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinder- und Jugendliche, Kosten
+
 **[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**
 [Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 04.12.2024
 Schlagworte: Computerspiel, Gesetzgebung, Glücksspiel, Jugendschutz, Kinder und Jugendliche, Kinder, Jugendliche, Medienpädagogik, Schule, Sucht, Suchtprävention
@@ -6572,6 +6576,10 @@ Schlagworte: Allgemeinbildende Schulen, Gewaltprävention, Innere Sicherheit, Ki
 Themen: [Bezirk Neukölln](bezirk_neukoelln.md), [Sozialklima](thema_sozialklima.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Kinder- und Jugendhilfe
+**[Umzug der Erstaufnahme- und Clearingstelle (EAC) für unbegleitete minderjährige Geflüchtete](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21021.pdf)**
+[Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.12.2024
+Schlagworte: Ausländer, Migranten, Flüchtling, Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinder- und Jugendliche, Kosten
+
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Str. 51-52 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20497.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 17.10.2024
 Schlagworte: Ausschreibung, Freier Träger, Kinder- und Jugendhilfe, Kindertagesstätte, Neubau, Städtebau, Vergaberecht, Öffentliche Mittel

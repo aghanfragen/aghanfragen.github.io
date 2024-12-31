@@ -1,6 +1,6 @@
 # Anfragen von Burkert-Eulitz, Marianne (Grüne)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## November 2024
 **[Schulbibliotheken an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20816.pdf)**

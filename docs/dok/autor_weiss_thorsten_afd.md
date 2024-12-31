@@ -1,6 +1,6 @@
 # Anfragen von Weiß, Thorsten (AfD)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Juni 2024
 **[Abordnung und Umsetzung von Lehrkräften](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19389.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Melzer, Heiko (CDU)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## März 2022
 **[MSA an Integrierten Sekundarschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11276.pdf)**

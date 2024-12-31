@@ -1,6 +1,6 @@
 # Anfragen von Kurt, Taylan (Grüne)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Januar 2023
 **[Schimmel in der Carl-Bolle-Grundschule in Moabit?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14468.pdf)**

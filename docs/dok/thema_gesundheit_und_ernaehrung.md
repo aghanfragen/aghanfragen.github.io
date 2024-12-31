@@ -1,6 +1,6 @@
 # Thema: Gesundheit und Ernährung
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 Zugeordnete Schlagworte: Gesundheit und Ernährung, COVID-19, Epidemie, Ernährung, Gesundheitseinrichtungen, Gesundheitspolitik, Gesundheitsschutz, Gesundheitsvorsorge, Gesundheitswesen, Hygiene, Impfung, Klima, Krankheit, Luftreinhaltung, Quarantäne, Rettungswesen, Schadstoff, Schadstoffe, Immissionen, Emissionen, Schulreform, Schulverpflegung, Schutzmaske, Sexualität, Therapie, Tod, Unfall, Verkehrssicherheit, Verpflegung
 

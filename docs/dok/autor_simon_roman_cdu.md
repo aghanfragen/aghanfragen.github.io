@@ -1,6 +1,6 @@
 # Anfragen von Simon, Roman (CDU)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Dezember 2022
 **[Personalausstattung in den Kindergärten - Theorie und rot-grün-rote Praxis](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-13967.pdf)**

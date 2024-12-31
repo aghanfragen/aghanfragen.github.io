@@ -1,6 +1,6 @@
 # Anfragen von Schlüsselburg, Sebastian (Die Linke)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Oktober 2023
 **[Schulplatzsituation im Fennpfuhl](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16885.pdf)**

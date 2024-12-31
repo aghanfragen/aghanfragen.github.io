@@ -1,6 +1,6 @@
 # Anfragen von Wiedenhaupt, Rolf (AfD)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Juli 2024
 **[Berliner Verkehrsschulen quo vadis?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19553.pdf)**

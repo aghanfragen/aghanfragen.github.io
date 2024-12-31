@@ -1,6 +1,6 @@
 # Bezirk Reinickendorf
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## November 2024
 **[Nichtbeschulung an den Aufnahmezentren Tegel und Tempelhof: Status und Wartezeiten für Kinder und Jugendliche](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20758.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Gebel, Silke (Grüne)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## September 2024
 **[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**

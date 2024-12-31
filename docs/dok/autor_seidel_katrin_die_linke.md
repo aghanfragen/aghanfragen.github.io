@@ -1,6 +1,6 @@
 # Anfragen von Seidel, Katrin (Die Linke)
 
-Stand: 23.12.2024 22:02
+Stand: 30.12.2024 22:02
 
 ## Dezember 2024
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
