@@ -1,6 +1,6 @@
 # Anfragen von Omar, Jian (Grüne)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Februar 2023
 **[Beschulung und Bildungsangebote für geflüchtete Kinder und Jugendliche (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14564.pdf)**

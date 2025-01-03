@@ -1,6 +1,6 @@
 # Thema: Integration
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Integration, Asylbewerber, Ausländer, Ausländerintegration, Ausländer, Migranten, Europaschule, Flüchtling, Flüchtlingsunterbringung, Integrationspolitik, Islam, Mensch mit Migrationshintergrund, Osteuropa, Sprache, Sprachförderung, Staatsangehörigkeit
 

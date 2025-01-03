@@ -1,6 +1,6 @@
 # Thema: Grundschule
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Grundschule, Einschulung, Kinderbetreuung
 

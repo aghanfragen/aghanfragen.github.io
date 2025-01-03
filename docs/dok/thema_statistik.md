@@ -1,10 +1,14 @@
 # Thema: Statistik
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Statistik, Bildungsstatistik
 
 ## Dezember 2024
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)

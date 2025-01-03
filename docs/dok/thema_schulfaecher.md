@@ -1,6 +1,6 @@
 # Thema: Schulfächer
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Schulfächer, Lehrplan, Schulfach, Bildende Kunst, Darstellende Kunst, Gebärdensprache, Politische Bildung, Sport
 
@@ -158,6 +158,10 @@ Themen: [Finanzen](thema_finanzen.md), [Personal](thema_personal.md), [Schulfäc
 Themen: [Inklusion](thema_inklusion.md), [Schulfächer](thema_schulfaecher.md), [Schulfächer:Gebärdensprache](thema_schulfaecher_gebaerdensprache.md)
 
 ## Politische Bildung
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Themen: [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Vielfalt](thema_vielfalt.md)

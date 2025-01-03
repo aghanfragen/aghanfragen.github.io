@@ -1,6 +1,6 @@
 # Anfragen von Schmidt, Ines (Die Linke)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Februar 2024
 **[Auskömmliche ergänzende Kinderbetreuung garantieren](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18253.pdf)**

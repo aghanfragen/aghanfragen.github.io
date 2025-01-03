@@ -1,6 +1,6 @@
 # Anfragen von Wohlert, Björn (CDU)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Juli 2022
 **[Grundschulneubau in Reinickendorf-Ost – eine unendliche Geschichte (Teil 8)im Nachgang zu den Schriftlichen Anfragen des Abgeordneten Burkard Dregger vom 22.01.2020 (Drs. 18/22270), 09.03.2020 (Drs. 18/22928), 02.10.2020 (Drs. 18/25168), 26.10.2020 (Drs. 18/25379), 10.02.2021 (Drs. 18/26596), 25.03.2021 (Drs. 18/27117) und 22.06.2021 (Drs. 18/27999)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12494.pdf)**

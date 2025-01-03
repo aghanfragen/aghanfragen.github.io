@@ -1,6 +1,6 @@
 # Anfragen von AfD
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## November 2024
 **[Kosten für Klassenfahrten in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20817.pdf)**

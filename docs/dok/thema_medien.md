@@ -1,6 +1,6 @@
 # Thema: Medien
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Medien, Landesinstitut für Schule und Medien Berlin-Brandenburg (LISUM), Lehr- und Lernmittel, Medienpädagogik
 

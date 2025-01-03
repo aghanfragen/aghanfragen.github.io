@@ -1,6 +1,6 @@
 # Anfragen von Franco, Vasili (Grüne)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Februar 2023
 **[Freie Schule Mahlsdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14803.pdf)**

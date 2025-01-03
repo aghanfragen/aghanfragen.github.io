@@ -1,6 +1,6 @@
 # Bezirk Spandau
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Oktober 2024
 **[Spandau: Ekeltoiletten Robert-Reinick-Grundschule (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20456.pdf)**

@@ -1,8 +1,12 @@
 # Anfragen von Seidel, Katrin (Die Linke)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Dezember 2024
+**[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20980.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Integration](thema_integration.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)

@@ -1,6 +1,6 @@
 # Anfragen von Fresdorf, Paul (FDP)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## März 2023
 **[Nahariya-Grundschule](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14851.pdf)**

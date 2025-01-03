@@ -1,6 +1,6 @@
 # Themen
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 [Berufsbildung](thema_berufsbildung.md)
 [Bezirke](thema_bezirke.md)

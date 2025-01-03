@@ -1,6 +1,6 @@
 # Anfragen von Trefzer, Martin (AfD)
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## November 2023
 **[Religionsunterricht in Berlin: Art. 141 GG („Bremer Klausel”) und Art. 21 Reichskonkordat](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17111.pdf)**

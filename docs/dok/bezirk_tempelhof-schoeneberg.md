@@ -1,6 +1,6 @@
 # Bezirk Tempelhof-Schöneberg
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## Dezember 2024
 **[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**

@@ -1,10 +1,14 @@
 # Thema: Gebäude und Standorte
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 Zugeordnete Schlagworte: Gebäude und Standorte, Architekt, Asbest, Baufinanzierung, Baugenehmigung, Bauordnungsrecht, Bauplanung, Bausanierung, Bauwesen, Bebauungsplan, Bibliothek, Brandschutz, Energie, Energiepreis, Energieverbrauch, Erbbaurecht, Gebäude, Gehweg, Grünfläche, Grundstück, Infrastruktur, Internet, Liegenschaftsverwaltung, Neubau, Planfeststellung, Sanitäranlage, Schadstoff, Schulausstattung, Schulbau, Schulgebäude, Schulgeld, Schulhof, Schulweg, Sporthalle, Sportplatz, Sportstättenbau, Städtebau, Verkehrsplanung
 
 ## Dezember 2024
+**[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)

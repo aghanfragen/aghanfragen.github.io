@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -1366,6 +1366,11 @@ Schlagworte: Bezirk (Gebietskörperschaft), Bildung, Bildungspolitik, COVID-19, 
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statistik](thema_statistik.md)
 
 ## Bildungspolitik
+**[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
+[Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Schlagworte: Bausanierung, Bildungspolitik, Frühkindliche Bildung, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md)
+
 **[Mittelabfluss der Präventionsmittel gegen Antisemitismus und Rassismus](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20789.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.11.2024
 Schlagworte: Antisemitismus, Bildung, Bildungspolitik, Diskriminierung, Freier Träger, Gewaltprävention, Ideologie, Lehrerbildung, Rechtsextremismus, Religion, Religionsgemeinschaft, Schule, Statistik, Öffentliche Mittel, Öffentlicher Auftrag, Öffentlicher Haushalt
@@ -1857,6 +1862,11 @@ Schlagworte: Abitur, Allgemeinbildende Schulen, Bundeswehr, Lehr- und Lernmittel
 Themen: [Medien](thema_medien.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schulfächer](thema_schulfaecher.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Bürgerbeteiligung
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Bürgerbeteiligung, Jugendarbeit, Kinder, Jugendliche, Politische Bildung, Politische Kräfte, Schüler, Statistik, Öffentliche Mittel
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Schulneubau am Auerbacher Ring in Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19709.pdf)**
 [Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.07.2024
 Schlagworte: Bauplanung, Bürgerbeteiligung, Gemeinschaftsschule, Information, Marzahn-Hellersdorf, Neubau, Schulen, Städtebau, Ökologisches Bauen
@@ -4633,6 +4643,11 @@ Schlagworte: Bezirk (Gebietskörperschaft), Jugendamt, Personalplanung, Sozialle
 Schlagworte: Finanzierung, Freier Träger, Freizeit, Jugendamt, Jugendarbeit, Kinder, Jugendliche, Marzahn-Hellersdorf
 
 ## Jugendarbeit
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Bürgerbeteiligung, Jugendarbeit, Kinder, Jugendliche, Politische Bildung, Politische Kräfte, Schüler, Statistik, Öffentliche Mittel
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Soziale Infrastruktur für Kinder und Jugendliche in den neuen Geflüchteten-Unterkünften in Lichtenberg](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20882.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
 Schlagworte: Ausländerintegration, Flüchtlingsunterbringung, Freier Träger, Gesellschaft, Bevölkerung, Integrationspolitik, Jugendarbeit, Landesamt für Flüchtlingsangelegenheiten, Lichtenberg, Schulausstattung, Schule, Schulen, Schulpolitik
@@ -5261,6 +5276,11 @@ Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), COVID-19,
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Kinder, Jugendliche
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Bürgerbeteiligung, Jugendarbeit, Kinder, Jugendliche, Politische Bildung, Politische Kräfte, Schüler, Statistik, Öffentliche Mittel
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
+
 **[Umzug der Erstaufnahme- und Clearingstelle (EAC) für unbegleitete minderjährige Geflüchtete](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21021.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.12.2024
 Schlagworte: Ausländer, Migranten, Flüchtling, Freier Träger, Kinder, Jugendliche, Kinder- und Jugendhilfe, Kinder- und Jugendliche, Kosten
@@ -7742,6 +7762,10 @@ Schlagworte: Allgemeinbildende Schulen, Bausanierung, Denkmalschutz, Denkmalschu
 Themen: [Bezirk Treptow-Köpenick](bezirk_treptow-koepenick.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Kulturpolitik
+**[Auswirkungen der Haushaltskürzungen auf Neukölln](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21076.pdf)**
+[Koçak, Ferat](autor_kocak_ferat_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 17.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Haushaltsgesetz, Kulturpolitik, Neukölln, Sozialpolitik, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+
 **[Deutsch-Französischer Freundschaftsvertrag / Kultur- und Sprachförderung (Teil 1)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12071.pdf)**
 [Wohlert, Björn](autor_wohlert_bjoern_cdu.md) ([CDU](fraktion_cdu.md)) - 22.06.2022
 Schlagworte: Bevölkerungsstatistik, Bezirk (Gebietskörperschaft), Internationale Beziehungen, Kulturförderung, Kulturpolitik, Kunst, Kultur, Schule, Schüler, Sprachförderung
@@ -9206,6 +9230,12 @@ Schlagworte: Jugendamt, Kinder, Jugendliche, Kinder- und Jugendhilfe, Pflegekind
 Kentler-Experiment (Sexueller Missbrauch von pädophilen Pflegevätern an Pflegekindern in den 60/70 Jahren
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 06.07.2022
 Schlagworte: Kinder, Jugendliche, Pflegekind, Sexueller Missbrauch, Strafrecht, Öffentlicher Auftrag
+
+## Politische Kräfte
+**[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Bezirksverwaltung, Bürgerbeteiligung, Jugendarbeit, Kinder, Jugendliche, Politische Bildung, Politische Kräfte, Schüler, Statistik, Öffentliche Mittel
+Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
 
 ## Polizei
 **[Stand der Planungen bei der Kita „Blaulichter” und weiteren Angeboten für Schichtarbeiter bei der Polizei und Feuerwehr](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15357.pdf)**
@@ -14512,6 +14542,10 @@ Schlagworte: Freier Träger, Privatschulen, Schulgeld, Schulrecht, Sozialpädago
 Themen: [Finanzen](thema_finanzen.md), [Freie Schulen](thema_freie_schulen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Soziales](thema_soziales.md), [Statistik](thema_statistik.md)
 
 ## Sozialpolitik
+**[Auswirkungen der Haushaltskürzungen auf Neukölln](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21076.pdf)**
+[Koçak, Ferat](autor_kocak_ferat_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 17.12.2024
+Schlagworte: Bezirk (Gebietskörperschaft), Haushaltsgesetz, Kulturpolitik, Neukölln, Sozialpolitik, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
+
 **[Strategie gegen Obdachlosigkeit junger Menschen im Land Berlin – Streichung der Unterbringungsmöglichkeiten junger Menschen über §13.3 SGB VIII verhindern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19932.pdf)**
 [Knack, Lisa-Bettina](autor_knack_lisa-bettina_cdu.md) ([CDU](fraktion_cdu.md)) - 21.08.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Flüchtling, Jugendarbeit, Jugendlicher, Kinder- und Jugendhilfe, Neukölln, Sonstige gesellschaftliche Gruppen, Sozialleistung, Sozialleistungen, Sozialpolitik, Sozialpädagogik, Statistik, Öffentlicher Haushalt

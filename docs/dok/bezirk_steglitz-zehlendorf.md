@@ -1,6 +1,6 @@
 # Bezirk Steglitz-Zehlendorf
 
-Stand: 30.12.2024 22:02
+Stand: 02.01.2025 22:02
 
 ## August 2024
 **[Abriss und Neubau der Mercator-Grundschule in Lichterfelde Süd](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19750.pdf)**
