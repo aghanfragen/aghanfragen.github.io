@@ -1,8 +1,21 @@
 # Aktuelle Dokumente
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Dokumente, die in den letzten 30 Tagen beantwortet worden sind.
+
+## Dec 20, 2024
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## Dec 18, 2024
 **[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
@@ -34,14 +47,4 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindli
 **[Versorgungsgrad in Kita und Tagespflege 2023 (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20981.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 12.12.2024
 Themen: [Freie Schulen](thema_freie_schulen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
-
-## Dec 5, 2024
-**[Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20924.pdf)**
-[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 05.12.2024
-Themen: [Bezirke](thema_bezirke.md), [Grundschule](thema_grundschule.md), [Statistik](thema_statistik.md)
-
-## Dec 4, 2024
-**[Videospiele werden Glücksspiel: Gefahr durch Lootboxen für Kinder und Jugendliche?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20908.pdf)**
-[Lehmann, Jan](autor_lehmann_jan_spd.md) ([SPD](fraktion_spd.md)) - 04.12.2024
-Themen: [Medien](thema_medien.md)
 

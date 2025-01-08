@@ -1,6 +1,6 @@
 # Anfragen von Freymark, Danny (CDU)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Oktober 2024
 **[Serverkosten für Schulen realistisch gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20418.pdf)**
@@ -10,7 +10,7 @@ Themen: [Digitalisierung](thema_digitalisierung.md), [Finanzen](thema_finanzen.m
 ## September 2024
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Initiativen und Programme zur Schüler- und Seniorensicherheit im Berliner ÖPNV](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19825.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Dietmann, Michael (CDU)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Dezember 2023
 **[Geplante Bauvorhaben an der Chamisso-Grundschule, Märkisches Viertel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17627.pdf)**

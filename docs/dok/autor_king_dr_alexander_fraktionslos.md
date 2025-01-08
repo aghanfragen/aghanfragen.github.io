@@ -1,6 +1,6 @@
 # Anfragen von King, Dr. Alexander (fraktionslos)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## September 2024
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**

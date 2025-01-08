@@ -1,6 +1,6 @@
 # Nicht zugeordnete Stichworte
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## 
 **[Drucksache 19/15010 nachgefragt: Pflegeeltern – Angebote der Pflegeelternschulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15141.pdf)**
@@ -164,8 +164,8 @@ Themen: [Berufsbildung](thema_berufsbildung.md)
 ## Armut
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Schlagworte: Armut, Schulen, Schüler, Statistik
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Schlagworte: Armut, Qualitätssicherung, Schulen, Schüler, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 **[Stadtteilmutter im Jahre 2024](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19834.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 12.08.2024
@@ -267,6 +267,11 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Verwal
 **[Jugendbericht und jugendpolitische Leitlinien](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20392.pdf)**
 [Tabor, Tommy](autor_tabor_tommy_afd.md) ([AfD](fraktion_afd.md)) - 02.10.2024
 Schlagworte: Ausschreibung, Familienpolitik, Gesetzgebung, Kinder, Jugendliche, Kinder- und Jugendhilfe
+
+**[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**
+[Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.09.2024
+Schlagworte: Ausschreibung, Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
+Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Straße 51-52](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20272.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 19.09.2024
@@ -595,6 +600,11 @@ Schlagworte: Allgemeinbildende Schulen, Bausanierung, Behördenaufbau, Beruflich
 Themen: [Finanzen](thema_finanzen.md), [Ganztag](thema_ganztag.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Beratung
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Arbeitsschutz, Beratung, Berufsausbildung, Berufsbildende Schule, Gesundheitsschutz, Jugendlicher, Personalplanung, Sozialarbeit, Statistik
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Muss das Kind namenslos bleiben? Wartezeiten für Geburtsurkunden und Elterngeldanträge](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20498.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 16.10.2024
 Schlagworte: Beratung, Bezirk (Gebietskörperschaft), Bezirksverwaltung, Digitalisierung, E-Government, Personalplanung, Statistik, Verwaltungsverfahren, Öffentliche Verwaltung
@@ -1366,6 +1376,11 @@ Schlagworte: Bezirk (Gebietskörperschaft), Bildung, Bildungspolitik, COVID-19, 
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Statistik](thema_statistik.md)
 
 ## Bildungspolitik
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Informationssystem, Schule, Schulrecht, Sprache
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
 Schlagworte: Bausanierung, Bildungspolitik, Frühkindliche Bildung, Öffentliche Mittel
@@ -3245,6 +3260,11 @@ Schlagworte: Fußgänger, Grundschule, Straßenverkehr, Straßenverkehrsunfall, 
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 ## Gartenbau
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Schlagworte: Gartenbau, Personalplanung, Pädagoge, Schulen, Schüler, Statistik
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Gartenarbeitsschule Lichtenberg fördern und unterstützen (10318 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17624.pdf)**
 [Usik, Lilia](autor_usik_lilia_cdu.md) ([CDU](fraktion_cdu.md)) - 28.12.2023
 Schlagworte: Allgemeinbildende Schulen, Bezirk (Gebietskörperschaft), Gartenbau, Gebäude, Lichtenberg, Statistik, Öffentliche Mittel
@@ -4874,6 +4894,11 @@ Schlagworte: Gewalt, Innere Sicherheit, Jugendgericht, Kinder- und Jugendhilfe, 
 Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Sozialklima](thema_sozialklima.md)
 
 ## Jugendlicher
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Arbeitsschutz, Beratung, Berufsausbildung, Berufsbildende Schule, Gesundheitsschutz, Jugendlicher, Personalplanung, Sozialarbeit, Statistik
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
 [Lenz, Stephan](autor_lenz_stephan_cdu.md) ([CDU](fraktion_cdu.md)) - 13.11.2024
 Schlagworte: Antisemitismus, Bildung, Ideologien, Jugendlicher, Linksextremismus, Politische Bildung, Publikation, Rechtsextremismus, Schüler, Website
@@ -9667,6 +9692,11 @@ Schlagworte: Beratung, Berufliche Weiterbildung, Familienrecht, Jugendamt, Juris
 Themen: [Personal](thema_personal.md)
 
 ## Schule
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Informationssystem, Schule, Schulrecht, Sprache
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
 [Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
 Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
@@ -9816,7 +9846,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schul
 
 **[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**
 [Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.09.2024
-Schlagworte: Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
+Schlagworte: Ausschreibung, Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Bilanz ziehen: Welche Folgen hat die Erhöhung der Pflichtstunden von Referendar\*innen und die Aussetzung des Profilbedarfs II?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20188.pdf)**
@@ -11082,6 +11112,11 @@ Schlagworte: Hochschule, Hochschulwesen, Lehrer, Rettungswesen, Schule, Schulen,
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Schulen
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Schlagworte: Gartenbau, Personalplanung, Pädagoge, Schulen, Schüler, Statistik
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
 Schlagworte: Personalplanung, Schulen, Schulhof, Statistik
@@ -11292,7 +11327,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Schül
 
 **[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**
 [Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.09.2024
-Schlagworte: Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
+Schlagworte: Ausschreibung, Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Bilanz ziehen: Welche Folgen hat die Erhöhung der Pflichtstunden von Referendar\*innen und die Aussetzung des Profilbedarfs II?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20188.pdf)**
@@ -11327,8 +11362,13 @@ Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfo
 
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Schlagworte: Armut, Schulen, Schüler, Statistik
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Schlagworte: Armut, Qualitätssicherung, Schulen, Schüler, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
+Schlagworte: Bauplanung, Bausanierung, Grundschule, Marzahn-Hellersdorf, Schulen, Straßenverkehr, Verkehrssicherheit
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **[Turnhalle der Nelson Mandela Schule in der Pfalzburger Straße/Günzel Straße](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19941.pdf)**
 [Dörstelmann, Florian](autor_doerstelmann_florian_spd.md) ([SPD](fraktion_spd.md)) - 20.08.2024
@@ -13868,6 +13908,11 @@ Schlagworte: Allgemeinbildende Schulen, Flüchtling, Osteuropa, Schule, Schulkla
 Themen: [Integration](thema_integration.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Schulrecht
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Informationssystem, Schule, Schulrecht, Sprache
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
 **[Finanzierung der Gemeinschaftsschulen im Doppelhaushalt 2024/2025](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20883.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 29.11.2024
 Schlagworte: Bezirk (Gebietskörperschaft), Gemeinschaftsschule, Neubau, Oberschule, Schule, Schulen, Schulrecht, Statistik, Öffentliche Mittel, Öffentlicher Haushalt
@@ -14270,6 +14315,11 @@ Schlagworte: Gewalt, Innere Sicherheit, Schulen, Sicherheitsunternehmen (Bewachu
 Themen: [Sozialklima](thema_sozialklima.md)
 
 ## Sozialarbeit
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Arbeitsschutz, Beratung, Berufsausbildung, Berufsbildende Schule, Gesundheitsschutz, Jugendlicher, Personalplanung, Sozialarbeit, Statistik
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
 **[Friedrich-Bergius-Schule in Friedenau](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20975.pdf)**
 [Özdemir, Orkan](autor_oezdemir_orkan_spd.md) ([SPD](fraktion_spd.md)) - 12.12.2024
 Schlagworte: Schule, Schulen, Sozialarbeit, Sozialpädagogik, Statistik, Tempelhof-Schöneberg, Unterricht
@@ -14907,8 +14957,8 @@ Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Gebäude und Standorte](th
 ## Straßenverkehr
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 [Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
-Schlagworte: Grundschule, Straßenverkehr, Verkehrssicherheit
-Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+Schlagworte: Bauplanung, Bausanierung, Grundschule, Marzahn-Hellersdorf, Schulen, Straßenverkehr, Verkehrssicherheit
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**
 [Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 29.08.2024
@@ -16167,7 +16217,7 @@ Themen: [Inklusion](thema_inklusion.md), [Schülerinnen und Schüler](thema_schu
 
 **[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**
 [Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.09.2024
-Schlagworte: Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
+Schlagworte: Ausschreibung, Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Sozialräumliche Vernetzung von Schulen: Koordination auf Schul-, Bezirks- und Landesebene](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19862.pdf)**

@@ -1,10 +1,18 @@
 # Thema: Statistik
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Statistik, Bildungsstatistik
 
 ## Dezember 2024
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Welche Formate der Kinder- und Jugendbeteiligung gibt es in den Berliner Bezirken?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21046.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Schulfächer:Politische Bildung](thema_schulfaecher_politische_bildung.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Verwaltung](thema_verwaltung.md)
@@ -147,7 +155,7 @@ Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfo
 
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Quereinstieg - Mehr Wege in den Lehrkräfteberuf schaffen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19975.pdf)**

@@ -1,6 +1,6 @@
 # Thema: Qualität und Erfolg
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Qualität und Erfolg, Abitur, Bildungsabschluss, Förderunterricht, Forschung, Prüfung, Qualitätssicherung, Schulaufsicht
 
@@ -47,6 +47,10 @@ Themen: [Bezirke](thema_bezirke.md), [Frühkindliche Bildung](thema_fruehkindlic
 **[Ergebnisse der aktuellen VERA-8-Vergleichsarbeiten - Nachfrage](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20077.pdf)**
 [King, Dr. Alexander](autor_king_dr_alexander_fraktionslos.md) ([fraktionslos](fraktion_fraktionslos.md)) - 06.09.2024
 Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Quereinstieg - Mehr Wege in den Lehrkräfteberuf schaffen!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19975.pdf)**

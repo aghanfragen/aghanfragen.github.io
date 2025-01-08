@@ -1,6 +1,6 @@
 # Anfragen von CDU
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## November 2024
 **[Berliner Landeszentrale für politische Bildung - Politische Bildung als Extremismusprävention](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20716.pdf)**
@@ -27,7 +27,7 @@ Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Gebäude und Standorte](th
 ## September 2024
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**

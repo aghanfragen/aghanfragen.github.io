@@ -1,6 +1,6 @@
 # Irrelevante Anfragen des letzten Monats
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 **[Umzug der Erstaufnahme- und Clearingstelle (EAC) für unbegleitete minderjährige Geflüchtete](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21021.pdf)**
 [Burkert-Eulitz, Marianne](autor_burkert-eulitz_marianne_gruene.md) ([Grüne](fraktion_gruene.md)) - 18.12.2024

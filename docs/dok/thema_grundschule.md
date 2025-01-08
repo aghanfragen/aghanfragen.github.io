@@ -1,6 +1,6 @@
 # Thema: Grundschule
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Grundschule, Einschulung, Kinderbetreuung
 
@@ -31,7 +31,7 @@ Themen: [Frühkindliche Bildung](thema_fruehkindliche_bildung.md), [Grundschule]
 ## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 [Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
-Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**
 [Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 29.08.2024

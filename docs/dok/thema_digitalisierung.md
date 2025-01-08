@@ -1,8 +1,13 @@
 # Thema: Digitalisierung
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Digitalisierung, Datenschutz, Elektronische Aktenführung, Hardware, Informations- und Kommunikationstechnologien, Informations- und Kommunikationstechnik, Informationssicherheit, Informationssystem, Internet, ITDZ Berlin, Software, WLAN
+
+## Dezember 2024
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## Oktober 2024
 **[Digital zum Kita-Platz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20566.pdf)**

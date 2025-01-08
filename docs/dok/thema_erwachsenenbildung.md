@@ -1,6 +1,6 @@
 # Thema: Erwachsenenbildung
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Erwachsenenbildung
 

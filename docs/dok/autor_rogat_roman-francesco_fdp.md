@@ -1,6 +1,6 @@
 # Anfragen von Rogat, Roman-Francesco (FDP)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## April 2022
 **[Barrierefreiheit und Inklusion in den Schulen von Marzahn-Hellersdorf](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11403.pdf)**

@@ -1,6 +1,6 @@
 # Anfragen von Brousek, Antonin (fraktionslos)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Oktober 2024
 **["2 x 3 macht 4 Widdewiddewitt und Drei macht Neune" an Berliner Schulen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20605.pdf)**

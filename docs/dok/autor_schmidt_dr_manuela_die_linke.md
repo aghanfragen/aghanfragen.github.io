@@ -1,6 +1,6 @@
 # Anfragen von Schmidt, Dr. Manuela (Die Linke)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## März 2024
 **[Baumfällungen und Schulneubau in der Bruno-Baum-Straße (Marzahn)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-18543.pdf)**

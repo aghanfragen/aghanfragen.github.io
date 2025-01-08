@@ -1,8 +1,13 @@
 # Thema: Gesundheit und Ernährung
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Gesundheit und Ernährung, COVID-19, Epidemie, Ernährung, Gesundheitseinrichtungen, Gesundheitspolitik, Gesundheitsschutz, Gesundheitsvorsorge, Gesundheitswesen, Hygiene, Impfung, Klima, Krankheit, Luftreinhaltung, Quarantäne, Rettungswesen, Schadstoff, Schadstoffe, Immissionen, Emissionen, Schulreform, Schulverpflegung, Schutzmaske, Sexualität, Therapie, Tod, Unfall, Verkehrssicherheit, Verpflegung
+
+## Dezember 2024
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## Oktober 2024
 **[Spandau: Ekeltoiletten Robert-Reinick-Grundschule (Teil 2)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20456.pdf)**
@@ -33,7 +38,7 @@ Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualit
 ## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 [Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
-Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**
 [Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 29.08.2024

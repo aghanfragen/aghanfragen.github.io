@@ -1,6 +1,6 @@
 # Anfragen von Standfuß, Stephan (CDU)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## August 2022
 **[Leistungsprämien in der Senatsverwaltung für Bildung, Jugend und Familie](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12602.pdf)**

@@ -1,6 +1,6 @@
 # Thema: Finanzen
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Finanzen, Baufinanzierung, Besoldung, Bildungsfinanzierung, Finanzhilfe, Finanzierung, Finanzzuweisung, Honorar, Investition, Kosten, Öffentliche Mittel, Personalkosten, Schulfinanzierung, Schulgeld, Subvention, Zahlungsunfähigkeit, Öffentlicher Auftrag, Öffentlicher Haushalt
 
@@ -135,6 +135,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 **[Urban Dance goes professionell - Wie laufen die Tanzangebote als sportlicherErgänzungsunterricht an?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20095.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 12.09.2024
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
+
+**[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
+[Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Sachbeschädigung im Umfeld der Nils-Holgersson-Schule (Otto-Marquardt-Straße 12-14, 10369 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20007.pdf)**

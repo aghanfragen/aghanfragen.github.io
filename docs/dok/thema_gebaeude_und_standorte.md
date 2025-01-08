@@ -1,6 +1,6 @@
 # Thema: Gebäude und Standorte
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Gebäude und Standorte, Architekt, Asbest, Baufinanzierung, Baugenehmigung, Bauordnungsrecht, Bauplanung, Bausanierung, Bauwesen, Bebauungsplan, Bibliothek, Brandschutz, Energie, Energiepreis, Energieverbrauch, Erbbaurecht, Gebäude, Gehweg, Grünfläche, Grundstück, Infrastruktur, Internet, Liegenschaftsverwaltung, Neubau, Planfeststellung, Sanitäranlage, Schadstoff, Schulausstattung, Schulbau, Schulgebäude, Schulgeld, Schulhof, Schulweg, Sporthalle, Sportplatz, Sportstättenbau, Städtebau, Verkehrsplanung
 
@@ -89,6 +89,10 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude un
 Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Schulfächer:Sport](thema_schulfaecher_sport.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 ## August 2024
+**[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+
 **[Sachbeschädigung im Umfeld der Nils-Holgersson-Schule (Otto-Marquardt-Straße 12-14, 10369 Berlin)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20007.pdf)**
 [Haustein, Dennis](autor_haustein_dennis_cdu.md) ([CDU](fraktion_cdu.md)) - 22.08.2024
 Themen: [Bezirk Lichtenberg](bezirk_lichtenberg.md), [Finanzen](thema_finanzen.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Inklusion](thema_inklusion.md), [Sozialklima](thema_sozialklima.md), [Verwaltung](thema_verwaltung.md)

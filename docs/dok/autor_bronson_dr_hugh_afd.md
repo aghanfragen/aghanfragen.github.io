@@ -1,6 +1,6 @@
 # Anfragen von Bronson, Dr. Hugh (AfD)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Juni 2024
 **[Schule, Ausbildung, Beruf und demographische Zukunft](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19182.pdf)**

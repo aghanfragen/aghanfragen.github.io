@@ -1,6 +1,6 @@
 # Anfragen von Förster, Christopher (CDU)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Juni 2022
 **[Programm „Kinder begegnen Religion(en)”](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12017.pdf)**

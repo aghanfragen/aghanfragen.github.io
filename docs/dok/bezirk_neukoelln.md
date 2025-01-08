@@ -1,6 +1,6 @@
 # Bezirk Neukölln
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## September 2024
 **[Sachstand zum geplanten Kita-Neubau in der Harzer Straße 51-52](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20272.pdf)**

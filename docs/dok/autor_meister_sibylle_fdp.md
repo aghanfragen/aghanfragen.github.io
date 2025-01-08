@@ -1,6 +1,6 @@
 # Anfragen von Meister, Sibylle (FDP)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Mai 2022
 **[Kosten und Ersparnisse von verbeamteten Lehrern](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11712.pdf)**

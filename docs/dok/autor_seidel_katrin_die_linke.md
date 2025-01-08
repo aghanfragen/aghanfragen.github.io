@@ -1,6 +1,6 @@
 # Anfragen von Seidel, Katrin (Die Linke)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Dezember 2024
 **[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**

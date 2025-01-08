@@ -1,6 +1,6 @@
 # Thema: Bezirke
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Bezirke, Bezirk (Gebietskörperschaft), Charlottenburg-Wilmersdorf, Mitte, Friedrichshain-Kreuzberg, Pankow, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg, Reinickendorf
 
@@ -1416,6 +1416,10 @@ Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Personal](
 **[Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf zum Schuljahr 2024/25](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20114.pdf)**
 [Ronneburg, Kristian](autor_ronneburg_kristian_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 11.09.2024
 Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
+**[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
+[Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **["Klassenzimmer der Zukunft" in Hellersdorf – keine Zukunft für die außerschulische Bildung?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19861.pdf)**
 [Krüger, Louis](autor_krueger_louis_gruene.md) ([Grüne](fraktion_gruene.md)) - 15.08.2024

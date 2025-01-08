@@ -1,8 +1,13 @@
 # Thema: Weiterführende Schule
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Weiterführende Schule, Allgemeinbildende Schulen, Gymnasium, Integrierte Sekundarschule
+
+## Dezember 2024
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
 
 ## November 2024
 **[Bilanz zweiter Bildungsweg - Kollegs und Abendschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20880.pdf)**

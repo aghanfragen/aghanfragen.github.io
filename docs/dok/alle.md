@@ -1,8 +1,23 @@
 # Komplette Liste der Dokumente
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Dezember 2024
+**[Erfassung der Erstsprachen in der Berliner Lehrkräfte-Schul-Unterrichts-Datenbank (LUSD)](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21102.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Allgemeinbildende Schulen, Bildungspolitik, Informationssystem, Schule, Schulrecht, Sprache
+Themen: [Digitalisierung](thema_digitalisierung.md), [Integration](thema_integration.md), [Weiterführende Schule](thema_weiterfuehrende_schule.md)
+
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Schlagworte: Arbeitsschutz, Beratung, Berufsausbildung, Berufsbildende Schule, Gesundheitsschutz, Jugendlicher, Personalplanung, Sozialarbeit, Statistik
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Schlagworte: Gartenbau, Personalplanung, Pädagoge, Schulen, Schüler, Statistik
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Kitasanierung 2025 - Erhalt von Kitaplätzen im Bestand](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21081.pdf)**
 [Seidel, Katrin](autor_seidel_katrin_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 18.12.2024
 Schlagworte: Bausanierung, Bildungspolitik, Frühkindliche Bildung, Öffentliche Mittel
@@ -392,7 +407,7 @@ Themen: [Bezirke](thema_bezirke.md), [Finanzen](thema_finanzen.md), [Freie Schul
 
 **[Wie löst der Senat das Chaos beim Schulmittagessen?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20264.pdf)**
 [Gebel, Silke](autor_gebel_silke_gruene.md) ([Grüne](fraktion_gruene.md)) - 21.09.2024
-Schlagworte: Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
+Schlagworte: Ausschreibung, Ernährung, Qualitätssicherung, Schule, Schulen, Schüler, Vergaberecht, Zuständigkeit (Verwaltung)
 Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Verwaltung](thema_verwaltung.md)
 
 **[Bilanz ziehen: Welche Folgen hat die Erhöhung der Pflichtstunden von Referendar\*innen und die Aussetzung des Profilbedarfs II?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20188.pdf)**
@@ -452,14 +467,14 @@ Themen: [Gemeinschaftsschule](thema_gemeinschaftsschule.md), [Qualität und Erfo
 
 **[Soziale Durchmischung von Schulen sicherstellen: Transparenz herstellen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20041.pdf)**
 [Freymark, Danny](autor_freymark_danny_cdu.md) ([CDU](fraktion_cdu.md)) - 05.09.2024
-Schlagworte: Armut, Schulen, Schüler, Statistik
-Themen: [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+Schlagworte: Armut, Qualitätssicherung, Schulen, Schüler, Statistik, Öffentliche Mittel
+Themen: [Finanzen](thema_finanzen.md), [Qualität und Erfolg](thema_qualitaet_und_erfolg.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
 
 ## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 [Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
-Schlagworte: Grundschule, Straßenverkehr, Verkehrssicherheit
-Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+Schlagworte: Bauplanung, Bausanierung, Grundschule, Marzahn-Hellersdorf, Schulen, Straßenverkehr, Verkehrssicherheit
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 **[Schulweg zur Grundschule Schleizer Straße sicherer gestalten](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20010.pdf)**
 [Pätzold, Prof. Dr. Martin](autor_paetzold_prof_dr_martin_cdu.md) ([CDU](fraktion_cdu.md)) - 29.08.2024

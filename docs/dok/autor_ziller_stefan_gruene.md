@@ -1,11 +1,11 @@
 # Anfragen von Ziller, Stefan (Grüne)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## August 2024
 **[Sichere Schulwege für die Franz-Carl-Achard-Grundschule!](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20043.pdf)**
 [Ziller, Stefan](autor_ziller_stefan_gruene.md) ([Grüne](fraktion_gruene.md)) - 29.08.2024
-Themen: [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
+Themen: [Bezirk Marzahn-Hellersdorf](bezirk_marzahn-hellersdorf.md), [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Grundschule](thema_grundschule.md)
 
 ## Januar 2024
 **[Eine Spielstraße für die Franz-Carl-Achard-Grundschule?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17766.pdf)**

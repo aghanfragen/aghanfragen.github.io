@@ -1,6 +1,6 @@
 # Anfragen von Kluckert, Florian (FDP)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Dezember 2022
 **[Baumaßnahmen an der Fichtenberg Oberschule in Steglitz](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-14218.pdf)**

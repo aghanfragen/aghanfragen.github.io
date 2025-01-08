@@ -1,10 +1,18 @@
 # Thema: Personal
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Personal, Abordnung, Angestellter, Arbeitsbedingungen, Arbeitsentgelt, Arbeitszeit, Arbeitsschutz, Beamtenrecht, Beamtenversorgung, Beamter, Berufliche Weiterbildung, Besoldung, Erzieher, Fachkraft, Honorar, Laufbahnrecht, Lehramtsanwärter, Lehrer, Lehrerbildung, Lohn- und Gehaltstarif, Mehrarbeit, Öffentlicher Dienst, Pädagoge, Personalkosten, Personalplanung, Personalwesen, Quereinsteiger, Schulleiter, Schulpersonal, Sozialberuf, Studienfach, Studium, Teilzeitarbeit, Unterrichtsausfall an Schulen, Vergütung, Weiterbildung
 
 ## Dezember 2024
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
+
+**[Droht den Berliner Gartenarbeitsschulen das Aus?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21088.pdf)**
+[Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 20.12.2024
+Themen: [Personal](thema_personal.md), [Schülerinnen und Schüler](thema_schuelerinnen_und_schueler.md), [Statistik](thema_statistik.md)
+
 **[Schulhausmeister\*innenstellen, Vergütungen und Dienstwohnungen](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20984.pdf)**
 [Brychcy, Frankziska](autor_brychcy_frankziska_die_linke.md) ([Die Linke](fraktion_die_linke.md)) - 13.12.2024
 Themen: [Gebäude und Standorte](thema_gebaeude_und_standorte.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)

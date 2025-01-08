@@ -1,6 +1,6 @@
 # Anfragen von Hofer, Torsten (SPD)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Juni 2022
 **[Fahrraddiebstähle beim Max-Delbrück-Gymnasium (früher Friedrich-List-Gymnasium) in Niederschönhausen, Pankow](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12091.pdf)**

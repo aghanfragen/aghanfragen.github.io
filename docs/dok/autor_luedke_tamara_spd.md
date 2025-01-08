@@ -1,6 +1,6 @@
 # Anfragen von Lüdke, Tamara (SPD)
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 ## Juni 2024
 **[Verbeamtung und Lehrkräftemangel](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-19157.pdf)**

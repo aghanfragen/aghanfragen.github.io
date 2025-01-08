@@ -1,8 +1,13 @@
 # Thema: Berufsbildung
 
-Stand: 02.01.2025 22:02
+Stand: 07.01.2025 22:02
 
 Zugeordnete Schlagworte: Berufsbildung, Arbeitsmarkt, Arbeitsplatz, Ausbildungsförderung, Berufsausbildung, Berufsbildende Schule, Berufsbildende Schulen
+
+## Dezember 2024
+**[MentalHealthMatters! - Wie halten wir unsere Auszubildenden gesund?](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21100.pdf)**
+[Schedlich, Klara](autor_schedlich_klara_gruene.md) ([Grüne](fraktion_gruene.md)) - 20.12.2024
+Themen: [Berufsbildung](thema_berufsbildung.md), [Gesundheit und Ernährung](thema_gesundheit_und_ernaehrung.md), [Personal](thema_personal.md), [Statistik](thema_statistik.md)
 
 ## November 2024
 **[Bilanz zweiter Bildungsweg - Kollegs und Abendschulen in Berlin](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-20880.pdf)**
