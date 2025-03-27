@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>AGH-Anfragen Bildung</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">AGH-Anfragen Bildung</h1>
+        <p>Schriftliche Anfragen im Berliner Abgeordnetenhaus zu bildungspolitischen Themen</p>
+        <form id="filterForm" class="mb-4">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <select id="partySelect" class="form-select">
+                        <option value="">Alle Fraktionen</option>
+                    </select>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <select id="authorSelect" class="form-select">
+                        <option value="">Alle Abgeordnete</option>
+                    </select>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <select id="topicSelect" class="form-select">
+                        <option value="">Alle Themen</option>
+                    </select>
+                </div>
+                <div>
+                    <input id="searchInput" class="form-input" placeholder="Suchbegriff">
+                    <button type="submit" class="btn btn-primary btn-sm">Filtern</button>
+                    <button type="reset" class="btn btn-secondary btn-sm">Zurücksetzen</button>
+                </div>
+            </div>
+
+
+        </form>
+        <div id="results" class="row">
+            Daten werden geladen.
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script>
+        window.onerror = function(msg, url, linenumber) {
+            alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+            return true;
+        }
+
+        let timestamp = 0;
+        let urlPattern = '';
+        let data = [];
+        let parties = [];
+        let authors = [];
+        let topics = [];
+        let keywords = [];
+        let index;
+
+        const partySelect = document.getElementById('partySelect');
+        const authorSelect = document.getElementById('authorSelect');
+        const topicSelect = document.getElementById('topicSelect');
+        const searchInput = document.getElementById('searchInput')
+        const resultsDiv = document.getElementById('results');
+        const filterForm = document.getElementById('filterForm');
+
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('data2.json')
+                .then(res => res.json())
+                .then(out => {
+                    timestamp = out['Aktualisiert'];
+                    urlPattern = out['UrlPattern'];
+                    parties = out['Parteien'];
+                    authors = out['Autoren'];
+                    topics = out['Themen'];
+                    keywords = out['Stichworte'];
+                    data = out['Dokumente'];
+                    buildIndex()
+                    updateSelects();
+                    applyUrlParameters();
+                    displayFilteredData();
+                })
+                .catch(err => console.log(err));
+            filterForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                displayFilteredData();
+            });
+            filterForm.addEventListener('reset', function(e) {
+                e.preventDefault();
+                setSelectValues('','','')
+                displayFilteredData();
+            });
+            partySelect.onchange = function(_) {
+                setPartyAuthorsSelect();
+            }
+        })
+
+        function updateSelects() {
+            addOptions(partySelect, parties.toSorted());
+            addOptions(authorSelect, authors.toSorted());
+            addOptions(topicSelect, topics.toSorted());
+        }
+
+        function addOptions(select, optionsArray) {
+            while (select.options.length > 1) {
+                select.remove(1);
+            }
+            optionsArray.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option;
+                optionElement.textContent = option;
+                select.appendChild(optionElement);
+            });
+        }
+
+        function authorParty(author) {
+            const p1 = author.indexOf('(');
+            const p2 = author.indexOf(')',p1);
+            return p1>0 && p2>p1 ? author.substring(p1+1,p2) : '';
+        }
+
+        function setPartyAuthorsSelect() {
+            const party = partySelect.value
+            const partyAuthors = party ? authors.filter(n => n.includes('(' + party + ')')).sort() : authors.toSorted()
+            addOptions(authorSelect, partyAuthors)
+        }
+
+        function applyUrlParameters() {
+            const qv = getQueryVariables();
+            const party = qv["party"]??'';
+            const author = qv["author"]??'';
+            const topic = qv["topic"]??'';
+            setSelectValues(party,author,topic)
+            if(party) {
+                setPartyAuthorsSelect();
+            }
+        }
+
+        function getQueryVariables() {
+            const query = window.location.search.substring(1);
+            const vars = query.split("&");
+            const result = {}
+            for (let i=0; i<vars.length; i++) {
+                const pair = vars[i].split("=");
+                result[pair[0]] = decodeURIComponent(pair[1]);
+            }
+            return result;
+        }
+
+        function buildIndex() {index = lunr(function() {
+                this.field('text',{});
+                this.ref('id');
+                for (let ix in data) {
+                    let row = data[ix];
+                    this.add(
+                        {
+                            'id': ix,
+                            'text': row['Titel']+" "+row['Beschreibung']+" "+
+                                row['WP']+'/'+row['Nummer']+' '+new Date(row['Datum']).toLocaleDateString("de-DE")+' '+
+                                row['Autoren'].map(t=>authors[t]).join()+' '+
+                                row['Themen'].map(t=>topics[t]).join()
+                        }
+                    )
+                }
+            })
+
+        }
+
+        function createCard(row,url,keywords) {
+            const res =  `<!--div class="col-md-6 mb-4"-->
+					<div class="card">
+						<div class="card-body">
+							<!--h2 class="card-title">${htmlEscape(row['Titel'])}</h2-->
+							<strong>${htmlEscape(row['Titel'])}</strong>
+                            <p class="card-text">
+                                ${row['Beschreibung'] ? htmlEscape(row['Beschreibung'])+"<br />" : ""}
+                                <a href="${url}" target="_blank">Drucksache ${row['WP']}/${row['Nummer']} vom ${new Date(row['Datum']).toLocaleDateString("de-DE")}</a><br />
+                                Fraktion(en): ${createLinks(row['Parteien'], parties,'party')}<br />
+                                Abgeordnete(r): ${createLinks(row['Autoren'], authors, 'author')}<br />
+                                Themen: ${createLinks(row['Themen'], topics, 'topic')}
+                                ${keywords ? '<br />Schlagworte: '+keywords:''}
+                                ${!row['Relevant'] ? '<br />IRRELEVANT' : ''}
+                            </p>
+						</div>
+					</div>
+				    <!--/div-->
+			    `
+            return res
+        }
+
+        function displayFilteredData() {
+            const selectedParty = partySelect.value;
+            const selectedAuthor = authorSelect.value;
+            const selectedTopic = topicSelect.value;
+            const searchWord = searchInput.value;
+
+            let newState = []
+            if (selectedParty) newState.push("party="+selectedParty)
+            if (selectedAuthor) newState.push("author="+selectedAuthor)
+            if (selectedTopic) newState.push("topic="+selectedTopic)
+            history.pushState(null, "", "?"+newState.join("&"));
+
+            const complete = searchWord==='$complete';
+            let filteredData;
+
+            if (complete) {
+                filteredData = data;
+            } else {
+                const selectedPartyIndex = parties.indexOf(selectedParty);
+                const selectedAuthorIndex = authors.indexOf(selectedAuthor);
+                const selectedTopicIndex = topics.indexOf(selectedTopic);
+                let foundData;
+                if (searchWord) {
+                    const res = index.search(searchWord);
+                    foundData = res.map(item=>data[item['ref']])
+                } else {
+                    foundData = data;
+                }
+                filteredData = foundData.filter(row =>
+                    row["Relevant"] &&
+                    (selectedPartyIndex<0 || row['Parteien'].indexOf(selectedPartyIndex)>=0) &&
+                    (selectedAuthorIndex<0 || row['Autoren'].indexOf(selectedAuthorIndex)>=0) &&
+                    (selectedTopicIndex<0 || row['Themen'].indexOf(selectedTopicIndex)>=0)
+                );
+            }
+
+            if (filteredData.length===0) {
+                resultsDiv.innerHTML = "<p>Keine passenden Daten gefunden.</p>";
+                return;
+            }
+
+            filteredData.sort((a, b) => new Date(b['Datum']) - new Date(a['Datum']));
+
+            // URLPATTERN = "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf"
+
+            const html = `<p>${filteredData.length} Anfragen</p>`+filteredData.map(row => {
+                const kw = complete && row['Stichworte'] ? row['Stichworte'].map(w=>keywords[w]).join(', ') : '';
+                const url = urlPattern.replaceAll("{WP}",row['WP']).replaceAll("{DOCNUM}",row['Nummer']);
+                return createCard(row,url,kw);
+            }).join('');
+
+            resultsDiv.innerHTML = html;
+		}
+
+		function createLinks(itemIndices, list, type) {
+			return itemIndices.map(i =>
+				`<a href="javascript:void(0)" onclick="newQuery('${type}', '${list[i].trim()}')">${list[i].trim()}</a>`
+			).join(', ');
+		}
+
+        function setSelectValues(party,author,topic) {
+            if (party!=='*') {
+                partySelect.value = parties.includes(party) ? party : '';
+                setPartyAuthorsSelect();
+            }
+            if (author!=='*') {
+                if (authors.includes(author)) {
+                    authorSelect.value = author;
+                    partySelect.value = authorParty(author);
+                }
+                authorSelect.value = authors.includes(author) ? author : '';
+            }
+            if (topic!=='*') {
+                topicSelect.value = topics.includes(topic) ? topic : '';
+            }
+            searchInput.value = '';
+        }
+
+		function newQuery(type, value) {
+			if (type === 'party') {
+                setSelectValues(value,'*','*')
+			} else if (type === 'author') {
+                setSelectValues('*',value,'*')
+			} else if (type === 'topic') {
+                setSelectValues('*','*',value)
+			}
+			displayFilteredData();
+		}
+
+        function htmlEscape(str) {
+            return str
+                .replaceAll('&', '&amp')
+                .replaceAll('\'', '&apos')
+                .replaceAll('"', '&quot')
+                .replaceAll('>', '&gt')
+                .replaceAll('<', '&lt');
+        }
+    </script>
+</body>
+</html>
