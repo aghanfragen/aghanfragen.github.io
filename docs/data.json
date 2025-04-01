@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-01T12:39:26.8353224",
-  "Aktualisiert": "2025-03-31T22:02:45",
+  "TimeStamp": "2025-04-01T21:34:45.54",
+  "Aktualisiert": "2025-04-01T14:42:45",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -47292,6 +47292,63 @@
         13,
         299,
         71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21829,
+      "Titel": "Erstes Resümee zum Probeunterricht: Wie lief das neue Verfahren beim Übergang zur Oberschule?",
+      "Beschreibung": "",
+      "Datum": "2025-03-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21829.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        39
+      ],
+      "Themen": [
+        1,
+        18,
+        9
+      ],
+      "Stichworte": [
+        0,
+        137,
+        70,
+        88,
+        255,
+        299,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21830,
+      "Titel": "Nachfrage zur Schriftlichen Anfrage Drs. 19/21409 - Über Flexibilisierung oder Kürzung? - Die Entwicklung der Berliner Schulbudgets im Detail",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-03-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21830.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        39
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        70,
+        42,
+        13,
         89
       ],
       "Relevant": true
