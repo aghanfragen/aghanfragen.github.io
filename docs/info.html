@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>AGH-Anfragen Bildung</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.html">AGH-Anfragen Bildung</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Liste</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="info.html">Hinweise</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="info.html?file=impressum.md">Impressum</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="content" class="container mt-5"></div>
+<script>
+  const contentElement = document.getElementById('content')
+  // Funktion zum Laden der Markdown-Datei
+  async function loadMarkdownFile(fileName) {
+    try {
+      const response = await fetch(fileName);
+      if (!response.ok) {
+        throw new Error(`Datei "${fileName}" konnte nicht geladen werden`);
+      }
+      const markdown = await response.text();
+      contentElement.innerHTML = marked.parse(markdown);
+    } catch (error) {
+      contentElement.innerHTML = `<p>${error.message}</p>`;
+    }
+  }
+
+  // URL-Parameter auslesen
+  const urlParams = new URLSearchParams(window.location.search);
+  const fileName = urlParams.get('file') ?? "info.md";
+  loadMarkdownFile(fileName);
+
+</script>
+</body>
+</html>

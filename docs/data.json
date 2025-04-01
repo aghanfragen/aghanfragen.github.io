@@ -1,5 +1,6 @@
 {
-  "Aktualisiert": "2025-03-26T22:02:44",
+  "TimeStamp": "2025-04-01T12:39:26.8353224",
+  "Aktualisiert": "2025-03-31T22:02:45",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -843,7 +844,9 @@
     "Immobilien",
     "Jüdische Gemeinde",
     "Sekundarstufe II",
-    "Krankenkasse"
+    "Krankenkasse",
+    "Oper",
+    "Theater"
   ],
   "Dokumente": [
     {
@@ -46927,6 +46930,369 @@
         224,
         33,
         464
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21785,
+      "Titel": "Zuwendungsstopp in der Bildungs-, Jugend- und Familienverwaltung: Was wird aus den Projekten an Berliner Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-03-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21785.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10,
+        8,
+        16
+      ],
+      "Stichworte": [
+        14,
+        61,
+        17,
+        647,
+        42,
+        13,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21786,
+      "Titel": "Zuwendungsstopp in der Bildungs-, Jugend- und Familienverwaltung: Wie prüft die Senatsverwaltung die Wirksamkeit der Projekte?",
+      "Beschreibung": "",
+      "Datum": "2025-03-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21786.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10,
+        18
+      ],
+      "Stichworte": [
+        647,
+        195,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21787,
+      "Titel": "Zuwendungsstopp in der Bildungs-, Jugend- und Familienverwaltung: Was wird aus den Projekten im Bereich der Kulturellen Bildung?",
+      "Beschreibung": "",
+      "Datum": "2025-03-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21787.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10,
+        46,
+        35,
+        18
+      ],
+      "Stichworte": [
+        355,
+        642,
+        201,
+        647,
+        653,
+        195,
+        42,
+        654,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21788,
+      "Titel": "Zuwendungsstopp in der Bildungs-, Jugend- und Familienverwaltung: Was wird aus den Projekten im Bereich der Queeren Bildung?",
+      "Beschreibung": "",
+      "Datum": "2025-03-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21788.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        177,
+        415,
+        647,
+        416,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21789,
+      "Titel": "Zuwendungsstopp in der Bildungs-, Jugend- und Familienverwaltung: Was wird aus den Projekten im Bereich der Politischen Bildung und der Umweltbildung?",
+      "Beschreibung": "",
+      "Datum": "2025-03-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21789.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10,
+        38,
+        36,
+        45
+      ],
+      "Stichworte": [
+        176,
+        69,
+        647,
+        347,
+        253,
+        323,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21852,
+      "Titel": "Mobile Kinderbetreuung (MOKIB) in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-03-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21852.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        19
+      ],
+      "Stichworte": [
+        53,
+        188,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21855,
+      "Titel": "Projekt Kurzzeitwohnen für versorgungsintensive Kinder und Jugendliche",
+      "Beschreibung": "",
+      "Datum": "2025-03-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21855.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        13
+      ],
+      "Stichworte": [
+        63,
+        443,
+        95,
+        230,
+        216
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 21898,
+      "Titel": "Bewilligung ambulanter Hilfe durch die Jugendämter",
+      "Beschreibung": "",
+      "Datum": "2025-03-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21898.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        117
+      ],
+      "Themen": [
+        10,
+        3
+      ],
+      "Stichworte": [
+        189,
+        71,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 21806,
+      "Titel": "39 Mio. Euro weniger im Bildungshaushalt - Wo kürzt der Senat die Mittel im Einzelplan 10?",
+      "Beschreibung": "",
+      "Datum": "2025-03-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21806.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        30,
+        13
+      ],
+      "Stichworte": [
+        380,
+        69,
+        647,
+        107,
+        42,
+        230,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21819,
+      "Titel": "Breitbandausbau in Lichtenberger Schulen beschleunigen (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-03-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21819.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        7,
+        0,
+        3,
+        24
+      ],
+      "Stichworte": [
+        15,
+        29,
+        30,
+        16,
+        31,
+        4,
+        80,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21967,
+      "Titel": "Spandau: Zuwendungen in der Jugendhilfe für Sprühlinge e.V.",
+      "Beschreibung": "",
+      "Datum": "2025-03-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21967.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        15
+      ],
+      "Stichworte": [
+        33,
+        35,
+        349,
+        71,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 21822,
+      "Titel": "Stehengelassen? - Beförderung von Kindern mit Behinderungen zur Schule und zur Ferienbetreuung",
+      "Beschreibung": "",
+      "Datum": "2025-03-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21822.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        10,
+        19
+      ],
+      "Stichworte": [
+        53,
+        95,
+        139,
+        424,
+        42,
+        56,
+        141,
+        189,
+        143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21839,
+      "Titel": "Umsetzung des Startchancenprogramms in Berlin - Nachfrage zur DS 19/21411",
+      "Beschreibung": "DS = Drucksache",
+      "Datum": "2025-03-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21839.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        13,
+        299,
+        71,
+        89
       ],
       "Relevant": true
     }

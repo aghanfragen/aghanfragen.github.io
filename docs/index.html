@@ -7,6 +7,28 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">AGH-Anfragen Bildung</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Liste</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="info.html">Hinweise</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="info.html?file=impressum.m">Impressum</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="container mt-5">
         <h1 class="mb-4">AGH-Anfragen Bildung</h1>
         <p>Schriftliche Anfragen im Berliner Abgeordnetenhaus zu bildungspolitischen Themen</p>
@@ -57,6 +79,8 @@
         let topics = [];
         let keywords = [];
         let index;
+        let filteredDataIndices;
+        let completeData;
 
         const partySelect = document.getElementById('partySelect');
         const authorSelect = document.getElementById('authorSelect');
@@ -66,7 +90,7 @@
         const filterForm = document.getElementById('filterForm');
 
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('data2.json')
+            fetch('data.json')
                 .then(res => res.json())
                 .then(out => {
                     timestamp = out['Aktualisiert'];
@@ -128,9 +152,9 @@
 
         function applyUrlParameters() {
             const qv = getQueryVariables();
-            const party = qv["party"]??'';
-            const author = qv["author"]??'';
-            const topic = qv["topic"]??'';
+            const party = qv["p"]??'';
+            const author = qv["a"]??'';
+            const topic = qv["t"]??'';
             setSelectValues(party,author,topic)
             if(party) {
                 setPartyAuthorsSelect();
@@ -165,9 +189,26 @@
                 }
             })
 
+            window.addEventListener('scroll', () => {
+                const scrollPosition = window.innerHeight + window.scrollY;
+                const documentHeight = document.documentElement.scrollHeight;
+
+                // Wenn der Benutzer fast den unteren Rand erreicht hat
+                if (scrollPosition >= documentHeight - 10) {
+                    addCardToResults();
+                }
+            });
         }
 
-        function createCard(row,url,keywords) {
+        function addCardToResults() {
+            if (filteredDataIndices.length===0) {
+                return;
+            }
+            let ref = filteredDataIndices.shift();
+            let row = data[ref];
+            const kw = completeData && row['Stichworte'] ? row['Stichworte'].map(w=>keywords[w]).join(', ') : '';
+            const url = urlPattern.replaceAll("{WP}",row['WP']).replaceAll("{DOCNUM}",row['Nummer']);
+            addCardToResults(row,url,kw);
             const res =  `<!--div class="col-md-6 mb-4"-->
 					<div class="card">
 						<div class="card-body">
@@ -179,14 +220,14 @@
                                 Fraktion(en): ${createLinks(row['Parteien'], parties,'party')}<br />
                                 Abgeordnete(r): ${createLinks(row['Autoren'], authors, 'author')}<br />
                                 Themen: ${createLinks(row['Themen'], topics, 'topic')}
-                                ${keywords ? '<br />Schlagworte: '+keywords:''}
+                                ${kw ? '<br />Schlagworte: '+kw:''}
                                 ${!row['Relevant'] ? '<br />IRRELEVANT' : ''}
                             </p>
 						</div>
 					</div>
 				    <!--/div-->
 			    `
-            return res
+            resultsDiv.insertAdjacentHTML('beforeend',res);
         }
 
         function displayFilteredData() {
@@ -196,51 +237,56 @@
             const searchWord = searchInput.value;
 
             let newState = []
-            if (selectedParty) newState.push("party="+selectedParty)
-            if (selectedAuthor) newState.push("author="+selectedAuthor)
-            if (selectedTopic) newState.push("topic="+selectedTopic)
+            if (selectedParty) newState.push("p="+selectedParty)
+            if (selectedAuthor) newState.push("a="+selectedAuthor)
+            if (selectedTopic) newState.push("t="+selectedTopic)
             history.pushState(null, "", "?"+newState.join("&"));
 
-            const complete = searchWord==='$complete';
-            let filteredData;
-
-            if (complete) {
-                filteredData = data;
+            completeData = searchWord==='$complete';
+            if (completeData) {
+                filteredDataIndices = data.keys().toArray();
             } else {
                 const selectedPartyIndex = parties.indexOf(selectedParty);
                 const selectedAuthorIndex = authors.indexOf(selectedAuthor);
                 const selectedTopicIndex = topics.indexOf(selectedTopic);
-                let foundData;
+                let foundIter;
                 if (searchWord) {
                     const res = index.search(searchWord);
-                    foundData = res.map(item=>data[item['ref']])
+                    foundIter = res.map(item=>item['ref']).values();
                 } else {
-                    foundData = data;
+                    foundIter = data.keys();
                 }
-                filteredData = foundData.filter(row =>
-                    row["Relevant"] &&
-                    (selectedPartyIndex<0 || row['Parteien'].indexOf(selectedPartyIndex)>=0) &&
-                    (selectedAuthorIndex<0 || row['Autoren'].indexOf(selectedAuthorIndex)>=0) &&
-                    (selectedTopicIndex<0 || row['Themen'].indexOf(selectedTopicIndex)>=0)
-                );
+                filteredDataIndices = foundIter.filter(ref => {
+                    const row = data[ref]
+                    return row["Relevant"] &&
+                    (selectedPartyIndex < 0 || row['Parteien'].indexOf(selectedPartyIndex) >= 0) &&
+                    (selectedAuthorIndex < 0 || row['Autoren'].indexOf(selectedAuthorIndex) >= 0) &&
+                    (selectedTopicIndex < 0 || row['Themen'].indexOf(selectedTopicIndex) >= 0)
+                }).toArray();
             }
 
-            if (filteredData.length===0) {
-                resultsDiv.innerHTML = "<p>Keine passenden Daten gefunden.</p>";
-                return;
-            }
-
-            filteredData.sort((a, b) => new Date(b['Datum']) - new Date(a['Datum']));
+            filteredDataIndices.sort((a, b) => new Date(data[a]['Datum']) - new Date(data[b]['Datum']));
 
             // URLPATTERN = "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf"
 
-            const html = `<p>${filteredData.length} Anfragen</p>`+filteredData.map(row => {
-                const kw = complete && row['Stichworte'] ? row['Stichworte'].map(w=>keywords[w]).join(', ') : '';
-                const url = urlPattern.replaceAll("{WP}",row['WP']).replaceAll("{DOCNUM}",row['Nummer']);
-                return createCard(row,url,kw);
-            }).join('');
+            let header = filteredDataIndices.length===0 ?
+                "Keine Anfragen" : `${filteredDataIndices.length} Anfragen`;
+            if (selectedTopic) {
+                header += ` zum Thema ${selectedTopic}`;
+            }
+            if (selectedAuthor) {
+                header += ` von ${selectedAuthor}`;
+            } else if (selectedParty) {
+                header += ` von der Fraktion ${selectedParty}`;
+            }
+            if (searchWord) {
+                header+= ` Suchbegriff: "${searchWord}"`;
+            }
+            resultsDiv.innerHTML = `<p>${header}</p>`;
 
-            resultsDiv.innerHTML = html;
+            for (let i=0; i<10; i++) {
+                addCardToResults();
+            }
 		}
 
 		function createLinks(itemIndices, list, type) {
