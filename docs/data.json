@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-03T07:10:11.716",
-  "Aktualisiert": "2025-04-02T22:02:45",
+  "TimeStamp": "2025-04-04T07:10:11.408",
+  "Aktualisiert": "2025-04-03T22:02:45",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -140,7 +140,8 @@
     "Koçak, Ferat (Die Linke)",
     "Breitenbach, Elke (Die Linke)",
     "Matz, Martin (SPD)",
-    "Kühnemann-Grunow, Melanie (SPD)"
+    "Kühnemann-Grunow, Melanie (SPD)",
+    "Vallendar, Marc (AfD)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -846,7 +847,8 @@
     "Sekundarstufe II",
     "Krankenkasse",
     "Oper",
-    "Theater"
+    "Theater",
+    "Tier, Tierschutz, Tierhaltung"
   ],
   "Dokumente": [
     {
@@ -47092,13 +47094,23 @@
         123
       ],
       "Themen": [
-        19
+        8,
+        19,
+        3,
+        10
       ],
       "Stichworte": [
+        208,
+        385,
+        14,
         53,
         188,
+        95,
+        33,
+        4,
         42,
-        13
+        13,
+        189
       ],
       "Relevant": true
     },
@@ -47116,14 +47128,18 @@
         99
       ],
       "Themen": [
+        3,
+        10,
         13
       ],
       "Stichworte": [
+        354,
         63,
-        443,
         95,
+        224,
+        219,
         230,
-        216
+        89
       ],
       "Relevant": false
     },
@@ -47142,10 +47158,17 @@
       ],
       "Themen": [
         10,
-        3
+        19,
+        3,
+        13,
+        9
       ],
       "Stichworte": [
-        189,
+        53,
+        224,
+        33,
+        223,
+        19,
         71,
         143
       ],
@@ -47350,6 +47373,113 @@
         42,
         13,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21878,
+      "Titel": "Stand zur Reform des Vorbereitungsdienst am Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen (BLiQ)",
+      "Beschreibung": "",
+      "Datum": "2025-03-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21878.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        10
+      ],
+      "Stichworte": [
+        14,
+        150,
+        17,
+        37,
+        143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21880,
+      "Titel": "Kooperationspartner*innen des BLiQ",
+      "Beschreibung": "BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen",
+      "Datum": "2025-03-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21880.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        10,
+        18
+      ],
+      "Stichworte": [
+        14,
+        39,
+        150,
+        17,
+        195,
+        42,
+        204,
+        143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21916,
+      "Titel": "Tierschutzbildung in Berliner Schulen – Lippenbekenntnis oder gelebte Realität?",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21916.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        129,
+        10,
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        601,
+        203,
+        42,
+        655,
+        5,
+        543
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22000,
+      "Titel": "Stoppt der Senat die Einrichtung einer Stabsstelle politische Bildung?",
+      "Beschreibung": "",
+      "Datum": "2025-03-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22000.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        10,
+        8
+      ],
+      "Stichworte": [
+        37,
+        143
       ],
       "Relevant": true
     }
