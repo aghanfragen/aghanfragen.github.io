@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-04T07:10:11.408",
-  "Aktualisiert": "2025-04-03T22:02:45",
+  "TimeStamp": "2025-04-05T07:10:10.536",
+  "Aktualisiert": "2025-04-04T22:02:45",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -848,7 +848,8 @@
     "Krankenkasse",
     "Oper",
     "Theater",
-    "Tier, Tierschutz, Tierhaltung"
+    "Tier, Tierschutz, Tierhaltung",
+    "Wassersport"
   ],
   "Dokumente": [
     {
@@ -47480,6 +47481,224 @@
       "Stichworte": [
         37,
         143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21896,
+      "Titel": "Modernisierung und Erweiterung der Anna-Seghers-Schule",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21896.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        0,
+        3,
+        10,
+        34
+      ],
+      "Stichworte": [
+        1,
+        10,
+        4,
+        159,
+        130,
+        13,
+        602,
+        25,
+        148,
+        214
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21930,
+      "Titel": "Umsetzung des Startchancenprogramms in Berlin und Zusammenarbeit mit außerschulischen Akteuren",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21930.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        8
+      ],
+      "Stichworte": [
+        37,
+        13,
+        299,
+        5,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21932,
+      "Titel": "Sportfreie Stunden? Warum der Schulsport ins Wasser fällt",
+      "Beschreibung": "",
+      "Datum": "2025-03-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21932.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27
+      ],
+      "Stichworte": [
+        42,
+        13,
+        92,
+        349,
+        656
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21938,
+      "Titel": "Mobbing an Schule: Setzen Berliner Schulen die Farsta-Methode ein?",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21938.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        13,
+        3
+      ],
+      "Stichworte": [
+        172,
+        13,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21945,
+      "Titel": "Digitale Lehr- und Lernmittel: Wie wichtig sind dem Senat Datenschutz und pädagogische Qualität?",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21945.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        7,
+        11,
+        0,
+        6
+      ],
+      "Stichworte": [
+        68,
+        15,
+        30,
+        16,
+        163,
+        307,
+        18,
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21958,
+      "Titel": "Fragen zum Kita-Kostenblatt",
+      "Beschreibung": "",
+      "Datum": "2025-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21958.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        3,
+        10,
+        4,
+        9
+      ],
+      "Stichworte": [
+        7,
+        4,
+        19,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21964,
+      "Titel": "Ombudsstellen für Kinder- und Jugendhilfe",
+      "Beschreibung": "",
+      "Datum": "2025-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21964.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        9
+      ],
+      "Stichworte": [
+        177,
+        224,
+        33,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 21969,
+      "Titel": "Schulabbruch, Ausbildung, EU-Förderung und demographische Bedeutung",
+      "Beschreibung": "",
+      "Datum": "2025-03-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21969.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        68
+      ],
+      "Themen": [
+        9
+      ],
+      "Stichworte": [
+        397,
+        63,
+        443,
+        42,
+        13
       ],
       "Relevant": true
     }
