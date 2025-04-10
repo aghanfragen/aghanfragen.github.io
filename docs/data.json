@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-09T07:10:10.852",
-  "Aktualisiert": "2025-04-08T22:02:46",
+  "TimeStamp": "2025-04-10T07:10:10.941",
+  "Aktualisiert": "2025-04-09T22:02:44",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -141,7 +141,8 @@
     "Breitenbach, Elke (Die Linke)",
     "Matz, Martin (SPD)",
     "Kühnemann-Grunow, Melanie (SPD)",
-    "Vallendar, Marc (AfD)"
+    "Vallendar, Marc (AfD)",
+    "Schenker, Niklas (Die Linke)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -47699,6 +47700,58 @@
         443,
         42,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21996,
+      "Titel": "Gotlindestraße 39",
+      "Beschreibung": "",
+      "Datum": "2025-03-31",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21996.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        130
+      ],
+      "Themen": [
+        0,
+        4,
+        24
+      ],
+      "Stichworte": [
+        8,
+        80,
+        25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21879,
+      "Titel": "Stand zum Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen (BLiQ) - was macht der Senat? (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2025-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21879.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        10
+      ],
+      "Stichworte": [
+        14,
+        15,
+        150,
+        17,
+        37,
+        143
       ],
       "Relevant": true
     }
