@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-10T07:10:10.941",
-  "Aktualisiert": "2025-04-09T22:02:44",
+  "TimeStamp": "2025-04-11T07:10:10.581",
+  "Aktualisiert": "2025-04-10T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -47752,6 +47752,56 @@
         17,
         37,
         143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21985,
+      "Titel": "Berliner Lehrkräfte - gekommen, um zu bleiben?",
+      "Beschreibung": "",
+      "Datum": "2025-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21985.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        17,
+        152,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21989,
+      "Titel": "Künftige Nutzung des Grundstücks der aufgegebenen landeseigenen Kita Treuenbrietzener Str. 26",
+      "Beschreibung": "",
+      "Datum": "2025-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21989.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        18
+      ],
+      "Themen": [
+        4,
+        29
+      ],
+      "Stichworte": [
+        603,
+        7,
+        95,
+        100,
+        646
       ],
       "Relevant": true
     }
