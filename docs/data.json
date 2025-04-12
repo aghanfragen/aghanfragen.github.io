@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-11T07:10:10.581",
-  "Aktualisiert": "2025-04-10T22:02:47",
+  "TimeStamp": "2025-04-12T07:10:10.844",
+  "Aktualisiert": "2025-04-11T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -47802,6 +47802,65 @@
         95,
         100,
         646
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 21999,
+      "Titel": "Verzögerungen beim Schulneubau in Rummelsburg (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2025-04-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-21999.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        0,
+        3,
+        24
+      ],
+      "Stichworte": [
+        1,
+        2,
+        4,
+        80,
+        273,
+        13,
+        156
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22001,
+      "Titel": "39 Millionen Defizit im Haushalt Bildung, Jugend und Familie - Welche Auswirkungen haben die neusten Kürzungen?",
+      "Beschreibung": "",
+      "Datum": "2025-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22001.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        38
+      ],
+      "Themen": [
+        3,
+        10,
+        8
+      ],
+      "Stichworte": [
+        14,
+        194,
+        42,
+        13,
+        22,
+        71,
+        89
       ],
       "Relevant": true
     }
