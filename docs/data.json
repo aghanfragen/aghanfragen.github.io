@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-14T07:10:10.788",
-  "Aktualisiert": "2025-04-11T22:02:47",
+  "TimeStamp": "2025-04-15T07:10:10.948",
+  "Aktualisiert": "2025-04-14T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -850,7 +850,9 @@
     "Oper",
     "Theater",
     "Tier, Tierschutz, Tierhaltung",
-    "Wassersport"
+    "Wassersport",
+    "Beirat",
+    "Landesparlament"
   ],
   "Dokumente": [
     {
@@ -47861,6 +47863,161 @@
         22,
         71,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22021,
+      "Titel": "Streichungen der Senatsbildungsverwaltung bei QUEERFORMAT - Konsequenzen für die Stadt",
+      "Beschreibung": "",
+      "Datum": "2025-04-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22021.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        93,
+        19,
+        109
+      ],
+      "Themen": [
+        3,
+        10,
+        16
+      ],
+      "Stichworte": [
+        514,
+        61,
+        415,
+        647,
+        416,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22022,
+      "Titel": "Streichungen der Senatsbildungsverwaltung bei i-PÄD - Konsequenzen für die Stadt",
+      "Beschreibung": "",
+      "Datum": "2025-04-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22022.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        93,
+        19,
+        109
+      ],
+      "Themen": [
+        3,
+        10,
+        16,
+        13
+      ],
+      "Stichworte": [
+        61,
+        415,
+        647,
+        547,
+        420,
+        223,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22027,
+      "Titel": "Mehr Selektion statt faire Zugangschancen durch den \"Probeunterricht\"?",
+      "Beschreibung": "",
+      "Datum": "2025-04-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22027.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        2,
+        1,
+        20,
+        18,
+        9
+      ],
+      "Stichworte": [
+        3,
+        88,
+        138,
+        270,
+        13,
+        299,
+        56,
+        19,
+        410
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22041,
+      "Titel": "Dritte Verordnung zur Änderung der Sonderpädagogikverordnung (SopädVO)",
+      "Beschreibung": "",
+      "Datum": "2025-04-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22041.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        22
+      ],
+      "Themen": [
+        20
+      ],
+      "Stichworte": [
+        657,
+        138,
+        438,
+        658,
+        165,
+        139,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22042,
+      "Titel": "Die unendliche Geschichte - Die Dauerbaustelle an der Schule an der Wuhlheide (Grundschule)",
+      "Beschreibung": "",
+      "Datum": "2025-04-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22042.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        22
+      ],
+      "Themen": [
+        0,
+        34,
+        2
+      ],
+      "Stichworte": [
+        1,
+        10,
+        130,
+        42,
+        13,
+        602,
+        25,
+        148
       ],
       "Relevant": true
     }
