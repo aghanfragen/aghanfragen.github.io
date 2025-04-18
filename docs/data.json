@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-17T07:10:10.864",
-  "Aktualisiert": "2025-04-16T22:02:45",
+  "TimeStamp": "2025-04-18T07:10:11.415",
+  "Aktualisiert": "2025-04-17T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -48049,6 +48049,68 @@
         299,
         185,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22045,
+      "Titel": "Schuldrehscheiben in Berlin und in der aktuellen Bereichsentwicklungsplaung Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22045.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        0,
+        19,
+        9,
+        21
+      ],
+      "Stichworte": [
+        10,
+        53,
+        18,
+        13,
+        24,
+        19,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22058,
+      "Titel": "Berliner Landeszentrale für politische Bildung – Politische Bildung als Extremismusprävention (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2025-04-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22058.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        124
+      ],
+      "Themen": [
+        13,
+        36,
+        16,
+        45
+      ],
+      "Stichworte": [
+        176,
+        178,
+        61,
+        47,
+        26,
+        630,
+        631,
+        347,
+        50
       ],
       "Relevant": true
     }
