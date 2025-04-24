@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-23T07:10:10.939",
-  "Aktualisiert": "2025-04-22T22:02:45",
+  "TimeStamp": "2025-04-24T07:10:10.953",
+  "Aktualisiert": "2025-04-23T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -48220,6 +48220,1113 @@
         37
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22159,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Treptow-Köpenick",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22159.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        9,
+        34
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        13,
+        19,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22160,
+      "Titel": "Luftreinigungsgeräte im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22160.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        42
+      ],
+      "Stichworte": [
+        57,
+        277,
+        58,
+        67,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22162,
+      "Titel": "Luftreinigungsgeräte im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22162.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        7,
+        0,
+        24,
+        9
+      ],
+      "Stichworte": [
+        30,
+        199,
+        31,
+        67,
+        80,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22163,
+      "Titel": "Luftreinigungsgeräte im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22163.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        12
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        23,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22164,
+      "Titel": "Luftreinigungsgeräte im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22164.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        14
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        27,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22165,
+      "Titel": "Luftreinigungsgeräte im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22165.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        30
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        107,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22166,
+      "Titel": "Luftreinigungsgeräte im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22166.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        26
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        87,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22167,
+      "Titel": "Luftreinigungsgeräte im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22167.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        29
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        100,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22168,
+      "Titel": "Luftreinigungsgeräte im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22168.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        15
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        42,
+        13,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22169,
+      "Titel": "Luftreinigungsgeräte im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22169.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        39
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        42,
+        13,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22170,
+      "Titel": "Luftreinigungsgeräte im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22170.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        21
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        42,
+        13,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22171,
+      "Titel": "Luftreinigungsgeräte im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22171.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        34
+      ],
+      "Stichworte": [
+        57,
+        58,
+        67,
+        42,
+        13,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22173,
+      "Titel": "Digitalpakt 2.0",
+      "Beschreibung": "",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22173.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        8,
+        17
+      ],
+      "Stichworte": [
+        14,
+        15,
+        16,
+        48,
+        42,
+        13,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22139,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22139.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        12,
+        3,
+        10
+      ],
+      "Stichworte": [
+        78,
+        33,
+        23,
+        647,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22140,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22140.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        14,
+        3,
+        10
+      ],
+      "Stichworte": [
+        78,
+        33,
+        27,
+        647,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22141,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22141.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        30,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        107,
+        19,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22142,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22142.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        26,
+        9
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        87,
+        19,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22143,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22143.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        29
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        100,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22116,
+      "Titel": "Hühnerstall statt Klassenraum? – Wie wirken sich die veränderten Vorgaben im Schulbau aus?",
+      "Beschreibung": "",
+      "Datum": "2025-04-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22116.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        0
+      ],
+      "Stichworte": [
+        470,
+        2,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22144,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22144.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        15
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        35,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22145,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22145.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        9,
+        39
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        19,
+        229,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22146,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22146.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        21
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        74,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22147,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22147.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        34
+      ],
+      "Stichworte": [
+        78,
+        33,
+        647,
+        148,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22148,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22148.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        42,
+        0
+      ],
+      "Stichworte": [
+        277,
+        30,
+        16,
+        199,
+        31,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22149,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Friedichshain-Kreuzberg",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22149.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        41,
+        0,
+        9
+      ],
+      "Stichworte": [
+        272,
+        30,
+        16,
+        199,
+        31,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22150,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Lichtenberg",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22150.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        24,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        80,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22151,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22151.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        12,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        23,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22152,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Mitte",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22152.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        14,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        27,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22126,
+      "Titel": "Einschränkungen im Berliner Schulsport durch Sanierungsstau, Lehrer*innenmangel und fehlende räumliche Kapazitäten",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22126.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8,
+        9,
+        105
+      ],
+      "Themen": [
+        27,
+        0,
+        19,
+        3,
+        17,
+        10
+      ],
+      "Stichworte": [
+        10,
+        53,
+        95,
+        4,
+        48,
+        42,
+        13,
+        92,
+        65,
+        298,
+        546,
+        93,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22153,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Neukölln",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22153.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        30
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        107,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22154,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Pankow",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22154.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        26,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        87,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22155,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Reinickendorf",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22155.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        29,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        100,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22156,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Spandau",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22156.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        15,
+        9
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        13,
+        35,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22127,
+      "Titel": "Weitere Rückschritte bei der Inklusion an Berliner Schulen mit der neuen Sonderpädagogikverordnung?",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22127.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        20
+      ],
+      "Stichworte": [
+        139,
+        42,
+        13,
+        56,
+        141
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22157,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22157.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        9,
+        39
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        13,
+        19,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22158,
+      "Titel": "LUSD, digitales Klassenbuch, Breitband- und WLAN-Ausbau an den Schulen im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "LUSD = Lehrkräfte-Unterrichts-Schul-Datenbank",
+      "Datum": "2025-04-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22158.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        0,
+        9,
+        21
+      ],
+      "Stichworte": [
+        30,
+        16,
+        199,
+        31,
+        13,
+        19,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22136,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22136.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        3,
+        10
+      ],
+      "Stichworte": [
+        277,
+        78,
+        33,
+        647,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22137,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22137.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        3,
+        10
+      ],
+      "Stichworte": [
+        78,
+        272,
+        33,
+        647,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22138,
+      "Titel": "Kürzungen im Bereich Familie und Jugend im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22138.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        24,
+        3,
+        10
+      ],
+      "Stichworte": [
+        78,
+        33,
+        80,
+        647,
+        89
+      ],
+      "Relevant": false
     }
   ]
 }
