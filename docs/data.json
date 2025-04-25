@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-24T07:10:10.953",
-  "Aktualisiert": "2025-04-23T22:02:46",
+  "TimeStamp": "2025-04-25T07:10:11.153",
+  "Aktualisiert": "2025-04-24T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -852,7 +852,9 @@
     "Tier, Tierschutz, Tierhaltung",
     "Wassersport",
     "Beirat",
-    "Landesparlament"
+    "Landesparlament",
+    "Abgeordnete",
+    "Europa"
   ],
   "Dokumente": [
     {
@@ -49327,6 +49329,59 @@
         89
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22161,
+      "Titel": "Luftreinigungsgeräte im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22161.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        41
+      ],
+      "Stichworte": [
+        57,
+        58,
+        272,
+        67,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22172,
+      "Titel": "Innovationsscouting in Sachen Bildung: Delegationsreise von Bildungssenatorin Günther-Wünsch und IHK Berlin nach Dänemark",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22172.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11
+      ],
+      "Stichworte": [
+        659,
+        70,
+        660,
+        21,
+        13,
+        648
+      ],
+      "Relevant": true
     }
   ]
 }
