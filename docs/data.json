@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-25T07:10:11.153",
-  "Aktualisiert": "2025-04-24T22:02:46",
+  "TimeStamp": "2025-04-26T07:10:11.616",
+  "Aktualisiert": "2025-04-25T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -854,7 +854,8 @@
     "Beirat",
     "Landesparlament",
     "Abgeordnete",
-    "Europa"
+    "Europa",
+    "Arbeitsförderung"
   ],
   "Dokumente": [
     {
@@ -49380,6 +49381,283 @@
         21,
         13,
         648
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22189,
+      "Titel": "Schulplatzbedarfe an Oberschulen in Marzahn-Hellersdorf zum Schuljahr 2025/26",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22189.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        12,
+        6
+      ],
+      "Stichworte": [
+        23,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22190,
+      "Titel": "Lehrkräfteausstattung in Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22190.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        17,
+        151,
+        19,
+        376
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22195,
+      "Titel": "Kopplung von Schulbau und Sportstättenbau",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22195.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        0,
+        27,
+        19
+      ],
+      "Stichworte": [
+        2,
+        53,
+        42,
+        13,
+        24,
+        92,
+        546,
+        93
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22205,
+      "Titel": "Betriebspraktikum für Schüler",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22205.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        17,
+        6,
+        20
+      ],
+      "Stichworte": [
+        48,
+        13,
+        279,
+        81,
+        440,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22206,
+      "Titel": "Praktikumswoche Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22206.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        28,
+        3,
+        10
+      ],
+      "Stichworte": [
+        98,
+        4,
+        101,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22207,
+      "Titel": "WAT-Unterricht an ISS und Gymnasium",
+      "Beschreibung": "WAT = Wirtschaft, Arbeit, TechnikISS = integrierte Sekundarschule",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22207.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        28,
+        1,
+        17
+      ],
+      "Stichworte": [
+        98,
+        88,
+        48,
+        42,
+        13,
+        440
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22208,
+      "Titel": "Berufs- und Studienorientierung (BSO) im Koalitionsvertrag 2023-2026",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22208.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        28,
+        17,
+        6
+      ],
+      "Stichworte": [
+        661,
+        98,
+        467,
+        48,
+        203,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22215,
+      "Titel": "Fortbildungen in der Familienförderung im Kontext Umgangsrecht, Trennung und Sorgerecht durch wen?",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22215.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        107,
+        39
+      ],
+      "Themen": [
+        32,
+        8,
+        19,
+        9
+      ],
+      "Stichworte": [
+        14,
+        53,
+        146,
+        63,
+        194,
+        191,
+        420,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22223,
+      "Titel": "Unterstützung bei der Sauberkeitserziehung - Töpfchentraining in der Kita",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22223.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        5,
+        0
+      ],
+      "Stichworte": [
+        188,
+        7,
+        261,
+        95,
+        33,
+        166
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22224,
+      "Titel": "Sauberkeitserziehung: Mit Windel zur Schule?",
+      "Beschreibung": "",
+      "Datum": "2025-04-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22224.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        5
+      ],
+      "Stichworte": [
+        188,
+        7,
+        261,
+        33,
+        42
       ],
       "Relevant": true
     }
