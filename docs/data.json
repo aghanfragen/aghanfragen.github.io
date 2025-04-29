@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-28T07:10:10.345",
-  "Aktualisiert": "2025-04-25T22:02:46",
+  "TimeStamp": "2025-04-29T07:10:11.396",
+  "Aktualisiert": "2025-04-28T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -49658,6 +49658,318 @@
         261,
         33,
         42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22231,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22231.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        20
+      ],
+      "Stichworte": [
+        277,
+        224,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22232,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22232.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        20
+      ],
+      "Stichworte": [
+        272,
+        224,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22233,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22233.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        24,
+        20
+      ],
+      "Stichworte": [
+        224,
+        80,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22234,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22234.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        12,
+        20
+      ],
+      "Stichworte": [
+        224,
+        23,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22235,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22235.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        14,
+        20
+      ],
+      "Stichworte": [
+        224,
+        27,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22236,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22236.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        30,
+        20
+      ],
+      "Stichworte": [
+        224,
+        107,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22237,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22237.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        26,
+        20
+      ],
+      "Stichworte": [
+        224,
+        87,
+        574,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22238,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22238.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        29,
+        20
+      ],
+      "Stichworte": [
+        224,
+        574,
+        100,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22239,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22239.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        15
+      ],
+      "Stichworte": [
+        224,
+        574,
+        13,
+        56,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22240,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22240.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        39
+      ],
+      "Stichworte": [
+        224,
+        574,
+        13,
+        56,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22241,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22241.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        21
+      ],
+      "Stichworte": [
+        224,
+        574,
+        13,
+        56,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22242,
+      "Titel": "Schulplätze für Kinder mit Förderdiagnose Autismus im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22242.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        34
+      ],
+      "Stichworte": [
+        224,
+        574,
+        13,
+        56,
+        148
       ],
       "Relevant": true
     }
