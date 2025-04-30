@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-04-29T07:10:11.396",
-  "Aktualisiert": "2025-04-28T22:02:47",
+  "TimeStamp": "2025-04-30T07:10:11.617",
+  "Aktualisiert": "2025-04-29T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -142,7 +142,8 @@
     "Matz, Martin (SPD)",
     "Kühnemann-Grunow, Melanie (SPD)",
     "Vallendar, Marc (AfD)",
-    "Schenker, Niklas (Die Linke)"
+    "Schenker, Niklas (Die Linke)",
+    "Wapler, Christoph (Grüne)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -855,7 +856,8 @@
     "Landesparlament",
     "Abgeordnete",
     "Europa",
-    "Arbeitsförderung"
+    "Arbeitsförderung",
+    "Gaststätten- und Beherbergungsgewerbe"
   ],
   "Dokumente": [
     {
@@ -49970,6 +49972,115 @@
         13,
         56,
         148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22217,
+      "Titel": "Eine saubere Sache? (Tages)Reinigung der Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-04-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22217.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        131,
+        19
+      ],
+      "Themen": [
+        19,
+        0
+      ],
+      "Stichworte": [
+        53,
+        395,
+        18,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22249,
+      "Titel": "Umsetzungsstand des Bildungsgangs Berufsabitur/duales Abitur in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22249.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        28,
+        18,
+        9
+      ],
+      "Stichworte": [
+        385,
+        98,
+        137,
+        662,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22250,
+      "Titel": "Stand des BWAS Landesprogramm an Berliner Schulen",
+      "Beschreibung": "BWAS = Breitband- und WLAN-Ausbau der Berliner Schulen",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22250.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        7,
+        19,
+        0,
+        9
+      ],
+      "Stichworte": [
+        53,
+        16,
+        31,
+        203,
+        13,
+        19,
+        77
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22291,
+      "Titel": "\"Smartphone-Schutzzonen\" in Hessen - Wie steht Berlin zu einem Verbot von mobilen digitalen Endgeräten für Schüler in Schulgebäuden und auf dem Schulgelände?",
+      "Beschreibung": "",
+      "Datum": "2025-04-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22291.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        6
+      ],
+      "Stichworte": [
+        30,
+        16,
+        42,
+        13,
+        81
       ],
       "Relevant": true
     }
