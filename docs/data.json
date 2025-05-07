@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-06T07:10:11.76",
-  "Aktualisiert": "2025-05-05T22:02:48",
+  "TimeStamp": "2025-05-07T07:10:12.164",
+  "Aktualisiert": "2025-05-06T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -143,7 +143,9 @@
     "Kühnemann-Grunow, Melanie (SPD)",
     "Vallendar, Marc (AfD)",
     "Schenker, Niklas (Die Linke)",
-    "Wapler, Christoph (Grüne)"
+    "Wapler, Christoph (Grüne)",
+    "Scheermesser, Frank (AfD)",
+    "Ebrahimpour Mirzaie, Ario (Grüne)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -857,7 +859,8 @@
     "Abgeordnete",
     "Europa",
     "Arbeitsförderung",
-    "Gaststätten- und Beherbergungsgewerbe"
+    "Gaststätten- und Beherbergungsgewerbe",
+    "Extremismus"
   ],
   "Dokumente": [
     {
@@ -50081,6 +50084,200 @@
         42,
         13,
         81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22278,
+      "Titel": "Kürzt der schwarz-rote Senat auch noch beim Praxislernen?",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22278.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        11
+      ],
+      "Stichworte": [
+        21,
+        42,
+        13,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22284,
+      "Titel": "Verkehrserziehung an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22284.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        121
+      ],
+      "Themen": [
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        266,
+        42,
+        13,
+        81,
+        19,
+        379
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22289,
+      "Titel": "Daten zum Erwerb des Deutschen Sportabzeichens für die Jahre 2023 und 2024",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22289.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        27,
+        9
+      ],
+      "Stichworte": [
+        92,
+        433,
+        19,
+        83
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22290,
+      "Titel": "Deutscher Motorik-Test und das Programm \"Berlin hat Talent\"",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22290.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        27,
+        9
+      ],
+      "Stichworte": [
+        13,
+        92,
+        19,
+        349
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22293,
+      "Titel": "Spielplatzmangel und jahrelange Verzögerung der Sanierung der Ruppin-Grundschule in Friedenau",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22293.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        41
+      ],
+      "Themen": [
+        0,
+        21,
+        2
+      ],
+      "Stichworte": [
+        10,
+        62,
+        33,
+        185,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22298,
+      "Titel": "Runder Tisch zum Umgang mit Extremismus an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-04-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22298.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        77,
+        133
+      ],
+      "Themen": [
+        16,
+        3
+      ],
+      "Stichworte": [
+        663,
+        61,
+        47,
+        203,
+        13,
+        299,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22301,
+      "Titel": "Massive Kürzungen beim Bonusprogramm an den Berliner Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22301.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        104,
+        42,
+        13,
+        19,
+        71,
+        89
       ],
       "Relevant": true
     }
