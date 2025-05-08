@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-07T07:10:12.164",
-  "Aktualisiert": "2025-05-06T22:02:48",
+  "TimeStamp": "2025-05-08T07:10:12.18",
+  "Aktualisiert": "2025-05-07T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50278,6 +50278,179 @@
         19,
         71,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22336,
+      "Titel": "Nachfrage zur Schriftlichen Anfrage \"Erstsprachlicher Unterricht (ESU) in Berliner Schulen - Angebote und Anerkennungsmöglichkeiten\" (Drucksache Nr. 19/20924)",
+      "Beschreibung": "",
+      "Datum": "2025-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22336.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        31,
+        23,
+        19,
+        2,
+        9
+      ],
+      "Stichworte": [
+        75,
+        53,
+        3,
+        440,
+        326,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22337,
+      "Titel": "Erstsprachenabfrage an Berliner Schulen - Förderung oder Benachteiligung?",
+      "Beschreibung": "",
+      "Datum": "2025-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22337.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        31,
+        7,
+        6
+      ],
+      "Stichworte": [
+        68,
+        13,
+        299,
+        81,
+        326
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22342,
+      "Titel": "Aktueller Stand der Umsetzung des Startchancenprogramms",
+      "Beschreibung": "",
+      "Datum": "2025-04-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22342.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        6
+      ],
+      "Stichworte": [
+        435,
+        42,
+        13,
+        81,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22343,
+      "Titel": "Nachfrage zur schriftlichen Anfrage \"Schulgesundheitsfachkräfte in Berlin - Wie transparent sind die Planungen des Senats?\" (Drucksache 19/21290)",
+      "Beschreibung": "",
+      "Datum": "2025-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22343.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        53,
+        42,
+        13,
+        19,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22344,
+      "Titel": "Schulneubau am Auerbacher Ring in Hellersdorf (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-04-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22344.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        0,
+        43,
+        12
+      ],
+      "Stichworte": [
+        1,
+        352,
+        314,
+        255,
+        23,
+        273,
+        13,
+        25,
+        589
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22383,
+      "Titel": "Auswahlverfahren für Lehrkräfte in Lichtenberg: Transparenz herstellen",
+      "Beschreibung": "",
+      "Datum": "2025-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22383.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        8,
+        24,
+        26
+      ],
+      "Stichworte": [
+        17,
+        80,
+        87,
+        37
       ],
       "Relevant": true
     }
