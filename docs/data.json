@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-12T07:10:15.304",
-  "Aktualisiert": "2025-05-09T22:02:46",
+  "TimeStamp": "2025-05-13T07:10:11.905",
+  "Aktualisiert": "2025-05-12T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50581,6 +50581,82 @@
         270
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22329,
+      "Titel": "Wirksamkeit und Reichweite der schulischen Prävention häuslicher und familiärer Gewalt im Land Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-04-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22329.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        13,
+        18
+      ],
+      "Stichworte": [
+        32,
+        26,
+        195,
+        42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22353,
+      "Titel": "Eltern von Kindern mit Beeinträchtigung: Vernetzung und Selbsthilfe",
+      "Beschreibung": "",
+      "Datum": "2025-04-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22353.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20
+      ],
+      "Stichworte": [
+        449,
+        224,
+        191,
+        165,
+        139
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22354,
+      "Titel": "Recht auf aktive Elternschaft für Eltern mit Behinderungen: Begleitete Elternschaft",
+      "Beschreibung": "",
+      "Datum": "2025-04-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22354.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        10
+      ],
+      "Stichworte": [
+        177,
+        191,
+        165,
+        139,
+        184
+      ],
+      "Relevant": false
     }
   ]
 }
