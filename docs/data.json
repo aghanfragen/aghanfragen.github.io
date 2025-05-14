@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-13T07:10:11.905",
-  "Aktualisiert": "2025-05-12T22:02:46",
+  "TimeStamp": "2025-05-14T07:10:11.448",
+  "Aktualisiert": "2025-05-13T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50657,6 +50657,28 @@
         184
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22408,
+      "Titel": "Öffentliche Zugänglichkeit der Berliner Notfallpläne für Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-05-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22408.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        3
+      ],
+      "Themen": [
+        5
+      ],
+      "Stichworte": [
+        41,
+        13
+      ],
+      "Relevant": true
     }
   ]
 }
