@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-15T07:10:11.232",
-  "Aktualisiert": "2025-05-14T22:02:49",
+  "TimeStamp": "2025-05-16T07:10:11.694",
+  "Aktualisiert": "2025-05-15T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50677,6 +50677,113 @@
       "Stichworte": [
         41,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22441,
+      "Titel": "Personalentwicklung und Unterrichtsversorgung an allgemeinbildenden Schulen im Schuljahr 2025/2026",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22441.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        17,
+        42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22476,
+      "Titel": "Förderschulen geistige Entwicklung und körperlich-motorische Entwicklung (Teil 1): Personelle Ausstattung",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22476.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        18,
+        8,
+        9
+      ],
+      "Stichworte": [
+        55,
+        165,
+        139,
+        37,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22477,
+      "Titel": "Förderschulen geistige Entwicklung und körperlich-motorische Entwicklung (Teil 2): Schüler*innenschaft",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22477.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        8,
+        9
+      ],
+      "Stichworte": [
+        165,
+        139,
+        37,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22478,
+      "Titel": "Förderschulen geistige Entwicklung und körperlich-motorische Entwicklung (Teil 3): Entwicklung Bedarfe Förderschulen",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22478.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        18,
+        8,
+        9
+      ],
+      "Stichworte": [
+        55,
+        165,
+        139,
+        37,
+        56,
+        19
       ],
       "Relevant": true
     }
