@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-16T07:10:11.694",
-  "Aktualisiert": "2025-05-15T22:02:46",
+  "TimeStamp": "2025-05-17T07:10:11.188",
+  "Aktualisiert": "2025-05-16T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50784,6 +50784,92 @@
         37,
         56,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22432,
+      "Titel": "Die neuen Zumessungsrichtlinien - Welche Verschlechterungen bringen sie den Berliner Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22432.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        6
+      ],
+      "Stichworte": [
+        17,
+        37,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22415,
+      "Titel": "Kosten der von durch die HOWOGE fertiggestellten Schulen transparent machen",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22415.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        0,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        4,
+        159,
+        13,
+        19,
+        25,
+        214,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22414,
+      "Titel": "Kosten des Schulneubau transparent machen",
+      "Beschreibung": "",
+      "Datum": "2025-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22414.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        0,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        4,
+        159,
+        13,
+        19,
+        25,
+        214
       ],
       "Relevant": true
     }
