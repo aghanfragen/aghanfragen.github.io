@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-20T07:10:12.253",
-  "Aktualisiert": "2025-05-19T22:02:48",
+  "TimeStamp": "2025-05-21T07:10:12.588",
+  "Aktualisiert": "2025-05-20T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50870,6 +50870,124 @@
         19,
         25,
         214
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22433,
+      "Titel": "Die neuen Zumessungsrichtlinien - Wie ernst nimmt der Senat die Mitwirkungs- und Beteiligungsverfahren?",
+      "Beschreibung": "",
+      "Datum": "2025-05-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22433.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        20,
+        3,
+        8
+      ],
+      "Stichworte": [
+        436,
+        138,
+        37,
+        13,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22479,
+      "Titel": "Kita-Gutschein an Eltern toter Kinder",
+      "Beschreibung": "",
+      "Datum": "2025-05-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22479.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        7,
+        9,
+        5
+      ],
+      "Stichworte": [
+        7,
+        95,
+        33,
+        164,
+        19,
+        206
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22480,
+      "Titel": "Kita-Gutschein und Betreuungsbedarf",
+      "Beschreibung": "",
+      "Datum": "2025-05-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22480.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        2,
+        9
+      ],
+      "Stichworte": [
+        7,
+        95,
+        33,
+        79,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22488,
+      "Titel": "Hat das Modellprojekt Kitasozialarbeit in Berlin eine Zukunft?",
+      "Beschreibung": "",
+      "Datum": "2025-05-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22488.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        19,
+        20,
+        3,
+        10,
+        8,
+        13
+      ],
+      "Stichworte": [
+        53,
+        7,
+        138,
+        33,
+        203,
+        37,
+        230,
+        71,
+        89
       ],
       "Relevant": true
     }
