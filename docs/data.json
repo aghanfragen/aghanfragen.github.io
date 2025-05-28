@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-27T07:10:11.26",
-  "Aktualisiert": "2025-05-26T22:02:47",
+  "TimeStamp": "2025-05-28T07:10:11.716",
+  "Aktualisiert": "2025-05-27T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50988,6 +50988,33 @@
         230,
         71,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22498,
+      "Titel": "Inklusive Schulentwicklung – Wie lief das Verfahren zur Änderung der Sonderpädagogikverordnung?",
+      "Beschreibung": "",
+      "Datum": "2025-05-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22498.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        10
+      ],
+      "Stichworte": [
+        138,
+        165,
+        139,
+        184,
+        42,
+        56
       ],
       "Relevant": true
     }
