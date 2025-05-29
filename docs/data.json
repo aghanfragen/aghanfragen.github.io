@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-28T07:10:11.716",
-  "Aktualisiert": "2025-05-27T22:02:49",
+  "TimeStamp": "2025-05-29T07:10:12.92",
+  "Aktualisiert": "2025-05-28T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51015,6 +51015,34 @@
         184,
         42,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22489,
+      "Titel": "Probeunterricht (Teil 3): Überstürzte Umsetzung setzt Familien und Kinder unter Druck - nun auch Verwirrung und Ungleichbehandlung?",
+      "Beschreibung": "",
+      "Datum": "2025-05-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22489.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        18,
+        1
+      ],
+      "Stichworte": [
+        137,
+        70,
+        88,
+        270,
+        13,
+        299,
+        185
       ],
       "Relevant": true
     }
