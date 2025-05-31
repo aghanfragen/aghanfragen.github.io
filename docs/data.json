@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-05-30T07:10:10.908",
-  "Aktualisiert": "2025-05-29T22:02:49",
+  "TimeStamp": "2025-05-31T07:10:12.021",
+  "Aktualisiert": "2025-05-30T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51043,6 +51043,62 @@
         13,
         299,
         185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22509,
+      "Titel": "Wie weiter mit der Reinhardswald-Grundschule?",
+      "Beschreibung": "",
+      "Datum": "2025-05-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22509.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        0,
+        41,
+        6,
+        2
+      ],
+      "Stichworte": [
+        603,
+        96,
+        10,
+        272,
+        336,
+        13,
+        24,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22568,
+      "Titel": "Stand der Verhandlungen zu den Kostenblättern im Rahmen der Rahmenvereinbarung für Tageseinrichtungen (RV Tag)",
+      "Beschreibung": "",
+      "Datum": "2025-05-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22568.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        38
+      ],
+      "Themen": [
+        4,
+        8
+      ],
+      "Stichworte": [
+        7,
+        8,
+        37,
+        135
       ],
       "Relevant": true
     }
