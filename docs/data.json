@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-03T07:10:11.524",
-  "Aktualisiert": "2025-06-02T22:02:47",
+  "TimeStamp": "2025-06-04T07:10:11.7",
+  "Aktualisiert": "2025-06-03T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -862,7 +862,9 @@
     "Gaststätten- und Beherbergungsgewerbe",
     "Extremismus",
     "Geburtenrate",
-    "Hochschulprüfung"
+    "Hochschulprüfung",
+    "Verfassungsschutz",
+    "Nationalsozialismus"
   ],
   "Dokumente": [
     {
@@ -51099,6 +51101,59 @@
         8,
         37,
         135
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22522,
+      "Titel": "AfD gesichert rechtsextremistisch - Wie geht die Bildungsverwaltung damit um?",
+      "Beschreibung": "",
+      "Datum": "2025-05-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22522.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        45,
+        10
+      ],
+      "Stichworte": [
+        47,
+        17,
+        347,
+        637,
+        50,
+        666
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22537,
+      "Titel": "Berliner Landeszentrale für politische Bildung - Themenbereich Antisemitismus",
+      "Beschreibung": "",
+      "Datum": "2025-05-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22537.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        124
+      ],
+      "Themen": [
+        32,
+        36
+      ],
+      "Stichworte": [
+        176,
+        146,
+        255,
+        667
       ],
       "Relevant": true
     }
