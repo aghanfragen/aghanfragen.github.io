@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-05T07:10:10.948",
-  "Aktualisiert": "2025-06-04T22:02:46",
+  "TimeStamp": "2025-06-05T23:35:57.227",
+  "Aktualisiert": "2025-06-05T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51154,6 +51154,68 @@
         146,
         255,
         667
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22539,
+      "Titel": "Sozialpädagogisch begleitete Ausbildungen nach § 13 SGB VIII",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
+      "Datum": "2025-05-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22539.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46,
+        66,
+        111
+      ],
+      "Themen": [
+        19,
+        13,
+        9
+      ],
+      "Stichworte": [
+        177,
+        53,
+        64,
+        224,
+        33,
+        230,
+        19,
+        497
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22577,
+      "Titel": "Fachkräfte in der Frühkindlichen Bildung gewinnen und binden",
+      "Beschreibung": "",
+      "Datum": "2025-05-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22577.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        8,
+        2,
+        9
+      ],
+      "Stichworte": [
+        149,
+        7,
+        79,
+        8,
+        37,
+        135,
+        19
       ],
       "Relevant": true
     }
