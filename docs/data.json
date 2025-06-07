@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-06T07:10:11.171818904",
-  "Aktualisiert": "2025-06-05T22:02:47",
+  "TimeStamp": "2025-06-07T07:10:12.640002132",
+  "Aktualisiert": "2025-06-06T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -864,7 +864,8 @@
     "Geburtenrate",
     "Hochschulprüfung",
     "Verfassungsschutz",
-    "Nationalsozialismus"
+    "Nationalsozialismus",
+    "Verkehrspolitik"
   ],
   "Dokumente": [
     {
@@ -51216,6 +51217,145 @@
         37,
         135,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22536,
+      "Titel": "Aktueller Stand rechtsextremer Vorfälle an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-05-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22536.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        81,
+        101
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        47,
+        334,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22542,
+      "Titel": "Schülerlotsen-Programm an den Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-05-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22542.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        121
+      ],
+      "Themen": [
+        19,
+        6,
+        5
+      ],
+      "Stichworte": [
+        53,
+        161,
+        42,
+        13,
+        81,
+        268,
+        668,
+        306
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22544,
+      "Titel": "Umfrage Inklusion - Wie viele Kinder werden in Berlin nicht beschult?",
+      "Beschreibung": "",
+      "Datum": "2025-05-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22544.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        6,
+        9
+      ],
+      "Stichworte": [
+        95,
+        42,
+        13,
+        11,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22550,
+      "Titel": "Zusammenarbeit zwischen dem neuen Berliner Landesinstitut zur Qualifizierung und Qualitätsentwicklung an Schulen (BliQ) mit den Berliner Universitäten",
+      "Beschreibung": "",
+      "Datum": "2025-05-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22550.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        25
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        70,
+        39,
+        150,
+        17,
+        612
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22551,
+      "Titel": "Sanierung der Grundschule an der Victoriastadt",
+      "Beschreibung": "",
+      "Datum": "2025-05-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22551.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        0,
+        2,
+        3,
+        24
+      ],
+      "Stichworte": [
+        1,
+        2,
+        3,
+        4,
+        80,
+        13
       ],
       "Relevant": true
     }
