@@ -90,7 +90,7 @@
         const filterForm = document.getElementById('filterForm');
 
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('http://88.198.194.36/aghanfragen/bildung/data.json')
+            fetch('data.json')
                 .then(res => res.json())
                 .then(out => {
                     timestamp = out['Aktualisiert'];
