@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-10T07:10:11.37006933",
-  "Aktualisiert": "2025-06-09T22:02:48",
+  "TimeStamp": "2025-06-11T07:10:11.42673818",
+  "Aktualisiert": "2025-06-10T22:02:46",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51356,6 +51356,108 @@
         4,
         80,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22564,
+      "Titel": "Schwimmen als Grundrecht für jedes Kind: Wie stellt der Berliner Senat sicher, dass kein Kind zurückgelassen wird?",
+      "Beschreibung": "",
+      "Datum": "2025-05-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22564.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8,
+        9
+      ],
+      "Themen": [
+        27,
+        19
+      ],
+      "Stichworte": [
+        53,
+        95,
+        33,
+        42,
+        524,
+        92,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22602,
+      "Titel": "Auswirkungen der Abschaffung des Probejahres an Gymnasien in Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22602.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        1,
+        12
+      ],
+      "Stichworte": [
+        0,
+        23,
+        42,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22620,
+      "Titel": "Schüler mit Verantwortung: Schulreinigung",
+      "Beschreibung": "",
+      "Datum": "2025-05-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22620.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        0
+      ],
+      "Stichworte": [
+        395,
+        13,
+        24,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22622,
+      "Titel": "Schüler mit Verantwortung: Ausgabe des Schulmittagessens",
+      "Beschreibung": "",
+      "Datum": "2025-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22622.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        5
+      ],
+      "Stichworte": [
+        361,
+        81
       ],
       "Relevant": true
     }
