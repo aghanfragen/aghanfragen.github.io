@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-11T07:10:11.42673818",
-  "Aktualisiert": "2025-06-10T22:02:46",
+  "TimeStamp": "2025-06-12T07:10:11.109222173",
+  "Aktualisiert": "2025-06-11T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51457,6 +51457,85 @@
       ],
       "Stichworte": [
         361,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22616,
+      "Titel": "Beratung für Hochstrittige Eltern: Nachfragen zur Drucksache 19/10750",
+      "Beschreibung": "",
+      "Datum": "2025-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22616.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31
+      ],
+      "Stichworte": [
+        177,
+        269,
+        190,
+        95,
+        33,
+        194,
+        111,
+        191
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22617,
+      "Titel": "Elternschaft als normatives Ziel und Kinderlosigkeit als psychische Belastung",
+      "Beschreibung": "",
+      "Datum": "2025-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22617.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        17
+      ],
+      "Stichworte": [
+        269,
+        95,
+        191,
+        48
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22618,
+      "Titel": "Das UNICEF-Kinderrechteschulen-Programm",
+      "Beschreibung": "",
+      "Datum": "2025-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22618.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        6
+      ],
+      "Stichworte": [
+        95,
+        33,
+        17,
+        42,
+        13,
         81
       ],
       "Relevant": true
