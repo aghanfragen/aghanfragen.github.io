@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-12T07:10:11.109222173",
-  "Aktualisiert": "2025-06-11T22:02:52",
+  "TimeStamp": "2025-06-13T07:10:11.220692645",
+  "Aktualisiert": "2025-06-12T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51536,6 +51536,32 @@
         17,
         42,
         13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22589,
+      "Titel": "Sicherstellung des Schwimmunterrichts in Hohenschönhausen während der Sanierung der Schwimmhalle Zingster Straße",
+      "Beschreibung": "",
+      "Datum": "2025-05-31",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22589.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        24,
+        6
+      ],
+      "Stichworte": [
+        80,
+        13,
+        524,
         81
       ],
       "Relevant": true
