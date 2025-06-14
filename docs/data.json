@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-13T07:10:11.220692645",
-  "Aktualisiert": "2025-06-12T22:02:47",
+  "TimeStamp": "2025-06-14T07:10:10.177771503",
+  "Aktualisiert": "2025-06-13T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51562,6 +51562,36 @@
         80,
         13,
         524,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22642,
+      "Titel": "Evaluation des digitalen Bestellsystems für Schulmittagessen",
+      "Beschreibung": "",
+      "Datum": "2025-05-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22642.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        1,
+        5,
+        3,
+        18,
+        6
+      ],
+      "Stichworte": [
+        0,
+        15,
+        6,
+        4,
+        195,
         81
       ],
       "Relevant": true
