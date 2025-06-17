@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-16T07:10:11.43691566",
-  "Aktualisiert": "2025-06-13T22:02:47",
+  "TimeStamp": "2025-06-17T07:10:10.797883786",
+  "Aktualisiert": "2025-06-16T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51593,6 +51593,63 @@
         4,
         195,
         81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22586,
+      "Titel": "Zu wenig Platz für differenzierte Rückmeldung - Berichtzeugnisse im digitalen Korsett?",
+      "Beschreibung": "",
+      "Datum": "2025-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22586.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        19
+      ],
+      "Themen": [
+        18,
+        7,
+        8,
+        6
+      ],
+      "Stichworte": [
+        137,
+        199,
+        17,
+        13,
+        81,
+        164
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22599,
+      "Titel": "Unsichere Zukunft für Schulneubau in Rummelsburg",
+      "Beschreibung": "",
+      "Datum": "2025-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22599.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        0,
+        43,
+        24
+      ],
+      "Stichworte": [
+        2,
+        72,
+        314,
+        80,
+        13
       ],
       "Relevant": true
     }
