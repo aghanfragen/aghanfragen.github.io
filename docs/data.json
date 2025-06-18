@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-17T07:10:10.797883786",
-  "Aktualisiert": "2025-06-16T22:02:48",
+  "TimeStamp": "2025-06-18T07:10:10.746138384",
+  "Aktualisiert": "2025-06-17T22:02:47",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -865,7 +865,8 @@
     "Hochschulprüfung",
     "Verfassungsschutz",
     "Nationalsozialismus",
-    "Verkehrspolitik"
+    "Verkehrspolitik",
+    "Gemeinnützige Arbeit"
   ],
   "Dokumente": [
     {
@@ -50476,12 +50477,10 @@
         25
       ],
       "Stichworte": [
-        247,
         193,
         269,
         82,
-        664,
-        33
+        664
       ],
       "Relevant": false
     },
@@ -50502,12 +50501,11 @@
         25
       ],
       "Stichworte": [
+        247,
         193,
         269,
         82,
-        665,
-        95,
-        33
+        665
       ],
       "Relevant": true
     },
@@ -50525,12 +50523,14 @@
         5
       ],
       "Themen": [
-        25
+        9
       ],
       "Stichworte": [
+        247,
         193,
         82,
-        33,
+        664,
+        19,
         410
       ],
       "Relevant": false
@@ -51652,6 +51652,82 @@
         13
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22619,
+      "Titel": "Schüler mit Verantwortung: Kinderhausmeister",
+      "Beschreibung": "",
+      "Datum": "2025-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22619.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        0
+      ],
+      "Stichworte": [
+        669,
+        13,
+        24,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22621,
+      "Titel": "Schüler mit Verantwortung: Schulsekretariat",
+      "Beschreibung": "",
+      "Datum": "2025-06-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22621.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6
+      ],
+      "Stichworte": [
+        669,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22664,
+      "Titel": "Kinderarmut in Berlin - 2024",
+      "Beschreibung": "",
+      "Datum": "2025-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22664.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        38
+      ],
+      "Themen": [
+        31,
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        224,
+        33,
+        326,
+        420,
+        19
+      ],
+      "Relevant": false
     }
   ]
 }
