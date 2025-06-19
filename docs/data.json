@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-18T07:10:10.746138384",
-  "Aktualisiert": "2025-06-17T22:02:47",
+  "TimeStamp": "2025-06-19T07:10:11.555819928",
+  "Aktualisiert": "2025-06-18T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -51726,6 +51726,397 @@
         326,
         420,
         19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22604,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22604.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        14,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        27,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22605,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22605.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        13,
+        15
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        230,
+        35
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22683,
+      "Titel": "Auswirkungen der neuen Zumessungsrichtlinien auf inklusive Beschulung",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22683.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        3,
+        0
+      ],
+      "Stichworte": [
+        53,
+        4,
+        18,
+        42,
+        13,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22708,
+      "Titel": "Schwarz-Roter Kahlschlag bei Bildung, Jugend und Familie: Auswirkungen auf Tarifvorsorge, PKB-Mittel, Schulbudgets, Klassenfahrten und Bonusprogramm",
+      "Beschreibung": "PKB = Personalkostenbudgetierung",
+      "Datum": "2025-06-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22708.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        8
+      ],
+      "Stichworte": [
+        209,
+        13,
+        22,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22606,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22606.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        26,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        87,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22607,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22607.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        12,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        23,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22608,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22608.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        13,
+        39
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        230,
+        229
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22609,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22609.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        8,
+        13
+      ],
+      "Stichworte": [
+        277,
+        134,
+        64,
+        33,
+        194,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22610,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22610.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        41,
+        13
+      ],
+      "Stichworte": [
+        134,
+        272,
+        64,
+        33,
+        194,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22611,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22611.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        24,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        80,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22612,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22612.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        29,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        100,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22613,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22613.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        13,
+        34
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        230,
+        148
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22614,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22614.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        30,
+        13
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        107,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22615,
+      "Titel": "Mitarbeiter im Jugendamt im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22615.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        13,
+        21
+      ],
+      "Stichworte": [
+        134,
+        64,
+        33,
+        194,
+        230,
+        74
       ],
       "Relevant": false
     }
