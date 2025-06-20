@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-19T07:10:11.555819928",
-  "Aktualisiert": "2025-06-18T22:02:48",
+  "TimeStamp": "2025-06-20T07:10:12.290766127",
+  "Aktualisiert": "2025-06-19T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -52119,6 +52119,34 @@
         74
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22707,
+      "Titel": "Auswirkungen der neuen Zumessungsrichtlinie ab dem Schuljahr 2025/26",
+      "Beschreibung": "",
+      "Datum": "2025-06-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22707.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        8,
+        18,
+        10
+      ],
+      "Stichworte": [
+        53,
+        17,
+        37,
+        51,
+        13
+      ],
+      "Relevant": true
     }
   ]
 }
