@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-23T07:10:11.081731873",
-  "Aktualisiert": "2025-06-20T22:02:47",
+  "TimeStamp": "2025-06-24T07:10:11.525290641",
+  "Aktualisiert": "2025-06-23T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -52201,6 +52201,81 @@
         13,
         11,
         81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22738,
+      "Titel": "Stand der Schulversuche in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22738.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3
+      ],
+      "Stichworte": [
+        42,
+        13,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22741,
+      "Titel": "Abriss des alten Hausmeisterhauses am Stadtbad Tiergarten",
+      "Beschreibung": "",
+      "Datum": "2025-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22741.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        24
+      ],
+      "Themen": [
+        0
+      ],
+      "Stichworte": [
+        147,
+        155,
+        602,
+        25
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22752,
+      "Titel": "Eingruppierung der Schulhausmeister in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-06-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22752.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        100
+      ],
+      "Themen": [
+        8,
+        19,
+        0
+      ],
+      "Stichworte": [
+        237,
+        53,
+        37,
+        13,
+        218,
+        136
       ],
       "Relevant": true
     }
