@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-26T07:10:12.274938163",
-  "Aktualisiert": "2025-06-25T22:02:47",
+  "TimeStamp": "2025-06-27T07:10:11.040376233",
+  "Aktualisiert": "2025-06-26T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -52278,6 +52278,29 @@
         136
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22769,
+      "Titel": "Wasserturm in der Gaußstraße",
+      "Beschreibung": "",
+      "Datum": "2025-06-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22769.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        130
+      ],
+      "Themen": [
+        0,
+        42
+      ],
+      "Stichworte": [
+        277,
+        25
+      ],
+      "Relevant": false
     }
   ]
 }
