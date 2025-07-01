@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-06-30T07:10:11.283901357",
-  "Aktualisiert": "2025-06-27T22:02:48",
+  "TimeStamp": "2025-07-01T07:10:12.098515961",
+  "Aktualisiert": "2025-06-30T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -866,7 +866,8 @@
     "Verfassungsschutz",
     "Nationalsozialismus",
     "Verkehrspolitik",
-    "Gemeinnützige Arbeit"
+    "Gemeinnützige Arbeit",
+    "Minderheit"
   ],
   "Dokumente": [
     {
@@ -52301,6 +52302,143 @@
         25
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22789,
+      "Titel": "Staatliche Ballettschule Berlin - Personalentwicklung",
+      "Beschreibung": "",
+      "Datum": "2025-06-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22789.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        42
+      ],
+      "Themen": [
+        27,
+        18,
+        8,
+        9
+      ],
+      "Stichworte": [
+        137,
+        17,
+        42,
+        13,
+        92,
+        433,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22795,
+      "Titel": "Formal nicht vollständig qualifizierte Lehrerinnen und Lehrer - wie viel Geld spart das Land Berlin?",
+      "Beschreibung": "",
+      "Datum": "2025-06-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22795.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        17,
+        151,
+        209,
+        108,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22809,
+      "Titel": "Gruppenbezogene Menschenfeindlichkeit an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-06-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22809.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        16,
+        3,
+        6,
+        13,
+        9
+      ],
+      "Stichworte": [
+        177,
+        61,
+        47,
+        4,
+        670,
+        42,
+        13,
+        279,
+        167,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22810,
+      "Titel": "Diskriminierung, Gewaltvorfälle und Mobbing an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-06-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22810.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        8,
+        36,
+        16,
+        2,
+        3,
+        14,
+        6,
+        13,
+        9
+      ],
+      "Stichworte": [
+        177,
+        14,
+        178,
+        61,
+        3,
+        47,
+        4,
+        17,
+        27,
+        42,
+        13,
+        167,
+        81,
+        19,
+        168
+      ],
+      "Relevant": true
     }
   ]
 }
