@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-02T07:10:11.338620844",
-  "Aktualisiert": "2025-07-01T22:02:50",
+  "TimeStamp": "2025-07-03T07:10:16.594785537",
+  "Aktualisiert": "2025-07-02T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -52439,6 +52439,83 @@
         168
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22869,
+      "Titel": "Formaler Abschluss eines Abklärungsprozesses nach Meldungen über die mögliche Kindeswohlgefährdung und Dokumentation",
+      "Beschreibung": "",
+      "Datum": "2025-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22869.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10
+      ],
+      "Stichworte": [
+        255,
+        33,
+        194,
+        189
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22870,
+      "Titel": "Verdachtsabklärung bei Meldungen von Kindeswohlgefährdung",
+      "Beschreibung": "",
+      "Datum": "2025-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22870.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        13,
+        9
+      ],
+      "Stichworte": [
+        177,
+        341,
+        188,
+        63,
+        33,
+        223,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22871,
+      "Titel": "Fehlende Mitarbeit durch die Sorgeberechtigten bei einer Verdachtsabklärung nach möglicher Misshandlung oder Vernachlässigung",
+      "Beschreibung": "",
+      "Datum": "2025-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22871.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        177,
+        188,
+        63,
+        95,
+        33
+      ],
+      "Relevant": false
     }
   ]
 }
