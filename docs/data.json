@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-03T07:10:16.594785537",
-  "Aktualisiert": "2025-07-02T22:02:49",
+  "TimeStamp": "2025-07-04T07:10:16.534661796",
+  "Aktualisiert": "2025-07-03T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -867,7 +867,8 @@
     "Nationalsozialismus",
     "Verkehrspolitik",
     "Gemeinnützige Arbeit",
-    "Minderheit"
+    "Minderheit",
+    "Abschiebung"
   ],
   "Dokumente": [
     {
@@ -52516,6 +52517,485 @@
         33
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22850,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22850.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        0,
+        9,
+        21
+      ],
+      "Stichworte": [
+        48,
+        42,
+        13,
+        312,
+        524,
+        19,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22851,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22851.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        0,
+        9,
+        39
+      ],
+      "Stichworte": [
+        48,
+        42,
+        13,
+        312,
+        524,
+        19,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22852,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22852.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        0,
+        9,
+        34
+      ],
+      "Stichworte": [
+        48,
+        42,
+        13,
+        312,
+        524,
+        19,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22853,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22853.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        0,
+        15,
+        9
+      ],
+      "Stichworte": [
+        48,
+        42,
+        13,
+        312,
+        524,
+        35,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22854,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22854.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        29,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        100,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22855,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22855.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        26,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        87,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22856,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22856.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        30,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        107,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22857,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-06-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22857.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        14,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        27,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22858,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22858.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        12,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        23,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22859,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22859.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        17,
+        24,
+        0,
+        9
+      ],
+      "Stichworte": [
+        48,
+        80,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22860,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-06-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22860.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        41,
+        17,
+        0,
+        9
+      ],
+      "Stichworte": [
+        272,
+        48,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22861,
+      "Titel": "Schwimmbusse und Schwimmunterricht im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-06-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22861.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5,
+        132
+      ],
+      "Themen": [
+        42,
+        17,
+        0,
+        9
+      ],
+      "Stichworte": [
+        277,
+        48,
+        42,
+        13,
+        312,
+        524,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22862,
+      "Titel": "Mit dem Ausländerrecht gegen schulische Probleme? Was sagt das Bezirksamt Neukölln?",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22862.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        23,
+        30,
+        10
+      ],
+      "Stichworte": [
+        671,
+        212,
+        75,
+        281,
+        63,
+        107,
+        185,
+        493
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22863,
+      "Titel": "Mit dem Ausländerrecht gegen schulische Probleme? Was sagt die Senatsverwaltung für Bildung?",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22863.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        23,
+        10
+      ],
+      "Stichworte": [
+        671,
+        212,
+        75,
+        185,
+        124
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22866,
+      "Titel": "Schuldistanz in Berlin: Bußgelder für Schulverweigerung",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22866.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        23,
+        9
+      ],
+      "Stichworte": [
+        75,
+        85,
+        63,
+        185,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22868,
+      "Titel": "Schuldistanz in Berlin: Anfertigung von Schulversäumnisanzeigen",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22868.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        23,
+        19
+      ],
+      "Stichworte": [
+        75,
+        53,
+        15,
+        185
+      ],
+      "Relevant": true
     }
   ]
 }
