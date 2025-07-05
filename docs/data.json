@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-04T07:10:16.534661796",
-  "Aktualisiert": "2025-07-03T22:02:48",
+  "TimeStamp": "2025-07-05T07:10:16.978983614",
+  "Aktualisiert": "2025-07-04T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -52994,6 +52994,88 @@
         53,
         15,
         185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22832,
+      "Titel": "Arbeitszeiterfassung: Alles neu macht die Arbeitszeitstudie?",
+      "Beschreibung": "",
+      "Datum": "2025-06-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22832.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        7,
+        10
+      ],
+      "Stichworte": [
+        158,
+        509,
+        17,
+        648,
+        124,
+        410
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22867,
+      "Titel": "Schuldistanz in Berlin: Schulschwänzer in den Knast?",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22867.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        6
+      ],
+      "Stichworte": [
+        70,
+        184,
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22881,
+      "Titel": "Startklar fürs 11. Pflichtschuljahr?",
+      "Beschreibung": "",
+      "Datum": "2025-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22881.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        3,
+        10,
+        6
+      ],
+      "Stichworte": [
+        70,
+        13,
+        299,
+        81,
+        440,
+        89
       ],
       "Relevant": true
     }
