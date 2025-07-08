@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-07T07:10:15.47091251",
-  "Aktualisiert": "2025-07-04T22:02:50",
+  "TimeStamp": "2025-07-08T07:10:15.282915319",
+  "Aktualisiert": "2025-07-07T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53076,6 +53076,76 @@
         81,
         440,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22875,
+      "Titel": "Schulklassen bei Ausflügen unterstützen",
+      "Beschreibung": "",
+      "Datum": "2025-06-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22875.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        3
+      ],
+      "Stichworte": [
+        177,
+        507,
+        42,
+        13,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22913,
+      "Titel": "Zukunft der Pankower \"Schule an der Strauchwiese\"",
+      "Beschreibung": "",
+      "Datum": "2025-06-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22913.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        26
+      ],
+      "Stichworte": [
+        87,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22914,
+      "Titel": "Hat der Senat die umstrittene Stabsstelle politische Bildung gestoppt?",
+      "Beschreibung": "",
+      "Datum": "2025-06-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22914.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        32,
+        8
+      ],
+      "Stichworte": [
+        146,
+        37
       ],
       "Relevant": true
     }
