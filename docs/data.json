@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-08T07:10:15.282915319",
-  "Aktualisiert": "2025-07-07T22:02:49",
+  "TimeStamp": "2025-07-09T07:10:18.163403781",
+  "Aktualisiert": "2025-07-08T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53148,6 +53148,59 @@
         37
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22911,
+      "Titel": "Was sind dem schwarz-roten Senat saubere Schulen wert? (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-07-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22911.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        27,
+        64
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        129,
+        300,
+        395,
+        13,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23004,
+      "Titel": "FEZ auf der schiefen Bahn: Rückgabe des Experimentarium Akustik nach 25 Jahren vermeintlich illegaler Nutzung?",
+      "Beschreibung": "",
+      "Datum": "2025-07-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23004.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        16
+      ],
+      "Themen": [
+        34
+      ],
+      "Stichworte": [
+        391,
+        224,
+        464,
+        544,
+        148
+      ],
+      "Relevant": false
     }
   ]
 }
