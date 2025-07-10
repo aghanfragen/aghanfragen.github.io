@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-09T07:10:18.163403781",
-  "Aktualisiert": "2025-07-08T22:02:50",
+  "TimeStamp": "2025-07-10T07:10:17.900341685",
+  "Aktualisiert": "2025-07-09T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53201,6 +53201,34 @@
         148
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22929,
+      "Titel": "Brandbrief der Elternvertretung der Theodor-Heuss-Schule in Moabit - Kürzt der Senat mit Rechentricks bei der Unterstützung von Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-06-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22929.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        24
+      ],
+      "Themen": [
+        3,
+        10,
+        14
+      ],
+      "Stichworte": [
+        435,
+        27,
+        42,
+        13,
+        89
+      ],
+      "Relevant": true
     }
   ]
 }
