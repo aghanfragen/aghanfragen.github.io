@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-10T07:10:17.900341685",
-  "Aktualisiert": "2025-07-09T22:02:51",
+  "TimeStamp": "2025-07-11T07:10:16.61326365",
+  "Aktualisiert": "2025-07-10T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -145,7 +145,8 @@
     "Schenker, Niklas (Die Linke)",
     "Wapler, Christoph (Grüne)",
     "Scheermesser, Frank (AfD)",
-    "Ebrahimpour Mirzaie, Ario (Grüne)"
+    "Ebrahimpour Mirzaie, Ario (Grüne)",
+    "Luhmann, Frank (CDU)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -868,7 +869,9 @@
     "Verkehrspolitik",
     "Gemeinnützige Arbeit",
     "Minderheit",
-    "Abschiebung"
+    "Abschiebung",
+    "Frauenhaus",
+    "Frauenpolitik"
   ],
   "Dokumente": [
     {
@@ -53229,6 +53232,214 @@
         89
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22906,
+      "Titel": "Hat der Senat die Einrichtung inklusiver Schwerpunktschulen gestoppt?",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22906.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        20
+      ],
+      "Stichworte": [
+        138,
+        165,
+        42,
+        13,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22918,
+      "Titel": "Eine Schule für alle (Teil 2): Gemeinschaftsschulen und Inklusion",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22918.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        20,
+        43
+      ],
+      "Stichworte": [
+        138,
+        42,
+        13,
+        299,
+        56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22919,
+      "Titel": "Eine Schule für alle (Teil 3): Stand des Ausbaus der Berliner Gemeinschaftsschulen",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22919.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        4,
+        2,
+        3,
+        9,
+        43
+      ],
+      "Stichworte": [
+        53,
+        54,
+        13,
+        299,
+        19,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22927,
+      "Titel": "(Teil 2) Folgen der Hochstufung der Alternative für Deutschland (AfD) als gesichert Lrechtsextremistische Bestrebung: Schutz von Kindern und Jugendlichen",
+      "Beschreibung": "",
+      "Datum": "2025-07-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22927.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        133,
+        19,
+        46
+      ],
+      "Themen": [
+        8,
+        3,
+        45,
+        9
+      ],
+      "Stichworte": [
+        125,
+        17,
+        37,
+        347,
+        637,
+        50,
+        19,
+        666,
+        71,
+        136
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22930,
+      "Titel": "Berliner Eliteschulen des Sports (Teil 5)",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22930.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        6,
+        9
+      ],
+      "Stichworte": [
+        42,
+        81,
+        92,
+        433,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22954,
+      "Titel": "Umsetzung der Istanbul Konvention in der Senatsverwaltung für Bildung, Jugend und Familie - Welche konkreten Maßnahmen gibt es?",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22954.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        107
+      ],
+      "Themen": [
+        8,
+        16,
+        13,
+        10
+      ],
+      "Stichworte": [
+        177,
+        14,
+        436,
+        82,
+        672,
+        673,
+        61,
+        32,
+        627,
+        167
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22988,
+      "Titel": "\"Haus der Jugend, Drugstore und Potse - Standort, Planung und Finanzierung\"",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22988.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        134
+      ],
+      "Themen": [
+        0,
+        13,
+        21
+      ],
+      "Stichworte": [
+        147,
+        154,
+        64,
+        33,
+        203,
+        273,
+        223,
+        25,
+        74
+      ],
+      "Relevant": false
     }
   ]
 }
