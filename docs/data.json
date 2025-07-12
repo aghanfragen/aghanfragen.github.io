@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-11T07:10:16.61326365",
-  "Aktualisiert": "2025-07-10T22:02:50",
+  "TimeStamp": "2025-07-12T07:10:16.864023651",
+  "Aktualisiert": "2025-07-11T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53440,6 +53440,64 @@
         74
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22917,
+      "Titel": "Eine Schule für alle (Teil 1): Nachfrage nach Gemeinschaftsschulen",
+      "Beschreibung": "",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22917.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        18,
+        4,
+        2,
+        9,
+        43
+      ],
+      "Stichworte": [
+        137,
+        54,
+        13,
+        299,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22936,
+      "Titel": "Kindeswohlgefährdung – \"Neue Ärzte-Honorare für mehr Kinderschutz\" Nachfrage zur schriftlichen Anfrage Drucksache 19/2176",
+      "Beschreibung": "",
+      "Datum": "2025-06-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22936.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        103,
+        5
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        573,
+        177,
+        14,
+        63,
+        359,
+        111,
+        652,
+        528
+      ],
+      "Relevant": true
     }
   ]
 }
