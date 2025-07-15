@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-14T07:10:16.964441555",
-  "Aktualisiert": "2025-07-11T22:02:49",
+  "TimeStamp": "2025-07-15T07:10:16.208309438",
+  "Aktualisiert": "2025-07-14T22:02:48",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53318,7 +53318,7 @@
     {
       "WP": 19,
       "Nummer": 22927,
-      "Titel": "(Teil 2) Folgen der Hochstufung der Alternative für Deutschland (AfD) als gesichert Lrechtsextremistische Bestrebung: Schutz von Kindern und Jugendlichen",
+      "Titel": "(Teil 2) Folgen der Hochstufung der Alternative für Deutschland (AfD) als gesichert rechtsextremistische Bestrebung: Schutz von Kindern und Jugendlichen",
       "Beschreibung": "",
       "Datum": "2025-07-03",
       "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22927.pdf",
@@ -53498,6 +53498,101 @@
         528
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22942,
+      "Titel": "Persönliches Schreiben von Oziel Inácio-Stech an die Bildungssenatorin - wer hat es gelesen?",
+      "Beschreibung": "",
+      "Datum": "2025-07-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22942.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        10,
+        18
+      ],
+      "Stichworte": [
+        51,
+        13,
+        648,
+        124,
+        493,
+        143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 22975,
+      "Titel": "Schwimmen als Grundrecht für jedes Kind: Wie stellt der Berliner Senat sicher, dass kein Kind zurückgelassen wird? (hier: Nachfragen zur Drs. 19/22564)",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22975.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8,
+        9
+      ],
+      "Themen": [
+        27
+      ],
+      "Stichworte": [
+        524,
+        92,
+        433
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23045,
+      "Titel": "§ 45 SGB VIII - Erlaubnis für den Betrieb einer Einrichtung",
+      "Beschreibung": "",
+      "Datum": "2025-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23045.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10
+      ],
+      "Stichworte": [
+        33,
+        493
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23046,
+      "Titel": "§ 45 SGB VIII - Forderungen des Deutschen Sozialgerichtstages e.V. (DSGT)",
+      "Beschreibung": "",
+      "Datum": "2025-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23046.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10
+      ],
+      "Stichworte": [
+        33,
+        493
+      ],
+      "Relevant": false
     }
   ]
 }
