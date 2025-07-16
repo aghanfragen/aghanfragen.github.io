@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-15T07:10:16.208309438",
-  "Aktualisiert": "2025-07-14T22:02:48",
+  "TimeStamp": "2025-07-16T07:10:17.396530951",
+  "Aktualisiert": "2025-07-15T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -146,7 +146,8 @@
     "Wapler, Christoph (Grüne)",
     "Scheermesser, Frank (AfD)",
     "Ebrahimpour Mirzaie, Ario (Grüne)",
-    "Luhmann, Frank (CDU)"
+    "Luhmann, Frank (CDU)",
+    "Wansner, Kurt (CDU)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -53593,6 +53594,90 @@
         493
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 22981,
+      "Titel": "Diskriminierung an Berliner Schulen und Rolle der Antidiskriminierungsbeauftragten",
+      "Beschreibung": "",
+      "Datum": "2025-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22981.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        92,
+        93,
+        19
+      ],
+      "Themen": [
+        10,
+        14,
+        3
+      ],
+      "Stichworte": [
+        177,
+        182,
+        27,
+        184,
+        42,
+        13,
+        493,
+        143,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23044,
+      "Titel": "AG Schulpflicht in den Bezirken",
+      "Beschreibung": "",
+      "Datum": "2025-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23044.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        19
+      ],
+      "Stichworte": [
+        53,
+        13,
+        299,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23080,
+      "Titel": "Zweckbindung von KSSP-Mitteln beim Umbau des Spielplatzes am Lausitzer Platz in Kreuzberg",
+      "Beschreibung": "KSSP = Kita- und Spielplatzsanierungsprogramm",
+      "Datum": "2025-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23080.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        135,
+        119
+      ],
+      "Themen": [
+        4
+      ],
+      "Stichworte": [
+        399,
+        62,
+        224,
+        33,
+        8,
+        480
+      ],
+      "Relevant": true
     }
   ]
 }
