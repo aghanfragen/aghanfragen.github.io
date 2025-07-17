@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-16T07:10:17.396530951",
-  "Aktualisiert": "2025-07-15T22:02:51",
+  "TimeStamp": "2025-07-17T07:10:17.003975037",
+  "Aktualisiert": "2025-07-16T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53678,6 +53678,86 @@
         480
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23028,
+      "Titel": "Keine zuwendungsgeförderten Projekte der Senatsverwaltung für Bildung, Jugend und Familie mehr?",
+      "Beschreibung": "",
+      "Datum": "2025-07-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23028.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104,
+        38
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        70,
+        224,
+        33,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23031,
+      "Titel": "Zuwendungsempfänger im Haushalt Bildung, Jugend und Familie",
+      "Beschreibung": "",
+      "Datum": "2025-07-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23031.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        3,
+        10,
+        16
+      ],
+      "Stichworte": [
+        61,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23084,
+      "Titel": "Funktion und Wirksamkeit der Ombudsstellen für Kinder- und Jugendhilfe in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-07-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23084.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        20,
+        18,
+        10
+      ],
+      "Stichworte": [
+        198,
+        177,
+        63,
+        33,
+        195,
+        493
+      ],
+      "Relevant": false
     }
   ]
 }
