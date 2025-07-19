@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-18T07:10:22.719835017",
-  "Aktualisiert": "2025-07-17T22:02:50",
+  "TimeStamp": "2025-07-19T07:10:17.551240907",
+  "Aktualisiert": "2025-07-18T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53757,6 +53757,35 @@
         492
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23016,
+      "Titel": "Schulsanierungen und Schuldrehscheiben in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-07-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23016.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        0,
+        19,
+        3,
+        9
+      ],
+      "Stichworte": [
+        10,
+        53,
+        4,
+        13,
+        24,
+        19
+      ],
+      "Relevant": true
     }
   ]
 }
