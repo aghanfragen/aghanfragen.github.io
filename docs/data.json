@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-23T07:10:16.61850592",
-  "Aktualisiert": "2025-07-22T22:02:50",
+  "TimeStamp": "2025-07-24T07:10:17.709843496",
+  "Aktualisiert": "2025-07-23T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53786,6 +53786,61 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23119,
+      "Titel": "Anteil der männlichen Erzieher in den Kitas",
+      "Beschreibung": "",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23119.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        9
+      ],
+      "Stichworte": [
+        82,
+        7,
+        95,
+        8,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23162,
+      "Titel": "Welche Angebote der queeren Jugendarbeit werden in Reinickendorf unterstützt?",
+      "Beschreibung": "",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23162.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        60,
+        99,
+        98
+      ],
+      "Themen": [
+        16,
+        3,
+        29
+      ],
+      "Stichworte": [
+        61,
+        64,
+        100,
+        416,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
