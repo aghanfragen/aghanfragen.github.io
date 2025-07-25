@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-24T07:10:17.709843496",
-  "Aktualisiert": "2025-07-23T22:02:49",
+  "TimeStamp": "2025-07-25T07:10:15.502924559",
+  "Aktualisiert": "2025-07-24T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -871,7 +871,8 @@
     "Minderheit",
     "Abschiebung",
     "Frauenhaus",
-    "Frauenpolitik"
+    "Frauenpolitik",
+    "Handwerk"
   ],
   "Dokumente": [
     {
@@ -53841,6 +53842,146 @@
         71
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23088,
+      "Titel": "Beschulung von geflüchteten Kindern und Jugendlichen in Berlin - aktueller Stand",
+      "Beschreibung": "",
+      "Datum": "2025-07-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23088.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        23,
+        9
+      ],
+      "Stichworte": [
+        53,
+        120,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23101,
+      "Titel": "Den Nebel lichten: Nötige Nachfragen zur Antwort des Senats auf die Schriftliche Anfrage betr. Mobbing und Diskriminierung an Berlins Schulen (Drs. 19/22810 vom 20. Juni 2025)",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-07-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23101.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        8,
+        36,
+        2,
+        14,
+        6,
+        13
+      ],
+      "Stichworte": [
+        177,
+        14,
+        178,
+        3,
+        17,
+        27,
+        42,
+        13,
+        52,
+        167,
+        81,
+        647,
+        168
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23136,
+      "Titel": "WAT-Unterricht im Rahmenlehrplan",
+      "Beschreibung": "WAT-Unterricht = Wirtschaft, Arbeit, Technik Unterricht",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23136.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        17
+      ],
+      "Stichworte": [
+        48,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23161,
+      "Titel": "Werkunterricht in der Grundschule",
+      "Beschreibung": "",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23161.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        17,
+        2
+      ],
+      "Stichworte": [
+        673,
+        48,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23203,
+      "Titel": "Das Berliner Bildungsprogramm - was geschah hinter den Kulissen?",
+      "Beschreibung": "",
+      "Datum": "2025-07-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23203.pdf",
+      "Parteien": [
+        3,
+        5
+      ],
+      "Autoren": [
+        39,
+        38
+      ],
+      "Themen": [
+        4
+      ],
+      "Stichworte": [
+        69,
+        188,
+        7,
+        95
+      ],
+      "Relevant": true
     }
   ]
 }
