@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-25T07:10:15.502924559",
-  "Aktualisiert": "2025-07-24T22:02:49",
+  "TimeStamp": "2025-07-26T07:10:15.254709439",
+  "Aktualisiert": "2025-07-25T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -872,7 +872,8 @@
     "Abschiebung",
     "Frauenhaus",
     "Frauenpolitik",
-    "Handwerk"
+    "Handwerk",
+    "Partei"
   ],
   "Dokumente": [
     {
@@ -53980,6 +53981,451 @@
         188,
         7,
         95
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23087,
+      "Titel": "Schulplatzvergabe an weiterführenden Schulen für das Schuljahr 2025/26",
+      "Beschreibung": "",
+      "Datum": "2025-07-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23087.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23118,
+      "Titel": "Meldungen über besondere Vorkommnisse nach § 47 AG KJHG",
+      "Beschreibung": "KJHG = Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes, zur Unterstützung von Familien und zur Förderung der Beteiligung und Demokratiebildung junger Menschen und Familien (Jugendhilfe-, Familien- und Jugendfördergesetz - AG KJHG)",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23118.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16
+      ],
+      "Stichworte": [
+        61,
+        33
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23120,
+      "Titel": "Politische, den Nationalsozialismus verharmlosende Türanhänger in der Rahel-Hirsch-Schule",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23120.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        18,
+        10
+      ],
+      "Stichworte": [
+        666,
+        674,
+        636,
+        51
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23122,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23122.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        42,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        277,
+        642,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23123,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23123.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        41,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        272,
+        642,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23124,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23124.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        24,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        80,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23125,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23125.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        12,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        23,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23126,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23126.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        14,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        27,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23127,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23127.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        30,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        107,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23128,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23128.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        26,
+        8,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        87,
+        37,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23129,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23129.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        8,
+        29,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        37,
+        100,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23130,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23130.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        8,
+        15,
+        23
+      ],
+      "Stichworte": [
+        233,
+        642,
+        37,
+        35,
+        76,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23131,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23131.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        8,
+        23,
+        39
+      ],
+      "Stichworte": [
+        233,
+        642,
+        37,
+        76,
+        229,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23132,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23132.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        8,
+        23,
+        21
+      ],
+      "Stichworte": [
+        233,
+        642,
+        37,
+        76,
+        74,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23133,
+      "Titel": "Familienfreundliche Verwaltung: Warten auf die Bearbeitung von Anträgen im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-07-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23133.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10,
+        8,
+        23,
+        34
+      ],
+      "Stichworte": [
+        233,
+        642,
+        37,
+        76,
+        148,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23135,
+      "Titel": "WAT-Unterricht in anderen Bundesländern",
+      "Beschreibung": "WAT-Unterricht = Unterrichtung des Faches Wirtschaft, Arbeit, Technik",
+      "Datum": "2025-07-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23135.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16
+      ],
+      "Stichworte": [
+        61,
+        42,
+        13,
+        5
       ],
       "Relevant": true
     }
