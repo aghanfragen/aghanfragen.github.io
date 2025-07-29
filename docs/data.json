@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-28T07:10:13.630125913",
-  "Aktualisiert": "2025-07-25T22:02:53",
+  "TimeStamp": "2025-07-29T07:10:14.458116687",
+  "Aktualisiert": "2025-07-28T22:02:49",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -54426,6 +54426,380 @@
         42,
         13,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23137,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Pankow",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23137.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        26
+      ],
+      "Stichworte": [
+        21,
+        87,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23138,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Reinickendorf",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23138.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        29
+      ],
+      "Stichworte": [
+        21,
+        100,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23139,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Mitte",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23139.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        14
+      ],
+      "Stichworte": [
+        21,
+        27,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23140,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23140.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        11
+      ],
+      "Stichworte": [
+        272,
+        21,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23141,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Spandau",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23141.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        15
+      ],
+      "Stichworte": [
+        21,
+        42,
+        13,
+        185,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23142,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23142.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        11
+      ],
+      "Stichworte": [
+        277,
+        21,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23143,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23143.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        12
+      ],
+      "Stichworte": [
+        21,
+        23,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23144,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23144.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        39
+      ],
+      "Stichworte": [
+        21,
+        42,
+        13,
+        185,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23146,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Treptow-Köpenick",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23146.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        34
+      ],
+      "Stichworte": [
+        21,
+        42,
+        13,
+        185,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23147,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Neukölln",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23147.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        30
+      ],
+      "Stichworte": [
+        21,
+        107,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23148,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23148.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        21
+      ],
+      "Stichworte": [
+        21,
+        42,
+        13,
+        185,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23164,
+      "Titel": "Wie steht es um die digitale Bestellung beim Schulmittagessen?",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23164.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        97
+      ],
+      "Themen": [
+        19,
+        6,
+        7,
+        9
+      ],
+      "Stichworte": [
+        53,
+        42,
+        13,
+        81,
+        164,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23166,
+      "Titel": "Schwimmbusse für den Schwimmunterricht - aktueller Stand in den Berliner Bezirken",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23166.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        19,
+        17,
+        3
+      ],
+      "Stichworte": [
+        53,
+        48,
+        42,
+        13,
+        523,
+        92,
+        71,
+        426
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23169,
+      "Titel": "Wann handelt der Senat und schafft endlich Lösungen für den Bildungscampus am Südstern?",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23169.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        55
+      ],
+      "Themen": [
+        27,
+        0,
+        41
+      ],
+      "Stichworte": [
+        96,
+        272,
+        13,
+        92,
+        499
       ],
       "Relevant": true
     }
