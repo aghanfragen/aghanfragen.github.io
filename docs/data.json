@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-29T07:10:14.458116687",
-  "Aktualisiert": "2025-07-28T22:02:49",
+  "TimeStamp": "2025-07-30T07:10:16.055118991",
+  "Aktualisiert": "2025-07-29T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -54800,6 +54800,265 @@
         13,
         92,
         499
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23102,
+      "Titel": "Auswirkungen der Haushaltskonsolidierung 2023 - 2025 auf die Kinder- und Jugendförderung nach §§ 11, 13 Abs. 1 und 16 SGB VIII",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
+      "Datum": "2025-07-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23102.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        5,
+        16,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        57,
+        58,
+        61,
+        33,
+        194,
+        19,
+        410,
+        71,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23145,
+      "Titel": "Ausstattung für den WAT-Unterricht im Bezirk Lichtenberg",
+      "Beschreibung": "WAT= Wirtschaft-Arbeit-Technik",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23145.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11,
+        24
+      ],
+      "Stichworte": [
+        21,
+        80,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23149,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23149.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        14
+      ],
+      "Stichworte": [
+        3,
+        27,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23150,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23150.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        21
+      ],
+      "Stichworte": [
+        3,
+        13,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23151,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23151.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        30
+      ],
+      "Stichworte": [
+        3,
+        107,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23152,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23152.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        2
+      ],
+      "Stichworte": [
+        272,
+        3,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23153,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23153.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        15
+      ],
+      "Stichworte": [
+        3,
+        13,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23156,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23156.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        29,
+        9
+      ],
+      "Stichworte": [
+        3,
+        100,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23158,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23158.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        26,
+        9
+      ],
+      "Stichworte": [
+        3,
+        87,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23178,
+      "Titel": "Sommer-Schulbauoffensive 2025",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23178.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        8
+      ],
+      "Themen": [
+        0,
+        9
+      ],
+      "Stichworte": [
+        1,
+        10,
+        42,
+        13,
+        19,
+        25
       ],
       "Relevant": true
     }
