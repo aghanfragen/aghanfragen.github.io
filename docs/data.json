@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-30T07:10:16.055118991",
-  "Aktualisiert": "2025-07-29T22:02:50",
+  "TimeStamp": "2025-07-31T07:10:16.640676748",
+  "Aktualisiert": "2025-07-30T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55059,6 +55059,265 @@
         13,
         19,
         25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23154,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23154.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        24,
+        9
+      ],
+      "Stichworte": [
+        3,
+        80,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23155,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23155.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        9,
+        34
+      ],
+      "Stichworte": [
+        3,
+        13,
+        19,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23157,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23157.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        9,
+        39
+      ],
+      "Stichworte": [
+        3,
+        13,
+        19,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23159,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23159.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        12,
+        9
+      ],
+      "Stichworte": [
+        3,
+        23,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23160,
+      "Titel": "Werkstätten an Grundschulen im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23160.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        2,
+        9
+      ],
+      "Stichworte": [
+        277,
+        3,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23179,
+      "Titel": "Schulplatzmangel zu Lasten von ISS und Gemeinschaftsschulen?",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23179.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        43,
+        1,
+        6
+      ],
+      "Stichworte": [
+        314,
+        88,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23181,
+      "Titel": "Schulplatzbedarfe an Oberschulen in Marzahn-Hellersdorf zum Schuljahr 2025/26 (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-07-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23181.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        12,
+        6
+      ],
+      "Stichworte": [
+        23,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23248,
+      "Titel": "\"Denkbare Obergrenze\" auch in Berlin? - Was sagt der Senat?",
+      "Beschreibung": "",
+      "Datum": "2025-07-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23248.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        23,
+        6
+      ],
+      "Stichworte": [
+        75,
+        120,
+        317,
+        13,
+        279,
+        11,
+        299
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23228,
+      "Titel": "Privat-gewerbliche und gemeinnützige Träger in der Kinder- und Jugendhilfe",
+      "Beschreibung": "",
+      "Datum": "2025-07-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23228.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        19,
+        16
+      ],
+      "Stichworte": [
+        53,
+        61,
+        33,
+        420,
+        406,
+        101,
+        349
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23229,
+      "Titel": "Präsenzzeiten für Lehrer über die Unterrichtszeit hinaus",
+      "Beschreibung": "",
+      "Datum": "2025-07-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23229.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        208,
+        17,
+        5
       ],
       "Relevant": true
     }
