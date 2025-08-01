@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-07-31T07:10:16.640676748",
-  "Aktualisiert": "2025-07-30T22:02:51",
+  "TimeStamp": "2025-08-01T07:10:15.478059742",
+  "Aktualisiert": "2025-07-31T22:02:50",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55320,6 +55320,60 @@
         5
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23274,
+      "Titel": "Schwierigkeiten bei der Umsetzung des § 20 SGB VIII",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
+      "Datum": "2025-07-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23274.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        3
+      ],
+      "Stichworte": [
+        177,
+        61,
+        179,
+        63,
+        224,
+        420,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23275,
+      "Titel": "§ 20 SGB VIII: Anspruchsvoraussetzungen",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
+      "Datum": "2025-07-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23275.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16
+      ],
+      "Stichworte": [
+        177,
+        61,
+        63,
+        224,
+        33,
+        420
+      ],
+      "Relevant": false
     }
   ]
 }
