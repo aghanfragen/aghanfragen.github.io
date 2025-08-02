@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-01T07:10:15.478059742",
-  "Aktualisiert": "2025-07-31T22:02:50",
+  "TimeStamp": "2025-08-02T07:10:17.144941991",
+  "Aktualisiert": "2025-08-01T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55374,6 +55374,89 @@
         420
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23273,
+      "Titel": "Aufgaben und Finanzierung der Erziehungs- und Familienberatung",
+      "Beschreibung": "",
+      "Datum": "2025-07-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23273.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        19,
+        16
+      ],
+      "Stichworte": [
+        53,
+        188,
+        78,
+        399,
+        61,
+        191,
+        71,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23218,
+      "Titel": "Sportplatz Darßer Straße sanieren",
+      "Beschreibung": "",
+      "Datum": "2025-07-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23218.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        27,
+        0,
+        24,
+        3
+      ],
+      "Stichworte": [
+        1,
+        80,
+        92,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23223,
+      "Titel": "Trinkwasserspender an Schulen in Marzahn-Hellersdorf (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2025-07-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23223.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        3,
+        0
+      ],
+      "Stichworte": [
+        18,
+        13,
+        529,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
