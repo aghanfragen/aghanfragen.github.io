@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-04T07:10:15.118234588",
-  "Aktualisiert": "2025-08-01T22:02:52",
+  "TimeStamp": "2025-08-05T07:10:13.822121988",
+  "Aktualisiert": "2025-08-04T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55457,6 +55457,58 @@
         71
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23289,
+      "Titel": "Hochstrittige Trennungsfälle, Gewalthintergrund und Rolle der Ombudsstellen",
+      "Beschreibung": "",
+      "Datum": "2025-07-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23289.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        13
+      ],
+      "Stichworte": [
+        365,
+        626,
+        26,
+        63,
+        194,
+        191
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23317,
+      "Titel": "Zukunft der Medienkompetenzzentren",
+      "Beschreibung": "",
+      "Datum": "2025-07-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23317.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        7,
+        19,
+        3,
+        11
+      ],
+      "Stichworte": [
+        53,
+        16,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
