@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-05T07:10:13.822121988",
-  "Aktualisiert": "2025-08-04T22:02:51",
+  "TimeStamp": "2025-08-06T07:10:15.475696105",
+  "Aktualisiert": "2025-08-05T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55509,6 +55509,178 @@
         71
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23270,
+      "Titel": "Entwicklung und Zukunft von vollschulischen Ausbildungsplätzen an den OSZ",
+      "Beschreibung": "OSZ = Oberstufenzentrum",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23270.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        60,
+        96
+      ],
+      "Themen": [
+        28,
+        18,
+        9
+      ],
+      "Stichworte": [
+        98,
+        137,
+        42,
+        279,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23276,
+      "Titel": "Erziehungs- und Ordnungsmaßnahmen: Was dürfen Lehrer und was nicht?",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23276.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        6
+      ],
+      "Stichworte": [
+        17,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23277,
+      "Titel": "Erziehungs- und Ordnungsmaßnahmen: Rechtssicherheit in Schulrechtsfragen",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23277.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        150,
+        17,
+        151
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23278,
+      "Titel": "Erziehungs- und Ordnungsmaßnahmen an Schulen: Klagen und Rechtsprechung",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23278.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        10
+      ],
+      "Stichworte": [
+        17,
+        184
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23316,
+      "Titel": "Stärkung des WAT-Unterrichts in Berlin",
+      "Beschreibung": "WAT = Wirtschaft, Arbeit, Technik Unterricht",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23316.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        363,
+        42,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23323,
+      "Titel": "Zukunft des Wettkampfs \"Schwimmen um Scharfenberg\"",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23323.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        3
+      ],
+      "Stichworte": [
+        42,
+        13,
+        92,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23331,
+      "Titel": "Stand und Verfahren der Lehrkräfteeinstellungen zum Schuljahr 2025/2026",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23331.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        28,
+        8,
+        9
+      ],
+      "Stichworte": [
+        234,
+        151,
+        37,
+        42,
+        19
+      ],
+      "Relevant": true
     }
   ]
 }
