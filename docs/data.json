@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-06T07:10:15.475696105",
-  "Aktualisiert": "2025-08-05T22:02:53",
+  "TimeStamp": "2025-08-07T07:10:15.908899759",
+  "Aktualisiert": "2025-08-06T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53543,14 +53543,22 @@
         9
       ],
       "Themen": [
-        27
+        27,
+        19,
+        9
       ],
       "Stichworte": [
+        53,
+        95,
+        42,
+        13,
         523,
         92,
-        433
+        433,
+        19,
+        5
       ],
-      "Relevant": false
+      "Relevant": true
     },
     {
       "WP": 19,
