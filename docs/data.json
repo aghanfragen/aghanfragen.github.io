@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-07T07:10:15.908899759",
-  "Aktualisiert": "2025-08-06T22:02:51",
+  "TimeStamp": "2025-08-08T07:10:15.47737451",
+  "Aktualisiert": "2025-08-07T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -147,7 +147,8 @@
     "Scheermesser, Frank (AfD)",
     "Ebrahimpour Mirzaie, Ario (Grüne)",
     "Luhmann, Frank (CDU)",
-    "Wansner, Kurt (CDU)"
+    "Wansner, Kurt (CDU)",
+    "Leschewitz, Franziska (Die Linke)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -53123,9 +53124,11 @@
         9
       ],
       "Themen": [
+        20,
         26
       ],
       "Stichworte": [
+        138,
         87,
         13
       ],
@@ -55687,6 +55690,151 @@
         37,
         42,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23272,
+      "Titel": "Konzept Bewegte Schule",
+      "Beschreibung": "",
+      "Datum": "2025-07-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23272.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        6,
+        27
+      ],
+      "Stichworte": [
+        59,
+        13,
+        81,
+        92,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23288,
+      "Titel": "Bezirksübergreifende Verfahren bei der ergänzenden Kinderbetreuung",
+      "Beschreibung": "",
+      "Datum": "2025-07-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23288.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        10
+      ],
+      "Stichworte": [
+        15,
+        63,
+        95,
+        33,
+        189
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23295,
+      "Titel": "Leistungen zur Teilhabe an Bildung für Kinder mit Behinderungen - Umsetzung der Schulassistenz in den Berliner Bezirken an Oberschulen",
+      "Beschreibung": "",
+      "Datum": "2025-07-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23295.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        136,
+        38
+      ],
+      "Themen": [
+        20,
+        19,
+        6,
+        10
+      ],
+      "Stichworte": [
+        53,
+        165,
+        139,
+        73,
+        13,
+        81,
+        141,
+        189
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23296,
+      "Titel": "Leistungen zur Teilhabe an Bildung für Kinder mit Behinderungen - Umsetzung der Schulassistenz in den Berliner Bezirken an Grundschulen",
+      "Beschreibung": "",
+      "Datum": "2025-07-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23296.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        136,
+        38
+      ],
+      "Themen": [
+        20,
+        19,
+        2,
+        6,
+        10
+      ],
+      "Stichworte": [
+        53,
+        3,
+        165,
+        139,
+        13,
+        81,
+        141,
+        189
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23322,
+      "Titel": "Wie geht es Kindern im Autismusspektrum in Berlins Kitas und Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-07-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23322.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        20
+      ],
+      "Stichworte": [
+        7,
+        8,
+        573,
+        42,
+        56
       ],
       "Relevant": true
     }
