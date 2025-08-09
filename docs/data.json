@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-08T07:10:15.47737451",
-  "Aktualisiert": "2025-08-07T22:02:51",
+  "TimeStamp": "2025-08-09T07:10:14.782092402",
+  "Aktualisiert": "2025-08-08T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -874,7 +874,8 @@
     "Frauenhaus",
     "Frauenpolitik",
     "Handwerk",
-    "Partei"
+    "Partei",
+    "Diplomatische Vertretung"
   ],
   "Dokumente": [
     {
@@ -55835,6 +55836,63 @@
         573,
         42,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23310,
+      "Titel": "Teilnahme der Berliner Schulen an den Bundesjugendspielen",
+      "Beschreibung": "",
+      "Datum": "2025-07-31",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23310.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        132
+      ],
+      "Themen": [
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        62,
+        42,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23325,
+      "Titel": "Konsulatsunterricht an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-07-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23325.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        19,
+        10,
+        6
+      ],
+      "Stichworte": [
+        53,
+        675,
+        292,
+        42,
+        13,
+        81,
+        5
       ],
       "Relevant": true
     }
