@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-11T07:10:15.566508485",
-  "Aktualisiert": "2025-08-08T22:02:51",
+  "TimeStamp": "2025-08-12T07:10:15.257966787",
+  "Aktualisiert": "2025-08-11T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55893,6 +55893,30 @@
         13,
         81,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23332,
+      "Titel": "Ergebnisse des Vorbereitungsdienstes für das Lehramt in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-08-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23332.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        150,
+        17,
+        19
       ],
       "Relevant": true
     }
