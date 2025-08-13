@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-12T07:10:15.257966787",
-  "Aktualisiert": "2025-08-11T22:02:52",
+  "TimeStamp": "2025-08-13T07:10:16.758650729",
+  "Aktualisiert": "2025-08-12T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -55916,6 +55916,93 @@
       "Stichworte": [
         150,
         17,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23357,
+      "Titel": "Kindertagespflege in Berlin – In der Krise bewährt, nun strukturell benachteiligt?",
+      "Beschreibung": "",
+      "Datum": "2025-08-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23357.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        69,
+        7,
+        95,
+        194,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23364,
+      "Titel": "Kita-Situation in Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-08-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23364.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        4,
+        19,
+        12,
+        8,
+        9
+      ],
+      "Stichworte": [
+        53,
+        7,
+        23,
+        37,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23410,
+      "Titel": "Verlässliche Grundausstattung in den neuen Zumessungsrichtlinien: Sind sonderpädagogische Förderschwerpunkte nun mit Armut korreliert oder nicht?",
+      "Beschreibung": "",
+      "Datum": "2025-08-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23410.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        20,
+        0,
+        9
+      ],
+      "Stichworte": [
+        380,
+        53,
+        138,
+        18,
+        13,
+        56,
         19
       ],
       "Relevant": true
