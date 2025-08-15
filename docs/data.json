@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-14T07:10:15.605971902",
-  "Aktualisiert": "2025-08-13T22:02:50",
+  "TimeStamp": "2025-08-15T07:10:20.360975373",
+  "Aktualisiert": "2025-08-14T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56003,6 +56003,34 @@
         18,
         13,
         56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23363,
+      "Titel": "Lehrerstellen in Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-08-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23363.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        12,
+        8,
+        9
+      ],
+      "Stichworte": [
+        23,
+        37,
+        42,
+        13,
+        285,
         19
       ],
       "Relevant": true
