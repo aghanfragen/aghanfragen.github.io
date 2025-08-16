@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-15T07:10:20.360975373",
-  "Aktualisiert": "2025-08-14T22:02:51",
+  "TimeStamp": "2025-08-16T07:10:17.164657365",
+  "Aktualisiert": "2025-08-15T22:02:51",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56032,6 +56032,31 @@
         13,
         285,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23375,
+      "Titel": "Lässt der Senat die Bildungsträger im Regen stehen? Tarifmittel für Zuwendungsempfänger*innen",
+      "Beschreibung": "",
+      "Datum": "2025-08-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23375.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        10,
+        8,
+        3
+      ],
+      "Stichworte": [
+        209,
+        143,
+        89
       ],
       "Relevant": true
     }
