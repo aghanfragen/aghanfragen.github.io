@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-18T07:10:14.980608487",
-  "Aktualisiert": "2025-08-15T22:02:51",
+  "TimeStamp": "2025-08-19T07:10:15.70130344",
+  "Aktualisiert": "2025-08-18T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56059,6 +56059,35 @@
         89
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23392,
+      "Titel": "Straßensozialarbeit in Reinickendorf-Ost",
+      "Beschreibung": "",
+      "Datum": "2025-07-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23392.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        53
+      ],
+      "Themen": [
+        31,
+        16,
+        29,
+        9
+      ],
+      "Stichworte": [
+        61,
+        224,
+        100,
+        326,
+        406,
+        19
+      ],
+      "Relevant": false
     }
   ]
 }
