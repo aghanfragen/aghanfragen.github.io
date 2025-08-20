@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-19T07:10:15.70130344",
-  "Aktualisiert": "2025-08-18T22:02:53",
+  "TimeStamp": "2025-08-20T07:10:15.43704105",
+  "Aktualisiert": "2025-08-19T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56088,6 +56088,33 @@
         19
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23441,
+      "Titel": "Personelle Ausstattung und Zielsetzung des proSchul-Programms",
+      "Beschreibung": "",
+      "Datum": "2025-08-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23441.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        8,
+        6
+      ],
+      "Stichworte": [
+        177,
+        37,
+        42,
+        13,
+        81,
+        5
+      ],
+      "Relevant": true
     }
   ]
 }
