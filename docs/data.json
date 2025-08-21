@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-20T07:10:15.43704105",
-  "Aktualisiert": "2025-08-19T22:02:54",
+  "TimeStamp": "2025-08-21T07:10:15.085491871",
+  "Aktualisiert": "2025-08-20T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56113,6 +56113,45 @@
         13,
         81,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23421,
+      "Titel": "Stand der Beschulung geflüchteter Kinder und Jugendlicher in Gemeinschaftsunterkünften (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23421.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        81
+      ],
+      "Themen": [
+        23,
+        8,
+        6,
+        13,
+        9
+      ],
+      "Stichworte": [
+        75,
+        293,
+        438,
+        224,
+        17,
+        37,
+        42,
+        13,
+        11,
+        167,
+        523,
+        81,
+        122,
+        19
       ],
       "Relevant": true
     }
