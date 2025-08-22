@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-21T07:10:15.085491871",
-  "Aktualisiert": "2025-08-20T22:02:56",
+  "TimeStamp": "2025-08-22T07:10:16.426597327",
+  "Aktualisiert": "2025-08-21T22:03:04",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56152,6 +56152,295 @@
         81,
         122,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23420,
+      "Titel": "Verbeamtung von Quereinsteigenden",
+      "Beschreibung": "",
+      "Datum": "2025-08-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23420.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        125,
+        295,
+        151,
+        19,
+        136
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23442,
+      "Titel": "Zustand, Mängel und Ausstattung an der Adam Ries-Grundschule",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23442.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        0,
+        2
+      ],
+      "Stichworte": [
+        18,
+        42,
+        13,
+        24
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23443,
+      "Titel": "Schulstationen in Berliner Grundschulen: Finanzierung, Steuerung, Wirkung",
+      "Beschreibung": "",
+      "Datum": "2025-08-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23443.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        10,
+        8,
+        3,
+        0,
+        13,
+        9,
+        2
+      ],
+      "Stichworte": [
+        177,
+        233,
+        134,
+        60,
+        18,
+        13,
+        167,
+        19,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23457,
+      "Titel": "Nachfrage zur Anfrage \"Sommer-Schulbauoffensive 2025\" (Drs. 19/23178)",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23457.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        8
+      ],
+      "Themen": [
+        0,
+        19,
+        9
+      ],
+      "Stichworte": [
+        1,
+        53,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23466,
+      "Titel": "Spielplatz auf dem Schulhof der Ebereschen Grundschule",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23466.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        32
+      ],
+      "Themen": [
+        2,
+        12
+      ],
+      "Stichworte": [
+        3,
+        23,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23472,
+      "Titel": "Unterstützung für schulferne Schüler sowie Förderschulen in den Berliner Bezirken",
+      "Beschreibung": "",
+      "Datum": "2025-08-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23472.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        0
+      ],
+      "Themen": [
+        20,
+        19,
+        9
+      ],
+      "Stichworte": [
+        177,
+        53,
+        194,
+        165,
+        139,
+        13,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23473,
+      "Titel": "Aktueller Stand des Startchancenprogramms: Mittelvergabe, Matheband und freie Träger",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23473.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        435,
+        42,
+        13,
+        299,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23474,
+      "Titel": "Sanierung und Erweiterung der Gutenberg-Schule in Hohenschönhausen transparent machen",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23474.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        0,
+        24
+      ],
+      "Stichworte": [
+        10,
+        80,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23483,
+      "Titel": "Oberseeschule: Bau der Gymnastikhalle transparent machen",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23483.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        0
+      ],
+      "Stichworte": [
+        1,
+        13,
+        65
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23484,
+      "Titel": "Oberseeschule: Planung für das neue Schuljahr 2025/26 offenlegen",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23484.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        13,
+        285
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23485,
+      "Titel": "Digitalpakt Schule 2.0 auch in Lichtenberg nutzen",
+      "Beschreibung": "",
+      "Datum": "2025-08-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23485.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        24
+      ],
+      "Stichworte": [
+        15,
+        80,
+        13
       ],
       "Relevant": true
     }
