@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-22T07:10:16.426597327",
-  "Aktualisiert": "2025-08-21T22:03:04",
+  "TimeStamp": "2025-08-23T07:10:16.111325672",
+  "Aktualisiert": "2025-08-22T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56441,6 +56441,61 @@
         15,
         80,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23455,
+      "Titel": "Zukunft der bezirklichen Medienkompetenzzentren",
+      "Beschreibung": "",
+      "Datum": "2025-08-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23455.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        38
+      ],
+      "Themen": [
+        11,
+        3,
+        10
+      ],
+      "Stichworte": [
+        69,
+        412,
+        64,
+        33,
+        194,
+        241,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23456,
+      "Titel": "Nachfrageschwankungen und Ressourcensicherung im Berliner Kitasystem",
+      "Beschreibung": "",
+      "Datum": "2025-08-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23456.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        38
+      ],
+      "Themen": [
+        4,
+        3
+      ],
+      "Stichworte": [
+        60,
+        7,
+        95,
+        33
       ],
       "Relevant": true
     }
