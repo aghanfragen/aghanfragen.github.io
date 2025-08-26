@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-25T07:10:15.155431694",
-  "Aktualisiert": "2025-08-22T22:02:55",
+  "TimeStamp": "2025-08-26T07:10:14.200422075",
+  "Aktualisiert": "2025-08-25T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50609,13 +50609,15 @@
       ],
       "Themen": [
         13,
+        3,
         18
       ],
       "Stichworte": [
         32,
         26,
         195,
-        42
+        42,
+        71
       ],
       "Relevant": true
     },
@@ -56498,6 +56500,37 @@
         33
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23454,
+      "Titel": "Ressourcenmangel in der Jugend- und Familienhilfe und dessen Folgen für Kinder, Jugendliche und Familien",
+      "Beschreibung": "",
+      "Datum": "2025-08-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23454.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        38
+      ],
+      "Themen": [
+        19,
+        16,
+        3,
+        10,
+        9
+      ],
+      "Stichworte": [
+        53,
+        61,
+        64,
+        33,
+        19,
+        71,
+        89
+      ],
+      "Relevant": false
     }
   ]
 }
