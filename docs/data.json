@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-27T07:10:21.837498728",
-  "Aktualisiert": "2025-08-26T22:02:52",
+  "TimeStamp": "2025-08-28T07:10:15.480341401",
+  "Aktualisiert": "2025-08-27T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56531,6 +56531,42 @@
         89
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23460,
+      "Titel": "Aussitzen geht nicht, Frau Senatorin! - Nachfragen zu den Antworten auf unsere Anfragen zu den \"komplexen\" Geschehnissen an der Carl-Bolle-Grundschule (Drs. 19/22810 vom 20.6.2025 und 19/23101 vom 16.6.2025)",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-08-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23460.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        36,
+        2,
+        13,
+        6,
+        10
+      ],
+      "Stichworte": [
+        177,
+        178,
+        106,
+        3,
+        47,
+        415,
+        172,
+        13,
+        167,
+        81,
+        124
+      ],
+      "Relevant": true
     }
   ]
 }
