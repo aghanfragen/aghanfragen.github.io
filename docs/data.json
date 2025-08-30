@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-08-29T07:10:15.860377686",
-  "Aktualisiert": "2025-08-28T22:02:53",
+  "TimeStamp": "2025-08-30T07:10:17.681662161",
+  "Aktualisiert": "2025-08-29T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56644,6 +56644,83 @@
         89
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23520,
+      "Titel": "Einschulungen in Reinickendorf-Ost",
+      "Beschreibung": "",
+      "Datum": "2025-08-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23520.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        53
+      ],
+      "Themen": [
+        29,
+        0,
+        6,
+        9
+      ],
+      "Stichworte": [
+        100,
+        130,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23569,
+      "Titel": "Nachgefragt: Kooperationspartner am BLiQ",
+      "Beschreibung": "BliQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen",
+      "Datum": "2025-08-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23569.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        14,
+        150,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23583,
+      "Titel": "Lehrkräfteausstattung der Berliner Schulen zum Schuljahresbeginn 2025/26",
+      "Beschreibung": "",
+      "Datum": "2025-08-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23583.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        385,
+        37,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
     }
   ]
 }
