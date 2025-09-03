@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-02T07:10:14.874646057",
-  "Aktualisiert": "2025-09-01T22:02:53",
+  "TimeStamp": "2025-09-03T07:10:18.175868699",
+  "Aktualisiert": "2025-09-02T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56718,6 +56718,32 @@
         37,
         42,
         13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23571,
+      "Titel": "Situation der Schulsekretariate und Verwaltungsleitungen in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-08-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23571.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        9,
+        10
+      ],
+      "Stichworte": [
+        37,
+        13,
+        311,
         19
       ],
       "Relevant": true
