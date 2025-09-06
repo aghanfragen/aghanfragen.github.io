@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-05T07:10:15.067932843",
-  "Aktualisiert": "2025-09-04T22:02:53",
+  "TimeStamp": "2025-09-06T07:10:16.719660497",
+  "Aktualisiert": "2025-09-05T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56744,6 +56744,32 @@
         37,
         13,
         311,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23570,
+      "Titel": "Lehrkräfte-Endgeräte - kommt Windows 11 rechtzeitig oder wird es teuer?",
+      "Beschreibung": "",
+      "Datum": "2025-08-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23570.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        7,
+        0,
+        9
+      ],
+      "Stichworte": [
+        199,
+        18,
+        13,
         19
       ],
       "Relevant": true
