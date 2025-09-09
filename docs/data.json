@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-08T07:10:14.893248477",
-  "Aktualisiert": "2025-09-05T22:02:54",
+  "TimeStamp": "2025-09-09T07:10:14.346172423",
+  "Aktualisiert": "2025-09-08T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56771,6 +56771,32 @@
         18,
         13,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23584,
+      "Titel": "Härtefallfonds für von Kürzungen betroffene Träger im Bildungsbereich?",
+      "Beschreibung": "",
+      "Datum": "2025-08-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23584.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        10,
+        16
+      ],
+      "Stichworte": [
+        69,
+        61,
+        646,
+        89
       ],
       "Relevant": true
     }
