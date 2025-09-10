@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-09T07:10:14.346172423",
-  "Aktualisiert": "2025-09-08T22:02:52",
+  "TimeStamp": "2025-09-10T07:10:14.613437536",
+  "Aktualisiert": "2025-09-09T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56797,6 +56797,55 @@
         61,
         646,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23572,
+      "Titel": "Reichweite und Wirksamkeit von freien Trägern und Angeboten - Wie wird geprüft?",
+      "Beschreibung": "",
+      "Datum": "2025-08-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23572.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        71,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23660,
+      "Titel": "Anzahl von Erziehern in Kita und Hort zum Start des neuen Kita- bzw. Schuljahres",
+      "Beschreibung": "",
+      "Datum": "2025-09-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23660.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        8
+      ],
+      "Stichworte": [
+        7,
+        8,
+        37,
+        152,
+        42
       ],
       "Relevant": true
     }
