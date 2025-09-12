@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-11T07:10:13.882828639",
-  "Aktualisiert": "2025-09-10T22:02:55",
+  "TimeStamp": "2025-09-12T07:10:15.180241472",
+  "Aktualisiert": "2025-09-11T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -56846,6 +56846,63 @@
         37,
         152,
         42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23635,
+      "Titel": "Kita-Plätze in Marzahn-Hellersdorf (Teil 6)",
+      "Beschreibung": "",
+      "Datum": "2025-09-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23635.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        4,
+        2,
+        12,
+        0,
+        9
+      ],
+      "Stichworte": [
+        7,
+        79,
+        23,
+        273,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23665,
+      "Titel": "Schwimmstatistik für die dritten Klassen der Berliner Schulen: Nichtschwimmerquote am Ende des Schuljahres 2024/25",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23665.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        27,
+        6,
+        9
+      ],
+      "Stichworte": [
+        13,
+        523,
+        81,
+        92,
+        19,
+        5
       ],
       "Relevant": true
     }
