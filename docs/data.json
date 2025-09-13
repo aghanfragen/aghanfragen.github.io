@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-12T07:10:15.180241472",
-  "Aktualisiert": "2025-09-11T22:02:54",
+  "TimeStamp": "2025-09-13T07:10:20.947975314",
+  "Aktualisiert": "2025-09-12T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -875,7 +875,8 @@
     "Frauenpolitik",
     "Handwerk",
     "Partei",
-    "Diplomatische Vertretung"
+    "Diplomatische Vertretung",
+    "Wetter"
   ],
   "Dokumente": [
     {
@@ -56903,6 +56904,89 @@
         92,
         19,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23640,
+      "Titel": "Ganztagsangebote in öffentlicher und freier Trägerschaft an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23640.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        16,
+        22,
+        8,
+        9
+      ],
+      "Stichworte": [
+        61,
+        587,
+        194,
+        13,
+        19,
+        136
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23645,
+      "Titel": "Hitzefrei an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23645.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        42,
+        13,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23652,
+      "Titel": "Entwicklung des prozentualen Anteils von Schülern mit nichtdeutscher Herkunftssprache an Grundschulen, Sekundarschulen und Gymnasien seit dem Schuljahr 2018/2019",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23652.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        23,
+        2,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        75,
+        3,
+        88,
+        81,
+        440,
+        19
       ],
       "Relevant": true
     }
