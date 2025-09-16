@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-15T07:10:13.076038465",
-  "Aktualisiert": "2025-09-12T22:03:00",
+  "TimeStamp": "2025-09-16T07:10:13.991915502",
+  "Aktualisiert": "2025-09-15T22:02:52",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53571,7 +53571,7 @@
       "WP": 19,
       "Nummer": 23045,
       "Titel": "§ 45 SGB VIII - Erlaubnis für den Betrieb einer Einrichtung",
-      "Beschreibung": "",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
       "Datum": "2025-07-07",
       "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23045.pdf",
       "Parteien": [
@@ -53585,6 +53585,7 @@
       ],
       "Stichworte": [
         33,
+        184,
         492
       ],
       "Relevant": false
@@ -56986,6 +56987,62 @@
         88,
         81,
         440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23655,
+      "Titel": "Statistische Daten zum Anteil von Schülern mit nichtdeutscher Herkunftssprache an Grundschulen, Sekundarschulen und Gymnasien zum Ende des Schuljahres 2024/2025",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23655.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        23,
+        2,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        75,
+        3,
+        88,
+        81,
+        440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23659,
+      "Titel": "Anzahl von Lehrern und Schülern zum Start des neuen Schuljahres",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23659.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        17,
+        37,
+        13,
         19
       ],
       "Relevant": true
