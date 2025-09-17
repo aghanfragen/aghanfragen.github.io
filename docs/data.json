@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-16T07:10:13.991915502",
-  "Aktualisiert": "2025-09-15T22:02:52",
+  "TimeStamp": "2025-09-17T07:10:13.83572427",
+  "Aktualisiert": "2025-09-16T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -876,7 +876,8 @@
     "Handwerk",
     "Partei",
     "Diplomatische Vertretung",
-    "Wetter"
+    "Wetter",
+    "Klimaanlage"
   ],
   "Dokumente": [
     {
@@ -53594,7 +53595,7 @@
       "WP": 19,
       "Nummer": 23046,
       "Titel": "§ 45 SGB VIII - Forderungen des Deutschen Sozialgerichtstages e.V. (DSGT)",
-      "Beschreibung": "",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
       "Datum": "2025-07-07",
       "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23046.pdf",
       "Parteien": [
@@ -53607,7 +53608,10 @@
         10
       ],
       "Stichworte": [
+        224,
         33,
+        111,
+        184,
         492
       ],
       "Relevant": false
@@ -57044,6 +57048,492 @@
         37,
         13,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23663,
+      "Titel": "Wann ist der Schulfrieden durch eine Lehrerin mit islamischem Kopftuch konkret gefährdet?",
+      "Beschreibung": "",
+      "Datum": "2025-09-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23663.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        23,
+        8,
+        37,
+        18,
+        10
+      ],
+      "Stichworte": [
+        183,
+        17,
+        181,
+        173,
+        51,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23674,
+      "Titel": "Lehrerstellen in Marzahn-Hellersdorf (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23674.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        8,
+        19,
+        12,
+        9
+      ],
+      "Stichworte": [
+        53,
+        17,
+        23,
+        37,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23599,
+      "Titel": "Praxislernen sichern - Folgen der Haushaltskürzungen für benachteiligte Jugendliche",
+      "Beschreibung": "",
+      "Datum": "2025-09-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23599.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        19
+      ],
+      "Themen": [
+        1,
+        16,
+        8,
+        3,
+        10,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        61,
+        17,
+        81,
+        19,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23600,
+      "Titel": "Aktueller Stand der Umsetzung des Programms \"BERLIN INKLUSIV\" - Berliner Maßnahmenplan 2020 bis 2025 zur Umsetzung der UN-Behindertenkonvention, hier Handlungsfeld Bildung, Teilhabe an Schule - wie sieht es mit den angemessenen Vorkehrungen nach Artikel 24 UN-BRK für Kinder und Jugendliche mit Behinderung aus und welche Maßnahmen und Ziele verfolgt der Senat ab dem Jahr 2026 für diesen Bereich?",
+      "Beschreibung": "",
+      "Datum": "2025-09-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23600.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        3
+      ],
+      "Stichworte": [
+        224,
+        165,
+        139,
+        42,
+        13,
+        141,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23602,
+      "Titel": "Einbürgerungstest",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23602.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        68
+      ],
+      "Themen": [
+        23,
+        9,
+        10
+      ],
+      "Stichworte": [
+        75,
+        281,
+        581,
+        19,
+        189
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23646,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23646.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        24,
+        0
+      ],
+      "Stichworte": [
+        677,
+        80,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23647,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23647.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        12,
+        0
+      ],
+      "Stichworte": [
+        677,
+        23,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23648,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23648.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        14,
+        0
+      ],
+      "Stichworte": [
+        677,
+        27,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23650,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23650.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        30,
+        0
+      ],
+      "Stichworte": [
+        677,
+        107,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23651,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23651.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        26,
+        0
+      ],
+      "Stichworte": [
+        677,
+        87,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23653,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23653.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        29,
+        0
+      ],
+      "Stichworte": [
+        677,
+        100,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23654,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23654.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        0,
+        15
+      ],
+      "Stichworte": [
+        677,
+        18,
+        130,
+        13,
+        24,
+        35,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23656,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23656.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        0,
+        39
+      ],
+      "Stichworte": [
+        677,
+        18,
+        130,
+        13,
+        24,
+        229,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23657,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23657.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        0,
+        21
+      ],
+      "Stichworte": [
+        677,
+        18,
+        130,
+        13,
+        24,
+        74,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23658,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23658.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        0,
+        34
+      ],
+      "Stichworte": [
+        677,
+        18,
+        130,
+        13,
+        24,
+        148,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23661,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23661.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        0
+      ],
+      "Stichworte": [
+        277,
+        677,
+        18,
+        130,
+        13,
+        24,
+        676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23662,
+      "Titel": "Klimaanlagen und Hitzeschutz an Schulen im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-09-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23662.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        0
+      ],
+      "Stichworte": [
+        272,
+        677,
+        18,
+        130,
+        13,
+        24,
+        676
       ],
       "Relevant": true
     }
