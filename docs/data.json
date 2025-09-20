@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-19T07:10:13.512139441",
-  "Aktualisiert": "2025-09-18T22:02:57",
+  "TimeStamp": "2025-09-20T07:10:14.318006667",
+  "Aktualisiert": "2025-09-19T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -57534,6 +57534,34 @@
         13,
         24,
         676
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23677,
+      "Titel": "Projekt Politische Bildung für wohnungslose Menschen",
+      "Beschreibung": "",
+      "Datum": "2025-09-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23677.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        24
+      ],
+      "Themen": [
+        32,
+        3,
+        10
+      ],
+      "Stichworte": [
+        104,
+        146,
+        203,
+        124,
+        546,
+        505
       ],
       "Relevant": true
     }
