@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-22T07:10:14.984965786",
-  "Aktualisiert": "2025-09-19T22:02:55",
+  "TimeStamp": "2025-09-23T07:10:15.59286394",
+  "Aktualisiert": "2025-09-22T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50637,14 +50637,17 @@
         5
       ],
       "Themen": [
-        20
+        5,
+        20,
+        3
       ],
       "Stichworte": [
-        449,
+        179,
         224,
-        191,
+        205,
         165,
-        139
+        635,
+        71
       ],
       "Relevant": false
     },
@@ -57562,6 +57565,33 @@
         124,
         546,
         505
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23711,
+      "Titel": "Ergebnisse der VERA-Vergleichsarbeiten 2025",
+      "Beschreibung": "",
+      "Datum": "2025-09-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23711.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        1,
+        9,
+        18
+      ],
+      "Stichworte": [
+        0,
+        69,
+        397,
+        105,
+        5
       ],
       "Relevant": true
     }
