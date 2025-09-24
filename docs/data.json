@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-23T07:10:15.59286394",
-  "Aktualisiert": "2025-09-22T22:03:00",
+  "TimeStamp": "2025-09-24T07:10:14.939784201",
+  "Aktualisiert": "2025-09-23T22:03:05",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -57592,6 +57592,32 @@
         397,
         105,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23694,
+      "Titel": "Frühkindliche Bildung: Besetzung freier Kita-Plätze",
+      "Beschreibung": "",
+      "Datum": "2025-09-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23694.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        96
+      ],
+      "Themen": [
+        4,
+        23,
+        2
+      ],
+      "Stichworte": [
+        281,
+        7,
+        95,
+        79
       ],
       "Relevant": true
     }
