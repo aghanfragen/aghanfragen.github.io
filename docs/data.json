@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-24T07:10:14.939784201",
-  "Aktualisiert": "2025-09-23T22:03:05",
+  "TimeStamp": "2025-09-25T07:10:15.52559211",
+  "Aktualisiert": "2025-09-24T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -57618,6 +57618,110 @@
         7,
         95,
         79
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23742,
+      "Titel": "Besondere Vorkommnisse in voll- und teilstationären Einrichtungen für Minderjährige",
+      "Beschreibung": "",
+      "Datum": "2025-09-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23742.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        13
+      ],
+      "Stichworte": [
+        224,
+        33,
+        230
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23756,
+      "Titel": "Eingruppierung und Bezahlung von Lehrkräften in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-09-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23756.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        149,
+        150,
+        17,
+        108,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23767,
+      "Titel": "Landesprogramm \"Gute gesunde Schule\"",
+      "Beschreibung": "",
+      "Datum": "2025-09-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23767.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        3
+      ],
+      "Stichworte": [
+        6,
+        42,
+        13,
+        309,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23768,
+      "Titel": "Landesprogramm \"Gute gesunde Schule\": Angebote für Schulleitungen, Lehrer und Schüler",
+      "Beschreibung": "",
+      "Datum": "2025-09-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23768.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        5,
+        8,
+        3,
+        6
+      ],
+      "Stichworte": [
+        6,
+        17,
+        42,
+        13,
+        52,
+        81,
+        71
       ],
       "Relevant": true
     }
