@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-09-25T07:10:15.52559211",
-  "Aktualisiert": "2025-09-24T22:03:00",
+  "TimeStamp": "2025-09-26T07:10:16.600846287",
+  "Aktualisiert": "2025-09-25T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -877,7 +877,8 @@
     "Partei",
     "Diplomatische Vertretung",
     "Wetter",
-    "Klimaanlage"
+    "Klimaanlage",
+    "Staatssymbol"
   ],
   "Dokumente": [
     {
@@ -57722,6 +57723,151 @@
         52,
         81,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23740,
+      "Titel": "Kitas in Lichtenberg im Umbruch",
+      "Beschreibung": "",
+      "Datum": "2025-09-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23740.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        4,
+        0,
+        24,
+        9
+      ],
+      "Stichworte": [
+        1,
+        72,
+        247,
+        7,
+        154,
+        80,
+        19,
+        25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23748,
+      "Titel": "Flaggen an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-09-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23748.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        3,
+        10,
+        0
+      ],
+      "Stichworte": [
+        0,
+        130,
+        678,
+        387,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23755,
+      "Titel": "Kürzungen im Bildungsbereich - ein Fass ohne Boden: Auswirkungen des Haushaltschaos auf Träger mit langfristigen Mietverpflichtungen",
+      "Beschreibung": "",
+      "Datum": "2025-09-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23755.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        31,
+        3,
+        10,
+        16,
+        13
+      ],
+      "Stichworte": [
+        61,
+        419,
+        230,
+        192,
+        324,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23769,
+      "Titel": "Gesundheitserziehung, Gesundheitsförderung, Gesundheitskompetenz und Prävention an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-09-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23769.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        5
+      ],
+      "Stichworte": [
+        0,
+        244,
+        42,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23776,
+      "Titel": "Gemeinschaftsschulen: Stellenausstattung an Gemeinschaftsschulen",
+      "Beschreibung": "",
+      "Datum": "2025-09-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23776.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        19
+      ],
+      "Themen": [
+        8,
+        3,
+        9,
+        43
+      ],
+      "Stichworte": [
+        435,
+        228,
+        17,
+        37,
+        13,
+        311,
+        19
       ],
       "Relevant": true
     }
