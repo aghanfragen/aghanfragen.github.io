@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-01T07:10:14.276285782",
-  "Aktualisiert": "2025-09-30T22:02:58",
+  "TimeStamp": "2025-10-02T07:10:16.388011668",
+  "Aktualisiert": "2025-10-01T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -57891,6 +57891,64 @@
         442,
         61,
         33
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23772,
+      "Titel": "Münchhausen-Grundschule in Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-09-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23772.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        0,
+        29,
+        2
+      ],
+      "Stichworte": [
+        0,
+        1,
+        273,
+        100,
+        130
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23773,
+      "Titel": "Nachfrage zu Drs. 19/23259: Verstöße gegen die parteipolitische Neutralitätspflicht durch staatlich geförderte und gemeinnützige Vereinigungen - der Fall der VVN-BdA",
+      "Beschreibung": "VVN-BdA = Die Vereinigung der Verfolgten des Naziregimes - Bund der Antifaschistinnen und Antifaschisten",
+      "Datum": "2025-09-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23773.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        68
+      ],
+      "Themen": [
+        10,
+        16,
+        3
+      ],
+      "Stichworte": [
+        233,
+        61,
+        179,
+        636,
+        274,
+        204,
+        349,
+        71
       ],
       "Relevant": false
     }
