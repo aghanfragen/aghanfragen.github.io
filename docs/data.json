@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-02T07:10:16.388011668",
-  "Aktualisiert": "2025-10-01T22:02:58",
+  "TimeStamp": "2025-10-03T07:10:14.089425214",
+  "Aktualisiert": "2025-10-02T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -57951,6 +57951,55 @@
         71
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23774,
+      "Titel": "Gemeinschaftsschulen: Referent*innen-Stelle für Gemeinschaftsschulen in der SenBJF",
+      "Beschreibung": "SenBJF = Senatsverwaltung für Bildung, Jugend und Familie",
+      "Datum": "2025-09-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23774.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        19
+      ],
+      "Themen": [
+        8,
+        10,
+        43
+      ],
+      "Stichworte": [
+        37,
+        13,
+        124
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23795,
+      "Titel": "Unbesetzte Schulleitungsstellen",
+      "Beschreibung": "",
+      "Datum": "2025-09-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23795.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        37,
+        42,
+        13
+      ],
+      "Relevant": true
     }
   ]
 }
