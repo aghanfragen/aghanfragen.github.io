@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-06T07:10:13.449922913",
-  "Aktualisiert": "2025-10-03T22:02:56",
+  "TimeStamp": "2025-10-07T07:10:13.828348359",
+  "Aktualisiert": "2025-10-06T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58000,6 +58000,89 @@
         13
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23775,
+      "Titel": "Gemeinschaftsschulen: Ausbaupotenziale in den Bezirken",
+      "Beschreibung": "",
+      "Datum": "2025-09-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23775.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        19
+      ],
+      "Themen": [
+        19,
+        3,
+        18,
+        10,
+        43
+      ],
+      "Stichworte": [
+        53,
+        51,
+        13,
+        299,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23812,
+      "Titel": "Bilanz Sommerschulbauoffensive 2025",
+      "Beschreibung": "",
+      "Datum": "2025-09-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23812.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        8
+      ],
+      "Themen": [
+        0,
+        19,
+        3
+      ],
+      "Stichworte": [
+        1,
+        10,
+        53,
+        13,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23835,
+      "Titel": "Zuwendungen an die JaKuS gGmbH",
+      "Beschreibung": "",
+      "Datum": "2025-09-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23835.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        13
+      ],
+      "Stichworte": [
+        230,
+        101,
+        89
+      ],
+      "Relevant": false
     }
   ]
 }
