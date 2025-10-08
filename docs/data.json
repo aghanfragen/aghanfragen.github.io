@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-07T07:10:13.828348359",
-  "Aktualisiert": "2025-10-06T22:02:58",
+  "TimeStamp": "2025-10-08T07:10:13.890634747",
+  "Aktualisiert": "2025-10-07T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58081,6 +58081,30 @@
         230,
         101,
         89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23834,
+      "Titel": "Verbot Sozialer Medien für Heranwachsende unter 16 Jahren",
+      "Beschreibung": "",
+      "Datum": "2025-09-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23834.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        11
+      ],
+      "Stichworte": [
+        412,
+        224,
+        33,
+        163
       ],
       "Relevant": false
     }
