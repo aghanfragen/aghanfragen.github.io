@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-10T07:10:16.062195498",
-  "Aktualisiert": "2025-10-09T22:03:01",
+  "TimeStamp": "2025-10-11T07:10:15.168174324",
+  "Aktualisiert": "2025-10-10T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -878,7 +878,8 @@
     "Diplomatische Vertretung",
     "Wetter",
     "Klimaanlage",
-    "Staatssymbol"
+    "Staatssymbol",
+    "Wissenschaft"
   ],
   "Dokumente": [
     {
@@ -58107,6 +58108,88 @@
         163
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23842,
+      "Titel": "Sprachliche Bildung neu zugewanderter Kinder und Jugendlicher fördern - Umsetzung der SWK-Empfehlungen in Berlin",
+      "Beschreibung": "SWK=Ständige Wissenschaftliche Kommission der Kultusministerkonferenz",
+      "Datum": "2025-10-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23842.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        46
+      ],
+      "Themen": [
+        23,
+        17
+      ],
+      "Stichworte": [
+        103,
+        69,
+        224,
+        48,
+        42,
+        13,
+        5,
+        679
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23876,
+      "Titel": "Kleines Einmaleins oder höhere Mathematik? - Schulplätze in Rahnsdorf/Hessenwinkel",
+      "Beschreibung": "",
+      "Datum": "2025-09-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23876.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        62
+      ],
+      "Themen": [
+        2,
+        8,
+        6
+      ],
+      "Stichworte": [
+        3,
+        37,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23890,
+      "Titel": "Inklusive Schwerpunktschulen und Förderzentren – Nachfragen zur Drucksache 19/22906",
+      "Beschreibung": "",
+      "Datum": "2025-10-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23890.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        136,
+        38
+      ],
+      "Themen": [
+        20
+      ],
+      "Stichworte": [
+        138,
+        165,
+        42,
+        13
+      ],
+      "Relevant": true
     }
   ]
 }
