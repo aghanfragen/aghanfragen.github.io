@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-13T07:10:14.937757543",
-  "Aktualisiert": "2025-10-10T22:02:54",
+  "TimeStamp": "2025-10-14T07:10:13.841846102",
+  "Aktualisiert": "2025-10-13T22:03:04",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58188,6 +58188,87 @@
         165,
         42,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23841,
+      "Titel": "Wann kommt die Überarbeitung der Beschwerdestrukturen bei Fällen von Mobbing und Diskriminierung?",
+      "Beschreibung": "",
+      "Datum": "2025-10-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23841.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        13,
+        8
+      ],
+      "Stichworte": [
+        32,
+        172,
+        152,
+        13,
+        311
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23889,
+      "Titel": "Schulplatzbedarfe in Hellersdorf-Süd",
+      "Beschreibung": "",
+      "Datum": "2025-09-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23889.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8
+      ],
+      "Themen": [
+        12,
+        6,
+        9
+      ],
+      "Stichworte": [
+        23,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23891,
+      "Titel": "Nachfragen zu Ganztagsangeboten in öffentlicher und freier Trägerschaft an Berliner Schulen (Drs. 19/23640)",
+      "Beschreibung": "",
+      "Datum": "2025-10-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23891.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        16,
+        22,
+        8,
+        9
+      ],
+      "Stichworte": [
+        61,
+        587,
+        194,
+        13,
+        19,
+        136
       ],
       "Relevant": true
     }
