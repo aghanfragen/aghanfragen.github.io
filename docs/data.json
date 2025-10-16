@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-15T07:10:14.647441725",
-  "Aktualisiert": "2025-10-14T22:02:55",
+  "TimeStamp": "2025-10-16T07:10:14.183193791",
+  "Aktualisiert": "2025-10-15T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58269,6 +58269,60 @@
         13,
         19,
         136
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23899,
+      "Titel": "Praxislernen – Kürzungen bei Plätzen und bei Fördermitteln?",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23899.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        3,
+        16,
+        10,
+        6,
+        9
+      ],
+      "Stichworte": [
+        104,
+        61,
+        13,
+        81,
+        19,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23957,
+      "Titel": "Auf freie Kitaplätze aufmerksam machen: Frühkindliche Bildung fördern",
+      "Beschreibung": "",
+      "Datum": "2025-10-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23957.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        4
+      ],
+      "Stichworte": [
+        69,
+        7,
+        255,
+        63
       ],
       "Relevant": true
     }
