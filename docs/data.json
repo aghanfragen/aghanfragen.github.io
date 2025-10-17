@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-16T07:10:14.183193791",
-  "Aktualisiert": "2025-10-15T22:03:00",
+  "TimeStamp": "2025-10-17T07:10:13.385601932",
+  "Aktualisiert": "2025-10-16T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -21,7 +21,7 @@
     "Pätzold, Prof. Dr. Martin (CDU)",
     "Grasse, Adrian (CDU)",
     "Ronneburg, Kristian (Die Linke)",
-    "Brychcy, Frankziska (Die Linke)",
+    "Brychcy, Franziska (Die Linke)",
     "Weiß, Thorsten (AfD)",
     "Laatsch, Harald (AfD)",
     "Stettner, Dirk (CDU)",
@@ -58323,6 +58323,143 @@
         7,
         255,
         63
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23898,
+      "Titel": "Schulplatzmangel - Wie überbelegt sind die Berliner Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23898.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        1,
+        0,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        247,
+        130,
+        285,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23919,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23919.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        15
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        42,
+        13,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23931,
+      "Titel": "Flexibilisierung der Schulbudgets",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23931.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        70,
+        13,
+        299,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23932,
+      "Titel": "Finanzielle Mittel für die Familienerholung",
+      "Beschreibung": "",
+      "Datum": "2025-10-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23932.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        16,
+        9
+      ],
+      "Stichworte": [
+        269,
+        78,
+        61,
+        179,
+        224,
+        19,
+        349,
+        89
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23933,
+      "Titel": "Zuwendungsempfänger im Haushalt Bildung, Jugend und Familie - Nachfrage zur Drs. 19/23031",
+      "Beschreibung": "Drs.= Drucksache",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23933.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        10,
+        16
+      ],
+      "Stichworte": [
+        61,
+        71,
+        89
       ],
       "Relevant": true
     }
