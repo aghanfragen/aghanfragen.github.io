@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-17T07:10:13.385601932",
-  "Aktualisiert": "2025-10-16T22:03:02",
+  "TimeStamp": "2025-10-18T07:10:13.943551694",
+  "Aktualisiert": "2025-10-17T22:03:05",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58460,6 +58460,366 @@
         61,
         71,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23920,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23920.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        41,
+        9
+      ],
+      "Stichworte": [
+        15,
+        272,
+        30,
+        16,
+        199,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23921,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Charlottenburg-Wilmersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23921.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        42,
+        9
+      ],
+      "Stichworte": [
+        277,
+        15,
+        30,
+        16,
+        199,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23922,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23922.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        24,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        80,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23923,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23923.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        9,
+        34
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        42,
+        13,
+        19,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23924,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23924.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        12,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        23,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23925,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23925.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        29,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        100,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23926,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Mitte",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23926.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        14,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        27,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23928,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23928.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        26,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        87,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23927,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23927.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        9,
+        39
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        42,
+        13,
+        19,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23929,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23929.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        30,
+        9
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        107,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23930,
+      "Titel": "Ausstattung der Schulen mit digitalen Geräten im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2025-10-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23930.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        9,
+        21
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        199,
+        42,
+        13,
+        19,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23944,
+      "Titel": "Finanzielle Lage kleiner Kita-Träger: Kita-Schließungen in Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-10-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23944.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        3,
+        16,
+        2,
+        9
+      ],
+      "Stichworte": [
+        60,
+        61,
+        7,
+        79,
+        19,
+        131
       ],
       "Relevant": true
     }
