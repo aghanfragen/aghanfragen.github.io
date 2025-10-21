@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-20T07:10:14.225529587",
-  "Aktualisiert": "2025-10-17T22:03:05",
+  "TimeStamp": "2025-10-21T07:10:13.662297409",
+  "Aktualisiert": "2025-10-20T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58822,6 +58822,120 @@
         131
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23943,
+      "Titel": "Auszahlungslücken bei Personen der Kindertagespflege",
+      "Beschreibung": "",
+      "Datum": "2025-10-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23943.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        8,
+        19,
+        9
+      ],
+      "Stichworte": [
+        237,
+        177,
+        53,
+        7,
+        63,
+        8,
+        209,
+        37,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23960,
+      "Titel": "Wann wird der Schulhof der Bruno-H.-Bürgel-Grundschule endlich saniert?",
+      "Beschreibung": "",
+      "Datum": "2025-10-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23960.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        2
+      ],
+      "Themen": [
+        3,
+        0,
+        2
+      ],
+      "Stichworte": [
+        90,
+        10,
+        3,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 23963,
+      "Titel": "Leistungserbringung nach § 20 SGB VIII und Finanzierung",
+      "Beschreibung": "SGB = Sozialgesetzbuch",
+      "Datum": "2025-10-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23963.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        3,
+        9
+      ],
+      "Stichworte": [
+        177,
+        61,
+        179,
+        63,
+        224,
+        420,
+        19,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23964,
+      "Titel": "Kurzzeitwohnen für versorgungsintensive junge Menschen im einePause-Haus: Familien von Kindern und Jugendlichen mit hohem Assistenzbedarf unterstützen!",
+      "Beschreibung": "",
+      "Datum": "2025-10-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23964.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        13
+      ],
+      "Stichworte": [
+        354,
+        63,
+        95,
+        224,
+        219,
+        230
+      ],
+      "Relevant": false
     }
   ]
 }
