@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-22T07:10:14.251239678",
-  "Aktualisiert": "2025-10-21T22:02:58",
+  "TimeStamp": "2025-10-23T07:10:13.575123249",
+  "Aktualisiert": "2025-10-22T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -879,7 +879,8 @@
     "Wetter",
     "Klimaanlage",
     "Staatssymbol",
-    "Wissenschaft"
+    "Wissenschaft",
+    "Schulärztliche Untersuchung"
   ],
   "Dokumente": [
     {
@@ -58936,6 +58937,40 @@
         230
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23994,
+      "Titel": "Gesundbrunnen unter dem Brennglas: Bildungsbenachteiligung, rassismusbedingte Hürden und mangelnde Sprachförderung",
+      "Beschreibung": "",
+      "Datum": "2025-10-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23994.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        92
+      ],
+      "Themen": [
+        4,
+        36,
+        14,
+        3,
+        9
+      ],
+      "Stichworte": [
+        69,
+        178,
+        7,
+        95,
+        8,
+        27,
+        185,
+        680,
+        19,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
