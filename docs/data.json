@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-24T07:10:14.28363631",
-  "Aktualisiert": "2025-10-23T22:02:54",
+  "TimeStamp": "2025-10-25T07:10:14.138111879",
+  "Aktualisiert": "2025-10-24T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58971,6 +58971,56 @@
         71
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24050,
+      "Titel": "Über neue Kita in der Roedernstraße informieren",
+      "Beschreibung": "",
+      "Datum": "2025-10-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24050.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        4,
+        0,
+        24
+      ],
+      "Stichworte": [
+        1,
+        7,
+        80
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24071,
+      "Titel": "Startbonus Pflegekind",
+      "Beschreibung": "",
+      "Datum": "2025-10-15",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24071.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        31
+      ],
+      "Stichworte": [
+        33,
+        4,
+        203,
+        245
+      ],
+      "Relevant": false
     }
   ]
 }
