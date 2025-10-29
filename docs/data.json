@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-28T07:10:14.201413222",
-  "Aktualisiert": "2025-10-27T22:02:57",
+  "TimeStamp": "2025-10-29T07:10:13.47364999",
+  "Aktualisiert": "2025-10-28T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -880,7 +880,8 @@
     "Klimaanlage",
     "Staatssymbol",
     "Wissenschaft",
-    "Schulärztliche Untersuchung"
+    "Schulärztliche Untersuchung",
+    "Versammlung"
   ],
   "Dokumente": [
     {
@@ -59021,6 +59022,33 @@
         245
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 23999,
+      "Titel": "Zweifelhaftes Demokratieverständnis an der Gemeinschaftsschule Grüner Campus Malchow (\"Eine Schule für ALLE\")",
+      "Beschreibung": "",
+      "Datum": "2025-10-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-23999.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        6,
+        43
+      ],
+      "Stichworte": [
+        0,
+        442,
+        348,
+        81,
+        681
+      ],
+      "Relevant": true
     }
   ]
 }
