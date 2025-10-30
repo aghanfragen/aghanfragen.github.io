@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-29T07:10:13.47364999",
-  "Aktualisiert": "2025-10-28T22:02:57",
+  "TimeStamp": "2025-10-30T07:10:14.543746484",
+  "Aktualisiert": "2025-10-29T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -881,7 +881,8 @@
     "Staatssymbol",
     "Wissenschaft",
     "Schulärztliche Untersuchung",
-    "Versammlung"
+    "Versammlung",
+    "Hospiz"
   ],
   "Dokumente": [
     {
@@ -59049,6 +59050,71 @@
         681
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24000,
+      "Titel": "Schulwege dürfen keine Hürden sein - Schluss mit dem Behörden-Wirrwarr bei der Schüler*innenbeförderung!",
+      "Beschreibung": "",
+      "Datum": "2025-10-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24000.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        19,
+        3,
+        6,
+        31,
+        9,
+        5
+      ],
+      "Stichworte": [
+        53,
+        4,
+        165,
+        139,
+        13,
+        81,
+        245,
+        19,
+        306
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24082,
+      "Titel": "Kosten für stationäre Unterbringung, Betreuung und Erziehung junger Menschen nach § 34, 35 und 35a SGB VIII - Nachfragen zur Drs. 19/20216",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-10-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24082.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31,
+        3,
+        9
+      ],
+      "Stichworte": [
+        682,
+        224,
+        4,
+        304,
+        192,
+        420,
+        19,
+        622
+      ],
+      "Relevant": false
     }
   ]
 }
