@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-30T07:10:14.543746484",
-  "Aktualisiert": "2025-10-29T22:02:58",
+  "TimeStamp": "2025-10-31T07:10:14.746355848",
+  "Aktualisiert": "2025-10-30T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -882,7 +882,8 @@
     "Wissenschaft",
     "Schulärztliche Untersuchung",
     "Versammlung",
-    "Hospiz"
+    "Hospiz",
+    "Aufenthaltsrecht"
   ],
   "Dokumente": [
     {
@@ -59115,6 +59116,108 @@
         622
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24063,
+      "Titel": "Das Ausmaß des Phänomens der \"missbräuchlichen Vaterschaftsanerkennung\" in Berlin und die hohen Kosten für den Berliner Steuerzahler",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24063.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        32
+      ],
+      "Themen": [
+        23,
+        9
+      ],
+      "Stichworte": [
+        683,
+        75,
+        63,
+        95,
+        191,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24066,
+      "Titel": "Auslastung der Kitas und Kitaentwicklungsplanung für die Ortsteile Kladow und Gatow",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24066.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        15,
+        9
+      ],
+      "Stichworte": [
+        7,
+        35,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24067,
+      "Titel": "Neue Kita auf dem Gelände des Ella-Kay-Heims in Kladow",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24067.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        0,
+        15
+      ],
+      "Stichworte": [
+        1,
+        7,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24068,
+      "Titel": "Ein neues Nest für die Elterninitiativ-Kita \"Die Eichhörnchen Bande e.V.\" in Kladow",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24068.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        0,
+        15
+      ],
+      "Stichworte": [
+        1,
+        7,
+        35
+      ],
+      "Relevant": true
     }
   ]
 }
