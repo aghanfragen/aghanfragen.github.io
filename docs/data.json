@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-10-31T07:10:14.746355848",
-  "Aktualisiert": "2025-10-30T22:02:58",
+  "TimeStamp": "2025-11-01T07:10:17.792688343",
+  "Aktualisiert": "2025-10-31T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -883,7 +883,8 @@
     "Schulärztliche Untersuchung",
     "Versammlung",
     "Hospiz",
-    "Aufenthaltsrecht"
+    "Aufenthaltsrecht",
+    "Moschee"
   ],
   "Dokumente": [
     {
@@ -59216,6 +59217,145 @@
         1,
         7,
         35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24034,
+      "Titel": "Israel-Hass vom Senat gesponsert? Öffentliche Förderung und Ausgestaltung des sogenannten \"Unity Fest 2025\" (28.09.2025): Welche Konsequenzen zieht der Senat?",
+      "Beschreibung": "",
+      "Datum": "2025-10-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24034.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        71
+      ],
+      "Themen": [
+        36,
+        23,
+        14,
+        3
+      ],
+      "Stichworte": [
+        176,
+        178,
+        47,
+        183,
+        27,
+        684,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24069,
+      "Titel": "Qualitätssiegel für exzellente berufliche Orientierung",
+      "Beschreibung": "",
+      "Datum": "2025-10-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24069.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        28,
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        98,
+        467,
+        53,
+        42,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24072,
+      "Titel": "Jugendstudie der Vodafone Stiftung zur Nutzung und Selbstregulation von sozialen Medien",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24072.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        11
+      ],
+      "Stichworte": [
+        30,
+        16,
+        224,
+        42,
+        13,
+        422
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24084,
+      "Titel": "Nachfragen zur Drs. 19/22911 \"Was sind dem schwarz-roten Senat saubere Schulen wert? (Teil 2)\"",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-10-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24084.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        27,
+        64
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        129,
+        395,
+        13,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24085,
+      "Titel": "Tagesreinigung und Grundreinigung an Berliner Schulen - Kürzen Senat und Bezirke bei der Sauberkeit?",
+      "Beschreibung": "",
+      "Datum": "2025-10-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24085.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        27,
+        64
+      ],
+      "Themen": [
+        19
+      ],
+      "Stichworte": [
+        129,
+        395,
+        13
       ],
       "Relevant": true
     }
