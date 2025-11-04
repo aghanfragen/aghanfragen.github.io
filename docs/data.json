@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-03T07:10:15.586951272",
-  "Aktualisiert": "2025-10-31T22:02:53",
+  "TimeStamp": "2025-11-04T07:10:14.069530744",
+  "Aktualisiert": "2025-11-03T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59356,6 +59356,61 @@
         129,
         395,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24083,
+      "Titel": "Anerkennung von Schulabschlüssen ausländischer Kinder und Jugendlicher",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24083.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        108,
+        91
+      ],
+      "Themen": [
+        23,
+        28
+      ],
+      "Stichworte": [
+        103,
+        75,
+        98,
+        69,
+        70,
+        224,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24099,
+      "Titel": "Beschulung von Schüler*innen mit chronischen Krankheiten",
+      "Beschreibung": "",
+      "Datum": "2025-10-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24099.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        20,
+        5
+      ],
+      "Stichworte": [
+        138,
+        205,
+        42,
+        56
       ],
       "Relevant": true
     }
