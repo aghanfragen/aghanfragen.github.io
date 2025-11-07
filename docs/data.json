@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-06T07:10:13.5900322",
-  "Aktualisiert": "2025-11-05T22:03:03",
+  "TimeStamp": "2025-11-07T07:10:15.045240116",
+  "Aktualisiert": "2025-11-06T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59411,6 +59411,72 @@
         205,
         42,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24111,
+      "Titel": "Queerfeindliche Vorfälle am Campus Rütli",
+      "Beschreibung": "",
+      "Datum": "2025-10-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24111.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        1,
+        43,
+        13,
+        8,
+        30,
+        18,
+        10
+      ],
+      "Stichworte": [
+        0,
+        341,
+        314,
+        32,
+        415,
+        17,
+        107,
+        51,
+        416
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24141,
+      "Titel": "Schulplatzbedarfe und Lehrkräfteausstattung in Marzahn-Hellersdorf im Schuljahr 2025/26",
+      "Beschreibung": "",
+      "Datum": "2025-10-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24141.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        8,
+        9
+      ],
+      "Themen": [
+        8,
+        12,
+        6,
+        9
+      ],
+      "Stichworte": [
+        17,
+        23,
+        37,
+        13,
+        81,
+        19
       ],
       "Relevant": true
     }
