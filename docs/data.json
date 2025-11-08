@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-07T07:10:15.045240116",
-  "Aktualisiert": "2025-11-06T22:02:58",
+  "TimeStamp": "2025-11-08T07:10:14.889614135",
+  "Aktualisiert": "2025-11-07T22:02:53",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59477,6 +59477,41 @@
         13,
         81,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24100,
+      "Titel": "Umsetzungsstand des Investitionsprogramms Ganztagsausbau",
+      "Beschreibung": "",
+      "Datum": "2025-10-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24100.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        1,
+        4,
+        3,
+        16,
+        2,
+        8,
+        22
+      ],
+      "Stichworte": [
+        0,
+        228,
+        61,
+        7,
+        3,
+        249,
+        79,
+        71,
+        136
       ],
       "Relevant": true
     }
