@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-12T07:10:14.084358267",
-  "Aktualisiert": "2025-11-11T22:02:59",
+  "TimeStamp": "2025-11-13T07:10:14.381499151",
+  "Aktualisiert": "2025-11-12T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59512,6 +59512,31 @@
         79,
         71,
         136
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24163,
+      "Titel": "Auflösung der PMA für 2025 im Haushalt für Bildung, Jugend und Familie",
+      "Beschreibung": "PMA = Pauschale Minderausgaben",
+      "Datum": "2025-11-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24163.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        38
+      ],
+      "Themen": [
+        3,
+        10
+      ],
+      "Stichworte": [
+        646,
+        124,
+        89
       ],
       "Relevant": true
     }
