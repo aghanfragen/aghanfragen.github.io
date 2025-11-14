@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-13T07:10:14.381499151",
-  "Aktualisiert": "2025-11-12T22:03:01",
+  "TimeStamp": "2025-11-14T07:10:13.044766251",
+  "Aktualisiert": "2025-11-13T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59539,6 +59539,92 @@
         89
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24175,
+      "Titel": "Situation der Kita Eigenbetriebe in Berlin - Belegungszahlen, wirtschaftliche Lage, Personal, Grundstücke, Zusammenlegungen und Zwischennutzungen",
+      "Beschreibung": "",
+      "Datum": "2025-11-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24175.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        0,
+        10,
+        8,
+        9
+      ],
+      "Stichworte": [
+        7,
+        154,
+        102,
+        159,
+        37,
+        19,
+        495
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24202,
+      "Titel": "Beschulung von geflüchteten Kindern und Jugendlichen in Berlin - (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2025-11-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24202.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        23,
+        6,
+        9
+      ],
+      "Stichworte": [
+        75,
+        120,
+        42,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24222,
+      "Titel": "Inobhutnahme und Fremdunterbringung eines Minderjährigen bei Belastung der Eltern und Gefahr der Parentifizierung",
+      "Beschreibung": "",
+      "Datum": "2025-11-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24222.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31,
+        4,
+        2
+      ],
+      "Stichworte": [
+        296,
+        269,
+        33,
+        194,
+        79
+      ],
+      "Relevant": false
     }
   ]
 }
