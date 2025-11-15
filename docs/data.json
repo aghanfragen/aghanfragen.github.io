@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-14T07:10:13.044766251",
-  "Aktualisiert": "2025-11-13T22:03:00",
+  "TimeStamp": "2025-11-15T07:10:13.453242334",
+  "Aktualisiert": "2025-11-14T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59625,6 +59625,28 @@
         79
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24170,
+      "Titel": "Auswahl, Qualifizierung und Unterstützung von Ausbildern im Berliner Vorbereitungsdienst",
+      "Beschreibung": "",
+      "Datum": "2025-11-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24170.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        84
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        385,
+        17
+      ],
+      "Relevant": true
     }
   ]
 }
