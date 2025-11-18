@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-17T07:10:14.761883062",
-  "Aktualisiert": "2025-11-14T22:02:57",
+  "TimeStamp": "2025-11-18T07:10:14.26680697",
+  "Aktualisiert": "2025-11-17T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59645,6 +59645,31 @@
       "Stichworte": [
         385,
         17
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24172,
+      "Titel": "Berliner Eliteschulen des Sports (Teil 6)",
+      "Beschreibung": "",
+      "Datum": "2025-11-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24172.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        9
+      ],
+      "Stichworte": [
+        153,
+        42,
+        92,
+        19
       ],
       "Relevant": true
     }
