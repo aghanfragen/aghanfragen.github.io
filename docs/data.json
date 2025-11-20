@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-19T07:10:14.915719158",
-  "Aktualisiert": "2025-11-18T22:02:53",
+  "TimeStamp": "2025-11-20T07:10:13.683640058",
+  "Aktualisiert": "2025-11-19T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59672,6 +59672,57 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24212,
+      "Titel": "Evaluation des Landesprogramms \"Jugendsozialarbeit an Berliner Schulen\"",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24212.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        18
+      ],
+      "Stichworte": [
+        194,
+        195,
+        42,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24220,
+      "Titel": "Entzug der elterlichen Sorge",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24220.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        10
+      ],
+      "Stichworte": [
+        269,
+        78,
+        315,
+        196,
+        63,
+        191,
+        189
+      ],
+      "Relevant": false
     }
   ]
 }
