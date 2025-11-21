@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-20T07:10:13.683640058",
-  "Aktualisiert": "2025-11-19T22:03:03",
+  "TimeStamp": "2025-11-21T07:10:14.7166888",
+  "Aktualisiert": "2025-11-20T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59721,6 +59721,235 @@
         63,
         191,
         189
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24237,
+      "Titel": "Unterrichtsbesuche durch die Schulaufsicht",
+      "Beschreibung": "",
+      "Datum": "2025-11-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24237.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        42,
+        13,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24239,
+      "Titel": "Familienstartzeit (\"Vaterschaftsurlaub\") - Nachfragen zur Drucksache 19/10434",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24239.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31
+      ],
+      "Stichworte": [
+        115,
+        191,
+        116,
+        84
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24223,
+      "Titel": "Inobhutnahme und Fremdunterbringung eines Minderjährigen bei \"Mutter-Kind-Symbiose\" (zu enger Mutter-Kind-Beziehung)",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24223.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31
+      ],
+      "Stichworte": [
+        296,
+        177,
+        269,
+        188,
+        359,
+        33
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24240,
+      "Titel": "Evaluation von Lehrkräften",
+      "Beschreibung": "",
+      "Datum": "2025-11-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24240.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        18,
+        10
+      ],
+      "Stichworte": [
+        17,
+        195,
+        51,
+        42,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24225,
+      "Titel": "Schaffung eines eigenen Rechtstatbestands \"Leaving Care\" - Gesetzlich abgesicherte Übergangsplanung für \"Care Leaver\"",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24225.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        177,
+        269,
+        188,
+        63,
+        359,
+        33,
+        111
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24235,
+      "Titel": "Nachfrage zu Drs. 19/24082: Kosten für stationäre Unterbringung, Betreuung und Erziehung junger Menschen",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24235.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        31,
+        3,
+        9
+      ],
+      "Stichworte": [
+        567,
+        682,
+        224,
+        33,
+        4,
+        326,
+        420,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24236,
+      "Titel": "Unvollständige Lehrerausstattung",
+      "Beschreibung": "",
+      "Datum": "2025-11-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24236.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        9
+      ],
+      "Stichworte": [
+        13,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24263,
+      "Titel": "Wie steht es um die Personalausstattung an Berliner Schulen?",
+      "Beschreibung": "",
+      "Datum": "2025-11-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24263.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        17,
+        37,
+        108,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24250,
+      "Titel": "Gefährdete Angebote des SportJugendclub Lichtenberg",
+      "Beschreibung": "",
+      "Datum": "2025-11-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24250.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        27,
+        24
+      ],
+      "Stichworte": [
+        80,
+        92,
+        499,
+        289
       ],
       "Relevant": false
     }
