@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-21T07:10:14.7166888",
-  "Aktualisiert": "2025-11-20T22:02:56",
+  "TimeStamp": "2025-11-22T07:10:13.373946282",
+  "Aktualisiert": "2025-11-21T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59952,6 +59952,37 @@
         289
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24211,
+      "Titel": "Fröbel-Kita in Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2025-11-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24211.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        0,
+        3,
+        12
+      ],
+      "Stichworte": [
+        290,
+        60,
+        7,
+        224,
+        23,
+        203,
+        550,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
