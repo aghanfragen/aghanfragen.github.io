@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-24T07:10:15.282031467",
-  "Aktualisiert": "2025-11-21T22:03:01",
+  "TimeStamp": "2025-11-25T07:10:14.443212444",
+  "Aktualisiert": "2025-11-24T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -59981,6 +59981,56 @@
         203,
         550,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24210,
+      "Titel": "Gebetsverbot an Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-11-14",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24210.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        1,
+        37
+      ],
+      "Stichworte": [
+        88,
+        181,
+        173,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24234,
+      "Titel": "Anspruch auf Beförderung zum Schwimmunterricht (Schwimmbus) ins Schulgesetz?",
+      "Beschreibung": "",
+      "Datum": "2025-11-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24234.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        27
+      ],
+      "Stichworte": [
+        42,
+        13,
+        523,
+        92
       ],
       "Relevant": true
     }
