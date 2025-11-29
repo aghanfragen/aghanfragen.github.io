@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-11-28T07:10:14.41335261",
-  "Aktualisiert": "2025-11-27T22:02:55",
+  "TimeStamp": "2025-11-29T07:10:15.003967495",
+  "Aktualisiert": "2025-11-28T22:02:54",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60031,6 +60031,97 @@
         13,
         523,
         92
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24272,
+      "Titel": "Nachfrage zur schriftlichen Anfrage Drs.19/22954: Umsetzung der Istanbul Konvention in der Senatsverwaltung für Bildung, Jugend und Familie - Welche konkreten Maßnahmen gibt es?",
+      "Beschreibung": "",
+      "Datum": "2025-11-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24272.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        107
+      ],
+      "Themen": [
+        8,
+        16,
+        13,
+        10
+      ],
+      "Stichworte": [
+        177,
+        14,
+        436,
+        82,
+        671,
+        672,
+        61,
+        32,
+        626,
+        167
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24286,
+      "Titel": "FREI DAY – Evaluation und Nutzen",
+      "Beschreibung": "",
+      "Datum": "2025-11-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24286.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        11
+      ],
+      "Stichworte": [
+        0,
+        69,
+        21,
+        262,
+        42,
+        185,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24287,
+      "Titel": "FREI DAY - Statistische, rechtliche und finanzielle Fragen",
+      "Beschreibung": "",
+      "Datum": "2025-11-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24287.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        3,
+        11
+      ],
+      "Stichworte": [
+        0,
+        69,
+        104,
+        21,
+        262,
+        42,
+        185,
+        5
       ],
       "Relevant": true
     }
