@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-01T07:10:15.228394613",
-  "Aktualisiert": "2025-11-28T22:02:54",
+  "TimeStamp": "2025-12-02T07:10:14.408673483",
+  "Aktualisiert": "2025-12-01T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60122,6 +60122,66 @@
         42,
         185,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24273,
+      "Titel": "Kopftuchverbot für Schülerinnen U14 aus Gründen des Kinderschutzes?",
+      "Beschreibung": "",
+      "Datum": "2025-11-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24273.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        23,
+        37,
+        18,
+        10,
+        6
+      ],
+      "Stichworte": [
+        183,
+        33,
+        111,
+        181,
+        173,
+        51,
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24274,
+      "Titel": "Informatik-Monitor 2025/2026",
+      "Beschreibung": "",
+      "Datum": "2025-11-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24274.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        7,
+        8
+      ],
+      "Stichworte": [
+        508,
+        30,
+        16,
+        17,
+        13
       ],
       "Relevant": true
     }
