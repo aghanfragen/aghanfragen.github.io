@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-04T07:10:16.29654611",
-  "Aktualisiert": "2025-12-03T22:02:57",
+  "TimeStamp": "2025-12-05T07:10:14.8356884",
+  "Aktualisiert": "2025-12-04T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60182,6 +60182,65 @@
         16,
         17,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24303,
+      "Titel": "Überfüllte Klassen: Klassengrößen an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-11-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24303.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        39
+      ],
+      "Themen": [
+        1,
+        2,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        3,
+        88,
+        42,
+        81,
+        38,
+        440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24355,
+      "Titel": "Fortbestand der heilpädagogischen Gruppen in Berliner Kindertagesstätten",
+      "Beschreibung": "",
+      "Datum": "2025-11-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24355.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        66,
+        39
+      ],
+      "Themen": [
+        4,
+        20
+      ],
+      "Stichworte": [
+        7,
+        95,
+        8,
+        165,
+        56
       ],
       "Relevant": true
     }
