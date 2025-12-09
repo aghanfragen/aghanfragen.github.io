@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-08T07:10:15.631357312",
-  "Aktualisiert": "2025-12-05T22:02:55",
+  "TimeStamp": "2025-12-09T07:10:13.479492793",
+  "Aktualisiert": "2025-12-08T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60241,6 +60241,70 @@
         8,
         165,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24302,
+      "Titel": "Moderne Schulen für alle",
+      "Beschreibung": "",
+      "Datum": "2025-11-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24302.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        1,
+        3,
+        22,
+        2,
+        26,
+        8
+      ],
+      "Stichworte": [
+        0,
+        541,
+        104,
+        70,
+        587,
+        3,
+        87,
+        37,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24342,
+      "Titel": "Wer soll da lernen können? - Marode Bausubstanz, Feuchtigkeit und Schimmelbefall an der Bettina-von-Arnim-Schule (12K02) in Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2025-11-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24342.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        53
+      ],
+      "Themen": [
+        5,
+        0,
+        29
+      ],
+      "Stichworte": [
+        10,
+        310,
+        45,
+        12,
+        100,
+        117,
+        13,
+        440
       ],
       "Relevant": true
     }
