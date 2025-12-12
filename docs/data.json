@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-11T07:10:13.81696145",
-  "Aktualisiert": "2025-12-10T22:02:56",
+  "TimeStamp": "2025-12-12T07:10:14.653309948",
+  "Aktualisiert": "2025-12-11T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60305,6 +60305,68 @@
         117,
         13,
         440
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24365,
+      "Titel": "Angebote der Kinder- und Jugendhilfe in Berlin - Erreichbarkeit und Ausgestaltung",
+      "Beschreibung": "",
+      "Datum": "2025-12-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24365.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        19,
+        31,
+        18,
+        13,
+        9
+      ],
+      "Stichworte": [
+        53,
+        190,
+        64,
+        287,
+        33,
+        195,
+        230,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24369,
+      "Titel": "Datenlage und Verfahren zur Erkennung und Bearbeitung psychischer Belastungen sowie krimineller Tendenzen bei Berliner Schülern",
+      "Beschreibung": "",
+      "Datum": "2025-12-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24369.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        29
+      ],
+      "Themen": [
+        6,
+        13,
+        9
+      ],
+      "Stichworte": [
+        33,
+        111,
+        388,
+        42,
+        13,
+        167,
+        81,
+        19
       ],
       "Relevant": true
     }
