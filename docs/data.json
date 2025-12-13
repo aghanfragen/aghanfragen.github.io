@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-12T07:10:14.653309948",
-  "Aktualisiert": "2025-12-11T22:02:59",
+  "TimeStamp": "2025-12-13T07:10:14.21341648",
+  "Aktualisiert": "2025-12-12T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60369,6 +60369,33 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24384,
+      "Titel": "Wie steht es um die Freiwilligkeit in Berlin?",
+      "Beschreibung": "",
+      "Datum": "2025-12-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24384.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        16,
+        9,
+        8
+      ],
+      "Stichworte": [
+        61,
+        179,
+        443,
+        19,
+        231
+      ],
+      "Relevant": false
     }
   ]
 }
