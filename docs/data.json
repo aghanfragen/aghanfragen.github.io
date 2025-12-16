@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-15T07:10:15.677102692",
-  "Aktualisiert": "2025-12-12T22:03:03",
+  "TimeStamp": "2025-12-16T07:10:13.334692796",
+  "Aktualisiert": "2025-12-15T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60396,6 +60396,87 @@
         231
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24396,
+      "Titel": "Das nicht endende \"Kentler-Experiment\": Konzept zur systematischen Aufarbeitung sexualisierter Gewalt in der Kinder- und Jugendhilfe gemeinsam mit den Ländern",
+      "Beschreibung": "",
+      "Datum": "2025-12-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24396.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4
+      ],
+      "Stichworte": [
+        7,
+        63,
+        194,
+        353,
+        34
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24397,
+      "Titel": "Wahrung des Beutelsbacher Konsens und weltanschaulicher Neutralität an der Anna-Freud-Schule (OSZ Sozialwesen) am Halemweg 22",
+      "Beschreibung": "",
+      "Datum": "2025-12-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24397.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        15
+      ],
+      "Stichworte": [
+        177,
+        636,
+        42,
+        13,
+        81,
+        35
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24407,
+      "Titel": "Beteiligung und Wirksamkeit von Kita-Elternvertretungen in Gremien evaluieren",
+      "Beschreibung": "",
+      "Datum": "2025-12-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24407.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        16,
+        3
+      ],
+      "Stichworte": [
+        656,
+        269,
+        61,
+        7,
+        63,
+        194,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
