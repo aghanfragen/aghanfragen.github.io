@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-16T07:10:13.334692796",
-  "Aktualisiert": "2025-12-15T22:03:02",
+  "TimeStamp": "2025-12-17T07:10:14.883115669",
+  "Aktualisiert": "2025-12-16T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60475,6 +60475,63 @@
         63,
         194,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24388,
+      "Titel": "Gerechtigkeit in Fragen der Vergütung von Lehramtsanwärter*innen im und nach dem Vorbereitungsdienst",
+      "Beschreibung": "",
+      "Datum": "2025-12-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24388.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        8,
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        127,
+        17,
+        151,
+        209,
+        19,
+        231
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24410,
+      "Titel": "Mehr Grün statt Grau: Grüne Schulgelände für Berliner Schulen!",
+      "Beschreibung": "",
+      "Datum": "2025-12-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24410.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        0,
+        19,
+        9
+      ],
+      "Stichworte": [
+        10,
+        53,
+        155,
+        13,
+        19,
+        588
       ],
       "Relevant": true
     }
