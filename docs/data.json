@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-18T07:10:15.066307458",
-  "Aktualisiert": "2025-12-17T22:03:00",
+  "TimeStamp": "2025-12-19T07:10:15.11603856",
+  "Aktualisiert": "2025-12-18T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -884,7 +884,8 @@
     "Versammlung",
     "Hospiz",
     "Aufenthaltsrecht",
-    "Moschee"
+    "Moschee",
+    "Tagung"
   ],
   "Dokumente": [
     {
@@ -60532,6 +60533,124 @@
         13,
         19,
         588
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24428,
+      "Titel": "Zukunft der Berliner Lehrkräftebildung sichern! - Zwischenbilanz zum BLiQ",
+      "Beschreibung": "BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen",
+      "Datum": "2025-12-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24428.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        28,
+        8,
+        7,
+        18
+      ],
+      "Stichworte": [
+        14,
+        98,
+        70,
+        199,
+        150,
+        17,
+        203,
+        195
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24429,
+      "Titel": "Zukunft der Berliner Lehrkräftebildung sichern! - Zwischenbilanz zu den Räumlichkeiten am BLiQ",
+      "Beschreibung": "BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen",
+      "Datum": "2025-12-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24429.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        28,
+        8,
+        0
+      ],
+      "Stichworte": [
+        14,
+        98,
+        70,
+        147,
+        150,
+        17,
+        685,
+        113
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24430,
+      "Titel": "Zukunft der Berliner Lehrkräftebildung sichern! - Zwischenbilanz zum BLiQ und Vorbereitungsdienst",
+      "Beschreibung": "BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung an Schulen",
+      "Datum": "2025-12-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24430.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        28,
+        8,
+        0
+      ],
+      "Stichworte": [
+        14,
+        98,
+        70,
+        147,
+        150,
+        17
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24443,
+      "Titel": "Pilotprojekt Schulgesundheitsfachkräfte: gerade erst begonnen und schon vor dem Aus?",
+      "Beschreibung": "",
+      "Datum": "2025-12-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24443.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        8,
+        5,
+        9
+      ],
+      "Stichworte": [
+        53,
+        134,
+        186,
+        42,
+        13,
+        19
       ],
       "Relevant": true
     }
