@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-22T07:10:15.059838301",
-  "Aktualisiert": "2025-12-19T22:02:58",
+  "TimeStamp": "2025-12-23T07:10:15.668061251",
+  "Aktualisiert": "2025-12-22T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -885,7 +885,8 @@
     "Hospiz",
     "Aufenthaltsrecht",
     "Moschee",
-    "Tagung"
+    "Tagung",
+    "Demoskopie"
   ],
   "Dokumente": [
     {
@@ -60653,6 +60654,64 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24510,
+      "Titel": "Ziele, Umfang und Nutzung der Studie \"Gewalt- und Konfliktbarometer in Berliner Schulen\"",
+      "Beschreibung": "",
+      "Datum": "2025-12-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24510.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        13,
+        8,
+        6,
+        9
+      ],
+      "Stichworte": [
+        686,
+        106,
+        32,
+        17,
+        42,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24532,
+      "Titel": "Welche Zukunft hat der Fonds Sexueller Missbrauch?",
+      "Beschreibung": "",
+      "Datum": "2025-12-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24532.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3
+      ],
+      "Stichworte": [
+        336,
+        443,
+        95,
+        33,
+        194,
+        111,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
