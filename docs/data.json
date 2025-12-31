@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2025-12-30T07:10:15.338876025",
-  "Aktualisiert": "2025-12-29T22:02:56",
+  "TimeStamp": "2025-12-31T07:10:15.007768699",
+  "Aktualisiert": "2025-12-30T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -886,7 +886,8 @@
     "Aufenthaltsrecht",
     "Moschee",
     "Tagung",
-    "Demoskopie"
+    "Demoskopie",
+    "Werbung"
   ],
   "Dokumente": [
     {
@@ -60712,6 +60713,90 @@
         71
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24489,
+      "Titel": "Kein Werbefeldzug im Klassenzimmer – Bundeswehr an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-12-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24489.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        6
+      ],
+      "Stichworte": [
+        42,
+        13,
+        81,
+        687
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24490,
+      "Titel": "Sachstand zur Umsetzung der Handlungsempfehlungen der Expertenkommission Bühnentanz an der Staatlichen Ballett- und Artistikschule Berlin",
+      "Beschreibung": "",
+      "Datum": "2025-12-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24490.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        8,
+        6
+      ],
+      "Stichworte": [
+        14,
+        201,
+        42,
+        81,
+        653
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24511,
+      "Titel": "Sachstand zum geplanten Kita-Neubau in der Harzer Straße 51-52 (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2025-12-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24511.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        91
+      ],
+      "Themen": [
+        0,
+        4,
+        3,
+        16,
+        30
+      ],
+      "Stichworte": [
+        169,
+        1,
+        60,
+        61,
+        7,
+        273,
+        107,
+        25,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
