@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-06T07:10:15.633616995",
-  "Aktualisiert": "2026-01-05T22:03:01",
+  "TimeStamp": "2026-01-07T07:10:16.06758819",
+  "Aktualisiert": "2026-01-06T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -60961,6 +60961,61 @@
         247,
         81,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24565,
+      "Titel": "Anpassung der Schulgeldtabelle der jüdischen Schulen",
+      "Beschreibung": "",
+      "Datum": "2025-12-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24565.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        649,
+        42,
+        13,
+        185
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24575,
+      "Titel": "Ein Jahr mehr Zukunft - Umsetzung des 11. Pflichtschuljahrs",
+      "Beschreibung": "",
+      "Datum": "2025-12-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24575.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        28,
+        9,
+        8,
+        6
+      ],
+      "Stichworte": [
+        99,
+        226,
+        397,
+        17,
+        37,
+        299,
+        81,
+        440
       ],
       "Relevant": true
     }
