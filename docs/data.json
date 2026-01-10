@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-09T07:10:17.265791844",
-  "Aktualisiert": "2026-01-08T22:02:57",
+  "TimeStamp": "2026-01-10T07:10:14.545904057",
+  "Aktualisiert": "2026-01-09T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61016,6 +61016,32 @@
         299,
         81,
         440
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24599,
+      "Titel": "Lernangebote, Kapazitäten, Personalsituation und baulicher Zustand der Berliner Jugendverkehrsschulen",
+      "Beschreibung": "",
+      "Datum": "2025-12-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24599.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        5,
+        8
+      ],
+      "Stichworte": [
+        53,
+        266,
+        268,
+        306
       ],
       "Relevant": true
     }
