@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-12T07:10:15.201714822",
-  "Aktualisiert": "2026-01-09T22:02:55",
+  "TimeStamp": "2026-01-13T07:10:15.670310454",
+  "Aktualisiert": "2026-01-12T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -148,7 +148,9 @@
     "Ebrahimpour Mirzaie, Ario (Grüne)",
     "Luhmann, Frank (CDU)",
     "Wansner, Kurt (CDU)",
-    "Leschewitz, Franziska (Die Linke)"
+    "Leschewitz, Franziska (Die Linke)",
+    "Häntsch, Stefan (CDU)",
+    "Ahmadi, Gollaleh (Grüne)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -61042,6 +61044,141 @@
         266,
         268,
         306
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24617,
+      "Titel": "Notwendigkeit der Fällung des wertvollen alten Baumbestands auf dem Schulhof der ISS Heinz-Brandt-Schule in Pankow und Überprüfung aller Alternativen dazu",
+      "Beschreibung": "",
+      "Datum": "2026-01-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24617.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        21
+      ],
+      "Themen": [
+        0,
+        26
+      ],
+      "Stichworte": [
+        155,
+        536,
+        87,
+        130,
+        42,
+        25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24619,
+      "Titel": "Unterrichtsausfälle an der Erwin-von-Witzleben-Grundschule in Charlottenburg Nord",
+      "Beschreibung": "",
+      "Datum": "2026-01-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24619.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        137
+      ],
+      "Themen": [
+        42,
+        2,
+        9
+      ],
+      "Stichworte": [
+        277,
+        3,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24620,
+      "Titel": "Schulisches Startchancen-Programm in Charlottenburg-Nord",
+      "Beschreibung": "",
+      "Datum": "2026-01-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24620.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        137
+      ],
+      "Themen": [
+        3
+      ],
+      "Stichworte": [
+        435,
+        42,
+        13,
+        22,
+        420,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24621,
+      "Titel": "Nutzbare Sportflächen für die Erwin-von-Witzleben-Grundschule in Charlottenburg Nord",
+      "Beschreibung": "",
+      "Datum": "2025-12-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24621.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        137
+      ],
+      "Themen": [
+        27,
+        42,
+        2
+      ],
+      "Stichworte": [
+        277,
+        13,
+        92,
+        545
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24624,
+      "Titel": "Quo vadis, Medienkompetenzbildung in Berlin?",
+      "Beschreibung": "",
+      "Datum": "2026-01-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24624.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        138
+      ],
+      "Themen": [
+        7,
+        17,
+        3,
+        9,
+        11
+      ],
+      "Stichworte": [
+        16,
+        63,
+        48,
+        42,
+        19,
+        71
       ],
       "Relevant": true
     }
