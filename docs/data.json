@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-19T07:10:15.551229166",
-  "Aktualisiert": "2026-01-16T22:03:00",
+  "TimeStamp": "2026-01-20T07:10:16.001266566",
+  "Aktualisiert": "2026-01-19T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61179,6 +61179,28 @@
         42,
         19,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24646,
+      "Titel": "Händisches Pfeifen statt funktionierende Sirenen? Missstände bei Alarmanlagen an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-01-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24646.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        0
+      ],
+      "Stichworte": [
+        13,
+        24
       ],
       "Relevant": true
     }
