@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-27T07:10:17.473305",
-  "Aktualisiert": "2026-01-26T22:02:59",
+  "TimeStamp": "2026-01-28T07:10:17.296531833",
+  "Aktualisiert": "2026-01-27T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61203,6 +61203,32 @@
         24
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24734,
+      "Titel": "Kinderarmut in Marzahn-Hellersdorf",
+      "Beschreibung": "",
+      "Datum": "2026-01-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24734.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        31,
+        12,
+        9
+      ],
+      "Stichworte": [
+        33,
+        23,
+        326,
+        19
+      ],
+      "Relevant": false
     }
   ]
 }
