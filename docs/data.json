@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-01-30T07:10:19.316907339",
-  "Aktualisiert": "2026-01-29T22:02:56",
+  "TimeStamp": "2026-01-31T07:10:17.828183703",
+  "Aktualisiert": "2026-01-30T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -150,7 +150,8 @@
     "Wansner, Kurt (CDU)",
     "Leschewitz, Franziska (Die Linke)",
     "Häntsch, Stefan (CDU)",
-    "Ahmadi, Gollaleh (Grüne)"
+    "Ahmadi, Gollaleh (Grüne)",
+    "Kittler, Regina (Die Linke)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -61229,6 +61230,91 @@
         19
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 24742,
+      "Titel": "Modularer Ergänzungsbau in der Schleizer Straße – Planungsstand transparent machen",
+      "Beschreibung": "",
+      "Datum": "2026-01-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24742.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        0,
+        2,
+        12
+      ],
+      "Stichworte": [
+        1,
+        3,
+        23,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24754,
+      "Titel": "Schulneubau im Rosenfelder Ring transparent machen",
+      "Beschreibung": "",
+      "Datum": "2026-01-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24754.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        0,
+        24
+      ],
+      "Stichworte": [
+        1,
+        255,
+        80,
+        42,
+        13,
+        601,
+        25,
+        563
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24834,
+      "Titel": "Wartet Biesdorf weiter auf das OSZ? (Teil 4)",
+      "Beschreibung": "OSZ = Oberstufenzentrum",
+      "Datum": "2026-01-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24834.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139,
+        8
+      ],
+      "Themen": [
+        0,
+        3,
+        12
+      ],
+      "Stichworte": [
+        1,
+        4,
+        23,
+        130,
+        13,
+        25,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
