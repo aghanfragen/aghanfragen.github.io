@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-05T07:10:17.877289672",
-  "Aktualisiert": "2026-02-04T22:03:00",
+  "TimeStamp": "2026-02-06T07:10:16.561924963",
+  "Aktualisiert": "2026-02-05T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61425,6 +61425,33 @@
         42,
         13,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24831,
+      "Titel": "Kindertagesstätten in ausgewählten Bezirksregionen Charlottenburg-Wilmersdorfs",
+      "Beschreibung": "",
+      "Datum": "2026-01-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24831.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        130
+      ],
+      "Themen": [
+        4,
+        42,
+        16,
+        10
+      ],
+      "Stichworte": [
+        277,
+        61,
+        7,
+        159
       ],
       "Relevant": true
     }
