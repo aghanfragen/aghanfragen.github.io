@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-06T07:10:16.561924963",
-  "Aktualisiert": "2026-02-05T22:02:56",
+  "TimeStamp": "2026-02-07T07:10:17.168466389",
+  "Aktualisiert": "2026-02-06T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -890,7 +890,8 @@
     "Moschee",
     "Tagung",
     "Demoskopie",
-    "Werbung"
+    "Werbung",
+    "Prüfungsordnung"
   ],
   "Dokumente": [
     {
@@ -61452,6 +61453,90 @@
         61,
         7,
         159
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24875,
+      "Titel": "Berliner Eliteschulen des Sports (Teil 7)",
+      "Beschreibung": "",
+      "Datum": "2026-01-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24875.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        20,
+        6
+      ],
+      "Stichworte": [
+        138,
+        153,
+        165,
+        139,
+        42,
+        81,
+        92,
+        141
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24858,
+      "Titel": "Ist die Chancengleichheit bei den neuen Prüfungsregelungen für das Nichtschüler*innenabitur gewahrt?",
+      "Beschreibung": "",
+      "Datum": "2026-01-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24858.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        111
+      ],
+      "Themen": [
+        6,
+        9
+      ],
+      "Stichworte": [
+        70,
+        688,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24849,
+      "Titel": "Nachfragen zur schriftlichen Anfrage: Massive Bauversäumnisse an der Schule am Bienenwaldring? (Drs. 19/24335)",
+      "Beschreibung": "",
+      "Datum": "2026-01-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24849.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        0,
+        3,
+        30
+      ],
+      "Stichworte": [
+        10,
+        4,
+        107,
+        130,
+        13,
+        523
       ],
       "Relevant": true
     }
