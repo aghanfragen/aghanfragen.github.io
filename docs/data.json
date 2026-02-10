@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-09T07:10:17.1496222",
-  "Aktualisiert": "2026-02-06T22:02:55",
+  "TimeStamp": "2026-02-10T07:10:16.17070904",
+  "Aktualisiert": "2026-02-09T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61537,6 +61537,31 @@
         130,
         13,
         523
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24871,
+      "Titel": "Förderung der Malchower Knirpsenfarm offenlegen",
+      "Beschreibung": "",
+      "Datum": "2026-01-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24871.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        24,
+        3
+      ],
+      "Stichworte": [
+        69,
+        80,
+        71
       ],
       "Relevant": true
     }
