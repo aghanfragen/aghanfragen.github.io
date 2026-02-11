@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-10T07:10:16.17070904",
-  "Aktualisiert": "2026-02-09T22:02:55",
+  "TimeStamp": "2026-02-11T07:10:17.014079969",
+  "Aktualisiert": "2026-02-10T22:02:55",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61562,6 +61562,32 @@
         69,
         80,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24832,
+      "Titel": "Gleichstellungsverfahren für Lehrkräfte mit nichtdeutscher Lehrkräftequalifikation nach dem Lehrkräftequalifikationsfeststellungsgesetz2023 bis 2025",
+      "Beschreibung": "",
+      "Datum": "2026-02-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24832.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        23,
+        9
+      ],
+      "Stichworte": [
+        103,
+        17,
+        339,
+        19
       ],
       "Relevant": true
     }
