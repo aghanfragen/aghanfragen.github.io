@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-11T07:10:17.014079969",
-  "Aktualisiert": "2026-02-10T22:02:55",
+  "TimeStamp": "2026-02-12T07:10:17.508363912",
+  "Aktualisiert": "2026-02-11T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -151,7 +151,8 @@
     "Leschewitz, Franziska (Die Linke)",
     "Häntsch, Stefan (CDU)",
     "Ahmadi, Gollaleh (Grüne)",
-    "Kittler, Regina (Die Linke)"
+    "Kittler, Regina (Die Linke)",
+    "Katharina, Senge (CDU)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -891,7 +892,8 @@
     "Tagung",
     "Demoskopie",
     "Werbung",
-    "Prüfungsordnung"
+    "Prüfungsordnung",
+    "Attentat"
   ],
   "Dokumente": [
     {
@@ -61588,6 +61590,57 @@
         17,
         339,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24896,
+      "Titel": "Witterungsbedingt gesperrte Schulhöfe - Warten auf Tauwetter als Strategie?",
+      "Beschreibung": "",
+      "Datum": "2026-01-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24896.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        19,
+        0
+      ],
+      "Stichworte": [
+        53,
+        42,
+        13,
+        218
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24901,
+      "Titel": "Themenschwerpunkte der Landeszentrale für politische Bildung",
+      "Beschreibung": "",
+      "Datum": "2026-01-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24901.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        140
+      ],
+      "Themen": [
+        32,
+        45
+      ],
+      "Stichworte": [
+        689,
+        69,
+        146,
+        630,
+        347
       ],
       "Relevant": true
     }
