@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-16T07:10:18.591606972",
-  "Aktualisiert": "2026-02-13T22:02:54",
+  "TimeStamp": "2026-02-17T07:10:17.914818118",
+  "Aktualisiert": "2026-02-16T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61641,6 +61641,34 @@
         146,
         630,
         347
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25018,
+      "Titel": "11. Pflichtschuljahr oder Rehamaßnahme der Bundesagentur für Arbeit: Übergänge für Jugendliche mit sehr hohen Bedarfen",
+      "Beschreibung": "",
+      "Datum": "2026-02-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25018.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39,
+        46
+      ],
+      "Themen": [
+        6,
+        20
+      ],
+      "Stichworte": [
+        443,
+        13,
+        279,
+        11,
+        299,
+        56
       ],
       "Relevant": true
     }
