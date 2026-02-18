@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-17T07:10:17.914818118",
-  "Aktualisiert": "2026-02-16T22:02:58",
+  "TimeStamp": "2026-02-18T07:10:17.494043121",
+  "Aktualisiert": "2026-02-17T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61669,6 +61669,59 @@
         11,
         299,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24998,
+      "Titel": "Einrichtung einer Schule mit arabischem Schwerpunkt",
+      "Beschreibung": "",
+      "Datum": "2026-02-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24998.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        30,
+        6,
+        23
+      ],
+      "Stichworte": [
+        107,
+        13,
+        81,
+        122,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25090,
+      "Titel": "Aufwertung der Schulhausmeisterstellen in allen Bezirken",
+      "Beschreibung": "",
+      "Datum": "2026-02-09",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25090.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        28,
+        18,
+        19
+      ],
+      "Stichworte": [
+        532,
+        207,
+        195,
+        13
       ],
       "Relevant": true
     }
