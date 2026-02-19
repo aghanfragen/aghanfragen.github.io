@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-18T07:10:17.494043121",
-  "Aktualisiert": "2026-02-17T22:02:56",
+  "TimeStamp": "2026-02-19T07:10:18.731256519",
+  "Aktualisiert": "2026-02-18T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61722,6 +61722,33 @@
         207,
         195,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24929,
+      "Titel": "Die Lehrkräftebedarfsprognose der Senatsbildungsverwaltung (RN 1681 E)",
+      "Beschreibung": "",
+      "Datum": "2026-02-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24929.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        9,
+        10
+      ],
+      "Stichworte": [
+        150,
+        17,
+        151,
+        42,
+        19
       ],
       "Relevant": true
     }
