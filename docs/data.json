@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-19T07:10:18.731256519",
-  "Aktualisiert": "2026-02-18T22:02:57",
+  "TimeStamp": "2026-02-20T07:10:17.855345978",
+  "Aktualisiert": "2026-02-19T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61749,6 +61749,33 @@
         151,
         42,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25010,
+      "Titel": "Alles geheim? Dringend notwendige Sanierung der John-F.-Kennedy-Schule in Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2026-02-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25010.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        0,
+        3,
+        39
+      ],
+      "Stichworte": [
+        10,
+        4,
+        13,
+        229,
+        25
       ],
       "Relevant": true
     }
