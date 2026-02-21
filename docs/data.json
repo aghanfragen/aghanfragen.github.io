@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-20T07:10:17.855345978",
-  "Aktualisiert": "2026-02-19T22:02:56",
+  "TimeStamp": "2026-02-21T07:10:17.142663879",
+  "Aktualisiert": "2026-02-20T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61776,6 +61776,150 @@
         13,
         229,
         25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24978,
+      "Titel": "Sicherstellung der Schülerbeförderung",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24978.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        20,
+        24,
+        6
+      ],
+      "Stichworte": [
+        80,
+        165,
+        139,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24986,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk  Charlottenburg-Wilmersdorf",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24986.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        42,
+        43,
+        1,
+        9
+      ],
+      "Stichworte": [
+        277,
+        314,
+        88,
+        13,
+        440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24987,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Lichtenberg",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24987.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        43,
+        1,
+        24,
+        9
+      ],
+      "Stichworte": [
+        314,
+        88,
+        80,
+        13,
+        440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24988,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Marzahn-Hellersdorf",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24988.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        43,
+        1,
+        12,
+        9
+      ],
+      "Stichworte": [
+        314,
+        88,
+        23,
+        13,
+        440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24989,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Mitte",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24989.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        43,
+        1,
+        14,
+        9
+      ],
+      "Stichworte": [
+        314,
+        88,
+        27,
+        13,
+        440,
+        19
       ],
       "Relevant": true
     }
