@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-23T07:10:17.849373911",
-  "Aktualisiert": "2026-02-20T22:02:56",
+  "TimeStamp": "2026-02-24T07:10:16.471869272",
+  "Aktualisiert": "2026-02-23T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -61919,6 +61919,356 @@
         27,
         13,
         440,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24990,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24990.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        30,
+        6,
+        20,
+        9,
+        43
+      ],
+      "Stichworte": [
+        107,
+        13,
+        285,
+        81,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24991,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Pankow",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24991.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        26,
+        6,
+        20,
+        9,
+        43
+      ],
+      "Stichworte": [
+        87,
+        13,
+        285,
+        81,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24992,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Reinickendorf",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24992.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        29,
+        6,
+        20,
+        9,
+        43
+      ],
+      "Stichworte": [
+        100,
+        13,
+        285,
+        81,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24993,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Spandau",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24993.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        20,
+        15,
+        9,
+        43
+      ],
+      "Stichworte": [
+        13,
+        285,
+        81,
+        56,
+        35,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24994,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24994.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        20,
+        9,
+        39,
+        43
+      ],
+      "Stichworte": [
+        13,
+        285,
+        81,
+        56,
+        19,
+        229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24995,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Tempelhof-Schöneberg",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24995.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        20,
+        9,
+        21,
+        43
+      ],
+      "Stichworte": [
+        13,
+        285,
+        81,
+        56,
+        19,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24996,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24996.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        20,
+        9,
+        34,
+        43
+      ],
+      "Stichworte": [
+        13,
+        285,
+        81,
+        56,
+        19,
+        148
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 24997,
+      "Titel": "Schulplatzkapazitäten und Klassenstärken in den weiterführenden Schulen (Gymnasien, ISS, Gemeinschaftsschulen) im Bezirk Friedrichshain-Kreuzberg",
+      "Beschreibung": "",
+      "Datum": "2026-02-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-24997.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        41,
+        6,
+        20,
+        9,
+        43
+      ],
+      "Stichworte": [
+        272,
+        13,
+        285,
+        81,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25020,
+      "Titel": "Nachfrage zu Drs. 19/24302 - Moderne Schulen für alle",
+      "Beschreibung": "Drs. = Drucksache",
+      "Datum": "2026-02-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25020.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        3,
+        22,
+        8,
+        9
+      ],
+      "Stichworte": [
+        104,
+        70,
+        587,
+        17,
+        13,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25021,
+      "Titel": "Wie geht es den Berliner Pflegekindern? (Teil 1)",
+      "Beschreibung": "",
+      "Datum": "2026-02-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25021.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        8,
+        9
+      ],
+      "Stichworte": [
+        53,
+        37,
+        219,
+        531,
+        304,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25022,
+      "Titel": "Wie geht es den Berliner Pflegekindern? (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2026-02-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25022.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        8,
+        9
+      ],
+      "Stichworte": [
+        53,
+        37,
+        219,
+        531,
+        304,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25023,
+      "Titel": "Übergang 5. Klasse - Warum werden die Ergebnisse nicht gleich dargestellt?",
+      "Beschreibung": "",
+      "Datum": "2026-02-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25023.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        13,
         19
       ],
       "Relevant": true
