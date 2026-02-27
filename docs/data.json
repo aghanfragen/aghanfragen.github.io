@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-26T07:10:17.143887898",
-  "Aktualisiert": "2026-02-25T22:02:57",
+  "TimeStamp": "2026-02-27T07:10:16.503747245",
+  "Aktualisiert": "2026-02-26T22:08:10",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62463,6 +62463,57 @@
         7,
         111,
         324,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25087,
+      "Titel": "Referent für den Arabisch-Unterricht",
+      "Beschreibung": "",
+      "Datum": "2026-02-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25087.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        23
+      ],
+      "Stichworte": [
+        47,
+        629,
+        122,
+        136
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25093,
+      "Titel": "Spandau: Finanzielle Aufklärung nach Insolvenzanmeldung der Freien Georgschule - Zentrale Fragen zu Schülerzahlen und Fördermitteln",
+      "Beschreibung": "",
+      "Datum": "2026-02-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25093.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        15,
+        9
+      ],
+      "Stichworte": [
+        13,
+        35,
+        19,
         71
       ],
       "Relevant": true
