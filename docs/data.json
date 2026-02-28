@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-02-27T07:10:16.503747245",
-  "Aktualisiert": "2026-02-26T22:08:10",
+  "TimeStamp": "2026-02-28T07:10:19.301254326",
+  "Aktualisiert": "2026-02-27T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62515,6 +62515,32 @@
         35,
         19,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25095,
+      "Titel": "Schulwechsel und Abmeldungen infolge antisemitischer Vorfälle an Berliner Schulen - Datenerfassung, bekannt gewordene Fälle und Maßnahmen",
+      "Beschreibung": "",
+      "Datum": "2026-02-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25095.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        6
+      ],
+      "Stichworte": [
+        176,
+        178,
+        47,
+        13,
+        81
       ],
       "Relevant": true
     }
