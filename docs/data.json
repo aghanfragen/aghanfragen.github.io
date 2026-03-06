@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-05T07:10:18.366081146",
-  "Aktualisiert": "2026-03-04T22:02:57",
+  "TimeStamp": "2026-03-06T07:10:17.094402229",
+  "Aktualisiert": "2026-03-05T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -894,7 +894,8 @@
     "Werbung",
     "Prüfungsordnung",
     "Attentat",
-    "Abfallbeseitigung"
+    "Abfallbeseitigung",
+    "Wohnung"
   ],
   "Dokumente": [
     {
@@ -62543,6 +62544,93 @@
         81
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25166,
+      "Titel": "Förderung von Wohnprojekten für bestimmte Gruppen (Teil 1) - \"Neue Wohngemeinschaften für LSBTI*-Jugendliche” (Träger: Schwulenberatung Berlin gGmbH) – Finanzierung und Kosten",
+      "Beschreibung": "",
+      "Datum": "2026-02-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25166.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        3,
+        31
+      ],
+      "Stichworte": [
+        61,
+        416,
+        245,
+        420,
+        691,
+        216,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25167,
+      "Titel": "Förderung von Wohnprojekten für bestimmte Gruppen (Teil 2) - \"Neue Wohngemeinschaften für LSBTI*-Jugendliche\" (Träger: Schwulenberatung Berlin gGmbH) - Betreuung, Betriebserlaubnis, Standards",
+      "Beschreibung": "",
+      "Datum": "2026-02-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25167.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        3,
+        8,
+        31
+      ],
+      "Stichworte": [
+        61,
+        37,
+        416,
+        245,
+        420,
+        691,
+        216,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25168,
+      "Titel": "Förderung von Wohnprojekten für bestimmte Gruppen (Teil 3) - \"Neue Wohngemeinschaften für LSBTI*-Jugendliche\" (Träger: Schwulenberatung Berlin gGmbH) - Belegung, Bedarf und Datengrundlagen",
+      "Beschreibung": "",
+      "Datum": "2026-02-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25168.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        31
+      ],
+      "Stichworte": [
+        61,
+        416,
+        245,
+        420,
+        691,
+        216
+      ],
+      "Relevant": false
     }
   ]
 }
