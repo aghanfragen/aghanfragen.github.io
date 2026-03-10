@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-09T07:10:16.006534431",
-  "Aktualisiert": "2026-03-06T22:02:57",
+  "TimeStamp": "2026-03-10T07:10:16.296887273",
+  "Aktualisiert": "2026-03-09T22:02:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -152,7 +152,9 @@
     "Häntsch, Stefan (CDU)",
     "Ahmadi, Gollaleh (Grüne)",
     "Kittler, Regina (Die Linke)",
-    "Katharina, Senge (CDU)"
+    "Katharina, Senge (CDU)",
+    "Schlüsselburg, Sebastian (SPD)",
+    "Martin, Johannes (CDU)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -62631,6 +62633,61 @@
         216
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25199,
+      "Titel": "Entwicklungen beim Unterhaltsvorschuss und Rückforderungen",
+      "Beschreibung": "",
+      "Datum": "2026-02-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25199.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        141
+      ],
+      "Themen": [
+        19,
+        10,
+        8,
+        9
+      ],
+      "Stichworte": [
+        53,
+        233,
+        386,
+        224,
+        152,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25217,
+      "Titel": "Kita-Versorgung in Biesdorf, Friedrichsfelde Ost und Marzahn-Süd",
+      "Beschreibung": "",
+      "Datum": "2026-02-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25217.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        142
+      ],
+      "Themen": [
+        4,
+        12,
+        9
+      ],
+      "Stichworte": [
+        7,
+        95,
+        23,
+        19
+      ],
+      "Relevant": true
     }
   ]
 }
