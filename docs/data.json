@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-10T07:10:16.296887273",
-  "Aktualisiert": "2026-03-09T22:02:56",
+  "TimeStamp": "2026-03-11T07:10:16.2440457",
+  "Aktualisiert": "2026-03-10T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62686,6 +62686,33 @@
         95,
         23,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25184,
+      "Titel": "Referendariat ab Schuljahr 2026/2027 - endlich Transparenz und Klarheit am BLiQ!",
+      "Beschreibung": "",
+      "Datum": "2026-02-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25184.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        18
+      ],
+      "Stichworte": [
+        385,
+        127,
+        17,
+        151,
+        195,
+        42
       ],
       "Relevant": true
     }
