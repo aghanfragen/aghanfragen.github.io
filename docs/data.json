@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-11T07:10:16.2440457",
-  "Aktualisiert": "2026-03-10T22:02:58",
+  "TimeStamp": "2026-03-12T07:10:15.58580939",
+  "Aktualisiert": "2026-03-11T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62713,6 +62713,85 @@
         151,
         195,
         42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25223,
+      "Titel": "Projekte gegen Antisemitismus und zur Förderung des interreligiösen Dialogs - Mittelverwendung Jugenddemokratiefonds",
+      "Beschreibung": "",
+      "Datum": "2026-03-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25223.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        36,
+        45,
+        9
+      ],
+      "Stichworte": [
+        176,
+        69,
+        47,
+        443,
+        347,
+        19,
+        349
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25230,
+      "Titel": "Bau einer zusätzlichen Sporthalle für die Grundschule am Königsgraben sowie landesweite Versorgungssituation mit Sporthallen an Grundschulen",
+      "Beschreibung": "",
+      "Datum": "2026-03-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25230.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        2,
+        39
+      ],
+      "Stichworte": [
+        3,
+        13,
+        229,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25227,
+      "Titel": "Aktualisierte Zahlen zur Lehrkräfteverteilung im Land Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-03-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25227.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        37,
+        42,
+        13,
+        19
       ],
       "Relevant": true
     }
