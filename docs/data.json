@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-12T07:10:15.58580939",
-  "Aktualisiert": "2026-03-11T22:02:57",
+  "TimeStamp": "2026-03-13T07:10:16.598357892",
+  "Aktualisiert": "2026-03-12T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -897,7 +897,8 @@
     "Prüfungsordnung",
     "Attentat",
     "Abfallbeseitigung",
-    "Wohnung"
+    "Wohnung",
+    "Geschlechterdiskriminierung"
   ],
   "Dokumente": [
     {
@@ -62794,6 +62795,72 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25226,
+      "Titel": "Fragen zum Berliner Vorbereitungsdienst",
+      "Beschreibung": "",
+      "Datum": "2026-03-03",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25226.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        8,
+        18,
+        9
+      ],
+      "Stichworte": [
+        150,
+        17,
+        195,
+        108,
+        42,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25229,
+      "Titel": "Modellprojekt \"Familienrat\" in Marzahn-Hellersdorf - Hilfeplanung, Schutz bei Gewalt im Sinne der Istanbul-Konvention,  Geschlechtergerechtigkeit, Vermeidung pseudowissenschaftlicher Konzepte und wissenschaftliche Evaluation",
+      "Beschreibung": "",
+      "Datum": "2026-03-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25229.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        16,
+        13,
+        12,
+        3,
+        18,
+        9
+      ],
+      "Stichworte": [
+        436,
+        82,
+        61,
+        692,
+        32,
+        626,
+        33,
+        111,
+        23,
+        195,
+        19,
+        410,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
