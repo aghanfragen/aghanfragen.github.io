@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-16T07:10:16.950072337",
-  "Aktualisiert": "2026-03-13T22:02:57",
+  "TimeStamp": "2026-03-17T07:10:16.837988511",
+  "Aktualisiert": "2026-03-16T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62861,6 +62861,92 @@
         71
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25253,
+      "Titel": "Wer ist für die Angebote der Kurzzeitpflege verantwortlich?",
+      "Beschreibung": "",
+      "Datum": "2026-03-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25253.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        25
+      ],
+      "Stichworte": [
+        224,
+        219,
+        353,
+        308,
+        420
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25254,
+      "Titel": "Autismus-Beratung für Kinder und Jugendliche - Neuer Standort",
+      "Beschreibung": "",
+      "Datum": "2026-03-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25254.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        5,
+        19,
+        3,
+        13,
+        9
+      ],
+      "Stichworte": [
+        53,
+        60,
+        45,
+        224,
+        33,
+        194,
+        651,
+        223,
+        19,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25260,
+      "Titel": "Barrierefreiheit während der Sanierung an der inklusiven Schwerpunktschule Charlotte-Salomon nicht gegeben?",
+      "Beschreibung": "",
+      "Datum": "2026-03-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25260.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        20,
+        0,
+        41
+      ],
+      "Stichworte": [
+        10,
+        272,
+        139,
+        42,
+        13
+      ],
+      "Relevant": true
     }
   ]
 }
