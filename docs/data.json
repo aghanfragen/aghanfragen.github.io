@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-18T07:10:16.560727027",
-  "Aktualisiert": "2026-03-17T22:02:58",
+  "TimeStamp": "2026-03-19T07:10:16.551295034",
+  "Aktualisiert": "2026-03-18T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62945,6 +62945,34 @@
         139,
         42,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25330,
+      "Titel": "Umsetzung des Start-Chancen-Programms - Säule I in den Bezirken",
+      "Beschreibung": "",
+      "Datum": "2026-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25330.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        24,
+        3,
+        19
+      ],
+      "Stichworte": [
+        435,
+        80,
+        13,
+        22,
+        299,
+        420
       ],
       "Relevant": true
     }
