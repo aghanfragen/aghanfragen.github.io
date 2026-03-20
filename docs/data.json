@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-19T07:10:16.551295034",
-  "Aktualisiert": "2026-03-18T22:02:58",
+  "TimeStamp": "2026-03-20T07:10:16.228042065",
+  "Aktualisiert": "2026-03-19T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -62973,6 +62973,115 @@
         22,
         299,
         420
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25279,
+      "Titel": "Nichtschwimmer",
+      "Beschreibung": "",
+      "Datum": "2026-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25279.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        36
+      ],
+      "Themen": [
+        6
+      ],
+      "Stichworte": [
+        224,
+        13,
+        81,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25296,
+      "Titel": "Baulicher Zustand und Sanierungen der Jugendfreizeiteinrichtungen in Steglitz-Zehlendorf",
+      "Beschreibung": "",
+      "Datum": "2026-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25296.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        0,
+        16,
+        39
+      ],
+      "Stichworte": [
+        10,
+        61,
+        62,
+        147,
+        33,
+        229,
+        25
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25307,
+      "Titel": "Rahmenlehrplanbezug und Stoffabdeckung beim Probetag an den Gymnasien für die Übergänge 4 zu 5 (grundständige Gymnasien) sowie 6 zu 7",
+      "Beschreibung": "",
+      "Datum": "2026-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25307.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        1,
+        18,
+        6,
+        17
+      ],
+      "Stichworte": [
+        3,
+        88,
+        195,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25327,
+      "Titel": "Sicherung der Funktionsfähigkeit von Jugendarbeit, Jugendsozialarbeit und Familienbildung in Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2026-03-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25327.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        10,
+        34
+      ],
+      "Stichworte": [
+        233,
+        33,
+        194,
+        148,
+        227,
+        143
       ],
       "Relevant": true
     }
