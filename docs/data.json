@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-23T07:10:15.880067588",
-  "Aktualisiert": "2026-03-20T22:02:55",
+  "TimeStamp": "2026-03-24T07:10:16.677407024",
+  "Aktualisiert": "2026-03-23T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63082,6 +63082,63 @@
         148,
         227,
         143
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25306,
+      "Titel": "Religiöses Fasten bei Grundschulkindern - Gesundheit, Kindeswohl und Leistungsfähigkeit",
+      "Beschreibung": "",
+      "Datum": "2026-03-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25306.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        37
+      ],
+      "Stichworte": [
+        310,
+        95,
+        181,
+        173
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25343,
+      "Titel": "Beschulung der Kinder in der geplanten Erstaufnahmeeinrichtung im Bürogebäude an der Hasenheide 23–27",
+      "Beschreibung": "",
+      "Datum": "2026-03-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25343.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        105,
+        9
+      ],
+      "Themen": [
+        23,
+        19,
+        6
+      ],
+      "Stichworte": [
+        75,
+        53,
+        120,
+        293,
+        438,
+        224,
+        42,
+        13,
+        11
       ],
       "Relevant": true
     }
