@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-24T07:10:16.677407024",
-  "Aktualisiert": "2026-03-23T22:02:58",
+  "TimeStamp": "2026-03-25T07:10:16.439457172",
+  "Aktualisiert": "2026-03-24T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63139,6 +63139,63 @@
         42,
         13,
         11
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25308,
+      "Titel": "Übergangsvoraussetzungen für das Gymnasium - Vergleich der Verfahren für die Wechsel nach der 4. Klasse vs. 6. Klasse",
+      "Beschreibung": "",
+      "Datum": "2026-03-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25308.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        1,
+        6,
+        9
+      ],
+      "Stichworte": [
+        88,
+        224,
+        13,
+        299,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25419,
+      "Titel": "Welchen Stellenwert hat der Diskriminierungsschutz im Berliner Bildungsprogramm und der Praxis von Kindertagesstätten?",
+      "Beschreibung": "",
+      "Datum": "2026-03-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25419.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        28,
+        8
+      ],
+      "Stichworte": [
+        160,
+        385,
+        14,
+        134,
+        7,
+        8,
+        135
       ],
       "Relevant": true
     }
