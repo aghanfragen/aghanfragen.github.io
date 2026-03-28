@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-27T07:10:17.700302132",
-  "Aktualisiert": "2026-03-26T22:02:58",
+  "TimeStamp": "2026-03-28T07:10:16.090015463",
+  "Aktualisiert": "2026-03-27T22:02:57",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63250,6 +63250,31 @@
         16,
         693,
         42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25414,
+      "Titel": "Zukunft der inklusiven beruflichen Bildung",
+      "Beschreibung": "",
+      "Datum": "2026-03-18",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25414.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        20,
+        28
+      ],
+      "Stichworte": [
+        99,
+        165,
+        139,
+        56
       ],
       "Relevant": true
     }
