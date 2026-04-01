@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-03-31T07:10:15.481358438",
-  "Aktualisiert": "2026-03-30T22:02:58",
+  "TimeStamp": "2026-04-01T07:10:15.637888642",
+  "Aktualisiert": "2026-03-31T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -899,7 +899,8 @@
     "Abfallbeseitigung",
     "Wohnung",
     "Geschlechterdiskriminierung",
-    "Open Access"
+    "Open Access",
+    "Künstliche Intelligenz"
   ],
   "Dokumente": [
     {
@@ -63275,6 +63276,66 @@
         165,
         139,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25435,
+      "Titel": "Was genau hat der Senat mit KI-Systemen in unseren Schulen vor?",
+      "Beschreibung": "",
+      "Datum": "2026-03-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25435.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        7,
+        18,
+        10
+      ],
+      "Stichworte": [
+        508,
+        232,
+        30,
+        16,
+        694,
+        307,
+        51,
+        13,
+        164
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25417,
+      "Titel": "Multiprofessionelle Teams an Schulen und die neuen Zumessungsrichtlinien: Hat der Senat neue Ungerechtigkeiten geschaffen?",
+      "Beschreibung": "",
+      "Datum": "2026-03-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25417.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        20,
+        8,
+        0,
+        9
+      ],
+      "Stichworte": [
+        380,
+        138,
+        37,
+        18,
+        13,
+        19
       ],
       "Relevant": true
     }
