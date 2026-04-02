@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-01T07:10:15.637888642",
-  "Aktualisiert": "2026-03-31T22:03:00",
+  "TimeStamp": "2026-04-02T07:10:15.613384409",
+  "Aktualisiert": "2026-04-01T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63336,6 +63336,35 @@
         18,
         13,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25500,
+      "Titel": "Rahmenvereinbarung Heilpädagogische Gruppen",
+      "Beschreibung": "",
+      "Datum": "2026-03-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25500.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        66,
+        39
+      ],
+      "Themen": [
+        20,
+        4,
+        3
+      ],
+      "Stichworte": [
+        7,
+        95,
+        8,
+        4,
+        165,
+        56
       ],
       "Relevant": true
     }
