@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-02T07:10:15.613384409",
-  "Aktualisiert": "2026-04-01T22:02:58",
+  "TimeStamp": "2026-04-03T07:10:15.199731011",
+  "Aktualisiert": "2026-04-02T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63365,6 +63365,38 @@
         4,
         165,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25451,
+      "Titel": "Auswirkungen der Kürzungen auf das Praxislernen?",
+      "Beschreibung": "",
+      "Datum": "2026-03-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25451.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        1,
+        16,
+        3,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        69,
+        61,
+        73,
+        81,
+        19,
+        5,
+        71
       ],
       "Relevant": true
     }
