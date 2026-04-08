@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-07T07:10:15.997351638",
-  "Aktualisiert": "2026-04-06T22:02:58",
+  "TimeStamp": "2026-04-08T07:10:17.446215686",
+  "Aktualisiert": "2026-04-07T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -900,7 +900,8 @@
     "Wohnung",
     "Geschlechterdiskriminierung",
     "Open Access",
-    "Künstliche Intelligenz"
+    "Künstliche Intelligenz",
+    "Rente"
   ],
   "Dokumente": [
     {
@@ -63397,6 +63398,126 @@
         19,
         5,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25452,
+      "Titel": "Produktives Lernen - BLiQ ins Leere?",
+      "Beschreibung": "BLiQ = Berliner Landesinstitut für Qualifizierung und Qualitätsentwicklung",
+      "Datum": "2026-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25452.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        8,
+        18
+      ],
+      "Stichworte": [
+        14,
+        150,
+        17,
+        203,
+        195
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25477,
+      "Titel": "Polnischer herkunftssprachlicher Unterricht",
+      "Beschreibung": "",
+      "Datum": "2026-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25477.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        95
+      ],
+      "Themen": [
+        1,
+        8,
+        17,
+        23,
+        9
+      ],
+      "Stichworte": [
+        0,
+        17,
+        48,
+        389,
+        265,
+        42,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25480,
+      "Titel": "Maßnahmen zur Beschleunigung der Einstellungsverfahren im Berliner Schulbereich (BA-STA)",
+      "Beschreibung": "",
+      "Datum": "2026-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25480.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        27,
+        64
+      ],
+      "Themen": [
+        8,
+        3,
+        9
+      ],
+      "Stichworte": [
+        177,
+        336,
+        17,
+        37,
+        152,
+        311,
+        19,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25503,
+      "Titel": "Pensionierungen von Schulleitungen und Verlängerungen der Dienstzeit",
+      "Beschreibung": "",
+      "Datum": "2026-03-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25503.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19,
+        46
+      ],
+      "Themen": [
+        1,
+        8,
+        9
+      ],
+      "Stichworte": [
+        0,
+        208,
+        133,
+        37,
+        695,
+        42,
+        19
       ],
       "Relevant": true
     }
