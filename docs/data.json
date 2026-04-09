@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-08T07:10:17.446215686",
-  "Aktualisiert": "2026-04-07T22:02:59",
+  "TimeStamp": "2026-04-09T07:10:16.133699721",
+  "Aktualisiert": "2026-04-08T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63520,6 +63520,70 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25483,
+      "Titel": "Akzeptierende Jugendarbeit mit extrem rechten und neonazistischen Jugendlichen",
+      "Beschreibung": "",
+      "Datum": "2026-03-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25483.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        101
+      ],
+      "Themen": [
+        3,
+        45
+      ],
+      "Stichworte": [
+        47,
+        443,
+        33,
+        347,
+        50,
+        349,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25496,
+      "Titel": "Vergewaltigung und sexuelle Übergriffe im Jugendzentrum Wutzkyallee - Kinderschutzversagen, politische Vertuschung und der Widerspruch zur frauenpolitischen Programmatik des Senats",
+      "Beschreibung": "",
+      "Datum": "2026-03-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25496.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        29,
+        5
+      ],
+      "Themen": [
+        13,
+        10,
+        30
+      ],
+      "Stichworte": [
+        233,
+        436,
+        82,
+        106,
+        26,
+        63,
+        443,
+        111,
+        107,
+        342,
+        554,
+        28,
+        492
+      ],
+      "Relevant": false
     }
   ]
 }
