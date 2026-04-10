@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-09T07:10:16.133699721",
-  "Aktualisiert": "2026-04-08T22:02:58",
+  "TimeStamp": "2026-04-10T07:10:16.186211545",
+  "Aktualisiert": "2026-04-09T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63584,6 +63584,39 @@
         492
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25515,
+      "Titel": "Erfahrungen mit Sonnensegeln als Sonnenschutz auf Schulhöfen",
+      "Beschreibung": "",
+      "Datum": "2026-03-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25515.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        142
+      ],
+      "Themen": [
+        1,
+        19,
+        5,
+        3,
+        0,
+        9
+      ],
+      "Stichworte": [
+        0,
+        53,
+        67,
+        4,
+        18,
+        42,
+        19,
+        676
+      ],
+      "Relevant": true
     }
   ]
 }
