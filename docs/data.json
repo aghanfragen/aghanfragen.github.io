@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-10T07:10:16.186211545",
-  "Aktualisiert": "2026-04-09T22:02:58",
+  "TimeStamp": "2026-04-11T07:10:16.942727835",
+  "Aktualisiert": "2026-04-10T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63617,6 +63617,31 @@
         676
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25523,
+      "Titel": "Rückholquote beim Unterhaltsvorschuss, Geschlechterdimension und Auswirkungen von Vollstreckungsmaßnahmen auf laufendeKindesunterhaltszahlungen",
+      "Beschreibung": "",
+      "Datum": "2026-03-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25523.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        123
+      ],
+      "Themen": [
+        31,
+        9
+      ],
+      "Stichworte": [
+        296,
+        191,
+        19,
+        297
+      ],
+      "Relevant": false
     }
   ]
 }
