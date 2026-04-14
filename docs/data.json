@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-13T07:10:17.619079411",
-  "Aktualisiert": "2026-04-10T22:02:58",
+  "TimeStamp": "2026-04-14T07:10:16.291852252",
+  "Aktualisiert": "2026-04-13T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -901,7 +901,8 @@
     "Geschlechterdiskriminierung",
     "Open Access",
     "Künstliche Intelligenz",
-    "Rente"
+    "Rente",
+    "Mietwohnung"
   ],
   "Dokumente": [
     {
@@ -63642,6 +63643,30 @@
         297
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25602,
+      "Titel": "GSE in der Lehrter Straße 26a, 26b, 27-30, 36, 37 & 38",
+      "Beschreibung": "Gesellschaft für StadtEntwicklung (GSE)",
+      "Datum": "2026-03-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25602.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        130
+      ],
+      "Themen": [
+        9
+      ],
+      "Stichworte": [
+        648,
+        696,
+        19,
+        216
+      ],
+      "Relevant": true
     }
   ]
 }
