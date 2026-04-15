@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-14T07:10:16.291852252",
-  "Aktualisiert": "2026-04-13T22:03:00",
+  "TimeStamp": "2026-04-15T07:10:17.076069465",
+  "Aktualisiert": "2026-04-14T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63665,6 +63665,121 @@
         696,
         19,
         216
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25504,
+      "Titel": "Altersfeststellung und rechtliche Vertretung unbegleiteter minderjähriger Geflüchteter",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25504.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        23,
+        9
+      ],
+      "Stichworte": [
+        75,
+        336,
+        224,
+        33,
+        194,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25505,
+      "Titel": "Entwicklung in Moabit",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25505.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        24
+      ],
+      "Themen": [
+        1,
+        14,
+        6,
+        9,
+        8
+      ],
+      "Stichworte": [
+        0,
+        27,
+        81,
+        19,
+        110
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25520,
+      "Titel": "Mathematik-Abitur in Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-03-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25520.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        18,
+        9
+      ],
+      "Stichworte": [
+        378,
+        39,
+        40,
+        483,
+        270,
+        195,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25601,
+      "Titel": "Auflösung von Willkommensklassen? Perspektiven für Schüler*innen & Beschäftigte",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25601.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        1,
+        23,
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        103,
+        75,
+        53,
+        42,
+        81,
+        19
       ],
       "Relevant": true
     }
