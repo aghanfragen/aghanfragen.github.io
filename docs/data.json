@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-15T07:10:17.076069465",
-  "Aktualisiert": "2026-04-14T22:02:58",
+  "TimeStamp": "2026-04-16T07:10:16.505176119",
+  "Aktualisiert": "2026-04-15T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63782,6 +63782,204 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25524,
+      "Titel": "Jugendarbeit und Jugendsozialarbeit in sozialräumlich besonders herausgeforderten Kiezen in Treptow-Köpenick",
+      "Beschreibung": "",
+      "Datum": "2026-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25524.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        13,
+        9,
+        34
+      ],
+      "Stichworte": [
+        287,
+        224,
+        33,
+        194,
+        230,
+        309,
+        327,
+        19,
+        148
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25551,
+      "Titel": "Von der Schule in den Wartesaal? - Umsetzung von Leistungen des Teilhabefachdienstes beim Übergang Schule - Beruf im Land Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25551.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139,
+        31
+      ],
+      "Themen": [
+        20,
+        28
+      ],
+      "Stichworte": [
+        98,
+        467,
+        63,
+        64,
+        224,
+        33,
+        194,
+        165,
+        139
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25573,
+      "Titel": "Prävention und Intervention bei sexualisierter Gewalt in der Jugendarbeit und Jugendsozialarbeit in Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25573.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        31,
+        8,
+        16,
+        13
+      ],
+      "Stichworte": [
+        177,
+        14,
+        61,
+        63,
+        64,
+        359,
+        224,
+        33,
+        111,
+        230,
+        192
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25576,
+      "Titel": "Jugend- und Familieneinrichtungen",
+      "Beschreibung": "",
+      "Datum": "2026-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25576.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        62
+      ],
+      "Themen": [
+        19,
+        3,
+        9
+      ],
+      "Stichworte": [
+        53,
+        399,
+        287,
+        443,
+        33,
+        191,
+        19,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25585,
+      "Titel": "Vergewaltigung im Jugendzentrum Wutzkyallee (Neukölln): Personalstruktur, Informationsweg im Jugendamt und unterlassene Schutzmaßnahmen",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25585.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        29,
+        5
+      ],
+      "Themen": [
+        13,
+        10,
+        3,
+        8,
+        9
+      ],
+      "Stichworte": [
+        233,
+        106,
+        26,
+        63,
+        287,
+        359,
+        111,
+        37,
+        19,
+        28,
+        492,
+        71,
+        143
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25586,
+      "Titel": "Vergewaltigung im Jugendzentrum Wutzkyallee (Neukölln): Externe Untersuchung - Mandat, Unabhängigkeit und Aufklärungsverantwortung",
+      "Beschreibung": "",
+      "Datum": "2026-04-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25586.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        29,
+        5
+      ],
+      "Themen": [
+        13,
+        10
+      ],
+      "Stichworte": [
+        233,
+        341,
+        106,
+        26,
+        63,
+        287,
+        359,
+        111,
+        429,
+        28,
+        492,
+        143
+      ],
+      "Relevant": false
     }
   ]
 }
