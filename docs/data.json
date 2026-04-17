@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-16T07:10:16.505176119",
-  "Aktualisiert": "2026-04-15T22:02:58",
+  "TimeStamp": "2026-04-17T07:10:18.47003764",
+  "Aktualisiert": "2026-04-16T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -63980,6 +63980,110 @@
         143
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25597,
+      "Titel": "\"Queer Day\" an der Wangari Maathai International School - ideologisch geprägte Schulveranstaltung, unklare Elterninformation und offene Kinderschutzfragen",
+      "Beschreibung": "",
+      "Datum": "2026-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25597.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6,
+        5
+      ],
+      "Stichworte": [
+        42,
+        13,
+        185,
+        81,
+        514,
+        416,
+        5,
+        113
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25598,
+      "Titel": "Maßnahmen zur Sicherung der Unterrichtsversorgung, zur Entlastung von Lehrkräften und zur Weiterentwicklung der Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-03-31",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25598.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        17,
+        151,
+        42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25648,
+      "Titel": "Informationswege nach Vorfällen sexualisierter Gewalt im Jugendclub Wutzkyallee",
+      "Beschreibung": "",
+      "Datum": "2026-04-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25648.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139
+      ],
+      "Themen": [
+        13,
+        30
+      ],
+      "Stichworte": [
+        255,
+        26,
+        287,
+        107
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25654,
+      "Titel": "Aufgeschobene Sanierung der Grundschule an der Victoriastadt",
+      "Beschreibung": "",
+      "Datum": "2026-04-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25654.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        24,
+        6,
+        9,
+        2
+      ],
+      "Stichworte": [
+        80,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
     }
   ]
 }
