@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-20T07:10:16.495871557",
-  "Aktualisiert": "2026-04-17T22:03:00",
+  "TimeStamp": "2026-04-21T07:10:18.164365288",
+  "Aktualisiert": "2026-04-20T22:02:58",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64081,6 +64081,65 @@
         80,
         13,
         81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25633,
+      "Titel": "Auswirkungen der neuen Zumessungsrichtlinien auf die Verteilung von Lehrkräften",
+      "Beschreibung": "",
+      "Datum": "2026-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25633.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        8,
+        18,
+        10
+      ],
+      "Stichworte": [
+        53,
+        17,
+        37,
+        51,
+        13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25634,
+      "Titel": "Wird inklusive Bildung durch die neuen Zumessungsrichtlinien geschwächt?",
+      "Beschreibung": "",
+      "Datum": "2026-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25634.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        20,
+        8,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        138,
+        17,
+        13,
+        81,
+        56,
         19
       ],
       "Relevant": true
