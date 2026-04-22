@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-21T07:10:18.164365288",
-  "Aktualisiert": "2026-04-20T22:02:58",
+  "TimeStamp": "2026-04-22T07:10:17.908356422",
+  "Aktualisiert": "2026-04-21T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64143,6 +64143,38 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25665,
+      "Titel": "Gewalt in den Berliner Jugendfreizeiteinrichtungen - Maßnahmen von Senat und Bezirken sowie Präventionsketten und Schutzkonzepte",
+      "Beschreibung": "",
+      "Datum": "2026-04-10",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25665.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        84
+      ],
+      "Themen": [
+        19,
+        13,
+        3
+      ],
+      "Stichworte": [
+        53,
+        106,
+        32,
+        64,
+        224,
+        33,
+        111,
+        334,
+        28,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
