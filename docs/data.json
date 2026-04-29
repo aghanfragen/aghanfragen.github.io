@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-28T07:10:17.958168339",
-  "Aktualisiert": "2026-04-27T22:03:00",
+  "TimeStamp": "2026-04-29T07:10:17.020607149",
+  "Aktualisiert": "2026-04-28T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64391,6 +64391,63 @@
         273,
         107,
         25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25717,
+      "Titel": "Durchführung und Ergebnisse von Sprachstandsfeststellungen in den Jahren 2023 - 2025",
+      "Beschreibung": "",
+      "Datum": "2026-04-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25717.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        23
+      ],
+      "Stichworte": [
+        69,
+        7,
+        95,
+        8,
+        185,
+        122
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25730,
+      "Titel": "Was unternahm die Bildungssenatorin am Tag des Stromausfalls?",
+      "Beschreibung": "",
+      "Datum": "2026-04-17",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25730.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        0,
+        4,
+        39
+      ],
+      "Stichworte": [
+        238,
+        255,
+        428,
+        194,
+        8,
+        13,
+        647,
+        229
       ],
       "Relevant": true
     }
