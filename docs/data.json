@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-04-29T07:10:17.020607149",
-  "Aktualisiert": "2026-04-28T22:03:00",
+  "TimeStamp": "2026-04-30T07:10:17.10051823",
+  "Aktualisiert": "2026-04-29T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64448,6 +64448,38 @@
         13,
         647,
         229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25736,
+      "Titel": "Islamisten als Kita-Träger? Wie stellt der Senat Verfassungstreue, Kindeswohl und Gleichberechtigung bei Kita-Trägern in Berlin sicher?",
+      "Beschreibung": "",
+      "Datum": "2026-04-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25736.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        4,
+        16,
+        3,
+        18,
+        9
+      ],
+      "Stichworte": [
+        61,
+        7,
+        47,
+        629,
+        195,
+        19,
+        665,
+        71
       ],
       "Relevant": true
     }
