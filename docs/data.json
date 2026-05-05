@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-03T07:10:18.155449777",
-  "Aktualisiert": "2026-05-01T22:02:59",
+  "TimeStamp": "2026-05-05T07:10:18.647731527",
+  "Aktualisiert": "2026-05-04T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64480,6 +64480,59 @@
         19,
         665,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25761,
+      "Titel": "Duale Option im Flex-Master",
+      "Beschreibung": "",
+      "Datum": "2026-04-22",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25761.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        18
+      ],
+      "Stichworte": [
+        137,
+        39,
+        40,
+        150,
+        17,
+        42,
+        211
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25763,
+      "Titel": "APEGO-Schule Berlin: Anerkennungsverfahren, Rechtsstatus und staatliche Aufsicht",
+      "Beschreibung": "",
+      "Datum": "2026-04-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25763.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        43
+      ],
+      "Stichworte": [
+        61,
+        314,
+        13,
+        299
       ],
       "Relevant": true
     }
