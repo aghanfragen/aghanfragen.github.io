@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-05T07:10:18.647731527",
-  "Aktualisiert": "2026-05-04T22:02:59",
+  "TimeStamp": "2026-05-06T07:10:16.892372585",
+  "Aktualisiert": "2026-05-05T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -904,7 +904,8 @@
     "Rente",
     "Mietwohnung",
     "Gewerbegebiet",
-    "Kraftstoff"
+    "Kraftstoff",
+    "Grundrecht"
   ],
   "Dokumente": [
     {
@@ -64533,6 +64534,87 @@
         314,
         13,
         299
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25808,
+      "Titel": "Reform des Vorbereitungsdienst zum Schuljahr 2026/2027 - Ist das BLiQ startklar?",
+      "Beschreibung": "",
+      "Datum": "2026-04-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25808.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        18
+      ],
+      "Stichworte": [
+        150,
+        17,
+        151,
+        195,
+        42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25759,
+      "Titel": "Zwischen Datenlücken und Rechtsbruch: Wie belastbar sind die Zahlen zur Nichtbeschulung?",
+      "Beschreibung": "",
+      "Datum": "2026-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25759.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        6,
+        9
+      ],
+      "Stichworte": [
+        699,
+        42,
+        13,
+        279,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25770,
+      "Titel": "Warum muss der Ländliche Reiterverein Tegel e. V. seinen langjährigen Standort räumen? (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2026-04-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25770.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        60
+      ],
+      "Themen": [
+        0,
+        29,
+        27
+      ],
+      "Stichworte": [
+        1,
+        640,
+        100,
+        130,
+        92,
+        25
       ],
       "Relevant": true
     }
