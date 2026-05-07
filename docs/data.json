@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-06T07:10:16.892372585",
-  "Aktualisiert": "2026-05-05T22:03:00",
+  "TimeStamp": "2026-05-07T07:10:17.139153903",
+  "Aktualisiert": "2026-05-06T22:03:32",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64615,6 +64615,151 @@
         130,
         92,
         25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25769,
+      "Titel": "Nachfragen zur schriftlichen Anfrage: Auswirkungen der Kürzungen auf das Praxislernen? (Drs. 19 / 25 451)",
+      "Beschreibung": "siehe auch Drucksache 19/25451",
+      "Datum": "2026-04-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25769.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        16,
+        3,
+        6,
+        9
+      ],
+      "Stichworte": [
+        61,
+        4,
+        13,
+        279,
+        81,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25814,
+      "Titel": "Maßnahmen gegen Gewalt an Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-04-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25814.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        13,
+        8,
+        6
+      ],
+      "Stichworte": [
+        106,
+        26,
+        443,
+        95,
+        33,
+        17,
+        13,
+        185,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25818,
+      "Titel": "Grenzen, Voraussetzungen und schulische Praxis des selbstorganisierten Lernens (SOL)",
+      "Beschreibung": "",
+      "Datum": "2026-04-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25818.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        17,
+        13,
+        279,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25834,
+      "Titel": "Schlussfolgerungen aus dem Berliner Islamismus-Monitor für Schule und Jugendhilfe",
+      "Beschreibung": "",
+      "Datum": "2026-04-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25834.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        11,
+        6
+      ],
+      "Stichworte": [
+        442,
+        662,
+        47,
+        194,
+        151,
+        241,
+        163,
+        42,
+        13,
+        279,
+        81,
+        410
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25835,
+      "Titel": "Porno-Skandal in Schleife (Sachsen) - Gefährden von der Amadeu Antonio Stiftung unterstützte linksextreme Aktivisten auch in Berlin minderjährige Schüler?",
+      "Beschreibung": "",
+      "Datum": "2026-04-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25835.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        6
+      ],
+      "Stichworte": [
+        412,
+        111,
+        13,
+        185,
+        81,
+        34
       ],
       "Relevant": true
     }
