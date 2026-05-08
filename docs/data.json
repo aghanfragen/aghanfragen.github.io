@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-07T07:10:17.139153903",
-  "Aktualisiert": "2026-05-06T22:03:32",
+  "TimeStamp": "2026-05-08T07:10:16.715966331",
+  "Aktualisiert": "2026-05-07T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64760,6 +64760,60 @@
         185,
         81,
         34
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25798,
+      "Titel": "Einseitige Belastung von ISS und Gemeinschaftsschulen beim Wechsel zur 7. Klasse?",
+      "Beschreibung": "ISS = Integrierte Sekundarschule",
+      "Datum": "2026-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25798.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        6,
+        9,
+        43
+      ],
+      "Stichworte": [
+        53,
+        13,
+        185,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25816,
+      "Titel": "Sehr kleine Schulen in Berlin - Mindestgrößen, Klassengrößen und gründungsrechtliche Voraussetzungen",
+      "Beschreibung": "",
+      "Datum": "2026-04-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25816.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        10,
+        18
+      ],
+      "Stichworte": [
+        61,
+        184,
+        51,
+        13
       ],
       "Relevant": true
     }
