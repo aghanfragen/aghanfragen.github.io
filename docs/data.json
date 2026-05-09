@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-08T07:10:16.715966331",
-  "Aktualisiert": "2026-05-07T22:03:00",
+  "TimeStamp": "2026-05-09T07:10:18.403725872",
+  "Aktualisiert": "2026-05-08T22:02:59",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64814,6 +64814,37 @@
         184,
         51,
         13
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25836,
+      "Titel": "Evangelischer und katholischer Religionsunterricht an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-04-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25836.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        19,
+        37,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        181,
+        173,
+        42,
+        13,
+        81,
+        19
       ],
       "Relevant": true
     }
