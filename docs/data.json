@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-11T07:10:17.880508467",
-  "Aktualisiert": "2026-05-08T22:02:59",
+  "TimeStamp": "2026-05-12T07:10:22.144903376",
+  "Aktualisiert": "2026-05-11T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64845,6 +64845,37 @@
         13,
         81,
         19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25837,
+      "Titel": "Wie werden die Schulstationen gesichert?",
+      "Beschreibung": "",
+      "Datum": "2026-04-30",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25837.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        19,
+        10,
+        3,
+        9
+      ],
+      "Stichworte": [
+        177,
+        53,
+        233,
+        60,
+        13,
+        19,
+        71,
+        89
       ],
       "Relevant": true
     }
