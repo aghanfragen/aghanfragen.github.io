@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-12T07:10:22.144903376",
-  "Aktualisiert": "2026-05-11T22:03:02",
+  "TimeStamp": "2026-05-13T07:10:22.375608006",
+  "Aktualisiert": "2026-05-12T22:03:09",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64876,6 +64876,88 @@
         19,
         71,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25833,
+      "Titel": "Koalitionsvertrag 2023-2026 - Vorhaben im Bereich Bildung und Familie und deren Umsetzung",
+      "Beschreibung": "",
+      "Datum": "2026-05-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25833.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        4,
+        3,
+        10,
+        28,
+        8,
+        16,
+        20,
+        18,
+        13,
+        23,
+        9
+      ],
+      "Stichworte": [
+        160,
+        98,
+        69,
+        104,
+        134,
+        61,
+        7,
+        39,
+        138,
+        194,
+        8,
+        203,
+        37,
+        195,
+        42,
+        13,
+        56,
+        420,
+        223,
+        122,
+        19,
+        5,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25847,
+      "Titel": "Internationale Schulen Berlin - wie fair ist die Schulplatzvergabe?",
+      "Beschreibung": "",
+      "Datum": "2026-05-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25847.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        23,
+        9
+      ],
+      "Stichworte": [
+        103,
+        75,
+        13,
+        299,
+        122,
+        19,
+        5
       ],
       "Relevant": true
     }
