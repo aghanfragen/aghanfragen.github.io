@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-13T07:10:22.375608006",
-  "Aktualisiert": "2026-05-12T22:03:09",
+  "TimeStamp": "2026-05-14T07:10:17.55895507",
+  "Aktualisiert": "2026-05-13T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64958,6 +64958,33 @@
         122,
         19,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25861,
+      "Titel": "Finanzielle Aufklärung nach Insolvenzanmeldung der Freien Georgschule - Zentrale Fragen zu Schülerzahlen und Fördermitteln",
+      "Beschreibung": "",
+      "Datum": "2026-05-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25861.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        16,
+        3,
+        15
+      ],
+      "Stichworte": [
+        49,
+        22,
+        299,
+        35,
+        131
       ],
       "Relevant": true
     }
