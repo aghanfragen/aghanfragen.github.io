@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-18T07:10:17.139530157",
-  "Aktualisiert": "2026-05-15T22:03:02",
+  "TimeStamp": "2026-05-19T07:10:20.455589891",
+  "Aktualisiert": "2026-05-18T22:03:00",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -64987,6 +64987,33 @@
         131
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25879,
+      "Titel": "Nachfrage zur Schriftlichen Anfrage 19/23218 über \"Sportplatz Darßer Straße sanieren\"",
+      "Beschreibung": "",
+      "Datum": "2026-05-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25879.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        6
+      ],
+      "Themen": [
+        27,
+        0,
+        24,
+        3
+      ],
+      "Stichworte": [
+        10,
+        80,
+        92,
+        71
+      ],
+      "Relevant": false
     }
   ]
 }
