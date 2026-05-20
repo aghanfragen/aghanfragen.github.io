@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-19T07:10:20.455589891",
-  "Aktualisiert": "2026-05-18T22:03:00",
+  "TimeStamp": "2026-05-20T07:10:16.7663134",
+  "Aktualisiert": "2026-05-19T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -905,7 +905,8 @@
     "Mietwohnung",
     "Gewerbegebiet",
     "Kraftstoff",
-    "Grundrecht"
+    "Grundrecht",
+    "Suchtkrankenhilfe"
   ],
   "Dokumente": [
     {
@@ -65012,6 +65013,95 @@
         80,
         92,
         71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25848,
+      "Titel": "An welchen Bedarfen orientiert sich die \"bedarfsorientierte Umsteuerung\" in der Jugendsozialarbeit wirklich?",
+      "Beschreibung": "",
+      "Datum": "2026-05-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25848.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        31,
+        8,
+        13,
+        9
+      ],
+      "Stichworte": [
+        177,
+        14,
+        33,
+        37,
+        42,
+        230,
+        326,
+        223,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25872,
+      "Titel": "Kinderschutz, Bildungsbedingungen und demokratische Beteiligung bei der geplanten Mischnutzung der Rixdorfer Grundschule im Bezirk Neukölln",
+      "Beschreibung": "",
+      "Datum": "2026-05-08",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25872.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        32,
+        30,
+        2
+      ],
+      "Stichworte": [
+        69,
+        146,
+        359,
+        33,
+        111,
+        107,
+        585,
+        13,
+        185,
+        700
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25875,
+      "Titel": "Informationswege nach Vorfällen sexualisierter Gewalt im Jugendclub Wutzkyallee (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2026-05-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25875.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139
+      ],
+      "Themen": [
+        13,
+        30
+      ],
+      "Stichworte": [
+        255,
+        26,
+        287,
+        107
       ],
       "Relevant": false
     }
