@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-20T07:10:16.7663134",
-  "Aktualisiert": "2026-05-19T22:03:02",
+  "TimeStamp": "2026-05-21T07:10:18.109565446",
+  "Aktualisiert": "2026-05-20T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65104,6 +65104,36 @@
         107
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 25906,
+      "Titel": "Was unternahm die Bildungssenatorin am Tag des Stromausfalls? Nachfrage zur Schriftlichen Anfrage Drs. Nr. 19/25 730",
+      "Beschreibung": "",
+      "Datum": "2026-05-11",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25906.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        0,
+        4,
+        39
+      ],
+      "Stichworte": [
+        238,
+        255,
+        428,
+        194,
+        8,
+        13,
+        647,
+        229
+      ],
+      "Relevant": true
     }
   ]
 }
