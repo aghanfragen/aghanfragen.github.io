@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-21T07:10:18.109565446",
-  "Aktualisiert": "2026-05-20T22:03:01",
+  "TimeStamp": "2026-05-22T07:10:16.647002869",
+  "Aktualisiert": "2026-05-21T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65132,6 +65132,38 @@
         13,
         647,
         229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25908,
+      "Titel": "Sinkende Kinderzahlen und ihre Konsequenzen für die Fachkräfte in den Kita-Eigenbetrieben",
+      "Beschreibung": "",
+      "Datum": "2026-05-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25908.pdf",
+      "Parteien": [
+        3,
+        5
+      ],
+      "Autoren": [
+        139,
+        39
+      ],
+      "Themen": [
+        4,
+        8,
+        10
+      ],
+      "Stichworte": [
+        193,
+        149,
+        7,
+        663,
+        95,
+        8,
+        159,
+        37
       ],
       "Relevant": true
     }
