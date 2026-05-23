@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-22T07:10:16.647002869",
-  "Aktualisiert": "2026-05-21T22:03:01",
+  "TimeStamp": "2026-05-23T07:10:16.705149337",
+  "Aktualisiert": "2026-05-22T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -154,7 +154,8 @@
     "Kittler, Regina (Die Linke)",
     "Katharina, Senge (CDU)",
     "Schlüsselburg, Sebastian (SPD)",
-    "Martin, Johannes (CDU)"
+    "Martin, Johannes (CDU)",
+    "Schrader, Niklas (Die Linke)"
   ],
   "Themen": [
     "Gebäude und Standorte",
@@ -65164,6 +65165,37 @@
         8,
         159,
         37
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25910,
+      "Titel": "Polizeieinsätze an Berliner Schulen - Rechtsgrundlagen, Praxis und Wahrung von Kinderrechten",
+      "Beschreibung": "",
+      "Datum": "2026-05-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25910.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        143
+      ],
+      "Themen": [
+        13,
+        6,
+        10
+      ],
+      "Stichworte": [
+        26,
+        224,
+        33,
+        429,
+        562,
+        13,
+        81,
+        36,
+        227
       ],
       "Relevant": true
     }
