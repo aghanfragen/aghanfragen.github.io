@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-26T07:10:17.282762725",
-  "Aktualisiert": "2026-05-25T22:03:01",
+  "TimeStamp": "2026-05-27T07:10:17.061713171",
+  "Aktualisiert": "2026-05-26T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65196,6 +65196,62 @@
         81,
         36,
         227
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25925,
+      "Titel": "Runder Tisch \"Inklusion, Autismus und komplexe Unterstützungsbedarfe\"",
+      "Beschreibung": "",
+      "Datum": "2026-05-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25925.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139
+      ],
+      "Themen": [
+        20,
+        18,
+        10,
+        6
+      ],
+      "Stichworte": [
+        139,
+        51,
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25927,
+      "Titel": "Volkshochschul-Programme nur noch online - Auswirkungen auf Teilhabe, Buchungen und Senior*innen",
+      "Beschreibung": "",
+      "Datum": "2026-05-13",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25927.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        41
+      ],
+      "Themen": [
+        32,
+        19,
+        3
+      ],
+      "Stichworte": [
+        53,
+        15,
+        146,
+        255,
+        4,
+        612
       ],
       "Relevant": true
     }
