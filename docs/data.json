@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-05-29T07:10:17.051689701",
-  "Aktualisiert": "2026-05-28T22:03:03",
+  "TimeStamp": "2026-05-30T07:10:18.139824495",
+  "Aktualisiert": "2026-05-29T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65252,6 +65252,63 @@
         255,
         4,
         612
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25969,
+      "Titel": "Grundschule Wolkenstein",
+      "Beschreibung": "",
+      "Datum": "2026-05-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25969.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        1,
+        0,
+        26,
+        2
+      ],
+      "Stichworte": [
+        0,
+        10,
+        87,
+        130
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 25966,
+      "Titel": "Anfrage zum Sachstand: geplante Unterbringung einer Schule für Suchtkranken (Tannenhof) in der Rixdorfer Grundschule in Berlin-Neukölln",
+      "Beschreibung": "",
+      "Datum": "2026-05-20",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25966.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        100
+      ],
+      "Themen": [
+        28,
+        30,
+        5,
+        2
+      ],
+      "Stichworte": [
+        99,
+        255,
+        111,
+        107,
+        585,
+        13,
+        635
       ],
       "Relevant": true
     }
