@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-01T07:10:21.523939796",
-  "Aktualisiert": "2026-05-29T22:03:01",
+  "TimeStamp": "2026-06-02T07:10:21.343692802",
+  "Aktualisiert": "2026-06-01T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65309,6 +65309,57 @@
         585,
         13,
         635
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26014,
+      "Titel": "Warum werden die Fortbildungen von \"Meet2Respect\" für Lehrer:innen nicht mehr im Fortbildungsverzeichnis aufgeführt?",
+      "Beschreibung": "",
+      "Datum": "2026-05-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26014.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        108,
+        19
+      ],
+      "Themen": [
+        8
+      ],
+      "Stichworte": [
+        14,
+        17
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26015,
+      "Titel": "Warum soll die Presse nicht über die Arbeit von \"Meet2Respect\" an Schulen berichten?",
+      "Beschreibung": "",
+      "Datum": "2026-05-21",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26015.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        108,
+        19
+      ],
+      "Themen": [
+        6,
+        10
+      ],
+      "Stichworte": [
+        255,
+        412,
+        42,
+        13,
+        81,
+        492
       ],
       "Relevant": true
     }
