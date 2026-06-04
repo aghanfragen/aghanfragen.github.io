@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-03T07:10:20.049553515",
-  "Aktualisiert": "2026-06-02T22:03:00",
+  "TimeStamp": "2026-06-04T07:10:20.74805946",
+  "Aktualisiert": "2026-06-03T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -47831,7 +47831,7 @@
       ],
       "Stichworte": [
         17,
-        152,
+        37,
         19
       ],
       "Relevant": true
@@ -65389,6 +65389,119 @@
         37,
         42,
         189
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26023,
+      "Titel": "Entlastung für Eltern und Schüler*innen: Once-Only Prinzip in Schulen?",
+      "Beschreibung": "",
+      "Datum": "2026-05-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26023.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        16
+      ],
+      "Themen": [
+        7,
+        10
+      ],
+      "Stichworte": [
+        15,
+        16,
+        42,
+        13,
+        164,
+        189
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26027,
+      "Titel": "Einsatz von Schulgesundheitsfachkräften",
+      "Beschreibung": "",
+      "Datum": "2026-05-27",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26027.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        2
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        134,
+        37,
+        42,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26057,
+      "Titel": "Nachfrage zur Drs. 19/25833 - Kurzzeitwohnen für versorgungsintensive Kinder und Jugendliche",
+      "Beschreibung": "",
+      "Datum": "2026-05-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26057.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        20
+      ],
+      "Stichworte": [
+        70,
+        33,
+        194,
+        56,
+        420,
+        71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26063,
+      "Titel": "Je mehr desto besser? Zur Schulplatzsituation an den Grundschulen in Reinickendorf-Ost zum Schuljahr 2026/2027",
+      "Beschreibung": "",
+      "Datum": "2026-05-26",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26063.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        53
+      ],
+      "Themen": [
+        2,
+        3,
+        29,
+        0,
+        6,
+        9
+      ],
+      "Stichworte": [
+        247,
+        3,
+        4,
+        100,
+        130,
+        13,
+        81,
+        19
       ],
       "Relevant": true
     }
