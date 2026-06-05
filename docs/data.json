@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-04T07:10:20.74805946",
-  "Aktualisiert": "2026-06-03T22:03:02",
+  "TimeStamp": "2026-06-05T07:10:19.002237344",
+  "Aktualisiert": "2026-06-04T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -50754,7 +50754,7 @@
     {
       "WP": 19,
       "Nummer": 22476,
-      "Titel": "Förderschulen geistige Entwicklung und körperlich-motorische Entwicklung (Teil 1): Personelle Ausstattung",
+      "Titel": "Förderschulen geistige Entwicklung und körperlich-motorische Entwicklung: Personelle Ausstattung",
       "Beschreibung": "",
       "Datum": "2025-05-07",
       "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-22476.pdf",
