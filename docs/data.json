@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-05T07:10:19.002237344",
-  "Aktualisiert": "2026-06-04T22:03:02",
+  "TimeStamp": "2026-06-06T07:10:20.188316443",
+  "Aktualisiert": "2026-06-05T22:03:05",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65504,6 +65504,43 @@
         19
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26060,
+      "Titel": "Ein Gewinn für die Gesellschaft: Freiwilligendienste in Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-05-28",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26060.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        3,
+        10,
+        20,
+        31,
+        9,
+        8
+      ],
+      "Stichworte": [
+        161,
+        60,
+        375,
+        179,
+        138,
+        443,
+        245,
+        19,
+        376,
+        231,
+        71,
+        89
+      ],
+      "Relevant": false
     }
   ]
 }
