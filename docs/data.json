@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-08T07:10:19.563526027",
-  "Aktualisiert": "2026-06-05T22:03:05",
+  "TimeStamp": "2026-06-09T07:10:18.336674051",
+  "Aktualisiert": "2026-06-08T22:03:04",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -907,7 +907,8 @@
     "Gewerbegebiet",
     "Kraftstoff",
     "Grundrecht",
-    "Suchtkrankenhilfe"
+    "Suchtkrankenhilfe",
+    "Europäische Union"
   ],
   "Dokumente": [
     {
@@ -65541,6 +65542,101 @@
         89
       ],
       "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 26048,
+      "Titel": "Aktueller Stand zum 11. Pflichtschuljahr",
+      "Beschreibung": "",
+      "Datum": "2026-05-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26048.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        28,
+        6
+      ],
+      "Stichworte": [
+        99,
+        70,
+        13,
+        279,
+        81,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26056,
+      "Titel": "Förderschulen in Berlin: Bestand, Personal, Schülerzahlentwicklung und finanzielle Ausstattung",
+      "Beschreibung": "",
+      "Datum": "2026-06-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26056.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        20,
+        3,
+        8,
+        0,
+        6,
+        9
+      ],
+      "Stichworte": [
+        4,
+        17,
+        165,
+        139,
+        37,
+        18,
+        13,
+        81,
+        56,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26067,
+      "Titel": "Rückgang von Gastfamilien für Austauschschülerinnen und Austauschschüler in Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-05-29",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26067.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        100
+      ],
+      "Themen": [
+        23,
+        3,
+        6
+      ],
+      "Stichworte": [
+        683,
+        103,
+        75,
+        177,
+        70,
+        701,
+        60,
+        42,
+        13,
+        81,
+        71
+      ],
+      "Relevant": true
     }
   ]
 }
