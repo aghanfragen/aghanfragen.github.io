@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-09T07:10:18.336674051",
-  "Aktualisiert": "2026-06-08T22:03:04",
+  "TimeStamp": "2026-06-10T07:10:20.98471691",
+  "Aktualisiert": "2026-06-09T22:03:01",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65635,6 +65635,113 @@
         13,
         81,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26111,
+      "Titel": "Schließtage in Berliner Kitas",
+      "Beschreibung": "",
+      "Datum": "2026-06-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26111.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        2
+      ],
+      "Stichworte": [
+        7,
+        79
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26112,
+      "Titel": "Berliner Lehrkräfte – gekommen, um zu bleiben? (Teil 2)",
+      "Beschreibung": "",
+      "Datum": "2026-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26112.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        8,
+        9
+      ],
+      "Stichworte": [
+        17,
+        37,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26117,
+      "Titel": "Queerfeindliche Vorfälle an Berliner Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26117.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        104
+      ],
+      "Themen": [
+        13,
+        8,
+        36,
+        2,
+        18,
+        10
+      ],
+      "Stichworte": [
+        178,
+        3,
+        26,
+        17,
+        172,
+        135,
+        51,
+        311,
+        416
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26145,
+      "Titel": "Ergebnisse der VERA-3-Vergleichsarbeiten 2026",
+      "Beschreibung": "",
+      "Datum": "2026-06-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26145.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        1,
+        18
+      ],
+      "Stichworte": [
+        0,
+        69,
+        105,
+        5
       ],
       "Relevant": true
     }
