@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-12T07:10:22.002591666",
-  "Aktualisiert": "2026-06-11T22:03:02",
+  "TimeStamp": "2026-06-13T07:10:21.74828107",
+  "Aktualisiert": "2026-06-12T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65741,6 +65741,41 @@
         0,
         69,
         105,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26096,
+      "Titel": "Ergebnisse der VERA-8-Vergleichsarbeiten 2026",
+      "Beschreibung": "",
+      "Datum": "2026-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26096.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        1,
+        17,
+        18,
+        20,
+        9
+      ],
+      "Stichworte": [
+        88,
+        48,
+        195,
+        42,
+        13,
+        260,
+        279,
+        56,
+        140,
+        19,
         5
       ],
       "Relevant": true
