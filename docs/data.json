@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-15T07:10:19.852248763",
-  "Aktualisiert": "2026-06-12T22:03:02",
+  "TimeStamp": "2026-06-16T07:10:18.903231089",
+  "Aktualisiert": "2026-06-15T22:03:02",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65779,6 +65779,140 @@
         5
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26080,
+      "Titel": "Oktaeder des Grauens 2.0? - Unlösbares Chemie-Abitur in Berlin?",
+      "Beschreibung": "",
+      "Datum": "2026-06-04",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26080.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        18,
+        6,
+        17
+      ],
+      "Stichworte": [
+        195,
+        42,
+        13,
+        260,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26108,
+      "Titel": "Inklusive Bildung (Teil 1): Wie setzt Berlin die Empfehlungen der KMK für die Unterstützung erkrankter Kinder und Jugendlicher um?",
+      "Beschreibung": "KMK = Kultusministerkonferenz",
+      "Datum": "2026-06-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26108.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        7,
+        5,
+        8,
+        17,
+        6
+      ],
+      "Stichworte": [
+        30,
+        205,
+        17,
+        151,
+        262,
+        48,
+        139,
+        13,
+        11,
+        81,
+        56,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26109,
+      "Titel": "Inklusive Bildung (Teil 2): Unterstützung erkrankter Kinder und Jugendlicher - wenn Präsenzunterricht nicht mehr möglich ist, wie erfüllt die SenBJF das Recht auf Bildung?",
+      "Beschreibung": "SenBJF = Senatsverwaltung für Bildung, Jugend und Familie",
+      "Datum": "2026-06-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26109.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        7,
+        5,
+        6,
+        10
+      ],
+      "Stichworte": [
+        30,
+        138,
+        553,
+        205,
+        262,
+        139,
+        13,
+        11,
+        81,
+        56,
+        141,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26114,
+      "Titel": "Vorwürfe sexueller und psychischer Gewalt in einer Jugendfreizeiteinrichtung in Neukölln (Wutzkyallee)",
+      "Beschreibung": "",
+      "Datum": "2026-06-05",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26114.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        100,
+        34,
+        17,
+        120,
+        33,
+        84
+      ],
+      "Themen": [
+        13,
+        10,
+        30
+      ],
+      "Stichworte": [
+        233,
+        106,
+        26,
+        287,
+        224,
+        107,
+        28
+      ],
+      "Relevant": false
     }
   ]
 }
