@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-22T07:10:18.933174952",
-  "Aktualisiert": "2026-06-19T22:03:00",
+  "TimeStamp": "2026-06-23T07:10:19.666832363",
+  "Aktualisiert": "2026-06-22T22:03:07",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -65942,6 +65942,33 @@
         81,
         19,
         71
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26182,
+      "Titel": "Benotung und Bewertung von Diktaten an Berliner Grundschulen und weiterführenden Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26182.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        2,
+        6
+      ],
+      "Stichworte": [
+        409,
+        3,
+        13,
+        81,
+        440,
+        5
       ],
       "Relevant": true
     }
