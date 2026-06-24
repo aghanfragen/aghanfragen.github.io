@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-23T07:10:19.666832363",
-  "Aktualisiert": "2026-06-22T22:03:07",
+  "TimeStamp": "2026-06-24T07:10:20.850003158",
+  "Aktualisiert": "2026-06-23T22:03:08",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -908,7 +908,8 @@
     "Kraftstoff",
     "Grundrecht",
     "Suchtkrankenhilfe",
-    "Europäische Union"
+    "Europäische Union",
+    "Wasserversorgung"
   ],
   "Dokumente": [
     {
@@ -65969,6 +65970,150 @@
         81,
         440,
         5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26160,
+      "Titel": "Trinkwasserversorgung an Lichtenberger Grundschulen sicherstellen",
+      "Beschreibung": "",
+      "Datum": "2026-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26160.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        24,
+        2
+      ],
+      "Stichworte": [
+        80,
+        13,
+        529,
+        702
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26177,
+      "Titel": "Mögliche Wahlkampfveranstaltung im Christlichen Kinder- und Jugendwerk \"Die Arche\"",
+      "Beschreibung": "",
+      "Datum": "2026-05-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26177.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        32
+      ],
+      "Themen": [
+        4,
+        2,
+        12,
+        3
+      ],
+      "Stichworte": [
+        394,
+        79,
+        23,
+        204,
+        474,
+        71
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 26181,
+      "Titel": "Amadeu Antonio Stiftung in Kita, Schule und Jugendarbeit: Publikationen, Kooperationen und Kontroversen",
+      "Beschreibung": "",
+      "Datum": "2026-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26181.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        3,
+        11,
+        9
+      ],
+      "Stichworte": [
+        60,
+        21,
+        203,
+        491,
+        42,
+        19,
+        204,
+        113
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26183,
+      "Titel": "Unterrichtsbefreiung zum islamischen Opferfest an Berliner Schulen: Rechtsgrundlage, Gleichbehandlung und Neutralität der öffentlichen Schule",
+      "Beschreibung": "",
+      "Datum": "2026-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26183.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        36,
+        6,
+        8,
+        10
+      ],
+      "Stichworte": [
+        330,
+        173,
+        13,
+        11,
+        185,
+        81,
+        110,
+        227
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26184,
+      "Titel": "Vereinbarung zwischen Senat und GEW zur Entlastung von Lehrkräften sowie Erziehern im Ganztag",
+      "Beschreibung": "",
+      "Datum": "2026-06-12",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26184.pdf",
+      "Parteien": [
+        2
+      ],
+      "Autoren": [
+        5
+      ],
+      "Themen": [
+        8,
+        3,
+        10,
+        22
+      ],
+      "Stichworte": [
+        149,
+        17,
+        37,
+        42,
+        89
       ],
       "Relevant": true
     }
