@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-24T07:10:20.850003158",
-  "Aktualisiert": "2026-06-23T22:03:08",
+  "TimeStamp": "2026-06-25T07:10:29.956809788",
+  "Aktualisiert": "2026-06-24T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66114,6 +66114,86 @@
         37,
         42,
         89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26249,
+      "Titel": "Abrisspläne in Neukölln: Aktive Vernichtung von Schulflächen trotz Schulplatzmangels?",
+      "Beschreibung": "",
+      "Datum": "2026-06-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26249.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        0,
+        30
+      ],
+      "Stichworte": [
+        602,
+        1,
+        107,
+        130,
+        13,
+        25
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26207,
+      "Titel": "Mischnutzung an der Rixdorfer Grundschule",
+      "Beschreibung": "",
+      "Datum": "2026-06-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26207.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        32,
+        30,
+        2
+      ],
+      "Stichworte": [
+        146,
+        107,
+        13,
+        606
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26198,
+      "Titel": "Ausbleibende Grundreinigung in Neukölln?",
+      "Beschreibung": "",
+      "Datum": "2026-06-16",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26198.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        30,
+        0
+      ],
+      "Stichworte": [
+        169,
+        129,
+        300,
+        107,
+        13,
+        24
       ],
       "Relevant": true
     }
