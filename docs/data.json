@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-26T07:10:20.988297953",
-  "Aktualisiert": "2026-06-25T22:03:01",
+  "TimeStamp": "2026-06-27T07:10:20.121230091",
+  "Aktualisiert": "2026-06-26T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -909,7 +909,8 @@
     "Grundrecht",
     "Suchtkrankenhilfe",
     "Europäische Union",
-    "Wasserversorgung"
+    "Wasserversorgung",
+    "Freizeitsport"
   ],
   "Dokumente": [
     {
@@ -56238,10 +56239,12 @@
         88
       ],
       "Themen": [
+        24,
         0,
         2
       ],
       "Stichworte": [
+        80,
         18,
         42,
         13,
@@ -66194,6 +66197,61 @@
         107,
         13,
         24
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26230,
+      "Titel": "Neubau des Heinrich-Hertz-Gymnasiums: Prestigeprojekt ohne Ausstattung?",
+      "Beschreibung": "",
+      "Datum": "2026-06-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26230.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        41,
+        0,
+        3
+      ],
+      "Stichworte": [
+        272,
+        273,
+        130,
+        13,
+        22
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26233,
+      "Titel": "Basketballplatz auf dem Rütli-Campus in der Pflügerstraße - Schließung eines öffentlichen Bewegungs- und Freiraums für junge Menschen",
+      "Beschreibung": "",
+      "Datum": "2026-06-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26233.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        30,
+        0
+      ],
+      "Stichworte": [
+        62,
+        703,
+        107,
+        42,
+        218,
+        92
       ],
       "Relevant": true
     }
