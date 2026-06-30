@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-29T07:10:19.731880803",
-  "Aktualisiert": "2026-06-26T22:03:03",
+  "TimeStamp": "2026-06-30T07:10:18.546603678",
+  "Aktualisiert": "2026-06-29T22:03:08",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -58904,13 +58904,16 @@
       "Themen": [
         3,
         0,
-        2
+        2,
+        21
       ],
       "Stichworte": [
         90,
         10,
         3,
-        13
+        130,
+        13,
+        74
       ],
       "Relevant": true
     },
@@ -66252,6 +66255,60 @@
         42,
         218,
         92
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26240,
+      "Titel": "Ausreichend Schulplätze in Hohenschönhausen schaffen",
+      "Beschreibung": "",
+      "Datum": "2026-06-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26240.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        13,
+        6
+      ],
+      "Themen": [
+        24,
+        0
+      ],
+      "Stichworte": [
+        247,
+        80,
+        130,
+        13,
+        217
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26245,
+      "Titel": "Schutzkonzepte in Berliner Institutionen für Kinder und Jugendliche",
+      "Beschreibung": "",
+      "Datum": "2026-06-19",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26245.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        4,
+        18
+      ],
+      "Stichworte": [
+        64,
+        359,
+        33,
+        8,
+        195,
+        42
       ],
       "Relevant": true
     }
