@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-06-30T07:10:18.546603678",
-  "Aktualisiert": "2026-06-29T22:03:08",
+  "TimeStamp": "2026-07-01T07:10:18.065706681",
+  "Aktualisiert": "2026-06-30T23:16:56",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -53478,6 +53478,7 @@
         147,
         154,
         64,
+        224,
         33,
         203,
         273,
