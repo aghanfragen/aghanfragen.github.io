@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-01T07:10:18.065706681",
-  "Aktualisiert": "2026-06-30T23:16:56",
+  "TimeStamp": "2026-07-02T07:10:18.93925159",
+  "Aktualisiert": "2026-07-01T22:03:03",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66310,6 +66310,57 @@
         8,
         195,
         42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26235,
+      "Titel": "Mehrsprachigkeit an Berliner Schulen: Warum werden Sprachdaten zurückgehalten?",
+      "Beschreibung": "",
+      "Datum": "2026-06-23",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26235.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        6
+      ],
+      "Stichworte": [
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26290,
+      "Titel": "Inklusion: Wie viele Kinder werden in Berlin aktuell nicht beschult?",
+      "Beschreibung": "",
+      "Datum": "2026-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26290.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        39
+      ],
+      "Themen": [
+        20,
+        8
+      ],
+      "Stichworte": [
+        14,
+        138,
+        95,
+        42,
+        13,
+        279,
+        56
       ],
       "Relevant": true
     }
