@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-02T07:10:18.93925159",
-  "Aktualisiert": "2026-07-01T22:03:03",
+  "TimeStamp": "2026-07-03T07:10:17.392152504",
+  "Aktualisiert": "2026-07-02T22:03:04",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66361,6 +66361,33 @@
         13,
         279,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26292,
+      "Titel": "Wie werden Schulstationen in Berlin und insbesondere in Steglitz-Zehlendorf konkret gesichert?",
+      "Beschreibung": "",
+      "Datum": "2026-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26292.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        9,
+        39
+      ],
+      "Stichworte": [
+        33,
+        194,
+        388,
+        42,
+        19,
+        229
       ],
       "Relevant": true
     }
