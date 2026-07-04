@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-03T07:10:17.392152504",
-  "Aktualisiert": "2026-07-02T22:03:04",
+  "TimeStamp": "2026-07-04T07:10:19.126069783",
+  "Aktualisiert": "2026-07-03T22:03:04",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66388,6 +66388,248 @@
         42,
         19,
         229
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26268,
+      "Titel": "Wann wird der Schulhof der Bruno-H.-Bürgel-Grundschule endlich saniert - (Teil 2)?",
+      "Beschreibung": "",
+      "Datum": "2026-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26268.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        2
+      ],
+      "Themen": [
+        3,
+        0,
+        2,
+        21
+      ],
+      "Stichworte": [
+        90,
+        10,
+        3,
+        130,
+        13,
+        74
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26287,
+      "Titel": "Die neue Zielvereinbarung zur Schulreinigung",
+      "Beschreibung": "",
+      "Datum": "2026-06-24",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26287.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        27
+      ],
+      "Themen": [
+        19,
+        0,
+        3,
+        10
+      ],
+      "Stichworte": [
+        53,
+        129,
+        300,
+        257,
+        42,
+        13,
+        71,
+        89
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26305,
+      "Titel": "Zukunft der \"Berliner Jungs\" in Treptow-Köpenick - droht das Aus eines zentralen Angebots gegen sexuelle Gewalt an Jungen und jungen Männern?",
+      "Beschreibung": "",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26305.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        13,
+        31,
+        3,
+        9
+      ],
+      "Stichworte": [
+        177,
+        60,
+        32,
+        26,
+        224,
+        33,
+        194,
+        111,
+        437,
+        34,
+        230,
+        192,
+        19
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 26306,
+      "Titel": "Drohende Nichtversorgung von Schülerinnen und Schülern beim Übergang in Klasse 7 in Treptow-Köpenick - Versagen des Bezirkes und der gesamtstädtischen Steuerung?",
+      "Beschreibung": "",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26306.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        0,
+        6,
+        34,
+        10,
+        19
+      ],
+      "Stichworte": [
+        73,
+        130,
+        13,
+        185,
+        81,
+        148,
+        302,
+        227
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26308,
+      "Titel": "Verbleibequote an Gemeinschaftsschulen",
+      "Beschreibung": "",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26308.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        1,
+        6,
+        9,
+        43
+      ],
+      "Stichworte": [
+        0,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26313,
+      "Titel": "Sanierung durch das Schulamt kurzfristig abgesagt - weiterhin keine funktionsfähigen Toiletten und Heizung in der Sporthalle der Adam-Ries-Schule in Lichtenberg?",
+      "Beschreibung": "",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26313.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        88
+      ],
+      "Themen": [
+        1,
+        0,
+        24
+      ],
+      "Stichworte": [
+        0,
+        10,
+        80,
+        18,
+        42,
+        24,
+        65
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26322,
+      "Titel": "Menschenrechtskonforme Umsetzung von GEAS in Berlin: Kinder- und Jugendschutz von Anfang an gewährleisten!",
+      "Beschreibung": "Gemeinsames Europäisches Asylsystem (GEAS)",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26322.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        74
+      ],
+      "Themen": [
+        23,
+        8,
+        10
+      ],
+      "Stichworte": [
+        607,
+        75,
+        120,
+        33,
+        37,
+        455,
+        189,
+        225
+      ],
+      "Relevant": false
+    },
+    {
+      "WP": 19,
+      "Nummer": 26323,
+      "Titel": "Schulbau in Marzahn-Hellersdorf - kommen 2027 die klimaangepassten Schulhöfe?",
+      "Beschreibung": "",
+      "Datum": "2026-06-25",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26323.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        16
+      ],
+      "Themen": [
+        0,
+        12,
+        9
+      ],
+      "Stichworte": [
+        1,
+        10,
+        23,
+        13,
+        218,
+        19
       ],
       "Relevant": true
     }
