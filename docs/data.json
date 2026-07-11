@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-10T07:10:22.754953223",
-  "Aktualisiert": "2026-07-09T23:26:30",
+  "TimeStamp": "2026-07-11T07:10:20.642645096",
+  "Aktualisiert": "2026-07-11T00:09:39",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66861,6 +66861,33 @@
         24,
         81,
         56
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26411,
+      "Titel": "Auseinanderreißen der Schulgemeinschaft durch Reisebetrieb für einzelne Schulklassen?",
+      "Beschreibung": "",
+      "Datum": "2026-07-01",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26411.pdf",
+      "Parteien": [
+        0
+      ],
+      "Autoren": [
+        3
+      ],
+      "Themen": [
+        28,
+        6,
+        0
+      ],
+      "Stichworte": [
+        99,
+        13,
+        285,
+        312,
+        81
       ],
       "Relevant": true
     }
