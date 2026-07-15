@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-14T07:10:21.043465574",
-  "Aktualisiert": "2026-07-13T22:03:08",
+  "TimeStamp": "2026-07-15T07:10:22.788082326",
+  "Aktualisiert": "2026-07-14T22:03:05",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -66888,6 +66888,217 @@
         285,
         312,
         81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26388,
+      "Titel": "Grundschule am Weißen See - Steht ein Ende der Pannenserie bevor?",
+      "Beschreibung": "",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26388.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        52
+      ],
+      "Themen": [
+        0,
+        3,
+        26,
+        2
+      ],
+      "Stichworte": [
+        1,
+        10,
+        4,
+        577,
+        87,
+        13,
+        22,
+        24
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26419,
+      "Titel": "Wie ist der Stand zu den MEBs an der Trelleborg-Grundschule und der Kurt-Tucholsky-Oberschule?",
+      "Beschreibung": "MEB = Modularer Ergänzungsbau",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26419.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        19
+      ],
+      "Themen": [
+        0,
+        26,
+        9,
+        2
+      ],
+      "Stichworte": [
+        1,
+        87,
+        13,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26426,
+      "Titel": "Stand der Beschulung geflüchteter Kinder und Jugendlicher in Gemeinschaftsunterkünften (Teil 3)",
+      "Beschreibung": "",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26426.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        105
+      ],
+      "Themen": [
+        23,
+        8,
+        6,
+        13,
+        9
+      ],
+      "Stichworte": [
+        75,
+        579,
+        293,
+        224,
+        33,
+        37,
+        42,
+        11,
+        167,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26429,
+      "Titel": "Ausbau grundständiger Gymnasien in Berlin",
+      "Beschreibung": "",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26429.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        1,
+        6,
+        9
+      ],
+      "Stichworte": [
+        0,
+        285,
+        81,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26431,
+      "Titel": "WLAN an Lichtenberger Schulen",
+      "Beschreibung": "",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26431.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        27
+      ],
+      "Themen": [
+        7,
+        24,
+        0
+      ],
+      "Stichworte": [
+        15,
+        30,
+        16,
+        80,
+        18,
+        42
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26437,
+      "Titel": "Ergebnisse der VERA-3-Vergleichsarbeiten 2026 - Nachfrage",
+      "Beschreibung": "",
+      "Datum": "2026-07-02",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26437.pdf",
+      "Parteien": [
+        6
+      ],
+      "Autoren": [
+        113
+      ],
+      "Themen": [
+        1,
+        18,
+        9
+      ],
+      "Stichworte": [
+        0,
+        69,
+        105,
+        19,
+        5
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26470,
+      "Titel": "Zukunft, Steuerung und mögliche Strukturveränderungen der Berliner Kita-Eigenbetriebe",
+      "Beschreibung": "",
+      "Datum": "2026-07-06",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26470.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        4,
+        0,
+        2,
+        3,
+        10,
+        8,
+        18
+      ],
+      "Stichworte": [
+        7,
+        294,
+        63,
+        79,
+        4,
+        159,
+        37,
+        195,
+        404
       ],
       "Relevant": true
     }
