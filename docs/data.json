@@ -1,6 +1,6 @@
 {
-  "TimeStamp": "2026-07-15T07:10:22.788082326",
-  "Aktualisiert": "2026-07-14T22:03:05",
+  "TimeStamp": "2026-07-16T07:10:20.688412851",
+  "Aktualisiert": "2026-07-15T22:03:07",
   "UrlPattern": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/{WP}/SchrAnfr/S{WP}-{DOCNUM}.pdf",
   "Parteien": [
     "CDU",
@@ -67101,6 +67101,150 @@
         404
       ],
       "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26418,
+      "Titel": "Eliteschulen des Sports zum Schuljahr 2026/2027",
+      "Beschreibung": "",
+      "Datum": "2026-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26418.pdf",
+      "Parteien": [
+        5
+      ],
+      "Autoren": [
+        46
+      ],
+      "Themen": [
+        27,
+        6
+      ],
+      "Stichworte": [
+        153,
+        13,
+        81,
+        92,
+        433
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26427,
+      "Titel": "Runder Tisch \"Inklusion, Autismus und komplexe Förderbedarfe\" zu nicht oder nur eingeschränkt beschulten Kindern und Jugendlichen",
+      "Beschreibung": "",
+      "Datum": "2026-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26427.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9,
+        139
+      ],
+      "Themen": [
+        20,
+        18,
+        10,
+        6
+      ],
+      "Stichworte": [
+        224,
+        139,
+        51,
+        42,
+        13,
+        81
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26428,
+      "Titel": "Wird Französisch als 1. Fremdsprache in Berlin abgeschafft?",
+      "Beschreibung": "",
+      "Datum": "2026-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26428.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        9
+      ],
+      "Themen": [
+        19,
+        6,
+        9
+      ],
+      "Stichworte": [
+        53,
+        42,
+        13,
+        81,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26471,
+      "Titel": "Mehrsprachige und bilinguale Kindertagesbetreuung in Berlin stärken",
+      "Beschreibung": "",
+      "Datum": "2026-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26471.pdf",
+      "Parteien": [
+        4
+      ],
+      "Autoren": [
+        99
+      ],
+      "Themen": [
+        4,
+        3,
+        8,
+        23,
+        9
+      ],
+      "Stichworte": [
+        70,
+        60,
+        7,
+        95,
+        8,
+        152,
+        122,
+        19
+      ],
+      "Relevant": true
+    },
+    {
+      "WP": 19,
+      "Nummer": 26490,
+      "Titel": "Kinderarmut in Berlin - 2025",
+      "Beschreibung": "",
+      "Datum": "2026-07-07",
+      "URL": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26490.pdf",
+      "Parteien": [
+        3
+      ],
+      "Autoren": [
+        139
+      ],
+      "Themen": [
+        31,
+        19,
+        9
+      ],
+      "Stichworte": [
+        53,
+        224,
+        33,
+        326,
+        245,
+        420,
+        19
+      ],
+      "Relevant": false
     }
   ]
 }
